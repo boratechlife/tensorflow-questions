@@ -1,0 +1,101 @@
+# tf raw ops applyftrlv2
+
+- Write a code to apply the FTRL optimization algorithm using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to initialize the FTRL optimizer using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL optimization to a specific set of variables using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to update the gradients of variables using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to calculate the learning rate decay using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to compute the FTRL update for a single variable using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom learning rate using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l1 regularization term using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2 regularization term using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2-shrinkage regularization term using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l1 regularization strength using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2 regularization strength using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2-shrinkage regularization strength using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom learning rate power using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom initial accumulator value using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom linear learning rate decay using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom quadratic learning rate decay using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom locking coefficient using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom use_locking parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom accum_update parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom name parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom use_nesterov parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l1 regularization power using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2 regularization power using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2-shrinkage regularization power using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l1 regularization value using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2 regularization value using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2-shrinkage regularization value using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom learning_rate_power parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l1_regularization_strength parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2_regularization_strength parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2_shrinkage_regularization_strength parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l1_regularization_power parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2_regularization_power parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2_shrinkage_regularization_power parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l1_regularization_value parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2_regularization_value parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2_shrinkage_regularization_value parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom linear_learning_rate_decay parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom quadratic_learning_rate_decay parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom locking_coefficient parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom use_locking parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom accum_update parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom name parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom use_nesterov parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom optimizer_instance_name parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom regularizer_instance_name parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom gradient_norm_summary_tags parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l1_regularization_value_using_model_size parameter using "tf.raw_ops.ApplyFtrlV2".
+- 
+- Write a code to apply FTRL with a custom l2_regularization_value_using_model_size parameter using "tf.raw_ops.ApplyFtrlV2".

@@ -1,0 +1,52 @@
+# tf experimental numpy linspace
+
+- Write a code to generate an array of 10 equally spaced values between 0 and 1 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 100 equally spaced values between -1 and 1 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 5 equally spaced values between 1 and 10 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 20 equally spaced values between 0 and 100 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 25 equally spaced values between -10 and 10 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 50 equally spaced values between 0 and 360 degrees using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 8 equally spaced values between -5 and 5 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 15 equally spaced values between 1 and 1000 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 30 equally spaced values between -100 and 100 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 12 equally spaced values between 0 and 2π using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 50 equally spaced values between -1 and 1 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 100 equally spaced values between 10 and 1000 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 15 equally spaced values between 0 and 1 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 20 equally spaced values between -50 and 50 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 25 equally spaced values between 0 and 5 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 7 equally spaced values between 1 and 10 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 30 equally spaced values between -1 and 1 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 50 equally spaced values between 0 and 1000 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 10 equally spaced values between -π and π using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 40 equally spaced values between -5 and 5 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 25 equally spaced values between 0 and 2 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 15 equally spaced values between -1 and 1 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 100 equally spaced values between 0 and 10 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 50 equally spaced values between -1000 and 1000 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 20 equally spaced values between -π and π using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 10 equally spaced values between -50 and 50 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 30 equally spaced values between 1 and 100 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 15 equally spaced values between 0 and 100 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 25 equally spaced values between -5 and 5 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 50 equally spaced values between 0 and 1 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 20 equally spaced values between -1 and 1 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 10 equally spaced values between 0 and 1000 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 15 equally spaced values between 1 and 10 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 30 equally spaced values between -100 and 100 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 50 equally spaced values between 0 and 360 degrees using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 8 equally spaced values between -5 and 5 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 15 equally spaced values between 1 and 1000 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 30 equally spaced values between -100 and 100 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 12 equally spaced values between 0 and 2π using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 50 equally spaced values between -1 and 1 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 100 equally spaced values between 10 and 1000 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 15 equally spaced values between 0 and 1 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 20 equally spaced values between -50 and 50 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 25 equally spaced values between 0 and 5 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 7 equally spaced values between 1 and 10 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 30 equally spaced values between -1 and 1 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 50 equally spaced values between 0 and 1000 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 10 equally spaced values between -π and π using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 40 equally spaced values between -5 and 5 using tf.experimental.numpy.linspace.
+- Write a code to generate an array of 25 equally spaced values between 0 and 2 using tf.experimental.numpy.linspace.

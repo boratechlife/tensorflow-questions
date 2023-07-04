@@ -1,0 +1,52 @@
+# tf data experimental load
+
+- Write a code to load a TensorFlow dataset using "tf.data.experimental.load".
+- Write a code to load a dataset from a directory using "tf.data.experimental.load".
+- Write a code to load a dataset from multiple files using "tf.data.experimental.load".
+- Write a code to load a dataset with specific features using "tf.data.experimental.load".
+- Write a code to load a dataset with different data types using "tf.data.experimental.load".
+- Write a code to load a dataset with variable-length sequences using "tf.data.experimental.load".
+- Write a code to load a dataset with custom parsing logic using "tf.data.experimental.load".
+- Write a code to load a dataset with preprocessing functions using "tf.data.experimental.load".
+- Write a code to load a dataset with shuffling using "tf.data.experimental.load".
+- Write a code to load a dataset with batching using "tf.data.experimental.load".
+- Write a code to load a dataset with prefetching using "tf.data.experimental.load".
+- Write a code to load a dataset with interleaving using "tf.data.experimental.load".
+- Write a code to load a dataset with caching using "tf.data.experimental.load".
+- Write a code to load a dataset with repeating using "tf.data.experimental.load".
+- Write a code to load a dataset with filtering using "tf.data.experimental.load".
+- Write a code to load a dataset with mapping using "tf.data.experimental.load".
+- Write a code to load a dataset with windowing using "tf.data.experimental.load".
+- Write a code to load a dataset with parallel interleave using "tf.data.experimental.load".
+- Write a code to load a dataset with padded batching using "tf.data.experimental.load".
+- Write a code to load a dataset with bucketed batching using "tf.data.experimental.load".
+- Write a code to load a dataset with sharding using "tf.data.experimental.load".
+- Write a code to load a dataset with skipping elements using "tf.data.experimental.load".
+- Write a code to load a dataset with taking elements using "tf.data.experimental.load".
+- Write a code to load a dataset with concatenating using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing using "tf.data.experimental.load".
+- Write a code to load a dataset with applying a function using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a windowed dataset using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a batched dataset using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a padded batched dataset using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a bucketed batched dataset using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a sharded dataset using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a skipped dataset using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a taken dataset using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a concatenated dataset using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with custom logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with windowed logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with batched logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with padded batched logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with bucketed batched logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with sharded logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with skipped logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with taken logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with concatenated logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with custom mapping logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with windowed mapping logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with batched mapping logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with padded batched mapping logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with bucketed batched mapping logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with sharded mapping logic using "tf.data.experimental.load".
+- Write a code to load a dataset with reducing a dataset with skipped mapping logic using "tf.data.experimental.load".
