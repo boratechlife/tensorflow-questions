@@ -28,8 +28,8 @@
 - Write a code to create a StringLookup layer and set the output_mode as "tf-idf" with custom vocabulary.
 - Write a code to create a StringLookup layer and set the output_mode as "freq" with custom vocabulary.
 - Write a code to create a StringLookup layer and set the output_mode as "tf_idf" with custom vocabulary.
-- Write a code to create a StringLookup layer and set the mask_token to "<MASK>".
-- Write a code to create a StringLookup layer and set the oov_token to "<UNK>".
+- Write a code to create a StringLookup layer and set the mask_token to "&lt;MASK&gt;".
+- Write a code to create a StringLookup layer and set the oov_token to "&lt;UNK&gt;".
 - Write a code to create a StringLookup layer and set the pad_to_max_tokens parameter to True.
 - Write a code to create a StringLookup layer and set the pad_to_max_tokens parameter to False.
 - Write a code to create a StringLookup layer and set the num_oov_indices parameter to 10.

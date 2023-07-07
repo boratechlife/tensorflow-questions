@@ -9,19 +9,19 @@
 - Write a code to create a StringLookup layer and set its output mode to "count".
 - Write a code to create a StringLookup layer and set its output mode to "tf-idf".
 - Write a code to create a StringLookup layer and set its output mode to "binary".
-- Write a code to create a StringLookup layer and set its mask token to "<MASK>".
-- Write a code to create a StringLookup layer and set its mask token to "<PAD>".
-- Write a code to create a StringLookup layer and set its mask token to "<UNK>".
-- Write a code to create a StringLookup layer and set its mask token to "<SOS>".
-- Write a code to create a StringLookup layer and set its mask token to "<EOS>".
-- Write a code to create a StringLookup layer and set its mask token to "<START>".
-- Write a code to create a StringLookup layer and set its mask token to "<END>".
-- Write a code to create a StringLookup layer and set its mask token to "<PAD>" and output mode to "int".
-- Write a code to create a StringLookup layer and set its mask token to "<UNK>" and output mode to "multi_hot".
-- Write a code to create a StringLookup layer and set its mask token to "<SOS>" and output mode to "count".
-- Write a code to create a StringLookup layer and set its mask token to "<EOS>" and output mode to "tf-idf".
-- Write a code to create a StringLookup layer and set its mask token to "<START>" and output mode to "binary".
-- Write a code to create a StringLookup layer and set its mask token to "<END>" and output mode to "int".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;MASK&gt;".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;PAD&gt;".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;UNK&gt;".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;SOS&gt;".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;EOS&gt;".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;START&gt;".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;END&gt;".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;PAD&gt;" and output mode to "int".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;UNK&gt;" and output mode to "multi_hot".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;SOS&gt;" and output mode to "count".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;EOS&gt;" and output mode to "tf-idf".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;START&gt;" and output mode to "binary".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;END&gt;" and output mode to "int".
 - Write a code to encode a list of strings using a StringLookup layer.
 - Write a code to decode integer-encoded sequences using a StringLookup layer.
 - Write a code to encode a list of strings using a StringLookup layer with custom vocabulary.
@@ -43,7 +43,7 @@
 - Write a code to load a StringLookup layer from a JSON file.
 - Write a code to save a StringLookup layer to a file.
 - Write a code to load a StringLookup layer from a file.
-- Write a code to create a StringLookup layer and set its mask token to "<PAD>" and output mode to "multi_hot".
+- Write a code to create a StringLookup layer and set its mask token to "&lt;PAD&gt;" and output mode to "multi_hot".
 - Write a code to encode a list of strings using a StringLookup layer with custom mask token and output mode.
 - Write a code to decode integer-encoded sequences using a StringLookup layer with custom mask token and output mode.
 - Write a code to preprocess text data using a StringLookup layer with custom mask token and output mode.
