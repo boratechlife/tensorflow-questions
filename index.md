@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: See Questions
-      link: /introduction.md
+      link: /tensorflow/introduction.md
     - theme: brand
       text: Hire me
       link: https://www.fiverr.com/boratechlife     
@@ -21,5 +21,7 @@ features:
     details: To help you practice we have thousands of AI generated questions for you
   - title: AI generated
     details: We have let the AI get you the questions you need
+
+
 ---
 

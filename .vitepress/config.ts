@@ -1,6 +1,14 @@
 import { defineConfig } from 'vitepress'
 import output from '../output.json'
 // https://vitepress.dev/reference/site-config
+
+function convertSlugToText(slug: string) {
+  const words = slug.split('-');
+  const capitalizedWords = words.map(word => word.charAt(0).toUpperCase() + word.slice(1));
+  const text = capitalizedWords.join(' ');
+  return text;
+}
+
 export default defineConfig({
   title: "Tensorflow Questions",
   description: "Tensorflow questions",
@@ -8,7 +16,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Questions', link: '/introduction' }
+      { text: 'Questions', link: '/tensorflow/introduction' }
     ],
 
     sidebar: [
@@ -16,7 +24,7 @@ export default defineConfig({
         text: 'Examples',
         items: [
           ...output.filter(item => item.name !=='index').map((item) => {
-            return { text: item.name, link: '/' + item.slug }
+            return { text: convertSlugToText(item.slug), link: '/tensorflow/' + item.slug }
             
           })
         ]
