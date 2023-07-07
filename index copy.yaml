@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+# https://blog.logrocket.com/build-blog-vitepress-vue-js/
 
 hero:
   name: "TensorflowQ.com"
