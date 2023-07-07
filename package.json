@@ -4,7 +4,7 @@
   },
   "scripts": {
     "dev": "vitepress dev",
-    "build": "vitepress build",
+    "build": "vitepress build --max_old_space_size=4096 build",
     "preview": "vitepress preview"
   }
 }
