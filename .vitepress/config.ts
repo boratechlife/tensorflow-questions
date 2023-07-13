@@ -10,6 +10,7 @@ function convertSlugToText(slug: string) {
 }
 
 export default defineConfig({
+  
   head: [
     [
       'script',
