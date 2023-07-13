@@ -1,0 +1,68 @@
+---
+title: "tf profiler experimental profile"
+author: "stef"
+date: "10 Jul 2023"
+excerpt: "So, you’ve got your business website built, it’s got all the correct information on it to entice your ideal customer, its load times are optimized so they don’t swipe away, everything is ready to go… but what if they don’t show up?"
+TOP: "Marketing"
+thumbnail: "/post-images/whySEO.png"
+thumbnailSource: "stef"
+---
+
+---
+title: tf profiler experimental profile
+publishDate: 10 Jul 2023
+description: Practice questions for tf profiler experimental profile.
+---
+
+# tf profiler experimental profile
+
+- Write a code to create a profiler for TensorFlow using tf.profiler.experimental.Profile.
+- Write a code to start profiling using tf.profiler.experimental.start.
+- Write a code to stop profiling using tf.profiler.experimental.stop.
+- Write a code to print a summary of the profiling results using tf.profiler.experimental.print.
+- Write a code to enable memory profiling using tf.profiler.experimental.start(log_memory=True).
+- Write a code to profile a specific TensorFlow operation using tf.profiler.experimental.profile.
+- Write a code to profile the TensorFlow model execution time using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions()).
+- Write a code to profile only the GPU execution time using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(tf.profiler.experimental.ProfilerAction.GPU)).
+- Write a code to profile only the CPU execution time using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(tf.profiler.experimental.ProfilerAction.CPU)).
+- Write a code to profile only the TPU execution time using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(tf.profiler.experimental.ProfilerAction.TPU)).
+- Write a code to profile the TensorFlow model and capture both execution time and memory usage using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(True, True, True)).
+- Write a code to profile a TensorFlow model for a specific duration using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(True, True, True, 1000)).
+- Write a code to profile a specific TensorFlow operation and write the results to a file using tf.profiler.experimental.profile(op, options=tf.profiler.experimental.ProfilerOptions(output_file='profile.txt')).
+- Write a code to profile the TensorFlow model and include only specific TensorFlow operations using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(tf.profiler.experimental.ProfilerAction.ALL, tf.profiler.experimental.ProfilerAction.OP)).
+- Write a code to profile the TensorFlow model and include only specific input shapes using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(input_shapes=[(None, 32, 32, 3)])).
+- Write a code to profile the TensorFlow model and include only specific device types using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(device_filters=['/gpu:0'])).
+- Write a code to profile the TensorFlow model and include only specific TensorFlow operators using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(op_types=['Conv2D', 'MatMul'])).
+- Write a code to profile the TensorFlow model and include only specific TensorFlow layers using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(op_types=['Dense', 'Conv2D'])).
+- Write a code to profile the TensorFlow model and include only specific TensorFlow variables using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(var_names=['dense/kernel'])).
+- Write a code to profile the TensorFlow model and include only specific TensorFlow operations and variables using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(op_types=['Conv2D'], var_names=['dense/kernel'])).
+- Write a code to profile the TensorFlow model and exclude specific TensorFlow operators using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(exclude_ops=['Conv2D'])).
+- Write a code to profile the TensorFlow model and exclude specific TensorFlow layers using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(exclude_ops=['Dense', 'Conv2D'])).
+- Write a code to profile the TensorFlow model and exclude specific TensorFlow variables using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(exclude_var_names=['dense/kernel'])).
+- Write a code to profile the TensorFlow model and exclude specific TensorFlow operations and variables using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(exclude_ops=['Conv2D'], exclude_var_names=['dense/kernel'])).
+- Write a code to profile the TensorFlow model and exclude the TensorFlow control flow operations using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(skip_control_flow=True)).
+- Write a code to profile the TensorFlow model and include only the TensorFlow control flow operations using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(skip_control_flow=False)).
+- Write a code to profile the TensorFlow model and limit the number of profiling steps using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(max_depth=5)).
+- Write a code to profile the TensorFlow model and include the TensorFlow operator details in the profiling results using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(min_bytes=1024)).
+- Write a code to profile the TensorFlow model and include the TensorFlow tensor details in the profiling results using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(min_micros=1000)).
+- Write a code to profile the TensorFlow model and sort the profiling results by the total execution time using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(sort_by='total')).
+- Write a code to profile the TensorFlow model and sort the profiling results by the execution time on GPU using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(sort_by='accelerator_micros')).
+- Write a code to profile the TensorFlow model and sort the profiling results by the execution time on CPU using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(sort_by='cpu_micros')).
+- Write a code to profile the TensorFlow model and sort the profiling results by the memory usage using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(sort_by='residual_bytes')).
+- Write a code to profile the TensorFlow model and sort the profiling results by the allocator name using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(sort_by='allocator_name')).
+- Write a code to profile the TensorFlow model and sort the profiling results in descending order using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(sort_order='descend')).
+- Write a code to profile the TensorFlow model and sort the profiling results in ascending order using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(sort_order='ascend')).
+- Write a code to profile the TensorFlow model and include both host and device timeline information using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline')).
+- Write a code to profile the TensorFlow model and include only the device timeline information using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='device_timeline')).
+- Write a code to profile the TensorFlow model and include only the host timeline information using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='host_timeline')).
+- Write a code to profile the TensorFlow model and generate a timeline file using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', output_file='timeline.json')).
+- Write a code to profile the TensorFlow model and generate a device timeline file using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='device_timeline', output_file='device_timeline.json')).
+- Write a code to profile the TensorFlow model and generate a host timeline file using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='host_timeline', output_file='host_timeline.json')).
+- Write a code to profile the TensorFlow model and include the operation level details in the timeline output using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', with_op=True)).
+- Write a code to profile the TensorFlow model and include the memory level details in the timeline output using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', with_memory=True)).
+- Write a code to profile the TensorFlow model and include the input shapes in the timeline output using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', with_shapes=True)).
+- Write a code to profile the TensorFlow model and include the tensor sizes in the timeline output using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', with_tensor_sizes=True)).
+- Write a code to profile the TensorFlow model and include the kernel details in the timeline output using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', with_kernel=True)).
+- Write a code to profile the TensorFlow model and include the memory allocation details in the timeline output using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', with_allocation=True)).
+- Write a code to profile the TensorFlow model and include the memory deallocation details in the timeline output using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', with_deallocation=True)).
+- Write a code to profile the TensorFlow model and include the memory transfer details in the timeline output using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', with_memory_activity=True)).

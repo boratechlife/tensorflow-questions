@@ -1,0 +1,68 @@
+---
+title: "tf name scope"
+author: "stef"
+date: "10 Jul 2023"
+excerpt: "So, you’ve got your business website built, it’s got all the correct information on it to entice your ideal customer, its load times are optimized so they don’t swipe away, everything is ready to go… but what if they don’t show up?"
+TOP: "Marketing"
+thumbnail: "/post-images/whySEO.png"
+thumbnailSource: "stef"
+---
+
+---
+title: tf name scope
+publishDate: 10 Jul 2023
+description: Practice questions for tf name scope.
+---
+
+# tf name scope
+
+- Write a code to create a TensorFlow name scope called "scope1".
+- Write a code to create a TensorFlow name scope called "scope2" and nest it inside "scope1".
+- Write a code to create a TensorFlow name scope called "scope3" and nest it inside "scope2".
+- Write a code to create a TensorFlow name scope called "scope4" and nest it inside "scope3".
+- Write a code to create a TensorFlow name scope called "scope5" and nest it inside "scope4".
+- Write a code to create a TensorFlow name scope called "scope6" and nest it inside "scope5".
+- Write a code to create a TensorFlow name scope called "scope7" and nest it inside "scope6".
+- Write a code to create a TensorFlow name scope called "scope8" and nest it inside "scope7".
+- Write a code to create a TensorFlow name scope called "scope9" and nest it inside "scope8".
+- Write a code to create a TensorFlow name scope called "scope10" and nest it inside "scope9".
+- Write a code to create a TensorFlow name scope called "scope11" and nest it inside "scope10".
+- Write a code to create a TensorFlow name scope called "scope12" and nest it inside "scope11".
+- Write a code to create a TensorFlow name scope called "scope13" and nest it inside "scope12".
+- Write a code to create a TensorFlow name scope called "scope14" and nest it inside "scope13".
+- Write a code to create a TensorFlow name scope called "scope15" and nest it inside "scope14".
+- Write a code to create a TensorFlow name scope called "scope16" and nest it inside "scope15".
+- Write a code to create a TensorFlow name scope called "scope17" and nest it inside "scope16".
+- Write a code to create a TensorFlow name scope called "scope18" and nest it inside "scope17".
+- Write a code to create a TensorFlow name scope called "scope19" and nest it inside "scope18".
+- Write a code to create a TensorFlow name scope called "scope20" and nest it inside "scope19".
+- Write a code to create a TensorFlow name scope called "scope21" and nest it inside "scope20".
+- Write a code to create a TensorFlow name scope called "scope22" and nest it inside "scope21".
+- Write a code to create a TensorFlow name scope called "scope23" and nest it inside "scope22".
+- Write a code to create a TensorFlow name scope called "scope24" and nest it inside "scope23".
+- Write a code to create a TensorFlow name scope called "scope25" and nest it inside "scope24".
+- Write a code to create a TensorFlow name scope called "scope26" and nest it inside "scope25".
+- Write a code to create a TensorFlow name scope called "scope27" and nest it inside "scope26".
+- Write a code to create a TensorFlow name scope called "scope28" and nest it inside "scope27".
+- Write a code to create a TensorFlow name scope called "scope29" and nest it inside "scope28".
+- Write a code to create a TensorFlow name scope called "scope30" and nest it inside "scope29".
+- Write a code to create a TensorFlow name scope called "scope31" and nest it inside "scope30".
+- Write a code to create a TensorFlow name scope called "scope32" and nest it inside "scope31".
+- Write a code to create a TensorFlow name scope called "scope33" and nest it inside "scope32".
+- Write a code to create a TensorFlow name scope called "scope34" and nest it inside "scope33".
+- Write a code to create a TensorFlow name scope called "scope35" and nest it inside "scope34".
+- Write a code to create a TensorFlow name scope called "scope36" and nest it inside "scope35".
+- Write a code to create a TensorFlow name scope called "scope37" and nest it inside "scope36".
+- Write a code to create a TensorFlow name scope called "scope38" and nest it inside "scope37".
+- Write a code to create a TensorFlow name scope called "scope39" and nest it inside "scope38".
+- Write a code to create a TensorFlow name scope called "scope40" and nest it inside "scope39".
+- Write a code to create a TensorFlow name scope called "scope41" and nest it inside "scope40".
+- Write a code to create a TensorFlow name scope called "scope42" and nest it inside "scope41".
+- Write a code to create a TensorFlow name scope called "scope43" and nest it inside "scope42".
+- Write a code to create a TensorFlow name scope called "scope44" and nest it inside "scope43".
+- Write a code to create a TensorFlow name scope called "scope45" and nest it inside "scope44".
+- Write a code to create a TensorFlow name scope called "scope46" and nest it inside "scope45".
+- Write a code to create a TensorFlow name scope called "scope47" and nest it inside "scope46".
+- Write a code to create a TensorFlow name scope called "scope48" and nest it inside "scope47".
+- Write a code to create a TensorFlow name scope called "scope49" and nest it inside "scope48".
+- Write a code to create a TensorFlow name scope called "scope50" and nest it inside "scope49".
