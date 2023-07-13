@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you pad a tensor with different padding modes for each dimension except for a specific region using tf.raw_ops.PadV2?
 - Write a code to pad a tensor with zeros in a specific dimension except for a specific region using tf.raw_ops.PadV2.
 - How can you pad a tensor with a specific value in a specific dimension except for a specific region using tf.raw_ops.PadV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

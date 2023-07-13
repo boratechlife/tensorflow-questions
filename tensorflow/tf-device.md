@@ -66,3 +66,17 @@ description: Practice questions for tf device.
 - Write a code to assign TensorFlow operations to different devices in a distributed TensorFlow cluster using tf.device and tf.distribute.
 - Write a code to run TensorFlow operations on multiple devices in a distributed TensorFlow cluster using tf.device and tf.distribute.
 - Write a code to specify the placement of TensorFlow operations in a distributed TensorFlow cluster using tf.device and tf.distribute.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

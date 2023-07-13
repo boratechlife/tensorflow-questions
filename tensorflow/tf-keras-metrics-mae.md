@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics mae.
 - Write a code to calculate the mean absolute error between two arrays and retrieve the current value of the tf.keras.metrics.MAE object using the result.
 - Write a code to calculate the mean absolute error between two tensors and retrieve the current value of the tf.keras.metrics.MAE object using the result.
 - Write a code to calculate the mean absolute error between two matrices and retrieve the current value of the tf.keras.metrics.MAE object using the result.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf math reduce logsumexp.
 - Calculate the log-sum-exp of a tensor and compute the hyperbolic sine of the result.
 - Calculate the log-sum-exp of a tensor and compute the hyperbolic cosine of the result.
 - Calculate the log-sum-exp of a tensor and compute the hyperbolic tangent of the result.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

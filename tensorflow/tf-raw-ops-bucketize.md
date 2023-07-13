@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops bucketize.
 - How can you handle cases when the bin edges have a different shape than the input tensor in tf.raw_ops.Bucketize?
 - Write a code to bucketize a tensor into two equal-width buckets: [-1, 0], (0, +inf).
 - How can you handle cases when the bin edges have a different shape than the input tensor in tf.raw_ops.Bucketize?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

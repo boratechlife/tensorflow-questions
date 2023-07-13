@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy array equal.
 - Write a code to compare two NumPy arrays and return False if they have different shapes, elements, data types, order, or values, using tf.experimental.numpy.array_equal.
 - Write a code to compare two NumPy arrays and return True if they have the same shape, elements, data types, order, and values, but different precisions, using tf.experimental.numpy.array_equal.
 - Write a code to compare two NumPy arrays and return False if they have different shapes, elements, data types, order, values, or precisions, using tf.experimental.numpy.array_equal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

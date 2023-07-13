@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops argmax.
 - Write a code to find the indices of the top k maximum values in a tensor along multiple axes using tf.raw_ops.ArgMax.
 - Write a code to calculate the argmax values of a tensor and return them as a rank-23 tensor using tf.raw_ops.ArgMax.
 - Write a code to perform the argmax operation on a tensor and return the indices as a rank-24 tensor using tf.raw_ops.ArgMax.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

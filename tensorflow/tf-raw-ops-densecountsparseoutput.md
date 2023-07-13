@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops densecountsparseoutput.
 - Implement a function that initializes the weights and biases of a dense count sparse output layer using random uniform initialization in TensorFlow.
 - Write a code to compute the gradients of the kernel weights and biases using the SGD optimizer in a dense count sparse output layer in TensorFlow.
 - How can you set the kernel regularizer to use a custom regularizer object for a dense count sparse output layer in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

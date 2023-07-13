@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers globalaveragepooling3d.
 - Write a code to add a GlobalAveragePooling3D layer after a 3D convolutional layer with dilation rate (2, 2, 2) in TensorFlow.
 - Write a code to apply GlobalAveragePooling3D to a 3D tensor with multiple feature maps and variable-length sequences in TensorFlow.
 - Write a code to use GlobalAveragePooling3D in a TensorFlow model for 3D point cloud classification.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

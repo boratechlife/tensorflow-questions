@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops densetosparsebatchdataset.
 - Implement a function to convert a dense batch dataset into a sparse batch dataset by using tf.raw_ops.DenseToSparseBatchDataset.
 - Write a code to create a sparse batch dataset by converting a given dense batch dataset with tf.raw_ops.DenseToSparseBatchDataset in TensorFlow.
 - How can you apply tf.raw_ops.DenseToSparseBatchDataset on a dense batch dataset to obtain a sparse batch dataset in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

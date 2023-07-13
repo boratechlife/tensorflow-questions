@@ -66,3 +66,17 @@ description: Practice questions for tf einsum.
 - Write a code to calculate the element-wise bitwise left shift of a matrix using tf.einsum.
 - Write a code to calculate the element-wise bitwise right shift of a matrix using tf.einsum.
 - Write a code to calculate the element-wise logical implication of two matrices using tf.einsum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

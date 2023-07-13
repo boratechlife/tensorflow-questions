@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers schedules serialize.
 - Write a code to deserialize a learning rate schedule object from a YAML file and convert it to the original object using tf.keras.optimizers.schedules.serialize.
 - Write a code to serialize a learning rate schedule object and convert it to a protobuf binary file using tf.keras.optimizers.schedules.serialize.
 - Write a code to deserialize a learning rate schedule object from a protobuf binary file and convert it to the original object using tf.keras.optimizers.schedules.serialize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

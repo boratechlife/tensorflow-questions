@@ -66,3 +66,17 @@ description: Practice questions for tf math softmax.
 - Write a code to compute the softmax probabilities for a tensor and round the results to a specific number of decimal places.
 - Write a code to apply the softmax activation function to a tensor and round the results to a specific number of decimal places.
 - Write a code to calculate the softmax values for a tensor and round the results to a specific number of decimal places.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

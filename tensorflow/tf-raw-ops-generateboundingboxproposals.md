@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops generateboundingboxproposals.
 - Can you provide a code example that demonstrates how to generate bounding box proposals using tf.raw_ops.GenerateBoundingBoxProposals with a custom non-maximum suppression algorithm?
 - How can I generate bounding box proposals for an image with irregular shapes using tf.raw_ops.GenerateBoundingBoxProposals?
 - Is it possible to generate bounding box proposals with different aspect ratios and sizes using tf.raw_ops.GenerateBoundingBoxProposals?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf metrics categorical accuracy.
 - Write a code to calculate the categorical accuracy for a few-shot learning task using tf.metrics.categorical_accuracy.
 - Write a code to calculate the categorical accuracy for a zero-shot learning task using tf.metrics.categorical_accuracy.
 - Write a code to calculate the categorical accuracy for an unsupervised learning task using tf.metrics.categorical_accuracy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf linalg band part.
 - Write a code to zero out the specific range of bands and a specific range of diagonals in a matrix using "tf.linalg.band_part".
 - Write a code to extract a specific range of rows and columns from a matrix using "tf.linalg.band_part".
 - Write a code to zero out a specific range of rows and columns in a matrix using "tf.linalg.band_part".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

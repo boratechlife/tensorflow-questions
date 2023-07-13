@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy iscomplexobj.
 - Write a code to test if a given object contains complex numbers or arrays.
 - Write a code to determine if a variable is an array with complex values or scalars.
 - Write a code to check if a given object is a complex-valued array or a scalar-like object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

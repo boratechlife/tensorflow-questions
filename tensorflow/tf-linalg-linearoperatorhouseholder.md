@@ -66,3 +66,17 @@ description: Practice questions for tf linalg linearoperatorhouseholder.
 - Write a code to compute the matrix pseudorank of a LinearOperatorHouseholder instance.
 - Write a code to compute the matrix pseudospectrum of a LinearOperatorHouseholder instance.
 - Write a code to compute the matrix pseudoinverse of a LinearOperatorHouseholder instance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications nasnet.
 - Write a code to load the NASNetLarge model with the newly added classification layer from a file.
 - Write a code to load the NASNetMobile model with the newly added classification layer from a file.
 - Write a code to fine-tune the NASNetLarge model with the newly added classification layer on a new dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

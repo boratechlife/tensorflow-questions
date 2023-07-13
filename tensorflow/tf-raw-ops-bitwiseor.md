@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops bitwiseor.
 - Write a code to perform a bitwise OR operation on two video frames with different frame rates.
 - Write a code to perform a bitwise OR operation on two files of different formats.
 - Write a code to perform a bitwise OR operation on two data frames with different columns.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

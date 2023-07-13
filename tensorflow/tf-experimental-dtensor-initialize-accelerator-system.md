@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor initialize accelerat
 - Write a code to disable the peer-to-peer memory access for a specific accelerator using tf.experimental.dtensor.disable_accelerator_peer_memory_access.
 - Write a code to check if the peer-to-peer memory access is enabled for a specific accelerator using tf.experimental.dtensor.is_accelerator_peer_memory_access_enabled.
 - Write a code to finalize the accelerator system using tf.experimental.dtensor.finalize_accelerator_system.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics meanabsoluteerror.
 - Write a code to calculate the mean absolute error between two pandas Series and plot the result using a histogram.
 - Write a code to update the mean absolute error metric with multiple batches of predictions and labels and plot the metric's result using a box plot.
 - Write a code to calculate the mean absolute error between two tensors and visualize the result using a pie chart.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

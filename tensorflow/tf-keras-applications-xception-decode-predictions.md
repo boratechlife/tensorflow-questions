@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications xception decode predic
 - Write a code to remove a layer from the Xception model.
 - Write a code to modify the activation function of a specific layer in the Xception model.
 - Write a code to modify the number of filters in a specific convolutional layer of the Xception model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

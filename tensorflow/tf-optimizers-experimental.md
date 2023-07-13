@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers experimental.
 - Write a code to set the learning rate of an optimizer to 0.01 for the ProximalAdagrad optimizer instance.
 - Write a code to set the learning rate of an optimizer to 0.01 and l1 regularization strength to 0.001 for the ProximalGradientDescent optimizer instance.
 - Write a code to set the learning rate of an optimizer to 0.001 and decay rate to 0.9 for the AdamW optimizer instance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

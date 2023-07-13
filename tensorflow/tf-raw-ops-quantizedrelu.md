@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedrelu.
 - How can you compute the element-wise product of two tensors using tf.raw_ops.QuantizedRelu operation?
 - Write a code to compute the element-wise division of two tensors using tf.raw_ops.QuantizedRelu operation.
 - How can you apply tf.raw_ops.QuantizedRelu operation on a distributed TensorFlow cluster?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf bitwise bitwise xor.
 - Write a code to calculate the XOR of all elements in a given list and return the result.
 - Write a code to perform a bitwise XOR operation on two tensors and return the result.
 - Write a code to find the XOR of two tensors and return the result.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

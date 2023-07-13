@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops onehot.
 - Write a code to create a one-hot encoding of a tensor with a specific depth, axis, and a dynamic batch size using tf.raw_ops.OneHot.
 - Write a code to create a one-hot encoding of a tensor with multiple dimensions and a dynamic batch size using tf.raw_ops.OneHot.
 - Write a code to create a one-hot encoding of a tensor with multiple dimensions, a specific depth, axis, and a dynamic batch size using tf.raw_ops.OneHot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

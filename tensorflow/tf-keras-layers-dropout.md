@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers dropout.
 - Write a code to apply dropout with a rate of 0.2 on the output of a pooling layer.
 - Write a code to add a dropout layer with a rate of 0.5 after a fully connected layer.
 - Write a code to apply dropout regularization on the input layer of a neural network with a rate of 0.4.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

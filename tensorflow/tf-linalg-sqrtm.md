@@ -66,3 +66,17 @@ description: Practice questions for tf linalg sqrtm.
 - Write a code to calculate the matrix square root of a 4x4 Hermitian matrix with complex values using tf.linalg.sqrtm.
 - Write a code to calculate the matrix square root of a symmetric matrix with shape (batch_size, N, M, K, L) using tf.linalg.sqrtm.
 - Write a code to calculate the square root of a batch of positive-semidefinite diagonal matrices using tf.linalg.sqrtm.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

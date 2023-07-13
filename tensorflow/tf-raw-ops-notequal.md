@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops notequal.
 - Write a code to determine if two NumPy arrays have different shapes and data types using tf.raw_ops.NotEqual.
 - Write a code to check if two tensors are not equal element-wise within a certain tolerance and return a boolean mask using tf.raw_ops.NotEqual.
 - Write a code to compare two pandas DataFrames using tf.raw_ops.NotEqual and return the rows where the values are not equal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

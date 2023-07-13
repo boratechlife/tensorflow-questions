@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy argsort.
 - Write a code to sort a multi-dimensional array based on a custom key and axis and return both the sorted array and indices using tf.experimental.numpy.argsort.
 - Write a code to sort an array in ascending order and return only the sorted indices using tf.experimental.numpy.argsort.
 - Write a code to sort an array in descending order and return only the sorted indices using tf.experimental.numpy.argsort.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

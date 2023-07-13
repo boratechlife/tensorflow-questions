@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maximum.
 - Write a code to find the maximum values in each row of a matrix and their corresponding column indices using tf.raw_ops.Maximum.
 - Write a code to compute the element-wise maximum between a tensor and a vector using tf.raw_ops.Maximum.
 - Write a code to find the maximum value in a tensor and its position along multiple axes using tf.raw_ops.Maximum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

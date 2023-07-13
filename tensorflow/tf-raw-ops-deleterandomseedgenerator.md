@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops deleterandomseedgenerator.
 - Implement a function that deletes a random seed generator and adjusts its state based on a custom activation function using tf.raw_ops.DeleteRandomSeedGenerator.
 - Write a code to delete a random seed generator and update its state by applying a custom weight initialization using tf.raw_ops.DeleteRandomSeedGenerator.
 - How can you delete a random seed generator and modify its state based on a specific normalization technique using tf.raw_ops.DeleteRandomSeedGenerator?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

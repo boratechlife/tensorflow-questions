@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnety064.
 - Write a code to implement early stopping based on validation F1 score for the RegNetY064 model.
 - Write a code to implement cyclic learning rate during training of the RegNetY064 model.
 - Write a code to implement focal loss for training the RegNetY064 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

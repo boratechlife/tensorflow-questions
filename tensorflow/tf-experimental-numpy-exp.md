@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy exp.
 - Write a code to calculate the exponential value of a specific element in a NumPy array using tf.experimental.numpy.exp and print the result, checking if it is greater than 1.
 - Write a code to exponentiate all the values in a Pandas DataFrame column and store the result in a new column using tf.experimental.numpy.exp, checking if any of the values are greater than 1.
 - Write a code to calculate the exponential value of each element in a list using tf.experimental.numpy.exp and return the results as a new list, checking if any of the values are greater than 1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

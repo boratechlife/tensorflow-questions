@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications xception xception.
 - Write a code to calculate the average pooling output of a specific pooling layer in the Xception model.
 - Write a code to set the activation function for the Xception model's output layer.
 - Write a code to set the class weights for the loss function used by the Xception model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

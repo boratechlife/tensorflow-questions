@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics meanabsolutepercentageerror
 - Write a code to update the tf.keras.metrics.MeanAbsolutePercentageError metric with a single prediction and target and handle NaN values gracefully.
 - Write a code to calculate the mean absolute percentage error (MAPE) between two arrays and handle inf values gracefully.
 - Write a code to calculate the mean absolute percentage error (MAPE) between two tensors and handle inf values gracefully.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

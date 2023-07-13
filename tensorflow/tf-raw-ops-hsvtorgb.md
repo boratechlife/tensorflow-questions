@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops hsvtorgb.
 - Write a code to convert a batch of HSV images to RGB and apply a resizing operation using tf.raw_ops.HSVToRGB.
 - Can you provide an example of using the tf.raw_ops.HSVToRGB function with distributed TensorFlow?
 - How does the tf.raw_ops.HSVToRGB function handle batched input tensors with a mix of valid and invalid values?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

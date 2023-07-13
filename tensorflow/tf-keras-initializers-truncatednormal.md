@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers truncatednormal.
 - Write a code to initialize a TensorFlow placeholder named "inputs" using TruncatedNormal initializer with a mean of 0.5, a standard deviation of 0.1, and a seed of 42.
 - Write a code to create a TruncatedNormal initializer with a mean of -0.5 and a standard deviation of 1.0.
 - Write a code to create a TruncatedNormal initializer with a mean of -0.5, a standard deviation of 1.0, and a seed of 42.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

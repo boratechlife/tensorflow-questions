@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications inception v3 preproces
 - Write a code to preprocess multiple images in a directory and apply a specific image transformation using albumentations.
 - Write a code to preprocess an image and adjust its brightness using tf.image.adjust_brightness.
 - Write a code to preprocess an image and adjust its brightness using cv2.convertScaleAbs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

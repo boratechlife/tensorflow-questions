@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers get.
 - Write a code to initialize a specific bias vector in a layer with the "random_normal" initializer.
 - Write a code to set the initializer of all layers in a model to "he_uniform".
 - Write a code to initialize a specific kernel in a convolutional layer with the "truncated_normal" initializer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

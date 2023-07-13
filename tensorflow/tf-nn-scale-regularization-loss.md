@@ -66,3 +66,17 @@ description: Practice questions for tf nn scale regularization loss.
 - Write a code to calculate the scale regularization loss for a specific subset of output neurons in a model.
 - Write a code to compute the scale regularization loss for an attention mechanism in a neural network.
 - Write a code to include the scale regularization loss in a model selection process.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

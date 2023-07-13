@@ -66,3 +66,17 @@ description: Practice questions for tf random categorical.
 - Write a code to generate a random categorical distribution with a specified shape using tf.random.categorical.
 - Write a code to sample from a categorical distribution with a specified shape using tf.random.categorical.
 - Write a code to generate a random categorical distribution with custom class labels using tf.random.categorical.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

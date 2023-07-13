@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to calculate the maximum value in a ParallelBatchDataset.
 - Write a code to apply a reduce window dataset transformation to a ParallelBatchDataset.
 - Write a code to create a ParallelBatchDataset with a custom parallelism parameter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy einsum.
 - Write a code to calculate the Kullback-Leibler (KL) divergence between two probability distributions using einsum.
 - Write a code to calculate the cosine similarity matrix between a set of vectors using einsum.
 - Write a code to calculate the pairwise Euclidean distances between a set of points using einsum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

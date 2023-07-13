@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers simplernn.
 - Write a code to create a simple RNN layer and set the activation function and return sequences and state and dropout rate and recurrent dropout rate and kernel regularizer and recurrent regularizer and bias regularizer and kernel constraint and recurrent constraint and bias constraint and unroll parameter.
 - Write a code to create a simple RNN layer and set the activation function and return sequences and state and dropout rate and recurrent dropout rate and kernel regularizer and recurrent regularizer and bias regularizer and kernel constraint and recurrent constraint and bias constraint and unroll parameter and implementation mode.
 - Write a code to create a simple RNN layer and set the activation function and return sequences and state and dropout rate and recurrent dropout rate and kernel regularizer and recurrent regularizer and bias regularizer and kernel constraint and recurrent constraint and bias constraint and unroll parameter and implementation mode and bias parameter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

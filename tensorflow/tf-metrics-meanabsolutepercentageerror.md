@@ -66,3 +66,17 @@ description: Practice questions for tf metrics meanabsolutepercentageerror.
 - Write a code to calculate the mean absolute percentage error between two dataframes and calculate the coefficient of determination (R^2) of the errors.
 - Write a code to calculate the mean absolute percentage error between two numpy arrays and calculate the relative error.
 - Write a code to calculate the mean absolute percentage error between two pandas series and calculate the absolute error.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

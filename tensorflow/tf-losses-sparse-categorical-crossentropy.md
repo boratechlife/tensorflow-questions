@@ -66,3 +66,17 @@ description: Practice questions for tf losses sparse categorical crossentropy.
 - Write a code to calculate the sparse categorical cross-entropy loss for a specific number of classes and handle class imbalance using ensemble techniques.
 - Write a code to calculate the sparse categorical cross-entropy loss for a specific number of classes and handle class imbalance using transfer learning.
 - Write a code to calculate the sparse categorical cross-entropy loss for a specific number of classes and handle class imbalance using a combination of techniques.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

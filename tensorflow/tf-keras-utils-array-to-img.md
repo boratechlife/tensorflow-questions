@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils array to img.
 - Write a code to convert an image array to an image with random saturation adjustment using "tf.keras.utils.array_to_img".
 - Write a code to convert an image array to an image with random rotation using "tf.keras.utils.array_to_img".
 - Write a code to convert an image array to an image with random flipping using "tf.keras.utils.array_to_img".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

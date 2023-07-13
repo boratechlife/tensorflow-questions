@@ -66,3 +66,17 @@ description: Practice questions for tf nn separable conv2d.
 - How can you set the value of depth_multiplier parameter for separable convolution in TensorFlow?
 - Write a code to perform separable convolution with a specific activation function and activation parameters using tf.nn.separable_conv2d.
 - How can you set the value of data_type parameter for separable convolution in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

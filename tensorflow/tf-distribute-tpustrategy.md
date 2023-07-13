@@ -66,3 +66,17 @@ description: Practice questions for tf distribute tpustrategy.
 - Write a code to get the current TPU context ID with TPUStrategy.
 - Write a code to get the TPU cluster configuration with TPUStrategy.
 - Write a code to set a custom TPU cluster configuration with TPUStrategy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

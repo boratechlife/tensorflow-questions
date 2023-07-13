@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnet v2 decode
 - Write a code to decode predictions from an EfficientNetV2 model and calculate the R-squared score for regression tasks.
 - Write a code to decode predictions from an EfficientNetV2 model and perform post-processing on the predicted class labels.
 - Write a code to decode predictions from an EfficientNetV2 model and interpret the results in a human-readable format.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

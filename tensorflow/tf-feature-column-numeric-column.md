@@ -66,3 +66,17 @@ description: Practice questions for tf feature column numeric column.
 - Write a code to create a numeric column with the name "weight" and a dtype of tf.float64 using tf.feature_column.numeric_column.
 - Write a code to create a numeric column with the name "height" and a key feature that represents the variance of heights in a dataset using tf.feature_column.numeric_column.
 - Write a code to create a numeric column with the name "income" and a shape of [7] using tf.feature_column.numeric_column.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

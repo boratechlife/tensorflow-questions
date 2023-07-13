@@ -66,3 +66,17 @@ description: Practice questions for tf random uniform candidate sampler.
 - Write a code to generate random tensors with a specific number of observations using tf.random.uniform_candidate_sampler.
 - Write a code to generate random tensors with a specific number of variables using tf.random.uniform_candidate_sampler.
 - Write a code to generate random tensors with a specific number of clusters using tf.random.uniform_candidate_sampler.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

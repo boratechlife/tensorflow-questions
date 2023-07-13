@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils get file.
 - How can you set a custom SSL certificate for downloading a file with tf.keras.utils.get_file?
 - Write a code to download a file and check its hash value without actually downloading it using tf.keras.utils.get_file.
 - How can you control the extraction process and preserve the directory structure while using tf.keras.utils.get_file?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

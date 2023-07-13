@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental get visible devices.
 - Write a code to retrieve the device memory bus width of visible devices using tf.config.experimental.get_visible_devices.
 - Write a code to check if a specific GPU device supports cooperative device-to-device access using tf.config.experimental.get_visible_devices.
 - Write a code to retrieve the ECC enabled status of visible GPUs using tf.config.experimental.get_visible_devices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

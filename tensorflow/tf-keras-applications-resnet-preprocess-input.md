@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet preprocess inpu
 - Write a code to preprocess an image and perform image resizing and cropping using OpenCV functions.
 - Write a code to preprocess an image and apply a custom image transformation using the preprocess_input function.
 - Write a code to preprocess an image and apply a custom image transformation using OpenCV functions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

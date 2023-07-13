@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conj.
 - Write a code to find the complex conjugate of a tensor and return the result as a scalar using tf.raw_ops.Conj.
 - Write a code to perform element-wise complex conjugation on a batch of tensors and update the tensors in-place using tf.raw_ops.Conj.
 - Write a code to compute the conjugate transpose of a complex-valued matrix and update the matrix in-place using tf.raw_ops.Conj.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

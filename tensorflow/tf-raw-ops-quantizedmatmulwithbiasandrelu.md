@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedmatmulwithbiasandrelu.
 - Write a code to calculate the memory requirements for storing the intermediate results in tf.raw_ops.QuantizedMatMulWithBiasAndRelu for a batch of input tensors with different shapes.
 - Write a code to perform a quantized matrix multiplication with bias and ReLU, and then apply dropout, average pooling, and batch normalization using tf.raw_ops.QuantizedMatMulWithBiasAndRelu.
 - Write a code to calculate the effective sparsity (percentage of zero elements) in the output tensor after applying tf.raw_ops.QuantizedMatMulWithBiasAndRelu followed by batch normalization and max pooling.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

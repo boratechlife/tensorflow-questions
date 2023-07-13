@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnet.
 - Write a code to implement Autoencoder using the EfficientNet model.
 - Write a code to implement Variational Autoencoder (VAE) using the EfficientNet model.
 - Write a code to implement Generative Adversarial Networks (GANs) using the EfficientNet model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

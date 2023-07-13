@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops biasaddv1.
 - Write a code to perform a bias addition on a given tensor along a specified set of axes using tf.raw_ops.BiasAddV1.
 - How would you add a bias vector to a tensor along the last two dimensions using tf.raw_ops.BiasAddV1 in TensorFlow?
 - Implement a function that adds a bias vector to a tensor along the last two dimensions using tf.raw_ops.BiasAddV1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

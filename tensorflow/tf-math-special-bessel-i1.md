@@ -66,3 +66,17 @@ description: Practice questions for tf math special bessel i1.
 - Calculate the cross product of two Bessel functions of the first kind, order 1, for given inputs.
 - Compute the matrix multiplication of two Bessel functions of the first kind, order 1, for given inputs.
 - Calculate the matrix determinant of the Bessel function of the first kind, order 1, for a given matrix input.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

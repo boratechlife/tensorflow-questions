@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers concatenate.
 - How can you concatenate input tensors and apply a dropout layer with a specific seed value using tf.keras.layers.Concatenate?
 - Write a code to concatenate input tensors and apply a dense layer with custom bias initializer using tf.keras.layers.Concatenate.
 - How can you concatenate input tensors and apply a normalization layer with custom beta and gamma initializers using tf.keras.layers.Concatenate.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

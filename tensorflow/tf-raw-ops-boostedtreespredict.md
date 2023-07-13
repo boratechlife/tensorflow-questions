@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreespredict.
 - Write a code to set the bagging fraction for training individual trees in the boosted trees model using tf.raw_ops.BoostedTreesPredict.
 - Write a code to set the bagging frequency for training individual trees in the boosted trees model using tf.raw_ops.BoostedTreesPredict.
 - Write a code to set the random seed for tree building in the boosted trees model using tf.raw_ops.BoostedTreesPredict.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

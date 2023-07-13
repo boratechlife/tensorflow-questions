@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert non positive.
 - Write a code to assert that the dot product of two tensors is non-positive.
 - Write a code to assert that the matrix multiplication of two tensors is non-positive.
 - Write a code to assert that the eigenvalues of a tensor are non-positive.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

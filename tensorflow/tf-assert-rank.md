@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to verify that a tensor has rank not less than 2 using "tf.assert_rank".
 - Write a code to assert that a tensor has rank equal to 1 using "tf.assert_rank".
 - Write a code to ensure that a tensor has rank not equal to 4 using "tf.assert_rank".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications vgg19 vgg19.
 - Write a code to calculate the F1 score for the predictions made by the VGG19 model.
 - Write a code to calculate the accuracy of the VGG19 model on a specific dataset.
 - Write a code to implement early stopping based on validation accuracy during training of the VGG19 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedmul.
 - How can you calculate the element-wise weighted sum of two tensors when multiplying two quantized tensors using tf.raw_ops.QuantizedMul?
 - Write a code to multiply two quantized tensors and calculate the element-wise matrix multiplication with another tensor using tf.raw_ops.QuantizedMul.
 - How can you calculate the element-wise outer product of two tensors when multiplying two quantized tensors using tf.raw_ops.QuantizedMul?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

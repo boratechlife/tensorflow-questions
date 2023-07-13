@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can transfer learning be used to improve the performance of optimized models?
 - What are the different pre-trained models available in TensorFlow for transfer learning and optimization?
 - How does TensorFlow support distributed model training and optimization?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

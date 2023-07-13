@@ -115,3 +115,17 @@ description: Practice questions for tf data experimental from variant.
 - Write a code to calculate the histogram of a TensorFlow dataset using tf.data.experimental.from_variant.
 - 
 - Write a code to calculate the correlation between two TensorFlow datasets using tf.data.experimental.from_variant.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

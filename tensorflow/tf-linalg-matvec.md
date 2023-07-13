@@ -66,3 +66,17 @@ description: Practice questions for tf linalg matvec.
 - Write a code to calculate the matrix tangent of a matrix-vector product using tf.linalg.tanm2 and tf.linalg.matvec.
 - Write a code to calculate the matrix hyperbolic cosine of a matrix-vector product using tf.linalg.coshm2 and tf.linalg.matvec.
 - Write a code to calculate the matrix hyperbolic sine of a matrix-vector product using tf.linalg.sinhm2 and tf.linalg.matvec.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

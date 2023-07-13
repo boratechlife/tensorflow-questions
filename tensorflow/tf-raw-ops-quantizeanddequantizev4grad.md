@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizeanddequantizev4grad.
 - Write a code to compute the element-wise logical NOT of the gradient of QuantizeAndDequantizeV4Grad with a scalar value.
 - Write a code to compute the element-wise absolute difference between the gradient of QuantizeAndDequantizeV4Grad and a scalar value.
 - Write a code to compute the element-wise maximum difference between the gradient of QuantizeAndDequantizeV4Grad and a scalar value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

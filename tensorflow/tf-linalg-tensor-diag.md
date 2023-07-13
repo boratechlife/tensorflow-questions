@@ -66,3 +66,17 @@ description: Practice questions for tf linalg tensor diag.
 - Write a code to solve a linear system of equations using the LU decomposition and tf.linalg.tensor_diag.
 - Write a code to perform QR decomposition of a matrix using tf.linalg.tensor_diag.
 - Write a code to perform singular value decomposition (SVD) on a matrix using tf.linalg.tensor_diag.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

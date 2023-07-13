@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics meaniou.
 - Write a code to calculate the per-class MeanIoU for object detection.
 - Write a code to calculate the per-class MeanIoU for instance segmentation.
 - Write a code to calculate the per-class weighted MeanIoU for multi-class classification.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

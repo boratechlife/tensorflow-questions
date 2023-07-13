@@ -20,3 +20,17 @@ thumbnailSource: "stef"
 - What is the role of the TensorFlow Session in working with tensors? Is it still necessary in TensorFlow 2.x?
 - How can you perform element-wise multiplication of two tensors in TensorFlow? Provide an example.
 - What is the purpose of the TensorFlow eager execution mode, and how does it impact working with tensors?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

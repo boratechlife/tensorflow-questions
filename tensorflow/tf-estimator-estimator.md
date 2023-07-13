@@ -67,3 +67,17 @@ description: Practice questions for tf estimator estimator.
 - Write a code to configure the log step count steps for an estimator.
 - Write a code to configure the session run hook for an estimator.
 - Write a code to configure the use of experimental mode for an estimator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

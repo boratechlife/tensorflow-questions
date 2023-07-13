@@ -66,3 +66,17 @@ description: Practice questions for tf numpy function.
 - Write a code to apply a custom clipping function to a batch of tensors using "tf.numpy_function".
 - Write a code to calculate the element-wise reciprocal of a tensor using "tf.numpy_function".
 - Write a code to apply a custom binarization function to a batch of tensors using "tf.numpy_function".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

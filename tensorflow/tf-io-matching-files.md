@@ -66,3 +66,17 @@ description: Practice questions for tf io matching files.
 - Write a code to get the creation times of all files in a directory using tf.io.matching_files.
 - Write a code to get the permissions of all files in a directory using tf.io.matching_files.
 - Write a code to get the owners of all files in a directory using tf.io.matching_files.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

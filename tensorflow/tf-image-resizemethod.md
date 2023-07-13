@@ -66,3 +66,17 @@ description: Practice questions for tf image resizemethod.
 - Write a code to resize an image to a specific width while maintaining its aspect ratio using the "tf.image.ResizeMethod.MITCHELLCUBIC" method.
 - Write a code to resize an image using the "tf.image.ResizeMethod.BILINEAR" method and crop it to a specific size.
 - Write a code to resize an image using the "tf.image.ResizeMethod.NEAREST_NEIGHBOR" method and crop it to a specific size.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

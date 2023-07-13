@@ -115,3 +115,17 @@ description: Practice questions for tf estimator export build parsing serving in
 - Write a code to create a serving input receiver function for image captioning models using build_parsing_serving_input_receiver_fn().
 - 
 - Write a code to handle input data with multi-label classification using build_parsing_serving_input_receiver_fn().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mutexv2.
 - Write a code to acquire a mutex and perform computations in parallel with load balancing using tf.raw_ops.MutexV2.
 - Write a code to release a mutex and handle exceptions if any errors occur during load balancing using tf.raw_ops.MutexV2.
 - Write a code to create a mutex and use it within a TensorFlow distributed training setting using tf.raw_ops.MutexV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

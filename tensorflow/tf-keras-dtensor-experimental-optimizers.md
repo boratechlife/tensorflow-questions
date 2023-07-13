@@ -66,3 +66,17 @@ description: Practice questions for tf keras dtensor experimental optimizers.
 - Write a code to get the config of an optimizer.
 - Write a code to create a custom optimizer by subclassing tf.keras.dtensor.experimental.optimizers.Optimizer.
 - Write a code to implement a learning rate decay schedule using an optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers maxpooling3d.
 - How can you perform MaxPooling3D with a pool size of (2, 2, 2) and strides of (1, 2, 2) only along the spatial dimensions in a model and set a custom activation regularizer for the layer?
 - Write a code to apply MaxPooling3D with a pool size of (2, 2, 2) and strides of (2, 2, 2) to an input tensor and set a custom activation initializer for the layer.
 - How can you perform MaxPooling3D with a pool size of (2, 2, 2) and strides of (1, 2, 2) only along the spatial dimensions in a model and set a custom activation initializer for the layer?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

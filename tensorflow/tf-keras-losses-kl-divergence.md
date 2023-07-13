@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses kl divergence.
 - Write a code to use the KL divergence loss to train a graph convolutional network (GCN) in TensorFlow.
 - Write a code to calculate the KL divergence loss between two probability distributions with different levels of noise.
 - Write a code to compute the KL divergence loss for a time series anomaly detection problem in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf load op library.
 - Write a code to load an operation library and use it to perform speech recognition tasks using pre-trained models in TensorFlow.
 - Write a code to load an operation library and use it to perform generative modeling tasks using variational autoencoders in TensorFlow.
 - Write a code to load an operation library and use it to perform transfer learning for audio classification in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

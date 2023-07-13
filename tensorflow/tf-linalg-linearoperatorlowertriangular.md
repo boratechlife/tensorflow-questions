@@ -66,3 +66,17 @@ description: Practice questions for tf linalg linearoperatorlowertriangular.
 - Write a code to deserialize a LinearOperatorLowerTriangular object from a file.
 - Write a code to calculate the absolute value of a LinearOperatorLowerTriangular object.
 - Write a code to calculate the element-wise square of a LinearOperatorLowerTriangular object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

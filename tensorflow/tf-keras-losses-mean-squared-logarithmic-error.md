@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses mean squared logarithmic err
 - Write a code to define a custom loss function with additional constraints using tf.keras.losses.mean_squared_logarithmic_error.
 - Write a code to apply mean squared logarithmic error loss to a model with sequence inputs using tf.keras.losses.mean_squared_logarithmic_error.
 - Write a code to compare the mean squared logarithmic error loss with other loss functions for a time series forecasting problem using tf.keras.losses.mean_squared_logarithmic_error.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

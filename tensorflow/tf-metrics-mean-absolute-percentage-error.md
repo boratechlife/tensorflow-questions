@@ -66,3 +66,17 @@ description: Practice questions for tf metrics mean absolute percentage error.
 - Write a code to calculate the MAPE between predicted and target values using tf.metrics.mean_absolute_percentage_error and apply a penalty for large errors.
 - How can you handle cases where the predicted values are infinite in tf.metrics.mean_absolute_percentage_error?
 - Write a code to calculate the MAPE between predicted and target values using tf.metrics.mean_absolute_percentage_error and handle missing or NaN values using a specified default value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

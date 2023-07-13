@@ -66,3 +66,17 @@ description: Practice questions for tf quantization fake quant with min max vars
 - Write a code to apply fake_quant_with_min_max_vars_per_channel_gradient to a model with normalization layers.
 - Write a code to apply fake_quant_with_min_max_vars_per_channel_gradient to a model with residual blocks.
 - Write a code to apply fake_quant_with_min_max_vars_per_channel_gradient to a model with attention layers.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

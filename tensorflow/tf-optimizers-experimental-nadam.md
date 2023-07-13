@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers experimental nadam.
 - Write a code to set the centered value for a Nadam optimizer.
 - Write a code to get the current centered value of a Nadam optimizer.
 - Write a code to clear the states of a Nadam optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

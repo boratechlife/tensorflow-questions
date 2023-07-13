@@ -66,3 +66,17 @@ description: Practice questions for tf keras dtensor experimental optimizers ada
 - Write a code to set the decay to a cyclic learning rate schedule in the Adadelta optimizer.
 - Write a code to set the decay to a custom decay schedule in the Adadelta optimizer.
 - Write a code to set the epsilon to a step decay schedule in the Adadelta optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

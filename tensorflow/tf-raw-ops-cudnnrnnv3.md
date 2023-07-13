@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cudnnrnnv3.
 - Write a code to implement generative modeling using tf.raw_ops.CudnnRNNV3.
 - Write a code to implement reinforcement learning using tf.raw_ops.CudnnRNNV3.
 - Write a code to implement collaborative filtering using tf.raw_ops.CudnnRNNV3.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

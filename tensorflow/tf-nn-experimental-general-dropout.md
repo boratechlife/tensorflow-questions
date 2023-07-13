@@ -66,3 +66,17 @@ description: Practice questions for tf nn experimental general dropout.
 - Write a code to apply general dropout to a TensorFlow tensor and adjust the dropout rate based on the current layer gradients.
 - Write a code to apply general dropout to a TensorFlow tensor and adjust the dropout rate based on the current layer output.
 - Write a code to apply general dropout to a TensorFlow tensor and adjust the dropout rate based on the current layer loss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

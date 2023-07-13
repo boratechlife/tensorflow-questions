@@ -115,3 +115,17 @@ description: Practice questions for tf keras mixed precision set global policy.
 - Write a code to set the global policy to "float32" and enable automatic casting using tf.keras.mixed_precision.experimental.set_policy.
 - 
 - Write a code to set the global policy to "float64" and enable automatic casting using tf.keras.mixed_precision.experimental.set_policy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

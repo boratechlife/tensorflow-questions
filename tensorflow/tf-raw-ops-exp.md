@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops exp.
 - Write a code to compute the exponential of a tensor and find the indices where the values are not equal to a specified threshold using "tf.raw_ops.Exp".
 - Write a code to exponentiate each element in a tensor and calculate the element-wise cosine similarity with another tensor using "tf.raw_ops.Exp".
 - Write a code to calculate the exponential of a tensor and find the indices where the values are not equal to zero within a specified tolerance using "tf.raw_ops.Exp".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

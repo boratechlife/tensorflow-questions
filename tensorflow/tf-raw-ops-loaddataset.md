@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loaddataset.
 - Write a code to load a dataset using tf.raw_ops.LoadDataset and perform transfer learning using a pre-trained language model.
 - Write a code to load a dataset using tf.raw_ops.LoadDataset and apply a variational autoencoder (VAE) for anomaly detection.
 - Write a code to load a dataset using tf.raw_ops.LoadDataset and perform style transfer using a deep learning model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -115,3 +115,17 @@ description: Practice questions for tf tensorspec.
 - Write a code to create a tensor spec with shape (None, 4, 4) and data type int32.
 - 
 - Write a code to create a tensor spec with shape (None, None) and data type uint8.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

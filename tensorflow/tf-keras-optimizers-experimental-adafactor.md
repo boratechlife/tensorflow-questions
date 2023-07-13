@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers experimental adafactor.
 - Write a code to create an Adafactor optimizer and use it to train a model with a custom loss function.
 - Write a code to set the epsilon value for each parameter group in an Adafactor optimizer.
 - Write a code to configure the clipping value for each parameter group in an Adafactor optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

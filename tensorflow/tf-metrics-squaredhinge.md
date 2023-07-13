@@ -66,3 +66,17 @@ description: Practice questions for tf metrics squaredhinge.
 - Write a code to use the squared hinge loss metric to evaluate the generalization performance of a model.
 - Write a code to calculate the squared hinge loss for a graph neural network problem using tf.metrics.SquaredHinge.
 - Write a code to update the squared hinge loss metric with predictions and labels in a self-supervised learning scenario.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

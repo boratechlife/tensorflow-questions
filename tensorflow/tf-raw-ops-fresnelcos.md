@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fresnelcos.
 - Write a code to calculate the hyperbolic tangent of the difference between two sets of Fresnel cosine values using tf.raw_ops.FresnelCos.
 - Write a code to compute the square root of the absolute difference between two sets of squared Fresnel cosine values using tf.raw_ops.FresnelCos.
 - Write a code to calculate the sum of the squares of the differences between two sets of Fresnel cosine values using tf.raw_ops.FresnelCos.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

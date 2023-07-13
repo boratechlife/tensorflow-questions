@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops anonymousmutablehashtable.
 - Write a code to calculate the mode value of all the values in an AnonymousMutableHashTable.
 - Write a code to calculate the range of all the values in an AnonymousMutableHashTable.
 - Write a code to calculate the frequency distribution of all the values in an AnonymousMutableHashTable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

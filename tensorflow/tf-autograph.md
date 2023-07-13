@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to exclude specific TensorFlow operations from autograph conversion using tf.autograph.to_graph_v2.set_suppress_ops.
 - Write a code to customize the behavior of autograph using tf.autograph.to_graph_v2.set_suppress_libs.
 - Write a code to convert a TensorFlow graph into a TensorFlow autograph function using tf.autograph.to_graph_v3.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

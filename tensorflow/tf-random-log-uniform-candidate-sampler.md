@@ -66,3 +66,17 @@ description: Practice questions for tf random log uniform candidate sampler.
 - Write a code to get the seed value from a log uniform candidate sampler using TensorFlow.
 - Write a code to get the remove_accidental_hits value from a log uniform candidate sampler using TensorFlow.
 - Write a code to get the unigrams value from a log uniform candidate sampler using TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

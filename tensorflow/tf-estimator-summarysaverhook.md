@@ -66,3 +66,17 @@ description: Practice questions for tf estimator summarysaverhook.
 - Write a code to use the custom SummarySaverHook class in an existing Estimator with a save_secs value of 60.
 - Write a code to use the custom SummarySaverHook class in an existing Estimator that saves summaries to a specific directory.
 - Write a code to use the custom SummarySaverHook class in an existing Estimator that saves summaries with a specific prefix.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf random stateless parameterized truncated 
 - Write a code to generate a random tensor with a shape of (3, 3) and a mean of 0 using tf.random.stateless_parameterized_truncated_normal.
 - How can you generate a random tensor with values from a specific distribution and standard deviation using tf.random.stateless_parameterized_truncated_normal?
 - Write a code to generate a random tensor with a shape of (5, 5) and a standard deviation of 2.5 using tf.random.stateless_parameterized_truncated_normal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

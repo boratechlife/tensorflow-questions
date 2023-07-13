@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers embedding.
 - Write a code to add an Embedding layer with input dimension 10000, output dimension 200, input length 50, using a custom mask value, masking zero values only during training, trainable set to False, and applying a custom activity regularizer, to a sequential model.
 - Write a code to create an Embedding layer with input dimension 2000, output dimension 50, and specifying a custom mask value, mask zero values only during training, trainable as False, using a custom activity regularizer, and specifying a custom name.
 - Write a code to add an Embedding layer with input dimension 500, output dimension 100, input length 50, using a custom mask value, masking zero values only during training, trainable set to False, applying a custom activity regularizer, and specifying a custom name, to a sequential model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

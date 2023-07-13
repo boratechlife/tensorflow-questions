@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications densenet densenet169.
 - Write a code to set the callbacks for training DenseNet169.
 - Write a code to set the shuffle mode for the training data in DenseNet169.
 - Write a code to set the sample weighting mode for the training data in DenseNet169.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

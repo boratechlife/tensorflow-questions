@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental get device policy.
 - Write a code to toggle the device policy between "ERROR" and "SILENT" and display the new policy in a GUI window using the tkinter module.
 - Write a code to check if the device policy is set to "ERROR" or "WARN" and display the result in a GUI window using the tkinter module.
 - Write a code to get the current device policy and print its value using a custom logging library you created.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

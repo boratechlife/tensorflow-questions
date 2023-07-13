@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy sort.
 - Write a code to sort a NumPy array of objects and specify the kind of sort null placement.
 - Write a code to sort a NumPy array of objects and specify the kind of sort stability.
 - Write a code to sort a NumPy array of objects and specify the kind of sort parallelism.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

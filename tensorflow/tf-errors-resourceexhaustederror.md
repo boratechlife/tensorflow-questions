@@ -66,3 +66,17 @@ description: Practice questions for tf errors resourceexhaustederror.
 - Write a code to catch the "tf.errors.ResourceExhaustedError" exception and implement a data sharding strategy for memory-efficient training.
 - Write a code to catch the "tf.errors.ResourceExhaustedError" exception and use TensorFlow's memory alignment feature to reduce memory fragmentation.
 - Write a code to catch the "tf.errors.ResourceExhaustedError" exception and use TensorFlow's graph optimization techniques for memory efficiency.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

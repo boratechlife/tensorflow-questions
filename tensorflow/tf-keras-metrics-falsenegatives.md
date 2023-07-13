@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics falsenegatives.
 - How can you handle class imbalance and varying misclassification costs when using FalseNegatives metric?
 - Write a code to calculate the false negatives for a recommender system using tf.keras.metrics.FalseNegatives.
 - How can you incorporate user preferences and item popularity when using FalseNegatives metric in a recommender system?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

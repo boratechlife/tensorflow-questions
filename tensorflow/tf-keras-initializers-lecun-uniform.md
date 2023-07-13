@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers lecun uniform.
 - How can you initialize a TensorFlow layer with lecun_uniform initializer and set the gain parameter for a specific subset of weights and biases?
 - Write a code to initialize a 3D transposed convolutional layer with lecun_uniform initializer in TensorFlow.
 - How can you initialize a TensorFlow layer with lecun_uniform initializer and set the gain parameter for a specific subset of biases and weights?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

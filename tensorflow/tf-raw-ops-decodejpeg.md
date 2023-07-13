@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops decodejpeg.
 - How can you specify the desired fancy_upscaling parameter when decoding a batch of grayscale JPEG images with tf.raw_ops.DecodeJpeg?
 - Write a code to decode a batch of grayscale JPEG images with a specified ratio and dtype using tf.raw_ops.DecodeJpeg.
 - How can you specify the desired dct_method when decoding a batch of grayscale JPEG images with tf.raw_ops.DecodeJpeg?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

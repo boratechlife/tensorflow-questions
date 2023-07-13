@@ -66,3 +66,17 @@ description: Practice questions for tf nn relu.
 - Write a code to calculate the hyperbolic tangent (tanh) activation function with ReLU-like behavior using tf.nn.tanh().
 - Write a code to implement a 1D average pooling layer with ReLU activation using tf.nn.avg_pool().
 - Write a code to create a TensorFlow placeholder for input data and apply the ReLU activation function only to positive values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

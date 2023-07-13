@@ -66,3 +66,17 @@ description: Practice questions for tf errors outofrangeerror.
 - Write a code to handle an "OutOfRangeError" by logging the error and performing a rollback to a previous state using version control in TensorFlow.
 - Write a code to handle an "OutOfRangeError" by initiating a system-wide self-diagnosis and recovery procedure in TensorFlow.
 - Write a code to handle an "OutOfRangeError" by automatically collecting debug information and sending it to the developer in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

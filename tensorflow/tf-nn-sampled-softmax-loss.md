@@ -66,3 +66,17 @@ description: Practice questions for tf nn sampled softmax loss.
 - Write a code to implement model ensembling with multiple models trained using the sampled softmax loss.
 - Write a code to implement transfer learning with a pre-trained model using the sampled softmax loss.
 - Write a code to visualize the training progress, such as loss and accuracy, with the sampled softmax loss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

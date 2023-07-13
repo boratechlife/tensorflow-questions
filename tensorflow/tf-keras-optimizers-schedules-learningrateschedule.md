@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers schedules learningratesc
 - Write a code to create a learning rate schedule that decays based on the current batch size and training loss.
 - Write a code to create a learning rate schedule that decays based on the current batch size and gradient norm.
 - Write a code to create a learning rate schedule that decays based on the current batch size and weight norm.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

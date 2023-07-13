@@ -66,3 +66,17 @@ description: Practice questions for tf keras activations get.
 - Write a code to get the selu activation function with a specific dtype and name using tf.keras.activations.get.
 - Write a code to get the linear activation function with a specific dtype and name using tf.keras.activations.get.
 - Write a code to get the hard_sigmoid activation function with a specific dtype and name using tf.keras.activations.get.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

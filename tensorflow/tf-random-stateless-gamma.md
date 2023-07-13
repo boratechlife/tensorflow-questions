@@ -66,3 +66,17 @@ description: Practice questions for tf random stateless gamma.
 - Write a code to generate a random gamma-distributed value with shape [2, 3] and alpha [1.0, 2.0, 3.0] using tf.random.stateless_gamma and calculate its cumulative distribution using tfp.distributions.CumulativeDistributionFn.
 - Write a code to generate a random gamma-distributed value with shape [2, 3] and alpha [1.0, 2.0, 3.0] using tf.random.stateless_gamma and calculate its probability density using tfp.distributions.ProbabilityDensityFn.
 - Write a code to generate a random gamma-distributed value with shape [2, 3] and alpha [1.0, 2.0, 3.0] using tf.random.stateless_gamma and apply the tf.linalg.matmul function to it with a 2x2 matrix.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

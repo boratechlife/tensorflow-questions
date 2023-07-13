@@ -115,3 +115,17 @@ description: Practice questions for tf image non max suppression with scores.
 - Write a code to use "tf.image.non_max_suppression_with_scores" to perform non-maximum suppression on a set of bounding boxes and scores, with both a score threshold and an iou threshold, and return the selected indices.
 - 
 - Write a code to apply non-maximum suppression on a set of bounding boxes and scores using TensorFlow's "tf.image.non_max_suppression_with_scores", with both a score threshold and an iou threshold, and return the selected indices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

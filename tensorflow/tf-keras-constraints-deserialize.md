@@ -66,3 +66,17 @@ description: Practice questions for tf keras constraints deserialize.
 - Write a code to handle errors when serializing a Keras constraint to a CSV file.
 - Write a code to deserialize and apply a Keras constraint to a model layer.
 - Write a code to serialize and save a Keras constraint with a model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

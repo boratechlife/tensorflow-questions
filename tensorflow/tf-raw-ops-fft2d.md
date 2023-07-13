@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fft2d.
 - Write a code to perform a 2D phase unwrapping using tf.raw_ops.FFT2D and inverse FFT.
 - Write a code to apply a 2D histogram equalization to an image using tf.raw_ops.FFT2D.
 - Write a code to calculate the 2D phase spectrum of a signal using tf.raw_ops.FFT2D.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

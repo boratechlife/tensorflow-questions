@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy arccosh.
 - Write a code to compute the arccosh of a numpy array using TensorFlow and convert the result to a binary string.
 - Write a code to find the arccosh of all negative numbers in an array using TensorFlow and convert the result to a Roman numeral.
 - Write a code to calculate the arccosh of a tensor with shape (3, 3) using TensorFlow and convert the result to a fraction with a common denominator
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

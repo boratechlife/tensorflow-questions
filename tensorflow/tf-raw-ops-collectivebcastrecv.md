@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectivebcastrecv.
 - How can you handle situations where the broadcasted tensor is a sparse or irregular data structure when receiving it using tf.raw_ops.CollectiveBcastRecv in TensorFlow?
 - Implement a code snippet to receive a broadcasted tensor and perform distributed computations or parallel operations on the received tensor using tf.raw_ops.CollectiveBcastRecv in TensorFlow.
 - Write a code to specify the tensor_name, src_device, send_device, shape, timeout_micros, and group_size parameters when using tf.raw_ops.CollectiveBcastRecv in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

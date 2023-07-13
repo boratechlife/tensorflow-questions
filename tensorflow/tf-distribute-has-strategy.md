@@ -115,3 +115,17 @@ description: Practice questions for tf distribute has strategy.
 - Write a code to check if a strategy exists and create a strategy with a specific pipeline parallelism scheme if it doesn't using tf.distribute.has_strategy().
 - 
 - Write a code to check if a strategy exists and create a strategy with a specific sparsity-aware training technique if it doesn't using tf.distribute.has_strategy().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

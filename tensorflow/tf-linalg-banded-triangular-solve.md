@@ -66,3 +66,17 @@ description: Practice questions for tf linalg banded triangular solve.
 - Write a code to solve a banded triangular system of equations using tf.linalg.banded_triangular_solve and handle cases where the matrix is close to being nearly poorly conditioned and provide a warning message.
 - Write a code to solve a banded triangular system of equations using tf.linalg.banded_triangular_solve and handle cases where the matrix is close to being singular and raise an exception.
 - Write a code to solve a banded triangular system of equations using tf.linalg.banded_triangular_solve and handle cases where the matrix is close to being ill-conditioned and raise an exception.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

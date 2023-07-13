@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications inception resnet v2.
 - Write a code to calculate the R-squared score of the InceptionResNetV2 model on a validation dataset.
 - Write a code to perform model selection for the InceptionResNetV2 model using cross-validation.
 - Write a code to implement early stopping during training of the InceptionResNetV2 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

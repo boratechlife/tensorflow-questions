@@ -66,3 +66,17 @@ description: Practice questions for tf keras saving.
 - Write a code to save and load a Keras model using the TensorFlow 2.x format with a different file name using model.save() and specifying the filepath argument.
 - Write a code to save and load a Keras model using the TensorFlow 2.x format with a different file path using model.save() and specifying the filepath argument.
 - Write a code to save and load a Keras model using the TensorFlow 2.x format with a different options using model.save() and specifying the options argument.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

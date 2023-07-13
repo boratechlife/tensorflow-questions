@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy argmax.
 - Write a code to find the indices of the top k maximum elements along a specific axis in a 2D NumPy array and handle ties using tf.experimental.numpy.argmax.
 - Write a code to find the indices of the top k maximum elements along multiple axes in a 3D NumPy array and handle ties using tf.experimental.numpy.argmax.
 - Write a code to find the indices of the top k maximum elements in a flattened 2D NumPy array and handle ties using tf.experimental.numpy.argmax.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental scan.
 - Write a code to calculate the rolling kurtosis of elements in a TensorFlow dataset using tf.data.experimental.scan and a window size of 15.
 - Write a code to perform element-wise exponentiation on a TensorFlow dataset using tf.data.experimental.scan.
 - Write a code to calculate the cumulative product of elements in a TensorFlow dataset using tf.data.experimental.scan and initial value 1.5.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

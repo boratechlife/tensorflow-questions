@@ -66,3 +66,17 @@ description: Practice questions for tf linalg linearoperatorinversion.
 - Write a code to calculate the matrix cosine of a skew-Hermitian matrix using "tf.linalg.LinearOperatorInversion".
 - Write a code to compute the matrix tangent of a skew-Hermitian matrix using "tf.linalg.LinearOperatorInversion".
 - Write a code to calculate the matrix hyperbolic sine of a skew-Hermitian matrix using "tf.linalg.LinearOperatorInversion".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

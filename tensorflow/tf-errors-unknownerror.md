@@ -66,3 +66,17 @@ description: Practice questions for tf errors unknownerror.
 - Write a code to handle a "tf.errors.UnknownError" by collecting and analyzing performance metrics and system statistics.
 - Write a code to handle a "tf.errors.UnknownError" by sending a request to a health check endpoint or system status API.
 - Write a code to handle a "tf.errors.UnknownError" by executing a custom recovery logic based on predefined rules or conditions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

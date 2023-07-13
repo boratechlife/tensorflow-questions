@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnet decode pr
 - Write a code to calculate the total memory usage of the EfficientNet model.
 - Write a code to visualize the architecture of the EfficientNet model.
 - Write a code to check if EfficientNet is available in the tf.keras.applications module.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

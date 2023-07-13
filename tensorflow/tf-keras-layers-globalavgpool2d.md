@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers globalavgpool2d.
 - Write a code to add a GlobalAvgPool2D layer after a flatten layer in a VGG-style neural network.
 - Write a code to create a neural network model with GlobalAvgPool2D and residual layers.
 - Write a code to apply GlobalAvgPool2D to the output of a convolutional layer with batch normalization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

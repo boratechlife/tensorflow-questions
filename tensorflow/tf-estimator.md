@@ -66,3 +66,17 @@ description: Practice questions for tf estimator.
 - Write a code to set up a hook to implement early stopping based on validation loss.
 - Write a code to implement dropout regularization with an estimator.
 - Write a code to implement batch normalization with an estimator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

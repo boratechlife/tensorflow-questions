@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops quantizedmatmulwithbiasanddequant
 - Write a code snippet to perform quantized matrix multiplication with bias and dequantization using tf.raw_ops.QuantizedMatMulWithBiasAndDequantize in TensorFlow.
 - 
 - How can you use tf.raw_ops.QuantizedMatMulWithBiasAndDequantize in TensorFlow to multiply two quantized matrices, add a bias, and then dequantize the result?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

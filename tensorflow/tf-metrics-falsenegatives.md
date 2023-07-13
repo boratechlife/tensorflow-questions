@@ -66,3 +66,17 @@ description: Practice questions for tf metrics falsenegatives.
 - Write a code to calculate the false negatives for a natural language processing (NLP) task evaluation using tf.metrics.FalseNegatives.
 - Write a code to calculate the false negatives for a time series anomaly detection evaluation using tf.metrics.FalseNegatives.
 - Write a code to calculate the false negatives for a clustering evaluation using tf.metrics.FalseNegatives.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

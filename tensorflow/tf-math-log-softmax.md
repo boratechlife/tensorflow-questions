@@ -66,3 +66,17 @@ description: Practice questions for tf math log softmax.
 - Write a code to calculate the log softmax of a tensor and calculate the element-wise addition with a constant tensor.
 - Write a code to compute the log softmax of a tensor and calculate the element-wise division with a tensor of the same shape.
 - Write a code to apply the log softmax function to a tensor and calculate the element-wise maximum with a tensor of the same shape.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

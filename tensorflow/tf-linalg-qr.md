@@ -66,3 +66,17 @@ description: Practice questions for tf linalg qr.
 - Write a code to calculate the matrix inverse hyperbolic sine of a matrix using QR decomposition with tf.linalg.qr.
 - Write a code to calculate the matrix inverse hyperbolic cosine of a matrix using QR decomposition with tf.linalg.qr.
 - Write a code to calculate the matrix inverse hyperbolic tangent of a matrix using QR decomposition with tf.linalg.qr.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

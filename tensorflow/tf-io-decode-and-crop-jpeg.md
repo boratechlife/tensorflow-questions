@@ -66,3 +66,17 @@ description: Practice questions for tf io decode and crop jpeg.
 - How can you decode and crop a JPEG image with a specific chroma upsample filter quality?
 - Write a code to decode and crop a JPEG image with a specific scale aspect ratio jitter.
 - How can you decode and crop a JPEG image with a specific chroma downscale filter?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

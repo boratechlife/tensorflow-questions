@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mirrorpadgrad.
 - Write a code to perform mirror padding gradient on a 3D tensor with dynamically calculated paddings, different mirror modes, and asymmetric paddings with variable-size paddings using tf.raw_ops.MirrorPadGrad.
 - Write a code to apply mirror padding gradient on a 4D tensor with dynamically calculated paddings, different mirror modes, and symmetric paddings with variable-size paddings using tf.raw_ops.MirrorPadGrad.
 - Write a code to compute the gradient using tf.raw_ops.MirrorPadGrad for a given input tensor and dynamically calculated paddings with different mirror modes and variable-size paddings.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

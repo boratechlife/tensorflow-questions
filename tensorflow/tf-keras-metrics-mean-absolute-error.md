@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics mean absolute error.
 - Write a code to calculate the mean absolute error for a multi-class classification model's predictions using tf.keras.metrics.mean_absolute_error.
 - Write a code to calculate the mean absolute error for a multi-label classification model's predictions using tf.keras.metrics.mean_absolute_error.
 - Write a code to calculate the mean absolute error for a survival analysis model's predictions using tf.keras.metrics.mean_absolute_error.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

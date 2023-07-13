@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image random brightne
 - How can you apply random brightness augmentation to images with a specific brightness range using tf.keras.preprocessing.image.random_brightness?
 - Write a code to generate a random brightness value with a minimum value of -0.3 and maximum value of 0.3 using tf.keras.preprocessing.image.random_brightness.
 - How can you apply random brightness augmentation to images with a specific contrast range using tf.keras.preprocessing.image.random_brightness?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

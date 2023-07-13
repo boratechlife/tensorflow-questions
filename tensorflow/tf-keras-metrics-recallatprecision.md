@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics recallatprecision.
 - Write a code to calculate the recall at precision for a plagiarism detection problem.
 - Write a code to calculate the recall at precision for a knowledge graph embedding task.
 - Write a code to calculate the recall at precision for a recommendation system with deep learning models.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

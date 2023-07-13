@@ -66,3 +66,17 @@ description: Practice questions for tf nest flatten.
 - Write a code to flatten a deeply nested mixed structure of different depths using tf.nest.flatten.
 - Write a code to flatten a deeply nested mixed structure with empty containers using tf.nest.flatten.
 - Write a code to flatten a deeply nested mixed structure with None values using tf.nest.flatten.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

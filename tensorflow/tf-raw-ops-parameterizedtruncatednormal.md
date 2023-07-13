@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Create a code snippet to generate samples from a parameterized truncated normal distribution and calculate their autocorrelation.
 - Write a code to generate a parameterized truncated normal distribution with a mean of -3 and a standard deviation of 1.2.
 - How can you use the full_distribution_shape parameter of tf.raw_ops.ParameterizedTruncatedNormal to specify the shape of the underlying untruncated distribution?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

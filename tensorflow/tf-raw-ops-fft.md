@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fft.
 - Write a code to compute the 1D circular cross-correlation theorem using tf.raw_ops.FFT.
 - Write a code to compute the 2D circular cross-correlation theorem using tf.raw_ops.FFT.
 - Write a code to compute the 3D circular cross-correlation theorem using tf.raw_ops.FFT.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

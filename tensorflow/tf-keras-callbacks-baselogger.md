@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks baselogger.
 - Write a code to print the current loss and accuracy for each batch using the BaseLogger callback.
 - Write a code to save the loss and accuracy values to separate files after each epoch using the BaseLogger callback.
 - Write a code to customize the output format of the BaseLogger callback.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

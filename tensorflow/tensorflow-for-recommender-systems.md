@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you incorporate social network information in recommender systems using TensorFlow?
 - Explain the concept of transfer learning in recommender systems. How can TensorFlow be used for transfer learning-based recommenders?
 - What are the current research trends and future directions in TensorFlow for recommender systems?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

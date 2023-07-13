@@ -43,3 +43,17 @@ description: Practice questions for tf tensor.
 - Write a code to perform element-wise multiplication between two tensors of shape (2, 3).
 - Write a code to perform element-wise division between two tensors of shape (2, 3).
 - Write a code to perform matrix multiplication between two tensors of shape (2, 3)
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

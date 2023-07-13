@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy tensordot.
 - Write a code to calculate the tensor dot product between a tensor and a matrix with model visualization using tf.experimental.numpy.tensordot.
 - Write a code to calculate the tensor dot product between a tensor and a matrix with model interpretability using tf.experimental.numpy.tensordot.
 - Write a code to calculate the tensor dot product between a tensor and a matrix with model deployment using tf.experimental.numpy.tensordot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

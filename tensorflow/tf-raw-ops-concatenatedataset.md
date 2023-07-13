@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops concatenatedataset.
 - Implement a code to concatenate a list of TensorFlow datasets and calculate the mean of the elements in the resulting dataset using tf.raw_ops.ConcatenateDataset.
 - Write a code to concatenate two TensorFlow datasets and calculate the sum of the elements in the resulting dataset using tf.raw_ops.ConcatenateDataset.
 - How can you concatenate multiple TensorFlow datasets and calculate the sum of the elements in the resulting dataset using tf.raw_ops.ConcatenateDataset?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

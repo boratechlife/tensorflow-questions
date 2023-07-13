@@ -66,3 +66,17 @@ description: Practice questions for tf image crop and resize.
 - Write a code to crop and resize an image using tf.image.crop_and_resize with a specific extrapolation inpainting criminisi mode.
 - Write a code to crop and resize an image using tf.image.crop_and_resize with a specific extrapolation inpainting poisson mode.
 - Write a code to crop and resize an image using tf.image.crop_and_resize with a specific extrapolation inpainting telea mode.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

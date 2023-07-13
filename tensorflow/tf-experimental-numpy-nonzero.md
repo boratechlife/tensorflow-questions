@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy nonzero.
 - Write a code to resize a NumPy array by excluding the non-zero elements using "tf.experimental.numpy.nonzero".
 - Write a code to perform element-wise addition of two NumPy arrays, considering only the non-zero elements using "tf.experimental.numpy.nonzero".
 - Write a code to perform element-wise multiplication of two NumPy arrays, considering only the non-zero elements using "tf.experimental.numpy.nonzero".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

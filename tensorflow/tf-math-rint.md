@@ -66,3 +66,17 @@ description: Practice questions for tf math rint.
 - Write a code to round a tensor to the nearest number with a given number of significant bits using tf.math.rint.
 - Write a code to round a tensor to the nearest number with a given number of leading significant bits using tf.math.rint.
 - Write a code to round a tensor to the nearest number with a given number of trailing significant bits using tf.math.rint.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

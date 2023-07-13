@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers identity.
 - Write a code to initialize a 3D identity tensor of shape (6, 6, 6) using tf.keras.initializers.Identity and seed=987, distribution='truncated_normal'.
 - Write a code to initialize a 2D identity matrix with a scale factor of 0.1 using tf.keras.initializers.Identity and seed=987, distribution='truncated_normal'.
 - Write a code to initialize a 3D identity tensor with a scale factor of 10 using tf.keras.initializers.Identity and seed=987, distribution='truncated_normal'.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

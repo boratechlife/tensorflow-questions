@@ -66,3 +66,17 @@ description: Practice questions for tf floor.
 - Write a code to find the floor of a tensor and round positive values to the nearest even integer, while clipping values below a threshold to a specified constant using tf.floor.
 - Write a code to perform element-wise floor division of a tensor by a scalar and round positive values to the nearest even integer, while clipping values below a threshold to a specified constant using tf.floor.
 - Write a code to apply tf.floor to each element of a tensor and clip values above a threshold to zero, while rounding positive values to the nearest even integer, and replacing negative values with a specified constant.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

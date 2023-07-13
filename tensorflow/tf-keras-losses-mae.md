@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses mae.
 - Write a code to calculate the MAE loss for a regression problem with different evaluation metrics using tf.keras.losses.MAE.
 - Write a code to calculate the MAE loss for a regression problem with early stopping and model checkpointing using tf.keras.losses.MAE.
 - Write a code to calculate the MAE loss for a regression problem with different batch sizes using tf.keras.losses.MAE.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

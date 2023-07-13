@@ -66,3 +66,17 @@ description: Practice questions for tf lite.
 - Write a code to set the inference output type for a TensorFlow Lite model.
 - Write a code to set the number of threads for TensorFlow Lite model loading.
 - Write a code to convert a TensorFlow Lite model to a TFLite FlatBuffer model with metadata.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

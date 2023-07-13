@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers schedules inversetimedec
 - Write a code to create an InverseTimeDecay object with a piecewise linear decay schedule.
 - Write a code to set the decay steps and learning rate values for an InverseTimeDecay object with a piecewise linear decay schedule.
 - Write a code to create an InverseTimeDecay object with a customized decay schedule.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

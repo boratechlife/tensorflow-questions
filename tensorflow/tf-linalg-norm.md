@@ -66,3 +66,17 @@ description: Practice questions for tf linalg norm.
 - Write a code to calculate the matrix hyperbolic arcsine of a given matrix using tf.linalg.norm.
 - Write a code to calculate the matrix hyperbolic arctangent of a given matrix using tf.linalg.norm.
 - Write a code to calculate the matrix hyperbolic cotangent of a given matrix using tf.linalg.norm.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

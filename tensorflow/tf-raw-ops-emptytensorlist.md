@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops emptytensorlist.
 - How can you compute the element-wise cosine of all tensors in an empty tensor list using "tf.raw_ops.EmptyTensorList"?
 - Write a code to apply a Gaussian blur to all tensors in an empty tensor list using "tf.raw_ops.EmptyTensorList".
 - How can you compute the element-wise tangent of all tensors in an empty tensor list using "tf.raw_ops.EmptyTensorList"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

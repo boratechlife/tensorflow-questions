@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers legacy optimizer.
 - Write a code to create an optimizer with AdaBelief optimization.
 - Write a code to create an optimizer with NovoGrad optimization.
 - Write a code to create an optimizer with NAdam optimization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

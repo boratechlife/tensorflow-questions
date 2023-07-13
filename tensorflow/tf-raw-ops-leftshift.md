@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops leftshift.
 - Write a code to left shift a tensor by a value obtained from a remote REST API.
 - Write a code to left shift each element of a tensor by a value obtained from a Kafka message.
 - Write a code to perform a left shift operation on a tensor and return the result as a TensorFlow constant tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

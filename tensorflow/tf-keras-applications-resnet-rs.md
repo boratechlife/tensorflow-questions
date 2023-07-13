@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet rs.
 - Write a code to implement transfer learning with ResNet50 for a binary classification task.
 - Write a code to implement transfer learning with ResNet50 for an object detection task.
 - Write a code to implement transfer learning with ResNet50 for a semantic segmentation task.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

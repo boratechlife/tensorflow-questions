@@ -66,3 +66,17 @@ description: Practice questions for tf debugging is traceback filtering enabled.
 - Write a code to print "Traceback filtering is enabled" if is_traceback_filtering_enabled is True and log a success message, or log an error message otherwise.
 - Write a code to print "Traceback filtering is disabled" if is_traceback_filtering_enabled is False and log a success message, or log an error message otherwise.
 - Write a code to enable traceback filtering and print "Traceback filtering enabled" if successful, otherwise print an error message and log the error.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

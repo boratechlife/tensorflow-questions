@@ -66,3 +66,17 @@ description: Practice questions for tf pow.
 - Write a code to calculate the element-wise reciprocal of the logarithm of a TensorFlow tensor.
 - Write a code to calculate the element-wise power of a TensorFlow tensor to the reciprocal of the logarithm of another TensorFlow tensor.
 - Write a code to calculate the element-wise square root of the exponential of a TensorFlow tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops barrierinsertmany.
 - How can you set the "shapes" parameter for "tf.raw_ops.BarrierInsertMany" in your code?
 - Write a code to insert barriers with different shapes of input tensors using "tf.raw_ops.BarrierInsertMany".
 - How can you set the "use_ref_dtype" parameter for "tf.raw_ops.BarrierInsertMany" in your code?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

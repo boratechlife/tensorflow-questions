@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy hypot.
 - Write a code to calculate the hypotenuse of two arrays and find the element-wise logarithm values with a specified base using tf.experimental.numpy.hypot.
 - Write a code to calculate the hypotenuse of two arrays and find the element-wise sine values using tf.experimental.numpy.hypot.
 - Write a code to calculate the hypotenuse of two arrays and find the element-wise cosine values using tf.experimental.numpy.hypot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

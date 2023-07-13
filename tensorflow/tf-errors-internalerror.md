@@ -66,3 +66,17 @@ description: Practice questions for tf errors internalerror.
 - Write a code to handle "tf.errors.InternalError" and perform a retry with a custom delay strategy.
 - Write a code to handle "tf.errors.InternalError" and log the exception details to a remote logging service.
 - Write a code to handle "tf.errors.InternalError" and perform a fallback operation with cached data.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

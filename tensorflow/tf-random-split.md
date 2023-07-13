@@ -66,3 +66,17 @@ description: Practice questions for tf random split.
 - Write a code to split a TensorFlow tensor into four equal parts using "tf.random.split".
 - Write a code to split a given tensor into three parts, where the first part contains 40% of the original tensor and the second part contains 30% using "tf.random.split".
 - Write a code to split a TensorFlow tensor into three parts such that the sizes of the parts are in the ratio 2:3:4 using "tf.random.split".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

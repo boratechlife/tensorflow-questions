@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy tri.
 - Write a code to create a triangular matrix with ones below the main diagonal and a specific value on the main diagonal using tf.experimental.numpy.tri.
 - Write a code to generate a 5x5 matrix with ones on the main diagonal and increasing values above it using tf.experimental.numpy.tri.
 - Write a code to create a lower triangular matrix with ones on the main diagonal and negative values below it using tf.experimental.numpy.tri.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

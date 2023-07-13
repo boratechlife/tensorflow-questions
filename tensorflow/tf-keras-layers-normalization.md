@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers normalization.
 - Write a code to set the momentum parameter of a layer normalization layer to 0.9.
 - Write a code to set the momentum parameter of a group normalization layer to 0.9.
 - Write a code to set the momentum parameter of an instance normalization layer to 0.9.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

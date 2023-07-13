@@ -66,3 +66,17 @@ description: Practice questions for tf config logicaldevice.
 - Write a code to get the logical device name of a physical device.
 - Write a code to get the GPU device name of a logical device.
 - Write a code to get the logical device name of a GPU device.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing r
 - How can you apply random rotations with different probability distributions for rotation angles to different images using RandomRotation?
 - Write a code to rotate images randomly and apply a specific translation.
 - How can you apply random rotations with different ranges of rotation angles to different images using RandomRotation?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

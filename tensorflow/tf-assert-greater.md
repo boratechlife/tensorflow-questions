@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to assert that all elements in tensor x are greater than or equal to the element-wise maximum of tensors y and z using tf.assert_greater.
 - Write a code to check if the value of x is greater than or equal to the element-wise maximum of tensors y and z using tf.assert_greater.
 - Write a code to assert that all elements in tensor x are greater than or equal to the element-wise minimum of tensors y and z using tf.assert_greater.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf losses loss.
 - Write a code to calculate the log-Cosh loss using tf.losses.Loss.
 - Write a code to calculate the mixed loss using tf.losses.Loss.
 - Write a code to calculate the Jaccard loss using tf.losses.Loss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

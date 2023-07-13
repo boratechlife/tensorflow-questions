@@ -66,3 +66,17 @@ description: Practice questions for tf metrics rootmeansquarederror.
 - Write a code to update the root mean squared error metric during training for a sequence-to-sequence model.
 - Write a code to calculate the root mean squared error for a speech recognition model.
 - Write a code to update the root mean squared error metric during training for a speech recognition model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

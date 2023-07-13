@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy logspace.
 - Write a code to generate a logarithmic spaced array with 100 elements between 0.001 and 1,000,000 using tf.experimental.numpy.logspace.
 - Write a code to create a logarithmic spaced array with 20 elements between 1 and 10000 using tf.experimental.numpy.logspace.
 - Write a code to generate a logarithmic spaced array with 1000 elements between 0.1 and 1000000 using tf.experimental.numpy.logspace.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

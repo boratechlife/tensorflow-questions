@@ -66,3 +66,17 @@ description: Practice questions for tf estimator latestexporter.
 - Write a code to specify the serving input receiver function for LatestExporter.
 - Write a code to configure the export format for TensorFlow serving using LatestExporter.
 - Write a code to customize the checkpoint file delimiter using LatestExporter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

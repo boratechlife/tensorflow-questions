@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers adadelta.
 - Write a code to compile a model with the Adadelta optimizer and a specified step_size value.
 - Write a code to get the current step_size value of the Adadelta optimizer.
 - Write a code to set the staircase value of the Adadelta optimizer to True.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

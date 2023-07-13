@@ -66,3 +66,17 @@ description: Practice questions for tf image crop to bounding box.
 - How can you use crop_to_bounding_box to generate image patches for training a generative adversarial network (GAN)?
 - Write a code to crop an image based on the Euclidean distance from a specific pixel using crop_to_bounding_box.
 - How can you use crop_to_bounding_box to create a dataset of region proposals for object detection?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

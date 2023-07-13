@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy sin.
 - Write a code to calculate the sine of each element in a tensor and handle NaN values using "tf.experimental.numpy.sin".
 - Write a code to calculate the sine of a value and handle infinity values using "tf.experimental.numpy.sin".
 - Write a code to calculate the sine of an array of values and handle infinity values using "tf.experimental.numpy.sin".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

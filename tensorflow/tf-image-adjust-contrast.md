@@ -66,3 +66,17 @@ description: Practice questions for tf image adjust contrast.
 - Write a code to adjust the contrast of an image using deep learning-based enhancement models with tf.image.adjust_contrast.
 - Write a code to adjust the contrast of an image using content-aware contrast enhancement with tf.image.adjust_contrast.
 - Write a code to adjust the contrast of an image using perceptual contrast enhancement with tf.image.adjust_contrast.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

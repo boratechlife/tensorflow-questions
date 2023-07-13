@@ -66,3 +66,17 @@ description: Practice questions for tf nn sigmoid cross entropy with logits.
 - Write a code to apply sigmoid activation to logits and calculate the cross entropy loss using TensorFlow and MXNet.
 - Write a code to calculate the sigmoid cross entropy loss for binary classification with TensorFlow and MXNet.
 - Write a code to compute the sigmoid cross entropy loss for multi-label classification with TensorFlow and MXNet.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf math atan.
 - Write a code to calculate the arctangent of a TensorFlow tensor and compute the element-wise division with another tensor using tf.math.atan.
 - Write a code to calculate the arctangent of a TensorFlow tensor and compute the element-wise power of the result using tf.math.atan.
 - Write a code to calculate the arctangent of a TensorFlow tensor and compute the element-wise round to the nearest integer of the result using tf.math.atan.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

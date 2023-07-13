@@ -66,3 +66,17 @@ description: Practice questions for tf nn.
 - Write a code to implement the dropout regularization with a custom keep probability using tf.nn.dropout.
 - Write a code to apply the max pooling operation with custom ksize and strides using tf.nn.max_pool.
 - Write a code to implement a bidirectional recurrent neural network (RNN) with a custom activation function using tf.nn.bidirectional_dynamic_rnn.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

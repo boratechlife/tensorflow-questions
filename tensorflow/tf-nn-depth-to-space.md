@@ -66,3 +66,17 @@ description: Practice questions for tf nn depth to space.
 - How can you use depth-to-space transformation to enhance fine-grained details in an image?
 - Write a code to convert a tensor from depth to space, considering border handling options.
 - How can you use tf.nn.depth_to_space to perform efficient upsampling with separable convolutions?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf lite opsset.
 - Write a code to convert a list of operator names to tf.lite.OpsSet.
 - Write a code to perform a union of multiple tf.lite.OpsSet instances.
 - Write a code to perform an intersection of multiple tf.lite.OpsSet instances.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

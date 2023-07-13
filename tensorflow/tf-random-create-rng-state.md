@@ -66,3 +66,17 @@ description: Practice questions for tf random create rng state.
 - Write a code to generate a random tensor with a specific rank-deficiency using tf.random.create_rng_state.
 - Write a code to generate a random tensor with a specific condition number range using tf.random.create_rng_state.
 - Write a code to generate a random tensor with a specific sparsity level range using tf.random.create_rng_state.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

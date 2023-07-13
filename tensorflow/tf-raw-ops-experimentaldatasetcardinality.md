@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentaldatasetcardinality.
 - Write a code to check if two experimental datasets have the same cardinality using tf.raw_ops.ExperimentalDatasetCardinality.
 - Write a code to calculate the sum of the cardinalities of five experimental datasets using tf.raw_ops.ExperimentalDatasetCardinality.
 - Write a code to find the maximum cardinality among a set of five experimental datasets using tf.raw_ops.ExperimentalDatasetCardinality.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

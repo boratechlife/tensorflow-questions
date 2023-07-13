@@ -66,3 +66,17 @@ description: Practice questions for tf math sin.
 - Compute the sine of a 7D tensor and return the median value.
 - Find the sine of all values in a tensor and replace any infinite values with zero.
 - Write a code to calculate the sine of each element in a TensorFlow variable and return the result as a pandas DataFrame.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnetb1.
 - Write a code to implement stochastic depth regularization for EfficientNetB1.
 - Write a code to implement progressive resizing of input images during training of EfficientNetB1.
 - Write a code to implement knowledge distillation using EfficientNetB1 as the teacher model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

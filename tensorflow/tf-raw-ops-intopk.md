@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops intopk.
 - Write a code to determine if the maximum value in each column of a tensor is within the top K values.
 - Write a code to calculate the accuracy at K% using tf.raw_ops.InTopK.
 - Write a code to find the indices of the top K% values in each row of a tensor using tf.raw_ops.InTopK.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

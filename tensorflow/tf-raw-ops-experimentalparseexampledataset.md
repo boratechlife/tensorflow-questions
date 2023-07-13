@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalparseexampledataset.
 - Write a code to check if all the examples in an ExperimentalParseExampleDataset satisfy a given condition.
 - Write a code to find the unique values of a specific feature in the examples of an ExperimentalParseExampleDataset.
 - Write a code to perform a t-test between two groups of examples in an ExperimentalParseExampleDataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

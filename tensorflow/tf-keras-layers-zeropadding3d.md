@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers zeropadding3d.
 - Write a code to create a neural network model with a ZeroPadding3D layer followed by a pooling layer.
 - Write a code to create a neural network model with a ZeroPadding3D layer followed by a dense layer.
 - Write a code to create a neural network model with multiple ZeroPadding3D layers and various other layer types.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

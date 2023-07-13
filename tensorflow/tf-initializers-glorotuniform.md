@@ -66,3 +66,17 @@ description: Practice questions for tf initializers glorotuniform.
 - Write a code to initialize a weight matrix using tf.initializers.GlorotUniform and apply it as a transformer encoder layer to an input tensor.
 - Write a code to initialize a weight matrix using tf.initializers.GlorotUniform and apply it as a transformer decoder layer to an input tensor.
 - Write a code to initialize a weight matrix using tf.initializers.GlorotUniform and apply it as a residual network layer to an input tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf losses binary focal crossentropy.
 - Write a code to apply tf.losses.binary_focal_crossentropy to a model with text data.
 - Write a code to compute the binary focal cross-entropy loss and use it in an attention mechanism.
 - Write a code to calculate the binary focal cross-entropy loss and incorporate it into a Bayesian neural network.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

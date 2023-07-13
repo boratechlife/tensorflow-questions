@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers variance scaling.
 - Write a code to initialize a tensor with shape (3, 3) using tf.keras.initializers.variance_scaling and a scale parameter of 2.0 and a mode parameter of "fan_out".
 - Write a code to initialize a tensor with shape (3, 3) using tf.keras.initializers.variance_scaling and a distribution parameter of "truncated_normal" and a seed parameter of 42.
 - Write a code to initialize a tensor with shape (3, 3) using tf.keras.initializers.variance_scaling and a mode parameter of "fan_in" and a dtype parameter of tf.float64.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

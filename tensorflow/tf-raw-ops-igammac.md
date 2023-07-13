@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops igammac.
 - Write a code to compute the complement of the upper incomplete gamma function for a matrix using tf.raw_ops.Igammac.
 - Write a code to calculate the regularized lower incomplete gamma function for a matrix using tf.raw_ops.Igammac.
 - Write a code to determine the complement of the lower incomplete gamma function for a matrix using tf.raw_ops.Igammac.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

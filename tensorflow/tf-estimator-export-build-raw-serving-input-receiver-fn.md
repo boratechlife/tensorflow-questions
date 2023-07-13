@@ -66,3 +66,17 @@ description: Practice questions for tf estimator export build raw serving input 
 - Write a code to create a raw serving input receiver function that accepts a serialized proto and applies reinforcement learning on the input tensors.
 - Write a code to create a raw serving input receiver function that accepts a serialized proto and performs graph convolution on the input tensors.
 - Write a code to create a raw serving input receiver function that accepts a serialized proto and applies generative modeling on the input tensors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

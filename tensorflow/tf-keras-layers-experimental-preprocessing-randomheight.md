@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing r
 - Write a code to apply a RandomHeight layer followed by a RandomBrightness layer.
 - How can you set a fixed height value as a fraction of the original height in RandomHeight layer?
 - Can you use RandomHeight layer for aspect ratio-preserving cropping?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

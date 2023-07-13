@@ -66,3 +66,17 @@ description: Practice questions for tf image decode png.
 - Write a code to decode a PNG image and apply a random contrast and saturation adjustment using tf.image.decode_png and tf.image.random_contrast, tf.image.random_saturation.
 - Write a code to decode a PNG image and randomly flip it horizontally and vertically using tf.image.decode_png, tf.image.random_flip_left_right, and tf.image.random_flip_up_down.
 - Write a code to decode a PNG image and randomly adjust its brightness, contrast, and saturation using tf.image.decode_png, tf.image.random_brightness, tf.image.random_contrast, and tf.image.random_saturation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

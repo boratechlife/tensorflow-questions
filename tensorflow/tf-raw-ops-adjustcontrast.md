@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops adjustcontrast.
 - How can you adjust the contrast of an image using tf.raw_ops.AdjustContrast and perform adaptive histogram equalization on specific frequency bands?
 - Write a code to adjust the contrast of an image using tf.raw_ops.AdjustContrast and perform contrast-limited adaptive histogram equalization on specific frequency bands.
 - How can you adjust the contrast of an image using tf.raw_ops.AdjustContrast and perform contrast enhancement on specific spatial frequencies?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

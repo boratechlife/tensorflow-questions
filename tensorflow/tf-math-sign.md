@@ -66,3 +66,17 @@ description: Practice questions for tf math sign.
 - Write a code to find the first positive element in a tensor using tf.math.sign.
 - Write a code to find the first negative element in a tensor using tf.math.sign.
 - Write a code to find the index of the first positive element in a tensor using tf.math.sign.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

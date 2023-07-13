@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mappeek.
 - Write a code to calculate the rolling range of the elements returned by the MapPeek operation in TensorFlow.
 - Write a code to calculate the rolling sum of the elements returned by the MapPeek operation in TensorFlow within a specific window size.
 - Write a code to calculate the rolling average of the elements returned by the MapPeek operation in TensorFlow within a specific window size.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses poisson.
 - Write a code to calculate the Poisson loss and return the loss value as a scalar for a batch of predictions and targets with a specified reduction method using tf.keras.losses.Poisson and custom arguments.
 - Write a code to calculate the Poisson loss between two tensors of predictions and targets and return the loss for each sample with a specified reduction method using tf.keras.losses.Poisson and custom arguments.
 - Write a code to calculate the weighted Poisson loss for a batch of predictions and targets with a specified reduction method using tf.keras.losses.Poisson and custom arguments.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

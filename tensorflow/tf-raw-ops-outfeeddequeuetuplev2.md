@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops outfeeddequeuetuplev2.
 - How can you calculate the element-wise exponential of each element in the dequeued tuple using tf.raw_ops.OutfeedDequeueTupleV2?
 - Write a code to dequeue a tuple from the outfeed and perform a specific element-wise mathematical operation on its elements using tf.raw_ops.OutfeedDequeueTupleV2.
 - How can you calculate the element-wise logarithm of each element in the dequeued tuple using tf.raw_ops.OutfeedDequeueTupleV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

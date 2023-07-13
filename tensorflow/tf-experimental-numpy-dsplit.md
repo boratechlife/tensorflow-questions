@@ -115,3 +115,17 @@ description: Practice questions for tf experimental numpy dsplit.
 - Write a code to split a 3D NumPy array into multiple 2D arrays along the second dimension using tf.experimental.numpy.dsplit.
 - 
 - Write a code to split a 4D NumPy array into multiple 3D arrays along the fourth dimension using tf.experimental.numpy.dsplit.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

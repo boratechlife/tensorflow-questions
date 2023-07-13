@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers random uniform.
 - Write a code to initialize multiple bias vectors with random values drawn from a uniform distribution with a specific seed, minimum, maximum value, and a specific shape using tf.keras.initializers.random_uniform.
 - Write a code to initialize multiple tensors with random values drawn from a uniform distribution with a specific seed, minimum, maximum value, a specific shape, and a specific dtype using tf.keras.initializers.random_uniform.
 - Write a code to initialize multiple weight matrices with random values drawn from a uniform distribution with a specific seed, minimum, maximum value, a specific shape, and a specific dtype using tf.keras.initializers.random_uniform.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

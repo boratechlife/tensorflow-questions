@@ -66,3 +66,17 @@ description: Practice questions for tf math count nonzero.
 - Write a code to count the number of nonzero elements in a TensorFlow tensor and return their sorted values and indices.
 - Write a code to count the number of nonzero elements in a TensorFlow tensor and return their top K values.
 - Write a code to count the number of nonzero elements in a TensorFlow tensor and return their top K values and indices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

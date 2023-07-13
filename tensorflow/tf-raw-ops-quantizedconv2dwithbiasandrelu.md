@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedconv2dwithbiasandrelu.
 - Write a code to calculate the number of parameters (weights and biases) for a quantized convolution with bias and ReLU activation in a grouped convolution setting using tf.raw_ops.QuantizedConv2DWithBiasAndRelu.
 - Write a code to perform quantized convolution with bias and ReLU activation using a quantized filter group tensor and quantized bias tensor in a grouped convolution setting using tf.raw_ops.QuantizedConv2DWithBiasAndRelu.
 - Write a code to apply quantized convolution with bias and ReLU activation using a quantized filter group tensor in a grouped convolution setting using tf.raw_ops.QuantizedConv2DWithBiasAndRelu.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

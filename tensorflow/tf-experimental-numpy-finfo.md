@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy finfo.
 - Write a code to calculate the difference between 1.0 and the next representable negative zero for complex numbers.
 - Write a code to determine the smallest representable negative finite floating-point number for complex numbers.
 - Write a code to find the difference between 1.0 and the previous representable negative zero for complex numbers.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

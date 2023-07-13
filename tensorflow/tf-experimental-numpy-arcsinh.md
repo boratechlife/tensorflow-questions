@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy arcsinh.
 - Write a code to calculate the inverse hyperbolic sine of each element in a list of lists (LIL) matrix using tf.experimental.numpy.arcsinh.
 - Write a code to calculate the inverse hyperbolic sine of each element in a diagonal matrix using tf.experimental.numpy.arcsinh.
 - Write a code to calculate the inverse hyperbolic sine of each element in a random matrix using tf.experimental.numpy.arcsinh.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

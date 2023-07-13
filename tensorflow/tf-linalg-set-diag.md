@@ -66,3 +66,17 @@ description: Practice questions for tf linalg set diag.
 - Write a code to replace the diagonal elements of a matrix with the ceiling values of the elements using "tf.linalg.set_diag."
 - Write a code to replace the diagonal elements of a matrix with the rounded values of the elements using "tf.linalg.set_diag."
 - Write a code to replace the diagonal elements of a matrix with random values using "tf.linalg.set_diag."
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

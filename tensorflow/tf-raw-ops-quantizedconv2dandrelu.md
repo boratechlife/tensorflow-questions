@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedconv2dandrelu.
 - Write a code to define the filter shape for a quantized convolution operation with ReLU activation.
 - Write a code to define the filter layout for a quantized convolution operation with ReLU activation.
 - Write a code to set the filter weights for a quantized convolution operation with ReLU activation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

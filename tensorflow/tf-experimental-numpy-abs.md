@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy abs.
 - Write a code to calculate the absolute value of the element-wise logarithm of a NumPy array using tf.experimental.numpy.abs.
 - Write a code to calculate the absolute value of the element-wise square root of a NumPy array using tf.experimental.numpy.abs.
 - Write a code to calculate the absolute value of the element-wise trigonometric functions of a NumPy array using tf.experimental.numpy.abs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

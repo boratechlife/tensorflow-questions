@@ -66,3 +66,17 @@ description: Practice questions for tf nn tanh.
 - Write a code to create a self-organizing map with tf.nn.tanh activation function in the output layer.
 - Write a code to apply the tf.nn.tanh activation function to a tensor and calculate the element-wise sign of the output.
 - Write a code to compute the element-wise minimum of two tensors after applying the tf.nn.tanh activation function to both of them.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

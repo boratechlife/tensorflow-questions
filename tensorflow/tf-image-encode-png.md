@@ -66,3 +66,17 @@ description: Practice questions for tf image encode png.
 - Write a code to convert an image to PNG format and apply an image enhancement algorithm, such as histogram equalization.
 - Write a code to convert a PNG image to grayscale and perform image registration.
 - Write a code to convert an image to PNG format and apply a deep learning-based image style transfer algorithm.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

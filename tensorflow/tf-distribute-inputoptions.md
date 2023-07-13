@@ -66,3 +66,17 @@ description: Practice questions for tf distribute inputoptions.
 - Write a code to set the private threadpool size to 2 and enable autotuning using InputOptions.
 - Write a code to disable map fusion and parallel batch execution using InputOptions.
 - Write a code to get the current value of the experimental_optimization.autotune option of InputOptions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

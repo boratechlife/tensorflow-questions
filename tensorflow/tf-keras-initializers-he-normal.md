@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers he normal.
 - Write a code to create a sequential model with a recurrent layer initialized using he_normal initializer and a specific recurrent constraint.
 - Write a code to initialize a dense layer with he_normal initializer and set a specific fan_in value.
 - Write a code to initialize a convolutional layer with he_normal initializer and set a specific fan_out value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

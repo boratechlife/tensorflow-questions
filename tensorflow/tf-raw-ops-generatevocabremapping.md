@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops generatevocabremapping.
 - Implement a function that takes a text document, removes redundant phrases, and tokenizes it using tf.raw_ops.GenerateVocabRemapping.
 - How can you use tf.raw_ops.GenerateVocabRemapping to preprocess and tokenize text data with imbalanced classes for classification tasks?
 - Create a program that tokenizes and preprocesses imbalanced text data using tf.raw_ops.GenerateVocabRemapping and performs text classification with class weighting.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

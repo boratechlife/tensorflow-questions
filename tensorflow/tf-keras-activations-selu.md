@@ -66,3 +66,17 @@ description: Practice questions for tf keras activations selu.
 - Write a code to implement weight initialization techniques for a model with selu activation using tf.keras.
 - Write a code to create a residual block with selu activation for building a deep neural network in TensorFlow.
 - Write a code to implement early stopping and model checkpointing for a model with selu activation in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

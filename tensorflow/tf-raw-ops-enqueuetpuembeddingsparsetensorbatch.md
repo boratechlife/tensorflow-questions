@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops enqueuetpuembeddingsparsetensorba
 - How can you set the optimizer_name for enqueueing sparse tensors using "tf.raw_ops.EnqueueTPUEmbeddingSparseTensorBatch"?
 - Write a code to specify the gstep_constant argument for enqueueing sparse tensors with "tf.raw_ops.EnqueueTPUEmbeddingSparseTensorBatch".
 - How can you set the barrier_after_enqueue_constant for enqueueing sparse tensors using "tf.raw_ops.EnqueueTPUEmbeddingSparseTensorBatch"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops expanddims.
 - How can you use tf.raw_ops.ExpandDims to insert multiple new axes at multiple positions in a tensor using a mixture of negative dynamic, variable, and constant axis indices?
 - Write a code to expand the dimensions of a tensor using tf.raw_ops.ExpandDims with a mixture of negative dynamic, variable, and constant axis indices in a specific order.
 - How can you expand the dimensions of a tensor using tf.raw_ops.ExpandDims with a mixture of negative dynamic, variable, and constant axis indices in a specific order while ensuring uniqueness of the resulting axes?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

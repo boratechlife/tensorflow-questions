@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreesserializeensemble.
 - Write a code to deserialize an ensemble of boosted trees and obtain the deserialized data from a Kafka topic using tf.raw_ops.BoostedTreesSerializeEnsemble.
 - Write a code to serialize an ensemble of boosted trees and send it over a network using sockets using tf.raw_ops.BoostedTreesSerializeEnsemble.
 - Write a code to receive and deserialize an ensemble of boosted trees over a network using sockets using tf.raw_ops.BoostedTreesSerializeEnsemble.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

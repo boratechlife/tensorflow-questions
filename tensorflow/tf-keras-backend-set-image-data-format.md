@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend set image data format.
 - Write a code to resize an image and maintain the aspect ratio using the 'channels_last' image data format.
 - Write a code to flip an image horizontally using the current image data format.
 - Write a code to flip an image horizontally using the 'channels_last' image data format.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor initialize tpu syste
 - Write a code to enable TPU dynamic shape support using tf.experimental.dtensor.initialize_tpu_system().
 - Write a code to set the TPU variable replication using tf.experimental.dtensor.initialize_tpu_system().
 - Write a code to enable TPU automatic loss scaling using tf.experimental.dtensor.initialize_tpu_system().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

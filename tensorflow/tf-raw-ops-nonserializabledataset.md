@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops nonserializabledataset.
 - Write a code to preprocess video frames in a NonSerializableDataset object.
 - Write a code to extract features from video frames in a NonSerializableDataset object.
 - Write a code to create a NonSerializableDataset object from sensor data.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

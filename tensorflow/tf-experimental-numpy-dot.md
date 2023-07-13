@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy dot.
 - Write a code to calculate the dot product of two arrays with masked fractional values using tf.experimental.numpy.dot.
 - Write a code to calculate the dot product of two arrays with masked prime values using tf.experimental.numpy.dot.
 - Write a code to calculate the dot product of two arrays with masked composite values using tf.experimental.numpy.dot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

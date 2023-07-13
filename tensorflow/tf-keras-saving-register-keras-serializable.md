@@ -66,3 +66,17 @@ description: Practice questions for tf keras saving register keras serializable.
 - Write a code to create a custom Keras layer and register it as a serializable class with a custom name, custom serialization and deserialization functions, additional metadata, and using a custom base class, and specify a custom deserialization constructor using register_keras_serializable.
 - Write a code to create a custom Keras model and register it as a serializable class with a custom name, custom serialization and deserialization functions, additional metadata, and using a custom base class, and specify a custom deserialization constructor using register_keras_serializable.
 - Write a code to define a custom Keras layer and register it as a serializable class with a custom name, custom serialization and deserialization functions, additional metadata, and using a custom base class, and specify a custom deserialization constructor using register_keras_serializable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

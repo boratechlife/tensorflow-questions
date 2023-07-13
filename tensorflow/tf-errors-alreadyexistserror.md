@@ -66,3 +66,17 @@ description: Practice questions for tf errors alreadyexistserror.
 - Write a code to check if a TensorFlow variable already exists before creating it.
 - Write a code to create a TensorFlow variable and handle the tf.errors.AlreadyExistsError if it already exists.
 - Write a code to delete a TensorFlow variable if it already exists to avoid the tf.errors.AlreadyExistsError.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

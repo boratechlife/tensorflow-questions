@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to add two tensors with different shapes and broadcasting, and convert the result to a different data type using tf.add_n.
 - Write a code to add two tensors with different shapes and broadcasting, and then multiply the result by a scalar using tf.add_n.
 - Write a code to add two tensors with different shapes and broadcasting, and then perform an element-wise multiplication using tf.add_n.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

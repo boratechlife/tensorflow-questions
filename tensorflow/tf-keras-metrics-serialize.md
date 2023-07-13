@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics serialize.
 - Write a code to serialize a metric dictionary, convert it to CSV, save it to a file, and load it back using tf.keras.metrics.serialize.
 - Write a code to deserialize a metric dictionary from a CSV file and convert it to a metric dictionary using tf.keras.metrics.serialize.
 - Write a code to serialize a metric dictionary and convert it to a pandas DataFrame using tf.keras.metrics.serialize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

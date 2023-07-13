@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conv3d.
 - How can you apply an activation function to the output of tf.raw_ops.Conv3DBackpropFilterV2?
 - Write a code to set the data type for the input tensor in tf.raw_ops.Conv3DBackpropFilterV2.
 - How do you set the data type for the output gradient tensor in tf.raw_ops.Conv3DBackpropFilterV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

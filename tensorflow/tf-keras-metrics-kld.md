@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics kld.
 - Write a code to calculate the KLD between two probability distributions and handle cases where the distributions have different frequencies using tf.keras.metrics.kld.
 - Write a code to calculate the KLD between two probability distributions and handle cases where the distributions have different units of energy using tf.keras.metrics.kld.
 - Write a code to calculate the KLD between two probability distributions and handle cases where the distributions have different units of power using tf.keras.metrics.kld.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

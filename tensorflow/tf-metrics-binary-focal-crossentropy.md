@@ -66,3 +66,17 @@ description: Practice questions for tf metrics binary focal crossentropy.
 - Write a code to calculate the binary focal cross entropy loss for a binary classification problem with ground truth labels and predicted probabilities using tf.metrics.binary_focal_crossentropy.
 - Write a code to compute the binary focal cross entropy between two tensors representing probability distributions using tf.metrics.binary_focal_crossentropy.
 - Write a code to define a binary focal cross entropy loss function as a TensorFlow graph operation using tf.metrics.binary_focal_crossentropy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

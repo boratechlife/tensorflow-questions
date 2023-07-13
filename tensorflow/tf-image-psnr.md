@@ -66,3 +66,17 @@ description: Practice questions for tf image psnr.
 - Write a code to calculate the PSNR between two images and calculate the PSNR for images with different gamma correction.
 - Write a code to calculate the PSNR between two images and calculate the PSNR for images with different exposure levels.
 - Write a code to calculate the PSNR between two images and calculate the PSNR for images with different white balance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

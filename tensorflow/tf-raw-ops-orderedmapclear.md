@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops orderedmapclear.
 - What precautions should be taken when using "tf.raw_ops.OrderedMapClear" to clear an ordered map with large values?
 - Create a code to clear an ordered map and log the execution time and memory usage before and after clearance using "tf.raw_ops.OrderedMapClear."
 - Write a code to clear an ordered map and validate the cleared map by performing specific checks on its keys or values using "tf.raw_ops.OrderedMapClear."
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

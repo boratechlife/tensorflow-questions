@@ -66,3 +66,17 @@ description: Practice questions for tf initializers zeross.
 - Write a code to initialize a tensor with shape (3, 3, 3, 3, 3) using tf.initializers.zeros.
 - Write a code to initialize a tensor with shape (2, 2, 2, 2, 2, 2, 2, 2) using tf.initializers.zeros.
 - Write a code to initialize a tensor with shape (1, 10, 100) using tf.initializers.zeros.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

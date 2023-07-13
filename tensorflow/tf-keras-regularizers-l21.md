@@ -66,3 +66,17 @@ description: Practice questions for tf keras regularizers l21.
 - Write a code to create a neural network model with L2 regularization and momentum optimization on multiple layers using tf.keras.regularizers.l2.
 - Write a code to apply L2 regularization to a specific set of outputs in a recurrent layer using tf.keras.regularizers.l2.
 - Write a code to create a neural network model with L2 regularization and early stopping based on validation accuracy using tf.keras.regularizers.l2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

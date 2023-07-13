@@ -66,3 +66,17 @@ description: Practice questions for tf linalg eye.
 - Write a code to create a square matrix of size n and calculate the matrix determinant, trace, eigenvalues, eigenvectors, singular values, and condition number using "tf.linalg.eye" where n is a user input.
 - Write a code to create a square matrix of size n and calculate the matrix singular values, condition number, determinant, trace, eigenvalues, and eigenvectors using "tf.linalg.eye" where n is a user input.
 - Write a code to create a square matrix of size n and calculate the matrix eigenvalues, eigenvectors, condition number, determinant, trace, and singular values using "tf.linalg.eye" where n is a user input.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

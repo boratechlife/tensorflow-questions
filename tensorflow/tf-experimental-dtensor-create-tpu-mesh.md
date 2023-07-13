@@ -67,3 +67,17 @@ description: Practice questions for tf experimental dtensor create tpu mesh.
 - Write a code to create a TPU mesh with a custom network protocol alias.
 - How can you specify a custom logical-to-physical device map using tf.experimental.dtensor.create_tpu_mesh?
 - Write a code to create a TPU mesh with a custom logical-to-physical device map.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

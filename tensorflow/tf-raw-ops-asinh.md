@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops asinh.
 - Write a code to calculate the asinh of a TensorFlow tensor and calculate its element-wise power with another tensor.
 - Write a code to calculate the asinh of a TensorFlow tensor and calculate its element-wise logarithm with a specified base.
 - Write a code to calculate the asinh of a TensorFlow tensor and calculate its element-wise cumulative sum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

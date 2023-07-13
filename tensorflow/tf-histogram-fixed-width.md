@@ -115,3 +115,17 @@ description: Practice questions for tf histogram fixed width.
 - Write a code to calculate the histogram of a tensor with zero weights using tf.histogram_fixed_width.
 - 
 - Write a code to calculate the histogram of a tensor with missing weights using tf.histogram_fixed_width.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

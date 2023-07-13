@@ -66,3 +66,17 @@ description: Practice questions for tf math reduce min.
 - Write a code to compute the minimum value of a tensor and then calculate the mean of all elements using tf.math.reduce_min.
 - Write a code to find the minimum value in a tensor and return its indices using tf.math.reduce_min, excluding a specific range of values, along a specific axis.
 - Write a code to calculate the minimum value in a tensor excluding a specific range of values using tf.math.reduce_min, along a specific axis.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

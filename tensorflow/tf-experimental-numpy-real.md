@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy real.
 - Write a code to compute the real part of the element-wise inverse sine of a complex array using tf.experimental.numpy.real.
 - Write a code to calculate the real part of the element-wise inverse cosine of a complex array using tf.experimental.numpy.real.
 - Write a code to find the real part of the element-wise inverse tangent of a complex array using tf.experimental.numpy.real.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

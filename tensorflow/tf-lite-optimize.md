@@ -66,3 +66,17 @@ description: Practice questions for tf lite optimize.
 - Write a code to optimize a TensorFlow Lite model with post-training quantization and weight regularization.
 - Write a code to optimize a TensorFlow Lite model with post-training quantization and weight reinitialization.
 - Write a code to optimize a TensorFlow Lite model with quantization-aware training and weight clustering.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

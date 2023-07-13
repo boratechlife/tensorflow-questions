@@ -66,3 +66,17 @@ description: Practice questions for tf profiler experimental profile.
 - Write a code to profile the TensorFlow model and include the memory allocation details in the timeline output using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', with_allocation=True)).
 - Write a code to profile the TensorFlow model and include the memory deallocation details in the timeline output using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', with_deallocation=True)).
 - Write a code to profile the TensorFlow model and include the memory transfer details in the timeline output using tf.profiler.experimental.profile(model, options=tf.profiler.experimental.ProfilerOptions(output='timeline', with_memory_activity=True)).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

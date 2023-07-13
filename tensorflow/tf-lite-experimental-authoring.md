@@ -66,3 +66,17 @@ description: Practice questions for tf lite experimental authoring.
 - Write a code to convert a TensorFlow Lite model to a TensorFlow Lite model with support for Google Edge TPU acceleration using tf.lite.experimental.authoring.
 - Write a code to convert a TensorFlow Lite model to a TensorFlow Lite model with support for Qualcomm Hexagon acceleration using tf.lite.experimental.authoring.
 - Write a code to convert a TensorFlow Lite model to a TensorFlow Lite model with support for ARM Neural Processing Unit (NPU) acceleration using tf.lite.experimental.authoring.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

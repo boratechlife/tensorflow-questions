@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics sparsetopkcategoricalaccura
 - Write a code to set the update frequency for the sparse top-k categorical accuracy metric.
 - Write a code to calculate the sparse top-k categorical accuracy metric for a given model and an image dataset.
 - Write a code to update the sparse top-k categorical accuracy metric for a specific class and a given label threshold using a custom evaluation loop.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental clusterdevicefilters.
 - Write a code to set the cluster device filters to include only devices with a specific GPU texture units using tf.config.experimental.ClusterDeviceFilters.
 - Write a code to set the cluster device filters to include only devices with a specific GPU shader cores using tf.config.experimental.ClusterDeviceFilters.
 - Write a code to set the cluster device filters to include only devices with a specific GPU memory latency using tf.config.experimental.ClusterDeviceFilters.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

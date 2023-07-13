@@ -66,3 +66,17 @@ description: Practice questions for tf image decode jpeg.
 - Write a code to decode a JPEG image and convert it to a tensor with randomly adjusted exposure using tf.image.decode_jpeg and tf.image.adjust_exposure.
 - Write a code to decode a JPEG image and convert it to a tensor with randomly adjusted colors using tf.image.decode_jpeg and tf.image.adjust_colors.
 - Write a code to decode a JPEG image and convert it to a tensor with randomly adjusted saturation and contrast using tf.image.decode_jpeg and tf.image.adjust_saturation and tf.image.adjust_contrast.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers alphadropout.
 - Write a code to unfreeze the weights of an AlphaDropout layer.
 - Write a code to check if the weights of an AlphaDropout layer are trainable.
 - Write a code to summarize an AlphaDropout layer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

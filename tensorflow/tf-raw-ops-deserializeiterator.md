@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops deserializeiterator.
 - Write a code to deserialize an iterator and perform a group-by operation on its elements using tf.raw_ops.DeserializeIterator.
 - How can you deserialize an iterator and calculate the variance of its elements using tf.raw_ops.DeserializeIterator?
 - Create a TensorFlow operation to deserialize an iterator and calculate the standard deviation of its elements using tf.raw_ops.DeserializeIterator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

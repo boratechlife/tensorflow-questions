@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy random poisson.
 - Write a code to generate a single random Poisson-distributed number with a mean of 2 and calculate the standard deviation of the generated number using tf.experimental.numpy.random.poisson.
 - Write a code to generate an array of 100 random Poisson-distributed numbers with a mean of 5 and calculate the variance of the generated numbers using tf.experimental.numpy.random.poisson.
 - Write a code to generate a 2D array of random Poisson-distributed numbers with a mean of 3 and calculate the median of the generated numbers using tf.experimental.numpy.random.poisson.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

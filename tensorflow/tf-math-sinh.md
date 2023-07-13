@@ -66,3 +66,17 @@ description: Practice questions for tf math sinh.
 - Write a code to calculate the hyperbolic sine of a variable and plot the result.
 - Write a code to calculate the hyperbolic sine of a placeholder and plot the result.
 - Write a code to calculate the hyperbolic sine of a tensor using tf.math.sinh and save the result to a file.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

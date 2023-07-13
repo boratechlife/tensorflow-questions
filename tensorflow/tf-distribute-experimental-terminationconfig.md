@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental terminationconfig
 - Write a code to enable termination on out-of-memory error in a TerminationConfig object.
 - Write a code to disable termination on out-of-memory error in a TerminationConfig object.
 - Write a code to set a custom termination predicate in a TerminationConfig object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

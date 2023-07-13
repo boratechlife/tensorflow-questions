@@ -66,3 +66,17 @@ description: Practice questions for tf random poisson.
 - Write a code to generate a 2D array of shape (3, 3) with random Poisson-distributed values and compute their skewness using tf.random.poisson.
 - Write a code to generate a random Poisson-distributed value and compute its kurtosis using tf.random.poisson.
 - Write a code to generate an array of 10 random Poisson-distributed values and compute their kurtosis using tf.random.poisson.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

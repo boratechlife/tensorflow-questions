@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to calculate the inverse hyperbolic cosine of a TensorFlow tensor and calculate the dot product with another tensor.
 - Write a code to calculate the inverse hyperbolic cosine of a TensorFlow tensor and calculate the element-wise product with another tensor.
 - Write a code to calculate the inverse hyperbolic cosine of a TensorFlow tensor and calculate the matrix multiplication with another tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

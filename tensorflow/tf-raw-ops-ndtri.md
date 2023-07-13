@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops ndtri.
 - Write a code to calculate the upper tail probability for a given percentile in a normal distribution using tf.raw_ops.Ndtri.
 - Write a code to compute the area under the curve for a given range of percentiles in a normal distribution using tf.raw_ops.Ndtri.
 - Write a code to calculate the z-score that corresponds to a given cumulative distribution function (CDF) percentile in a normal distribution using tf.raw_ops.Ndtri.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

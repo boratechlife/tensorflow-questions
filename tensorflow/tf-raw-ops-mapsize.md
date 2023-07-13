@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mapsize.
 - Implement a function that takes a TensorFlow map and a value and returns the size of all elements without that value using "tf.raw_ops.MapSize".
 - Write a code to find the minimum size among all maps in a TensorFlow dataset and the corresponding key using "tf.raw_ops.MapSize".
 - How can you use "tf.raw_ops.MapSize" to calculate the average size of a TensorFlow map stored in a variable?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

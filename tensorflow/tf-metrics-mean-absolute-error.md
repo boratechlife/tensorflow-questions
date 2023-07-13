@@ -115,3 +115,17 @@ description: Practice questions for tf metrics mean absolute error.
 - Write a code to calculate the mean absolute error between two TensorFlow metrics using tf.metrics.mean_absolute_error.
 - 
 - Write a code to calculate the mean absolute error between two TensorFlow constraints using tf.metrics.mean_absolute_error.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

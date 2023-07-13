@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops accumulatorapplygradient.
 - Write a code to retrieve the gradients and apply them to specific accumulators with custom settings and options using tf.raw_ops.AccumulatorApplyGradient.
 - Write a code to create specific accumulators with custom settings and options and apply gradients to them using tf.raw_ops.AccumulatorApplyGradient.
 - Write a code to accumulate gradients and update specific accumulators with custom settings and options using tf.raw_ops.AccumulatorApplyGradient.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

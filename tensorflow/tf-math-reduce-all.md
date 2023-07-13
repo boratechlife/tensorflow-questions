@@ -66,3 +66,17 @@ description: Practice questions for tf math reduce all.
 - Write a code to calculate the element-wise round of a TensorFlow tensor using tf.math.reduce_all.
 - Write a code to calculate the element-wise floor of a TensorFlow tensor using tf.math.reduce_all.
 - Write a code to calculate the element-wise ceiling of a TensorFlow tensor using tf.math.reduce_all.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

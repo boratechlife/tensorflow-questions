@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental list logical devices.
 - Write a code to count the number of logical devices with a memory usage percentage below a specific threshold.
 - Write a code to get the names of all logical devices with a memory usage percentage below a specific threshold.
 - Write a code to print the details of all logical devices with a memory usage percentage below a specific threshold.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

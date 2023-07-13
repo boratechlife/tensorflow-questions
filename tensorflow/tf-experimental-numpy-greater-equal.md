@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy greater equal.
 - Write a code to compare two arrays and return a boolean array indicating if each element in the first array is greater than or equal to the corresponding element in the second array using "tf.experimental.numpy.greater_equal".
 - Write a code to check if all elements in an array are greater than or equal to a specific value using "tf.experimental.numpy.greater_equal".
 - Write a code to compare two arrays element-wise and return a boolean array indicating if each element in the first array is greater than or equal to a specific value using "tf.experimental.numpy.greater_equal".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

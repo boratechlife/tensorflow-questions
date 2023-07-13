@@ -66,3 +66,17 @@ description: Practice questions for tf keras regularizers get.
 - Write a code to apply L1 and L2 regularization to the weights and output of all layers in a Keras model using tf.keras.regularizers.get.
 - Write a code to apply L1 and L2 regularization to all trainable variables in a Keras model using tf.keras.regularizers.get.
 - Write a code to remove regularization from a Keras model using tf.keras.regularizers.get.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

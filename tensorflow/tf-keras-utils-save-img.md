@@ -68,3 +68,17 @@ description: Practice questions for tf keras utils save img.
 - Can you save an image with a specific contrast level using tf.keras.utils.save_img?
 - How can you adjust the contrast level when saving an image using tf.keras.utils.save_img?
 - Write a code to adjust the contrast level and save an image using tf.keras.utils.save_img.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf image extract patches.
 - Write a code to extract patches from an image and compute the MSER regions in each patch using tf.image.extract_patches.
 - Write a code to extract patches from an image and compute the FAST corners in each patch using tf.image.extract_patches.
 - Write a code to extract patches from an image and compute the Harris corners in each patch using tf.image.extract_patches.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

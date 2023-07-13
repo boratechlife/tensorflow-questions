@@ -66,3 +66,17 @@ description: Practice questions for tf image central crop.
 - Write a code to perform a central crop on an image using tf.image.central_crop and apply a total variation denoising algorithm to the cropped image.
 - Write a code to perform a central crop on an image using tf.image.central_crop and apply a custom image segmentation algorithm to the cropped image.
 - Write a code to perform a central crop on an image using tf.image.central_crop and apply a super-resolution algorithm to the cropped image.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf metrics hinge1.
 - Write a code to calculate the mean hinge loss for a batch of multi-class classification predictions with sample weights using tf.metrics.hinge.
 - Write a code to calculate the hinge loss for a binary classification problem with a custom loss multiplier using tf.metrics.hinge.
 - Write a code to calculate the mean hinge loss for a batch of binary classification predictions with a custom loss multiplier using tf.metrics.hinge.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

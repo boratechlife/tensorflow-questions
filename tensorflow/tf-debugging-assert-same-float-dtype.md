@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert same float dtype.
 - Write a code to assert that a TensorFlow float tensor has a specific dtype and contains only integer values within a specific range.
 - Write a code to assert that a TensorFlow float tensor has a specific dtype and contains only unique integer values.
 - Write a code to assert that a TensorFlow float tensor has a specific dtype and contains only non-negative integer values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

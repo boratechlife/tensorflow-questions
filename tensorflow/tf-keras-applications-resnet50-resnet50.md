@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet50 resnet50.
 - Write a code to implement knowledge distillation for training the ResNet50 model.
 - Write a code to implement self-supervised learning with the ResNet50 model.
 - Write a code to implement gradient accumulation during training of the ResNet50 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

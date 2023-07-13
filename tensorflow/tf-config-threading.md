@@ -66,3 +66,17 @@ description: Practice questions for tf config threading.
 - Write a code to set the thread parallelism thread count in TensorFlow.
 - Write a code to check the current thread parallelism thread count in TensorFlow.
 - Write a code to enable TensorFlow to automatically select the thread parallelism thread count.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

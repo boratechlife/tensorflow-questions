@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers initializer.
 - Write a code to initialize a weight tensor with random values from a uniform distribution using the "HeNormal" initializer and set a specific range.
 - Write a code to initialize a weight tensor with random values from a normal distribution using the "HeUniform" initializer and set a specific mean and standard deviation.
 - Write a code to initialize a weight tensor with random values from a uniform distribution using the "GlorotUniform" initializer and set a specific range.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

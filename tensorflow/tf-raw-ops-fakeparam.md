@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fakeparam.
 - Write a code to calculate the cumulative product of elements in a "FakeParam" object.
 - Write a code to apply a filter to a "FakeParam" object using a specific condition.
 - Write a code to calculate the matrix multiplication between two "FakeParam" objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalunbatchdataset.
 - How can you handle the case when the dataset contains ragged tensors with different shapes while unbatching?
 - Write a code to unbatch a dataset and apply a custom normalization function to the unbatched elements.
 - How can you handle the case when the unbatched elements have missing values or NaNs?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

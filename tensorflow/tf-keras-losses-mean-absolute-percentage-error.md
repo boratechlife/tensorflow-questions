@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses mean absolute percentage err
 - Write a code to calculate the mean absolute percentage error between two TensorFlow tensors of different shapes using tf.keras.losses.mean_absolute_percentage_error.
 - Write a code to calculate the mean absolute percentage error for a time series prediction model's output stored in a pandas DataFrame using tf.keras.losses.mean_absolute_percentage_error.
 - Write a code to calculate the mean absolute percentage error for a sequence prediction model's output stored in a TensorFlow tensor using tf.keras.losses.mean_absolute_percentage_error.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

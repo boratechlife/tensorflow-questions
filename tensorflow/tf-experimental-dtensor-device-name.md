@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor device name.
 - Write a code to assign a tf.experimental.dtensor to a specific edge device using device_name.
 - Write a code to retrieve the device name of a tf.experimental.dtensor residing on a specific IoT device using device_name.
 - Write a code to check if a tf.experimental.dtensor is placed on a specific IoT device using device_name.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

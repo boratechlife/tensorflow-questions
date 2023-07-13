@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops prod.
 - Write a code to calculate the product of a TensorFlow tensor and a TensorFlow matrix along multiple axes excluding a specific axis using the "tf.raw_ops.Prod" operation.
 - Write a code to calculate the product of a TensorFlow tensor and a TensorFlow vector along multiple axes excluding a specific axis using the "tf.raw_ops.Prod" operation.
 - Write a code to calculate the product of a TensorFlow tensor and a scalar along multiple axes, ignoring NaN values using the "tf.raw_ops.Prod" operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

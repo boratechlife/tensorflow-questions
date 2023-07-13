@@ -66,3 +66,17 @@ description: Practice questions for tf nn nce loss.
 - Write a code to compute the NCE loss for a fraud detection task.
 - Write a code to calculate the NCE loss using tf.nn.nce_loss with a leaky ReLU activation function.
 - Write a code to apply tf.nn.nce_loss in a machine translation model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

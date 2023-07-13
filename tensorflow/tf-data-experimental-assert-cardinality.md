@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental assert cardinality.
 - Write a code to assert that the cardinality of a dataset is not equal to the bitwise OR of two specific numbers using "tf.data.experimental.assert_cardinality".
 - Write a code to assert that the cardinality of a dataset is not equal to the bitwise XOR of two specific numbers using "tf.data.experimental.assert_cardinality".
 - Write a code to assert that the cardinality of a dataset is not equal to the bitwise complement of a specific number using "tf.data.experimental.assert_cardinality".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf linalg eigh tridiagonal.
 - Write a code to calculate the matrix cosine distance of two tridiagonal matrices using tf.linalg.eigh_tridiagonal.
 - Write a code to calculate the matrix sine distance of two tridiagonal matrices using tf.linalg.eigh_tridiagonal.
 - Write a code to calculate the matrix tangent distance of two tridiagonal matrices using tf.linalg.eigh_tridiagonal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

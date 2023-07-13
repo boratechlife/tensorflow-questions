@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers averagepooling3d.
 - Write a code to create a model with a 3D average pooling layer and a max pooling layer with a specified pool size and strides.
 - Write a code to create a model with a 3D average pooling layer and a flatten layer followed by a dense layer with a specified activation function and number of units.
 - Write a code to create a model with a 3D average pooling layer and a concatenation layer of multiple inputs followed by a dense layer with a specified activation function and number of units.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

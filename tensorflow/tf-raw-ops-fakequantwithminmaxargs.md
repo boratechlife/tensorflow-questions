@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fakequantwithminmaxargs.
 - Implement a code to calculate the average quantization error per channel introduced by tf.raw_ops.FakeQuantWithMinMaxArgs with custom ranges.
 - Write a code to apply fake quantization using tf.raw_ops.FakeQuantWithMinMaxArgs and rounding towards the nearest even integer.
 - How can you specify the behavior of tf.raw_ops.FakeQuantWithMinMaxArgs for denormalized numbers?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

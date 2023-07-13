@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops decodepng.
 - Implement a function that decodes a PNG image and applies a histogram matching using tf.raw_ops.DecodePng.
 - Create a code snippet to decode a PNG image and apply a Gaussian noise using tf.raw_ops.DecodePng.
 - How can you decode a PNG image stored as a TensorFlow constant and apply resizing with aspect ratio preservation using tf.raw_ops.DecodePng?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

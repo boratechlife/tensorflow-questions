@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert.
 - Write a code to assert that a specific condition is true for a subset of columns in a given tensor along a particular axis.
 - Write a code to assert that a given tensor has all elements less than or equal to zero.
 - Write a code to assert that a specific condition is true for a subset of elements in a given tensor except for a specific index.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

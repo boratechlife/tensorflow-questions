@@ -66,3 +66,17 @@ description: Practice questions for tf random fixed unigram candidate sampler.
 - Write a code to generate a fixed unigram candidate sampler and retrieve the unique identifiers for multiple batches of true targets.
 - Write a code to generate a fixed unigram candidate sampler and retrieve the true samples for a given true target.
 - Write a code to generate a fixed unigram candidate sampler and retrieve the true samples for multiple true targets.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

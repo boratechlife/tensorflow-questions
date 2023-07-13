@@ -66,3 +66,17 @@ description: Practice questions for tf random experimental generator.
 - Write a code to generate a random tensor of shape (5, 5) with values between 0 and 1 using a tf.random.experimental.Generator.
 - Write a code to generate a random tensor of shape (2, 2) with values between -10 and 10 using a tf.random.experimental.Generator.
 - Write a code to generate a random tensor of shape (4, 4) with values from a normal distribution using a tf.random.experimental.Generator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

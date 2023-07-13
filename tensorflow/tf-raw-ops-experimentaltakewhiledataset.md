@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentaltakewhiledataset.
 - Write a code to use tf.raw_ops.ExperimentalTakeWhileDataset to extract elements from a dataset until a specific value is encountered after a certain pattern and number of occurrences within a time window.
 - Write a code to implement a condition function for tf.raw_ops.ExperimentalTakeWhileDataset that checks for a specific distribution of values across multiple time windows.
 - Write a code to apply tf.raw_ops.ExperimentalTakeWhileDataset on a dataset and retrieve elements until a condition based on the similarity or dissimilarity between two columns is met.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

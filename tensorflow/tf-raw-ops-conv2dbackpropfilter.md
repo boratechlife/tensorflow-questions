@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conv2dbackpropfilter.
 - Write a code to implement a convolutional layer backward filter pass with dropout and gradient clipping using tf.raw_ops.Conv2DBackpropFilter.
 - Write a code to apply tf.raw_ops.Conv2DBackpropFilter to compute the filter gradients in a dilated grouped depthwise separable convolution.
 - Write a code to perform a backward filter pass with different optimization techniques and weight decay using tf.raw_ops.Conv2DBackpropFilter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

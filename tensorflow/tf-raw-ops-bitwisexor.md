@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops bitwisexor.
 - Write a code to calculate the XOR of two pandas.SparseArray objects.
 - Write a code to apply the XOR operation on two pandas.UInt8Dtype objects.
 - Write a code to perform the bitwise XOR operation on two pandas.UInt8Index objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

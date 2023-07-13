@@ -115,3 +115,17 @@ description: Practice questions for tf experimental numpy any.
 - Write a code to find if any element in a NumPy array is a multiple of both 2 and 3 using tf.experimental.numpy.any.
 - 
 - Write a code to determine if any element in a list of tuples is a pair of even numbers using tf.experimental.numpy.any.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

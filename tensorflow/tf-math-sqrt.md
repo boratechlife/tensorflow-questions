@@ -66,3 +66,17 @@ description: Practice questions for tf math sqrt.
 - Write a code to calculate the square root of each element in a given TensorFlow tensor and return a new tensor with the sine values of the absolute values of the results.
 - Write a code to calculate the square root of each element in a given TensorFlow tensor and return a new tensor with the cosine values of the absolute values of the results.
 - Write a code to calculate the square root of each element in a given TensorFlow tensor and return a new tensor with the tangent values of the absolute values of the results.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

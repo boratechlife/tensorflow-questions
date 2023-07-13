@@ -66,3 +66,17 @@ description: Practice questions for tf math special dawsn.
 - Write a code to calculate the hypergeometric representation of the dawsn function.
 - Write a code to approximate the dawsn function using a series expansion.
 - Write a code to calculate the Laplacian operator applied to the dawsn function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

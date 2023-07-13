@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy reshape.
 - Write a code to reshape a 1D array to a 4D array of shape (2, 2, 1, 1).
 - Write a code to reshape a 3D array of shape (2, 3, 2) to a 2D array of shape (6, 4).
 - Write a code to reshape a 2D array of shape (4, 4) to a 2D array of shape (8, 2).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

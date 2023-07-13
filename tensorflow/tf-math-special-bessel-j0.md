@@ -66,3 +66,17 @@ description: Practice questions for tf math special bessel j0.
 - Write a code to calculate the bessel_j0 for a TensorFlow tensor and concatenate it with another tensor.
 - Write a code to calculate the bessel_j0 for a TensorFlow tensor and reshape it to a different shape.
 - Write a code to calculate the bessel_j0 for a TensorFlow tensor and transpose its dimensions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

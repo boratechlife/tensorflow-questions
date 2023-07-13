@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet v2 resnet101v2.
 - Write a code to apply class weights during the training of the ResNet101V2 model.
 - Write a code to use the ResNet101V2 model as a feature extractor for another task.
 - Write a code to implement early stopping based on validation loss during the training of the ResNet101V2 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf linalg lu reconstruct.
 - Write a code to calculate the inverse of a triangular matrix using tf.linalg.lu_reconstruct.
 - Write a code to calculate the product of two triangular matrices using tf.linalg.lu_reconstruct.
 - Write a code to calculate the determinant of a permutation matrix using tf.linalg.lu_reconstruct.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

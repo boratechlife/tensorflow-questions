@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you parse a single sequence example and handle missing sequence feature names using tf.raw_ops.ParseSingleSequenceExample?
 - Write a code to parse a single sequence example and perform feature discretization using tf.raw_ops.ParseSingleSequenceExample.
 - How can you parse a single sequence example and handle empty sequence features using tf.raw_ops.ParseSingleSequenceExample?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

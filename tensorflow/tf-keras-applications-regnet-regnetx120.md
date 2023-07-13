@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnet regnetx120.
 - How can you implement a custom learning rate schedule for training RegNetX120?
 - Write a code to apply image augmentation using tf.data for training RegNetX120.
 - How can you implement class activation maps (CAM) for RegNetX120?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

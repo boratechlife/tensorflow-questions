@@ -115,3 +115,17 @@ description: Practice questions for tf ones initializer.
 - Write a code to create a TensorFlow tensor with shape (1, 1, 1, 1) filled with ones using tf.ones_initializer().
 - 
 - How can you initialize a TensorFlow variable with shape (10, 10, 10, 10) and fill it with ones using tf.ones_initializer()?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

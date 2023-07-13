@@ -66,3 +66,17 @@ description: Practice questions for tf experimental extension type.
 - Write a code to define a custom casting function for a custom TensorFlow extension type.
 - Write a code to cast a custom TensorFlow extension type to another type using a custom casting function.
 - Write a code to define a custom callback function for a custom TensorFlow extension type.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

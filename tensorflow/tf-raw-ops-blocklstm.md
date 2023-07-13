@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops blocklstm.
 - Write a code to create a named entity recognition model for biomedical texts using BlockLSTM.
 - Write a code to implement a part-of-speech tagging model using BlockLSTM.
 - Write a code to create a machine translation model using BlockLSTM.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

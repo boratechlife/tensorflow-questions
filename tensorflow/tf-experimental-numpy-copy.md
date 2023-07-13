@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy copy.
 - Write a code to copy a NumPy array and calculate the element-wise logarithmic values using tf.experimental.numpy.copy.
 - Write a code to copy a NumPy array and calculate the element-wise square root values using tf.experimental.numpy.copy.
 - Write a code to copy a NumPy array and calculate the element-wise trigonometric values using tf.experimental.numpy.copy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

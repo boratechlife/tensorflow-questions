@@ -66,3 +66,17 @@ description: Practice questions for tf math l2 normalize.
 - Write a code to normalize a tensor using tf.math.l2_normalize and calculate the squared Euclidean distance between the normalized tensor and a reference tensor.
 - Write a code to normalize a tensor using tf.math.l2_normalize and calculate the Mahalanobis distance between the normalized tensor and a reference tensor.
 - Write a code to normalize a tensor using tf.math.l2_normalize and apply a custom similarity metric to the normalized tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

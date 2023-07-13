@@ -66,3 +66,17 @@ description: Practice questions for tf keras model.
 - Write a code to create a model that uses a 2D average pooling layer in a functional API model.
 - Write a code to create a model that uses a 2D recurrent layer in a functional API model.
 - Write a code to create a model that uses a 2D bidirectional recurrent layer in a functional API model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

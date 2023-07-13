@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental reset memory stats.
 - How can you reset the memory statistics and compute the average memory usage using reset_memory_stats?
 - Write a code to reset the memory statistics and estimate the memory usage for a specific operation.
 - How can you reset the memory statistics and estimate the memory usage for a specific operation using reset_memory_stats?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

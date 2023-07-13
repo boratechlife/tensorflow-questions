@@ -66,3 +66,17 @@ description: Practice questions for tf initializers randomnormal.
 - Write a code to initialize a random normal variable with mean 0.0 and standard deviation 0.01.
 - Write a code to initialize a random normal tensor with shape (1, 1, 1).
 - Write a code to initialize a random normal variable with mean -1.0 and standard deviation 0.1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

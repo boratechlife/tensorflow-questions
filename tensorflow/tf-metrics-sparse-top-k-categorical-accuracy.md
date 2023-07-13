@@ -66,3 +66,17 @@ description: Practice questions for tf metrics sparse top k categorical accuracy
 - Write a code to update the sparse_top_k_categorical_accuracy metric with class-specific weights for correct predictions, using a custom comparison criterion.
 - Write a code to calculate the sparse top-k categorical accuracy for a specific class, prediction rank, and ground truth rank, using a custom ranking criterion.
 - Write a code to update the sparse_top_k_categorical_accuracy metric with class-specific weights for incorrect predictions, using a custom comparison criterion.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

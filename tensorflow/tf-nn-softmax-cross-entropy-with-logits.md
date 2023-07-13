@@ -66,3 +66,17 @@ description: Practice questions for tf nn softmax cross entropy with logits.
 - Write a code to calculate the softmax cross-entropy loss for a batch of logits and labels and apply class weights and gradient clipping.
 - Write a code to calculate the softmax cross-entropy loss for a given set of logits and labels and apply class weights and temperature scaling.
 - Write a code to calculate the softmax cross-entropy loss for a batch of logits and labels and apply class weights and temperature scaling.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

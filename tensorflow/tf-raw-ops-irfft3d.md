@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops irfft3d.
 - Write a code to calculate the 3D inverse fast Fourier transform of a complex-valued tensor with specified batch size, dimensions, custom options, control dependencies, resource variables, parallel iterations, backpropagation, profiling information, and output indices using tf.raw_ops.IRFFT3D.
 - 
 - Write a code to perform a 3D inverse real-valued fast Fourier transform on a batch of tensors with specific dimensions, batch size, custom options, control dependencies, resource variables, parallel iterations, backpropagation, profiling information, and output indices using tf.raw_ops.IRFFT3D.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -67,3 +67,17 @@ description: Practice questions for tf raw ops multideviceiteratorinit.
 - Implement a code snippet to set the input_priority parameter for MultiDeviceIteratorInit in TensorFlow.
 - How can you set the num_replicas for MultiDeviceIteratorInit using TensorFlow?
 - Write a code to create a MultiDeviceIteratorInit operation and set the shared_name using TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

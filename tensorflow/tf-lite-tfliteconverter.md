@@ -66,3 +66,17 @@ description: Practice questions for tf lite tfliteconverter.
 - Write a code to convert a TensorFlow Lite model to a TensorFlow Lite model with GPU inference and selective quantization using tf.lite.TFLiteConverter.
 - Write a code to convert a TensorFlow Lite model to a TensorFlow Lite model with GPU inference and sparsity using tf.lite.TFLiteConverter.
 - Write a code to convert a TensorFlow Lite model to a TensorFlow Lite model with GPU inference and edge TPU compatibility using tf.lite.TFLiteConverter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

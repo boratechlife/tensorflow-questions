@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops encodejpegvariablequality.
 - Write a code to apply a posterization effect to an image and then encode it in JPEG format using tf.raw_ops.EncodeJpegVariableQuality.
 - Write a code to adjust the white balance of an image and then encode it in JPEG format using tf.raw_ops.EncodeJpegVariableQuality.
 - Write a code to apply a fisheye distortion to an image with customizable parameters and then encode it in JPEG format using tf.raw_ops.EncodeJpegVariableQuality.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

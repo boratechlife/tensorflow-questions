@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchmatrixdeterminant.
 - Write a code to calculate the determinant of a matrix and use a custom precision value for the calculation using tf.raw_ops.BatchMatrixDeterminant.
 - Write a code to calculate the determinants of matrices and use a custom precision value for the calculation using tf.raw_ops.BatchMatrixDeterminant.
 - Write a code to calculate the determinants of a batch of matrices and use a custom precision value for the calculation using tf.raw_ops.BatchMatrixDeterminant.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf nest assert same structure.
 - Write a code to assert that two nested TensorFlow Keras Model objects and TensorFlow Keras Model subclasses and TensorFlow Keras Layer objects and TensorFlow Keras Model objects and TensorFlow Keras Subclassing models and TensorFlow Keras Model objects and TensorFlow Keras Model objects have the same structure using tf.nest.assert_same_structure.
 - Write a code to ensure that two nested TensorFlow Keras Model objects and TensorFlow Keras Model subclasses and TensorFlow Keras Layer objects and TensorFlow Keras Model objects and TensorFlow Keras Model subclasses and TensorFlow Keras Model objects and TensorFlow Keras Sequential models have the same structure using tf.nest.assert_same_structure.
 - Write a code to compare the structure of two nested TensorFlow Keras Model objects and TensorFlow Keras Model subclasses and TensorFlow Keras Layer objects and TensorFlow Keras Model objects and TensorFlow Keras Model subclasses and TensorFlow Keras Model objects and TensorFlow Keras Model objects and TensorFlow Keras Layer objects using tf.nest.assert_same_structure.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

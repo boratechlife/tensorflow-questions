@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy logical xor.
 - How can you use tf.experimental.numpy.logical_xor to perform an element-wise XOR operation on multiple arrays simultaneously and keep each result in a separate array, overwriting the original arrays?
 - Write a code to compute the XOR of two arrays with different shapes and store the result in a new array, overwriting the original arrays using tf.experimental.numpy.logical_xor.
 - How can you apply tf.experimental.numpy.logical_xor to find the XOR of two arrays with different shapes and resize the result to match a specific shape, overwriting the original arrays?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

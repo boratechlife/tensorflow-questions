@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils experimental.
 - Write a code to compute the top-k categorical accuracy metric for a classification model using tf.keras.utils.experimental.top_k_categorical_accuracy.
 - Write a code to compute the sparse categorical accuracy metric for a classification model using tf.keras.utils.experimental.sparse_categorical_accuracy.
 - Write a code to compute the weighted categorical cross-entropy loss for a multi-label classification model using tf.keras.utils.experimental.weighted_categorical_crossentropy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

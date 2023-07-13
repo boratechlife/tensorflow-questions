@@ -66,3 +66,17 @@ description: Practice questions for tf initializers lecun normal.
 - Write a code to initialize a TensorFlow variable using the Lecun normal initializer and then assign it to another variable.
 - Write a code to initialize a TensorFlow weight matrix using the Lecun normal initializer and then assign it to another variable.
 - Write a code to initialize a TensorFlow bias vector using the Lecun normal initializer and then assign it to another variable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

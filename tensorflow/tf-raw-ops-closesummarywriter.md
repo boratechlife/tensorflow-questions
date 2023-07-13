@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops closesummarywriter.
 - Write a code to handle an exception when closing a SummaryWriter with an invalid filename using CloseSummaryWriter.
 - Write a code to write a summary with step information to a SummaryWriter before closing it with CloseSummaryWriter.
 - Write a code to check the last event time recorded by a SummaryWriter before and after closing it using CloseSummaryWriter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

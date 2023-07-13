@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert less.
 - Write a code to assert that the length of the longest path in a directed acyclic graph (DAG) G is less than threshold.
 - Write a code to assert that the total weight of a minimum spanning tree (MST) in a weighted graph G is less than threshold.
 - Write a code to assert that the maximum flow in a flow network G is less than threshold.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

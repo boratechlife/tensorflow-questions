@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchmatmulv3.
 - Write a code to perform batched matrix multiplication and compute the element-wise absolute difference using tf.raw_ops.BatchMatMulV3.
 - Write a code to compute the batched matrix multiplication and compute the element-wise maximum using tf.raw_ops.BatchMatMulV3.
 - Write a code to perform batched matrix multiplication and compute the element-wise minimum using tf.raw_ops.BatchMatMulV3.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

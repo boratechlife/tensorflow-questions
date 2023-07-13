@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses sparsecategoricalcrossentrop
 - Write a code to compare two instances of SparseCategoricalCrossentropy loss function for equality in TensorFlow.
 - Write a code to calculate the gradient of the sparse categorical cross-entropy loss with respect to the model's parameters using automatic differentiation in TensorFlow.
 - Write a code to apply the gradient of the sparse categorical cross-entropy loss to update the model's parameters using an optimizer in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

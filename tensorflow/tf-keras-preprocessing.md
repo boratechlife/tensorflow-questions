@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing.
 - Write a code to preprocess an image for EfficientNetL2 model using "tf.keras.applications.efficientnet.preprocess_input".
 - Write a code to apply random rotation and zoom to an image using "tf.keras.preprocessing.image.random_rotation" and "tf.keras.preprocessing.image.random_zoom".
 - Write a code to preprocess an image for a custom model using appropriate preprocessing techniques.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

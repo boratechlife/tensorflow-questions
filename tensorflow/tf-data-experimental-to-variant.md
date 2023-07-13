@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental to variant.
 - How can you convert an image dataset with one-hot encoded labels to a variant tensor using tf.data.experimental.to_variant?
 - Write a code to convert a text dataset with one-hot encoded labels to a variant tensor using tf.data.experimental.to_variant.
 - How can you convert a generator with one-hot encoded labels to a variant tensor using tf.data.experimental.to_variant?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

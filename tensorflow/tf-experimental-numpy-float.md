@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy float.
 - Write a code to calculate the exponential of each element in a list of tf.experimental.numpy.float_ objects.
 - Write a code to calculate the square root of each element in a list of tf.experimental.numpy.float_ objects.
 - Write a code to calculate the sum of all elements in a list of tf.experimental.numpy.float_ objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

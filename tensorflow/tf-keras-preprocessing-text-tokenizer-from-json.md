@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing text tokenizer from j
 - How can you convert a tokenizer to a JSON file representation and save it using tokenizer_to_json?
 - Write a code to load a tokenizer from a JSON file and convert texts to sequences with a maximum length.
 - How do you save a tokenizer to a JSON string representation and save it using tokenizer_to_json?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

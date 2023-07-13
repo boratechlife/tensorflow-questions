@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy complex128.
 - Write a code to calculate the inverse hyperbolic tangent of a complex array: [1+2j, 3+4j].
 - Write a code to check if two complex arrays are equal: [1+2j, 3+4j] and [1+2j, 3+4j].
 - Write a code to check if any element in a complex array is True: [True, False, True] (complex version).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

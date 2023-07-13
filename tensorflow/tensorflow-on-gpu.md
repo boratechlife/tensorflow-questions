@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Can TensorFlow utilize GPU clusters or supercomputers for high-performance computing?
 - How can you fine-tune and optimize TensorFlow models running on GPUs?
 - What are the future developments or trends in TensorFlow on GPU usage?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

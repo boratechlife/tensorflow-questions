@@ -66,3 +66,17 @@ description: Practice questions for tf losses meansquaredlogarithmicerror.
 - Write a code to apply "tf.losses.MeanSquaredLogarithmicError" to a time series anomaly detection task.
 - Write a code to calculate the mean squared logarithmic error loss for a regression problem with geospatial data.
 - Write a code to use "tf.losses.MeanSquaredLogarithmicError" as the loss function in a deep reinforcement learning agent.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

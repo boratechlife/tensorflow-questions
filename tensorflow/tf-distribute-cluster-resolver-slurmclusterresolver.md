@@ -66,3 +66,17 @@ description: Practice questions for tf distribute cluster resolver slurmclusterr
 - Write a code to get the default task_addresses_env value from SlurmClusterResolver.
 - Write a code to get the default slurm_gres value from SlurmClusterResolver.
 - Write a code to get the default port value from SlurmClusterResolver.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

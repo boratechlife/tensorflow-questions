@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How does TensorFlow Hub handle models with different levels of model compression or quantization?
 - What are some best practices for evaluating the suitability of a pre-trained model from TensorFlow Hub for a specific task?
 - Can you use TensorFlow Hub to perform unsupervised learning or clustering tasks?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops matrixsetdiag.
 - Implement a function to update the diagonal of a matrix with a tensor of different size along one dimension and pad the values using tf.raw_ops.MatrixSetDiag.
 - How can you set the diagonal of a matrix to the division of its column and row elements using TensorFlow's tf.raw_ops.MatrixSetDiag?
 - Write a code to set the diagonal of a matrix to the division of its column and row elements using tf.raw_ops.MatrixSetDiag in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

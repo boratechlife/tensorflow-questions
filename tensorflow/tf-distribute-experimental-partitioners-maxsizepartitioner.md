@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental partitioners maxs
 - Write a code to calculate the sum of the sizes of the first n partitions in a distributed dataset using MaxSizePartitioner.
 - Write a code to calculate the average size of the first n partitions in a distributed dataset using MaxSizePartitioner.
 - Write a code to create a MaxSizePartitioner object with a maximum size equal to the size of a specific partition in a distributed dataset and a tolerance value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

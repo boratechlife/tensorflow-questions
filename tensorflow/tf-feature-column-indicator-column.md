@@ -66,3 +66,17 @@ description: Practice questions for tf feature column indicator column.
 - Write a code to create an indicator column and apply it to a TensorFlow.js tfjs-react-native-texture model.
 - Write a code to create an indicator column and apply it to a TensorFlow.js tfjs-wechat-texture model.
 - Write a code to create an indicator column and apply it to a TensorFlow.js tfjs-wechat-contrib-texture model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -115,3 +115,17 @@ description: Practice questions for tf math approx max k.
 - Write a code to find the maximum element from a tensor of shape (1000,) using "tf.math.approx_max_k" and return the indices of those elements.
 - 
 - Write a code to find the approximate maximum 50 elements from a tensor of shape (1000,) using "tf.math.approx_max_k" and return the indices of those elements.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

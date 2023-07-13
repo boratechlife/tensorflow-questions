@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers maxpool1d.
 - Write a code to create a MaxPool1D layer and apply it to an input tensor x.
 - Write a code to create a MaxPool1D layer and apply it to an input tensor x, and then apply a Flatten layer.
 - Write a code to create a MaxPool1D layer and apply it to an input tensor x, and then apply a Dense layer with 10 units.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

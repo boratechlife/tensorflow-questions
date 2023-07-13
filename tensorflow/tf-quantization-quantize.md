@@ -66,3 +66,17 @@ description: Practice questions for tf quantization quantize.
 - Write a code to obtain the scale and zero-point for HMMQ quantization using tf.quantization.quantize.
 - Write a code to quantize a tensor using the GridSearch Algorithm for Quantization (GSQ) using tf.quantization.quantize.
 - Write a code to obtain the scale and zero-point for GSQ quantization using tf.quantization.quantize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

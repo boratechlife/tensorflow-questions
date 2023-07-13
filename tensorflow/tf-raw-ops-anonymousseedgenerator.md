@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops anonymousseedgenerator.
 - Write a code to randomly sample elements from a probability distribution using AnonymousSeedGenerator.
 - Write a code to randomly select a subset of rows from a matrix using AnonymousSeedGenerator.
 - Write a code to generate a random exponential distribution using AnonymousSeedGenerator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

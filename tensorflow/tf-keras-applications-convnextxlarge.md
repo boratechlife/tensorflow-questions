@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications convnextxlarge.
 - Write a code to calculate the recall of the ConvNeXtXLarge model on a given test dataset.
 - Write a code to calculate the F1 score of the ConvNeXtXLarge model on a given test dataset.
 - Write a code to perform a grid search to find the best hyperparameters for the ConvNeXtXLarge model on a given dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

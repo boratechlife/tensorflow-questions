@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lstmblockcellgrad.
 - Write a code to compute the gradient of the LSTM block cell using Edward.
 - Write a code to compute the gradient of the LSTM block cell using deep learning libraries in Julia.
 - Write a code to compute the gradient of the LSTM block cell using deep learning libraries in Scala.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

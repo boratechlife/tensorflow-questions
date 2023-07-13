@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy tan.
 - Write a code to calculate the tangent of angles using the keras library.
 - Write a code to calculate the tangent of angles using the pytorch library.
 - Write a code to calculate the tangent of angles using the tensorflow library.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

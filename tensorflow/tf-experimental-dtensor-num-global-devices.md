@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor num global devices.
 - Write a code to calculate the factorial of the product of the number of global devices and a given number.
 - Write a code to check if the number of global devices is divisible by both a given number and another given number.
 - Write a code to check if the number of global devices is a multiple of both a given number and another given number.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

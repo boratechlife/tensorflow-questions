@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchtospace.
 - Implement a function that performs batch-to-space transformation on a tensor with a block shape and crop paddings defined by tensors, and handles empty input tensors, using tf.raw_ops.BatchToSpace.
 - Write a code to batch-to-space a tensor and handle cases where the input tensor is rank-1.
 - How would you utilize tf.raw_ops.BatchToSpace to batch-to-space a rank-1 tensor?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

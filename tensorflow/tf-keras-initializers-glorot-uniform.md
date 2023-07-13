@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers glorot uniform.
 - Write a code to initialize a set of weight tensors with Glorot uniform initialization, custom fan_out values, and the mode set to 'fan_avg'.
 - Write a code to initialize a tensor using Glorot uniform initialization, apply a custom transformation, calculate its norm, and perform element-wise multiplication.
 - Write a code to create a Glorot uniform initializer and set its seed value, scale factor, and mode.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

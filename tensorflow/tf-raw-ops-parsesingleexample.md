@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you handle different feature types within a single example while using tf.raw_ops.ParseSingleExample?
 - Write a code to parse a single example and perform dimensionality reduction on the features using tf.raw_ops.ParseSingleExample.
 - How can you handle features with different encodings (e.g., string, bytes) while parsing a single example with tf.raw_ops.ParseSingleExample?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

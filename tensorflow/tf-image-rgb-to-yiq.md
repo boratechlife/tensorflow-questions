@@ -66,3 +66,17 @@ description: Practice questions for tf image rgb to yiq.
 - Convert an RGB image to YIQ and perform adaptive equalization on the Q channel.
 - Convert an RGB image to YIQ and perform local contrast enhancement on the Y channel.
 - Convert an RGB image to YIQ and apply a non-local means filter on the I channel.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

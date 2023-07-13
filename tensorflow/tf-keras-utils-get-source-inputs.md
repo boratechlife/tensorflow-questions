@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils get source inputs.
 - How would you handle a model with recurrent layers and their associated source inputs when using tf.keras.utils.get_source_inputs?
 - Write a code to obtain the source inputs of a Keras model and check if they require feature scaling using tf.keras.utils.get_source_inputs.
 - How can you handle a model with a mixture of different source input types when using tf.keras.utils.get_source_inputs?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

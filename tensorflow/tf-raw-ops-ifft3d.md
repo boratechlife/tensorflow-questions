@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops ifft3d.
 - Write a code to calculate the inverse Fourier transform of a 3D complex input tensor using tf.raw_ops.IFFT3D.
 - Write a code to perform a 3D inverse FFT on a complex-valued input tensor using tf.raw_ops.IFFT3D.
 - Write a code to compute the 3D inverse fast Fourier transform of a complex input tensor using tf.raw_ops.IFFT3D.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

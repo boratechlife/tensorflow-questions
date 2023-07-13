@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor dvariable saveslicei
 - Write a code to determine the number of saved slices with a specific storage format and dimension size using SaveSliceInfo.
 - Write a code to calculate the average memory consumption per slice per dimension per storage format from the saved slice information of a DVariable using SaveSliceInfo.
 - Write a code to determine the number of saved slices with a specific data type, dimension size, and storage format using SaveSliceInfo.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

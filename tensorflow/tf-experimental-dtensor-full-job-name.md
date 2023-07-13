@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor full job name.
 - Write a code to check if a full job name string is empty.
 - Write a code to extract the domain name from a full job name string.
 - Write a code to remove all non-printable characters from a full job name string.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

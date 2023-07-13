@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers depthwiseconv2d.
 - Write a code to create a DepthwiseConv2D layer with a custom callback.
 - Write a code to create a DepthwiseConv2D layer with a custom optimizer.
 - Write a code to create a DepthwiseConv2D layer with a custom initializer for the bias vector.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

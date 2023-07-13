@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cos.
 - Implement a code to calculate the element-wise minimum between the cosine values of two tensors using the tf.raw_ops.Cos operation.
 - Write a code to calculate the cosine of each element in a tensor and perform matrix transpose on the original tensor using the tf.raw_ops.Cos function.
 - How can you use the tf.raw_ops.Cos function to compute the cosine of a tensor of split-dual numbers?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

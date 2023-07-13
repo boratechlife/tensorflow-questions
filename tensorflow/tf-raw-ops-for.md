@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops for.
 - Write a code to check if a given number is an Armstrong number using tf.raw_ops.For.
 - Write a code to find the third largest element in a list using tf.raw_ops.For.
 - Write a code to check if a given string is a valid email address using tf.raw_ops.For.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

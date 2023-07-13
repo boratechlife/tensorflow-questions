@@ -66,3 +66,17 @@ description: Practice questions for tf estimator experimental make early stoppin
 - How to create an early stopping hook with a custom threshold for early_stopping_rounds?
 - Write a code to set the min_steps parameter in make_early_stopping_hook.
 - How to use the run_every_secs_fn parameter in make_early_stopping_hook?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

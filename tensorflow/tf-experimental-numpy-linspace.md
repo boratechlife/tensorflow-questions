@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy linspace.
 - Write a code to generate an array of 10 equally spaced values between -π and π using tf.experimental.numpy.linspace.
 - Write a code to generate an array of 40 equally spaced values between -5 and 5 using tf.experimental.numpy.linspace.
 - Write a code to generate an array of 25 equally spaced values between 0 and 2 using tf.experimental.numpy.linspace.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

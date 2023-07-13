@@ -66,3 +66,17 @@ description: Practice questions for tf clip by norm.
 - Write a code to clip the gradients using tf.clip_by_norm with a maximum norm value of 10000000000000000000.0.
 - Write a code to clip the gradients using tf.clip_by_norm with a maximum norm value of 0.000000000000000000001.
 - Write a code to clip the gradients using tf.clip_by_norm with a maximum norm value of 100000000000000000000.0.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

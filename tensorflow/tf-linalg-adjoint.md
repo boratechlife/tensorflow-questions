@@ -66,3 +66,17 @@ description: Practice questions for tf linalg adjoint.
 - Write a code to calculate the adjoint of a matrix and save it as a sparse matrix in CSR format.
 - Write a code to compute the adjoint of a matrix and return it as a sparse matrix in CSR format.
 - Write a code to find the adjoint of a matrix and convert it to a sparse matrix in CSC format.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

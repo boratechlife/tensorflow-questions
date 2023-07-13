@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you handle multi-modal image segmentation tasks using TensorFlow?
 - What are the challenges in adapting image segmentation models trained on one domain to another using TensorFlow?
 - How can you implement image segmentation models with TensorFlow in a production environment?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

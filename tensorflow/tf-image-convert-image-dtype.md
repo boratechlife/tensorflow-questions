@@ -66,3 +66,17 @@ description: Practice questions for tf image convert image dtype.
 - Write a code to convert an image to HSV, resize it, apply rotation, and crop using tf.image.convert_image_dtype.
 - Write a code to convert an image to YUV, resize it, apply rotation, and crop using tf.image.convert_image_dtype.
 - Write a code to convert an image to Lab*, resize it, apply rotation, and crop using tf.image.convert_image_dtype.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

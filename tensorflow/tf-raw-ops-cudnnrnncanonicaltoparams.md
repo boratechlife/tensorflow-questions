@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cudnnrnncanonicaltoparams.
 - Write a code to calculate the absolute values of the biases obtained from "tf.raw_ops.CudnnRNNCanonicalToParams".
 - Write a code to perform matrix multiplication between the weights obtained from "tf.raw_ops.CudnnRNNCanonicalToParams" and a given matrix.
 - Write a code to calculate the cosine similarity between the biases obtained from "tf.raw_ops.CudnnRNNCanonicalToParams" and another set of biases.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

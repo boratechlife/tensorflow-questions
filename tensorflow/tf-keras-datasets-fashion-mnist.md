@@ -66,3 +66,17 @@ description: Practice questions for tf keras datasets fashion mnist.
 - Write a code to use early stopping based on the validation loss during the training of a CNN model on the Fashion MNIST dataset.
 - Write a code to use the Stochastic Gradient Descent (SGD) optimizer for training a CNN model on the Fashion MNIST dataset.
 - Write a code to apply learning rate decay during the training of a CNN model on the Fashion MNIST dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

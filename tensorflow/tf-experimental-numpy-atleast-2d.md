@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy atleast 2d.
 - Write a code to convert a 2D array with shape (n, m) into a 2D array with shape (1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, n, m, 1, 1, 1, 1) using tf.experimental.numpy.atleast_2d.
 - Write a code to convert a 2D array with shape (n, m) into a 2D array with shape (1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, n, m, 1, 1, 1) using tf.experimental.numpy.atleast_2d.
 - Write a code to convert a 2D array with shape (n, m) into a 2D array with shape (1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, n, m, 1, 1) using tf.experimental.numpy.atleast_2d.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

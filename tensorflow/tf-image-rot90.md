@@ -66,3 +66,17 @@ description: Practice questions for tf image rot90.
 - Write a code to rotate a batch of images by 90 degrees counterclockwise and display the rotated images using tf.image.rot90.
 - Write a code to rotate a batch of images by 90 degrees clockwise and display the rotated images using tf.image.rot90.
 - Write a code to rotate a batch of images by a custom angle (e.g., 60 degrees) counterclockwise and display the rotated images using tf.image.rot90.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

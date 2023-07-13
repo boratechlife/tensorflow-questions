@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conjugatetranspose.
 - How would you use tf.raw_ops.ConjugateTranspose to transpose a complex tensor and print the result, while preserving the original tensor?
 - Write a code to perform a conjugate transpose on a batch of matrices and print the result using tf.raw_ops.ConjugateTranspose.
 - How can you use tf.raw_ops.ConjugateTranspose to transpose a batch of complex matrices and print the result, while preserving the original batch?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

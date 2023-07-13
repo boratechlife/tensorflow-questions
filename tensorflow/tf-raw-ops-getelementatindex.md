@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops getelementatindex.
 - Write a code to obtain the element at index (0, 0) from a tensor with shape [0, 0, 0, 0, 0, 0].
 - How can you retrieve the element at index (0, 0, 0) from a tensor with shape [0, 1, 0, 1, 0, 1, 0] using tf.raw_ops.GetElementAtIndex?
 - Write a code to extract the element at index 0 using tf.raw_ops.GetElementAtIndex from a tensor with shape [1, 0, 0, 0, 1].
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

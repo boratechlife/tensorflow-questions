@@ -66,3 +66,17 @@ description: Practice questions for tf keras models sequential.
 - Write a code to set the bias initializer of a specific layer in a sequential model to 'zeros'.
 - Write a code to set the kernel constraint of a specific layer in a sequential model to a custom constraint function.
 - Write a code to add a custom-defined loss function as a metric to a sequential model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

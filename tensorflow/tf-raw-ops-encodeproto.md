@@ -67,3 +67,17 @@ description: Practice questions for tf raw ops encodeproto.
 - Write a code to encode a protocol buffer message and send it as a message on a Redis pub/sub system using tf.raw_ops.EncodeProto.
 - How can you specify the protocol buffer message reserved fields when using tf.raw_ops.EncodeProto?
 - Write a code to encode a protocol buffer message and send it as a message on an Apache Kafka cluster using tf.raw_ops.EncodeProto.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

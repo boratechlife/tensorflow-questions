@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils pad sequences.
 - Write a code to pad sequences using "tf.keras.utils.pad_sequences" and set the dtype to 'uint16'.
 - Write a code to pad sequences using "tf.keras.utils.pad_sequences" and set the dtype to 'uint32'.
 - Write a code to pad sequences using "tf.keras.utils.pad_sequences" and set the dtype to 'uint64'.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

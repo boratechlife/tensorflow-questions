@@ -66,3 +66,17 @@ description: Practice questions for tf feature column categorical column with id
 - Write a code to create a categorical column with identity and handle categorical features with non-linear dependencies.
 - Write a code to create a categorical column with identity and handle categorical features with non-monotonic dependencies.
 - Write a code to create a categorical column with identity and handle categorical features with time-varying dependencies.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

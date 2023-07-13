@@ -95,3 +95,17 @@ description: Practice questions for tf raw ops applymomentum.
 - Write a code to apply momentum to a tensor and update it with a specified optimizer, learning rate, momentum parameter, gradient, velocity, global step, weight decay, batch normalization, dropout, L1 regularization, L2 regularization, early stopping, learning rate decay, model checkpointing, tensorboard logging, parallel training, data augmentation, transfer learning, ensemble learning, hyperparameter tuning, grid search, random search, cross-validation, adversarial training, model compression, federated learning, and quantum computing using "tf.raw_ops.ApplyMomentum".
 - 
 - Write a code to apply momentum to a tensor and update it with a specified optimizer, learning rate, momentum parameter, gradient, velocity, global step, weight decay, batch normalization, dropout, L1 regularization, L2 regularization, early stopping, learning rate decay, model checkpointing, tensorboard logging, parallel training, data augmentation, transfer learning, ensemble learning, hyperparameter tuning, grid search, random search, cross-validation, adversarial training, model compression, federated learning, quantum computing, and explainable AI using "tf.raw_ops.ApplyMomentum".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

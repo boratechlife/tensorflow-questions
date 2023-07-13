@@ -58,3 +58,17 @@ description: Practice questions for tf config get logical device configuration.
 - Write a code to get the list of all available logical devices.
 - Write a code to get the list of all logical devices of a specific type.
 - Write a code to get the list of all logical devices with a minimum memory limit.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

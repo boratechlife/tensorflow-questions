@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops csrsparsematrixcomponents.
 - Write a code to compute the standard deviation of all elements in a CSRSparseMatrix using tf.raw_ops.CSRSparseMatrixComponents.
 - Write a code to reshape a CSRSparseMatrix using tf.raw_ops.CSRSparseMatrixComponents.
 - Write a code to convert a CSRSparseMatrix to a dense matrix using tf.raw_ops.CSRSparseMatrixComponents.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

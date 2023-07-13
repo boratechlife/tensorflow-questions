@@ -66,3 +66,17 @@ description: Practice questions for tf distribute coordinator clustercoordinator
 - Write a code to get the coordinator task type for a specific task from the ClusterCoordinator.
 - Write a code to get the coordinator task name for a specific task from the ClusterCoordinator.
 - Write a code to get the coordinator task address for a specific task from the ClusterCoordinator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

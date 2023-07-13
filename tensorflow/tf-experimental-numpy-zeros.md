@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy zeros.
 - Write a code to create a 2-dimensional array of shape (3, 4) filled with zeros and then replace all of its non-zero elements with twos using tf.experimental.numpy.zeros.
 - Write a code to create a 3-dimensional array of shape (2, 3, 4) filled with zeros and then replace all of its negative elements with zeros using tf.experimental.numpy.zeros.
 - Write a code to create a 1-dimensional array of size 5 filled with zeros and then calculate the cumulative sum of its elements using tf.experimental.numpy.zeros.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

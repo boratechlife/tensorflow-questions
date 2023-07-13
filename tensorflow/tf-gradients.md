@@ -66,3 +66,17 @@ description: Practice questions for tf gradients.
 - Write a code to calculate the gradients of a scalar with respect to multiple variables using tf.gradients and apply the FTRLProximalOptimizer optimization to update the variables.
 - Write a code to calculate the gradients of a scalar with respect to multiple variables using tf.gradients and apply the NAdamOptimizer optimization to update the variables.
 - Write a code to calculate the gradients of a scalar with respect to multiple variables using tf.gradients and apply the AdaMaxOptimizer optimization to update the variables.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

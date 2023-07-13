@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy select.
 - Write a code to use tf.experimental.numpy.select to select elements from an array based on a condition involving the numpy.add function.
 - Write a code to create a tf.experimental.numpy.select statement with conditions involving the numpy.subtract function.
 - Write a code to apply tf.experimental.numpy.select to two arrays and return the element-wise multiplication of each pair of elements.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

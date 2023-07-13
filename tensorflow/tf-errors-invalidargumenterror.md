@@ -66,3 +66,17 @@ description: Practice questions for tf errors invalidargumenterror.
 - Write a code to catch a "tf.errors.NotFoundError" and log the error to a service like Bugsnag.
 - Write a code to handle a "tf.errors.NotFoundError" and display a user-friendly error message with relevant documentation links.
 - Write a code to catch a "tf.errors.NotFoundError" and perform a full system restart as a recovery mechanism.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

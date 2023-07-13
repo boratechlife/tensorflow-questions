@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops orderedmapsize.
 - Write a code to calculate the size of an ordered map and check if it is a multiple of a given number using tf.raw_ops.OrderedMapSize.
 - Write a code to retrieve the size of an ordered map and perform an element-wise operation on it using tf.raw_ops.OrderedMapSize.
 - Write a code to calculate the size of an ordered map and use it as a condition for a TensorFlow control flow operation using tf.raw_ops.OrderedMapSize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

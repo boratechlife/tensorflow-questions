@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy fabs.
 - Write a code to compute the absolute values of all elements in a given TensorFlow tensor and calculate their cumulative minimum using tf.experimental.numpy.fabs.
 - Write a code to compute the absolute values of all elements in a given TensorFlow tensor and check if the tensor is monotonically increasing using tf.experimental.numpy.fabs.
 - Write a code to compute the absolute values of all elements in a given TensorFlow tensor and check if the tensor is monotonically decreasing using tf.experimental.numpy.fabs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

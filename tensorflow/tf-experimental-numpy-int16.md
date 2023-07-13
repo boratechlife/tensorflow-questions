@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy int16.
 - Write a code to calculate the cross product of two 3D tf.experimental.numpy.int16 arrays, a and b.
 - Write a code to calculate the Euclidean distance between two points represented by tf.experimental.numpy.int16 arrays, a and b.
 - Write a code to convert a tf.experimental.numpy.int16 array arr to a regular Python list.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

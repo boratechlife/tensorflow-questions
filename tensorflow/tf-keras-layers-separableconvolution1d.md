@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers separableconvolution1d.
 - Write a code to get the current weights of a SeparableConvolution1D layer in an existing model.
 - Write a code to set the weights of a SeparableConvolution1D layer in an existing model to a given set of weights.
 - Write a code to remove a SeparableConvolution1D layer from an existing model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

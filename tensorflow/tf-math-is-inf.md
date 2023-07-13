@@ -66,3 +66,17 @@ description: Practice questions for tf math is inf.
 - Write a code to calculate the Frobenius norm of all infinite elements in a tensor using "tf.norm" and "tf.math.is_inf".
 - Write a code to check if any element along multiple axes in a tensor is non-infinite using "tf.reduce_any" and "tf.math.is_inf".
 - Write a code to calculate the maximum absolute value among all infinite elements in a tensor using "tf.reduce_max" and "tf.math.is_inf".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dispatch for binary elementw
 - Write a code to check if a custom implementation exists for a binary elementwise operation with specific input types, output shapes, and input ranks using tf.experimental.dispatch_for_binary_elementwise_apis.
 - Write a code to define a custom implementation for a binary elementwise operation with a specific input rank, output type, and shape using tf.experimental.dispatch_for_binary_elementwise_apis.
 - Write a code to unregister a custom implementation for a binary elementwise operation with specific input types, output shapes, and input ranks using tf.experimental.dispatch_for_binary_elementwise_apis.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops inplaceupdate.
 - How can you update a TensorFlow tensor inplace by applying the logical and operator to its values using the tf.raw_ops.InplaceUpdate operation?
 - Write a code to update a TensorFlow tensor inplace by applying the logical or operator to its values using the tf.raw_ops.InplaceUpdate operation.
 - How can you update a TensorFlow tensor inplace by applying the logical xor operator to its values using the tf.raw_ops.InplaceUpdate operation?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

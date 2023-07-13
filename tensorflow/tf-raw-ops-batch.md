@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batch.
 - Write a code to batch compute the element-wise leaky relu activation of a tensor using tf.raw_ops.Batch.
 - Write a code to batch compute the element-wise exponential linear unit (ELU) activation of a tensor using tf.raw_ops.Batch.
 - Write a code to batch compute the element-wise softplus activation of a tensor using tf.raw_ops.Batch.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

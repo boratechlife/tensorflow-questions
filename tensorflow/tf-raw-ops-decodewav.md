@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops decodewav.
 - Write a code to perform audio equalization on the audio data from a WAV file using tf.raw_ops.DecodeWav.
 - Write a code to extract the phase information from the audio data of a WAV file using tf.raw_ops.DecodeWav.
 - Write a code to perform audio time-domain analysis on the audio data from a WAV file using tf.raw_ops.DecodeWav.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

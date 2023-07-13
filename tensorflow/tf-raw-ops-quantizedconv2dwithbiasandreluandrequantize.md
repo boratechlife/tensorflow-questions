@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedconv2dwithbiasandreluand
 - How can you specify the output type (int8 or int32) in tf.raw_ops.QuantizedConv2DWithBiasAndRequantize?
 - Implement a function that applies quantized convolution with bias, ReLU activation, and requantization, and returns the output tensor, scale, zero point, and range.
 - Write a code to compute the gradients of the input tensor, output tensor, scale, and zero point in tf.raw_ops.QuantizedConv2DWithBiasAndRequantize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert shapes.
 - Write a code to check if the shape of a tensor is (None, None, None, None, None, None, None, None, None, None, None, None, None) where all dimensions can have any size.
 - Write a code to ensure that the shape of a tensor is (None, None, None, None, None, None, None, None, None, None, None, None, num_features) where all dimensions are specified except for the number of features.
 - Write a code to assert that the shape of a tensor is (None, None, None, None, None, None, None, None, None, None, None, height, width) where all dimensions are specified except for the height and width.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

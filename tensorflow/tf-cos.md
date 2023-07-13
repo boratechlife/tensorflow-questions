@@ -66,3 +66,17 @@ description: Practice questions for tf cos.
 - Write a code to calculate the cosine of a tensor and calculate the element-wise maximum between the result and another tensor.
 - Write a code to calculate the cosine of a tensor and calculate the element-wise minimum between the result and another tensor.
 - Write a code to calculate the cosine of a tensor and calculate the element-wise floor division with another tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

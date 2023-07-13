@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops depthwiseconv2dnative.
 - Write a code to perform a depthwise convolution and use a specific padding scheme like "SAME" using tf.raw_ops.DepthwiseConv2dNative.
 - Write a code to perform a depthwise convolution and use a specific padding scheme like "VALID" using tf.raw_ops.DepthwiseConv2dNative.
 - Write a code to perform a depthwise convolution and specify the number of filters using tf.raw_ops.DepthwiseConv2dNative.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

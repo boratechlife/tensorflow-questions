@@ -66,3 +66,17 @@ description: Practice questions for tf estimator warmstartsettings.
 - Write a code to print the names and sizes of all variables in WarmStartSettings.
 - Write a code to print the names and values of all variables in WarmStartSettings.
 - Write a code to iterate over all variables in WarmStartSettings and perform an action on each variable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

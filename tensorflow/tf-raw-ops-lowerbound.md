@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lowerbound.
 - Write a code to determine the index of the lower bound of a specific element in a sorted array using tf.raw_ops.LowerBound.
 - How would you use tf.raw_ops.LowerBound to find the lower bound index of a target value in a sorted list?
 - Create a function that utilizes tf.raw_ops.LowerBound to find the lower bound of a value in a sorted tensor and return its index.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

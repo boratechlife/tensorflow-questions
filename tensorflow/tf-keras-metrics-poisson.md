@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics poisson.
 - Write a code to calculate the Poisson loss between two tensors and compute the sum of losses with class weights using tf.keras.metrics.Poisson.
 - Write a code to calculate the Poisson loss between two tensors and compute the sum of losses with sample weights using tf.keras.metrics.Poisson.
 - Write a code to calculate the Poisson loss between two tensors and compute the sum of losses with reduction method using tf.keras.metrics.Poisson.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

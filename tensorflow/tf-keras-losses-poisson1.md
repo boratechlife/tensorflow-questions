@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses poisson1.
 - Write a code to compute the Poisson loss between a predicted tensor and a target tensor, and apply adaptive weights.
 - Write a code to compute the Poisson loss and its gradients for a batch of data points using federated GPU computing.
 - Write a code to compute the Poisson loss between a predicted tensor and a target tensor, and apply personalized weights.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

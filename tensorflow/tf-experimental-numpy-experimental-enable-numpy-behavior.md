@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy experimental enable nu
 - Write a code to apply element-wise division with a specified default value for zero division in a TensorFlow tensor with experimental NumPy behavior enabled.
 - Write a code to compute the element-wise maximum between two TensorFlow tensors with experimental NumPy behavior enabled.
 - Write a code to compute the element-wise minimum between two TensorFlow tensors with experimental NumPy behavior enabled.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

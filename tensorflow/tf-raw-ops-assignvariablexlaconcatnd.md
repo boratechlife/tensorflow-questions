@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops assignvariablexlaconcatnd.
 - How can you concatenate tensors along a dimension with a specific optimizer using "AssignVariableXlaConcatND"?
 - Write a code to update a variable by concatenating tensors with a specific optimizer using "AssignVariableXlaConcatND".
 - How can you use "AssignVariableXlaConcatND" to concatenate tensors with a specific loss function?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

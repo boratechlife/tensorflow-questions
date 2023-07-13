@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor barrier.
 - Write a code to create a barrier with a specified initial count and name using tf.experimental.dtensor.barrier.
 - Write a code to check if a tf.experimental.dtensor.barrier object has been initialized with a size, threshold, and maximum count.
 - Write a code to create a barrier with a specified size, threshold, maximum count, initial count, and name using tf.experimental.dtensor.barrier.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

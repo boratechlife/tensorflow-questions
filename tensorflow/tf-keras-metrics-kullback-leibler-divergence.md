@@ -115,3 +115,17 @@ description: Practice questions for tf keras metrics kullback leibler divergence
 - Write a code to compute the Kullback-Leibler divergence between two probability distributions with Laplace smoothing using tf.reduce_mean and tf.math.reduce_sum.
 - 
 - Write a code to calculate the Kullback-Leibler divergence between two probability distributions represented as numpy arrays using tf.reduce_mean and tf.math.reduce_sum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf initializers orthogonal.
 - Write a code to initialize a TensorFlow weight matrix with shape (6, 6, 6, 7, 7) using tf.initializers.Orthogonal.
 - Write a code to initialize a TensorFlow variable with shape (8, 8, 8, 9, 9) using tf.initializers.Orthogonal.
 - Write a code to initialize a TensorFlow tensor with shape (1, 1, 1, 1, 1, 1) using tf.initializers.Orthogonal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

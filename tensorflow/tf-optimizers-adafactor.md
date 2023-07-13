@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers adafactor.
 - Write a code to set the learning rate relative parameter scale divisor of the Adafactor optimizer to a custom value.
 - Write a code to set the learning rate absolute parameter scale of the Adafactor optimizer to True.
 - Write a code to set the learning rate absolute parameter scale of the Adafactor optimizer to False.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

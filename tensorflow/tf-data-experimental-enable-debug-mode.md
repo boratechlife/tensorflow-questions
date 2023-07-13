@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental enable debug mode.
 - Write a code to enable the vectorization feature in TensorFlow's experimental data pipeline debug mode.
 - Write a code to disable the vectorization feature in TensorFlow's experimental data pipeline debug mode.
 - Write a code to set the vectorization cycle length in TensorFlow's experimental data pipeline debug mode.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

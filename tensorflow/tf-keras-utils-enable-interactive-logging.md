@@ -67,3 +67,17 @@ description: Practice questions for tf keras utils enable interactive logging.
 - Write a code to enable interactive logging with TensorFlow autograph information logging enabled in TensorFlow Keras.
 - How can you enable logging of TensorFlow saved model information using enable_interactive_logging?
 - Write a code to enable interactive logging with TensorFlow saved model information logging enabled in TensorFlow Keras.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers schedules cosinedecay.
 - Write a code to get the learning rate value for a CosineDecay schedule with alpha parameter 0.8 at step 3000.
 - Write a code to get the learning rate value for a CosineDecay schedule with alpha parameter 0.9 at step 3500.
 - Write a code to create a CosineDecay learning rate schedule with initial learning rate 0.1, decay steps 1000, and alpha parameter 0.5, and use it in an optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

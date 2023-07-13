@@ -66,3 +66,17 @@ description: Practice questions for tf random gamma.
 - Write a code to generate a random gamma distribution with shape parameter 2 and scale parameter 3, and calculate the hypergeometric function using tf.random.gamma.
 - Write a code to generate a random gamma distribution with shape parameter 2 and scale parameter 3, and calculate the confluent hypergeometric function using tf.random.gamma.
 - Write a code to generate a random gamma distribution with shape parameter 2 and scale parameter 3, and calculate the parabolic cylinder function using tf.random.gamma.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

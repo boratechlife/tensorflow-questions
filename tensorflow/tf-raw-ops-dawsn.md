@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops dawsn.
 - How would you modify the parameters of tf.raw_ops.Dawsn to compute the Dawson function for a negative input?
 - Write a code to calculate the Dawson function using a Fourier series expansion and compare it with the result from tf.raw_ops.Dawsn.
 - Create a code to calculate the definite integral of the product of the square of the Dawson function and another function multiplied by a scaling factor using tf.raw_ops.Dawsn.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

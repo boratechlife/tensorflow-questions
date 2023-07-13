@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnety008.
 - Write a code to apply L1 regularization to the weights of the RegNetY008 model.
 - Write a code to apply L2 regularization to the weights of the RegNetY008 model.
 - Write a code to apply a specific activation function to a layer in the RegNetY008 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

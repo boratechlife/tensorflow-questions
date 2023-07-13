@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental einsumdense.
 - Write a code to create an EinsumDense layer with input shape (None, 50) and output dimension 20 using the 'ii->i' equation.
 - Write a code to create an EinsumDense layer with input shape (None, 20) and output dimension 2 using the 'ij,jk->ik' equation.
 - Write a code to create an EinsumDense layer with input shape (None, 10) and output dimension 5 using the 'ii->i' equation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

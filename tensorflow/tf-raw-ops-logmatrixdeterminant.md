@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops logmatrixdeterminant.
 - How can you compute the log determinant of a matrix using the polar decomposition and tf.raw_ops.LogMatrixDeterminant?
 - Write a code to calculate the log determinant of a matrix and handle cases where the matrix has eigenvalues close to a specific real number.
 - How can you compute the log determinant of a matrix using the spectral decomposition and tf.raw_ops.LogMatrixDeterminant?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

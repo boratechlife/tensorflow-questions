@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image imagedatagenera
 - Write a code to set the normalization statistics computed over the training data of an ImageDataGenerator object.
 - Write a code to set the rescale factor for input images of an ImageDataGenerator object to 2.
 - Write a code to set the number of threads to use for image preprocessing of an ImageDataGenerator object to a custom value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications nasnet nasnetmobile.
 - Write a code to use a learning rate schedule for training the NASNetMobile model.
 - Write a code to set a specific layer in the NASNetMobile model as trainable or non-trainable.
 - Write a code to get the number of trainable and non-trainable parameters in the NASNetMobile model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

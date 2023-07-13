@@ -66,3 +66,17 @@ description: Practice questions for tf estimator sessionrunhook.
 - Write a code to create a custom SessionRunHook that applies gradient noise during training.
 - Write a code to create a custom SessionRunHook that logs the model's outputs after every n steps during training.
 - Write a code to create a custom SessionRunHook that applies cyclic learning rate scheduling during training.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

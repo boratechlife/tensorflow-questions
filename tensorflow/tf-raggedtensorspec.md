@@ -66,3 +66,17 @@ description: Practice questions for tf raggedtensorspec.
 - Write a code to create a tf.RaggedTensorSpec with a rank of 4 and ragged dimension sizes [None, None, None, None, None, None, None, 5].
 - Write a code to create a tf.RaggedTensorSpec with a rank of 2 and ragged dimension sizes [None, None, None, None, None, None, None, None, None, 10].
 - Write a code to create a tf.RaggedTensorSpec with a rank of 3 and ragged dimension sizes [None, None, None, None, None, None, None, None, 3, None].
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

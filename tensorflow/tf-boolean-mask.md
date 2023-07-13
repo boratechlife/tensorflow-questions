@@ -66,3 +66,17 @@ description: Practice questions for tf boolean mask.
 - Write a code to apply a boolean mask to a tensor and return the indices of the masked elements as a tuple.
 - Write a code to create a boolean mask that selects elements outside a specific range from a tensor.
 - Write a code to apply a boolean mask to a tensor and return the masked values as a NumPy array.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

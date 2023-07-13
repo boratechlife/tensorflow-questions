@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics sparse categorical accuracy
 - Write a code to update multiple sparse categorical accuracy metrics with a batch of predictions and binary labels.
 - Write a code to retrieve the current average values of multiple sparse categorical accuracy metrics.
 - Write a code to calculate the sparse categorical accuracy of a model's predictions using float labels.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

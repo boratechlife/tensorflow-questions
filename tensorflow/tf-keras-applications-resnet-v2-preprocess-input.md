@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet v2 preprocess i
 - Write a code to load the ResNetV2 model with pre-trained ImageNet weights, preprocess a batch of images loaded from files, and extract features from a specific layer.
 - Write a code to load the ResNetV2 model with pre-trained ImageNet weights, preprocess an image represented as a NumPy array, and extract features from a specific layer.
 - Write a code to load the ResNetV2 model with pre-trained ImageNet weights, preprocess a batch of images represented as NumPy arrays, and extract features from a specific layer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

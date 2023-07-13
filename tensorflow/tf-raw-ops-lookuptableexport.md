@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lookuptableexport.
 - Write a code to deserialize a lookup table from a string using tf.raw_ops.LookupTableExport.
 - Write a code to export a lookup table to a database using tf.raw_ops.LookupTableExport.
 - Write a code to import a lookup table from a database using tf.raw_ops.LookupTableExport.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf linalg linearoperatorcirculant2d.
 - Write a code to compute the matrix determinant using the cofactor expansion of a 2D circulant linear operator.
 - Write a code to compute the matrix determinant using the eigenvalue decomposition of a 2D circulant linear operator.
 - Write a code to compute the matrix determinant using the singular value decomposition of a 2D circulant linear operator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf metrics precision.
 - Write a code to calculate the precision score for a dataset with hierarchical data using tf.metrics.Precision.
 - Write a code to calculate the precision score for a dataset with multiple modalities using tf.metrics.Precision.
 - Write a code to calculate the precision score for a dataset with missing time steps using tf.metrics.Precision.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

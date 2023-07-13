@@ -66,3 +66,17 @@ description: Practice questions for tf lookup textfileinitializer.
 - Write a code to perform a group-by operation on a column in a text file using a "tf.lookup.TextFileInitializer".
 - Write a code to perform a pivot table operation on a text file using a "tf.lookup.TextFileInitializer".
 - Write a code to perform a join operation between two text files using a "tf.lookup.TextFileInitializer".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

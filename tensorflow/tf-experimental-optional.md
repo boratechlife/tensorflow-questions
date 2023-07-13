@@ -66,3 +66,17 @@ description: Practice questions for tf experimental optional.
 - Write a code to serialize a tf.experimental.Optional object to a file.
 - Write a code to deserialize a tf.experimental.Optional object from a file.
 - Write a code to handle errors when working with tf.experimental.Optional objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops isboostedtreesquantilestreamresou
 - Can you provide a code example that checks if the BoostedTrees quantile stream resource is ready to be used?
 - Write a code to ensure that the BoostedTrees quantile stream resource initialization is successful.
 - How can you programmatically determine if the BoostedTrees quantile stream resource is properly initialized?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

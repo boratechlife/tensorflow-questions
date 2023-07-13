@@ -66,3 +66,17 @@ description: Practice questions for tf experimental extension type as dict.
 - Write a code to convert a tf.experimental.ExtensionType object with properties containing tf.raw_ops.MaxPoolGrad objects to a dictionary using as_dict.
 - Write a code to convert a tf.experimental.ExtensionType object with properties containing nested tf.raw_ops.MaxPoolGrad objects to a dictionary using as_dict.
 - Write a code to convert a tf.experimental.ExtensionType object with properties containing custom Python objects to a dictionary using as_dict.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

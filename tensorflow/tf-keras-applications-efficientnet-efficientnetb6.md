@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnet efficient
 - Write a code to implement class activation maps (CAM) for visualizing the important regions in input images for the EfficientNetB6 model.
 - Write a code to implement cosine annealing learning rate scheduling for training the EfficientNetB6 model.
 - Write a code to implement stochastic depth regularization in the EfficientNetB6 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf less equal.
 - Write a code to count the number of elements less than or equal to a specific value in each row of a tensor using tf.less_equal.
 - Write a code to calculate the sum of elements less than or equal to a specific threshold in each column of a tensor using tf.less_equal.
 - Write a code to replace all negative values in each column of a tensor with zero using tf.less_equal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

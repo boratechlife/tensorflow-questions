@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy divide.
 - Write a code to divide a tensor by a tensor and round the result towards the nearest even integer using tf.experimental.numpy.divide.
 - Write a code to divide a tensor by a tensor and return the quotient and remainder using tf.experimental.numpy.divide.
 - Write a code to divide a tensor by a tensor and return the fractional and integral parts using tf.experimental.numpy.divide.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lookuptablefind.
 - How can you find the most similar match for multiple keys using "tf.raw_ops.LookupTableFind"?
 - Write a code to perform a case-insensitive prefix and suffix match lookup for a single key using "tf.raw_ops.LookupTableFind".
 - How can you perform a case-insensitive prefix and suffix match lookup for multiple keys using "tf.raw_ops.LookupTableFind"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

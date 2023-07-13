@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cumprod.
 - Write a code to calculate the cumulative product of a tensor along axis 2 and then calculate its determinant using tf.raw_ops.Cumprod.
 - Write a code to calculate the cumulative product of a tensor and apply the ELU activation function to the result using tf.raw_ops.Cumprod.
 - Write a code to calculate the cumulative product of a tensor along axis 0 and then calculate its trace using tf.raw_ops.Cumprod.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

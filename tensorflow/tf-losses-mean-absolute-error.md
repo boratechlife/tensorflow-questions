@@ -66,3 +66,17 @@ description: Practice questions for tf losses mean absolute error.
 - Write a code to calculate the mean absolute error between two tensors, where the first tensor has shape (batch_size, seq_length, embedding_dim) and the second tensor has shape (batch_size, 1, 1), using "tf.losses.mean_absolute_error".
 - Write a code to calculate the mean absolute error between two tensors, where the first tensor has shape (batch_size, height, width) and the second tensor has shape (batch_size, 1, 1), using "tf.losses.mean_absolute_error".
 - Write a code to calculate the mean absolute error between two tensors, where the first tensor has shape (batch_size, num_points) and the second tensor has shape (batch_size, 1, 1), using "tf.losses.mean_absolute_error".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

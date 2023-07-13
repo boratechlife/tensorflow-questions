@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy arccos.
 - Write a code to calculate the arccosine of a value and handle the case when it is an unsupported type.
 - Write a code to calculate the arccosine of an array of values and handle the case when some elements are unsupported types.
 - Write a code to calculate the arccosine of a value and handle the case when an error occurs during the calculation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

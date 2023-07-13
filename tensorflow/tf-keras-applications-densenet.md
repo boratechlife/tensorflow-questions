@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications densenet.
 - Write a code to use data augmentation and dropout during training of the DenseNet121 model.
 - Write a code to visualize the saliency map of an input image using the DenseNet121 model.
 - Write a code to fine-tune the DenseNet121 model on a new dataset with limited labeled examples.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

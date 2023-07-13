@@ -66,3 +66,17 @@ description: Practice questions for tf image per image standardization.
 - Write a code to apply per-image standardization to an image using TensorFlow's tf.image.random_flip_left_right function.
 - Write a code to apply per-image standardization to an image using TensorFlow's tf.image.random_flip_up_down function.
 - Write a code to apply per-image standardization to an image using TensorFlow's tf.image.random_flip_left_right and tf.image.random_flip_up_down functions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

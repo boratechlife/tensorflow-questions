@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops deletememorycache.
 - Write a code to delete memory caches that have not been modified by any TensorFlow session and are associated with a specific device, a specific data type, and a specific operation type using tf.raw_ops.DeleteMemoryCache.
 - Write a code to delete memory caches associated with a specific TensorFlow namespace, a particular device, a specific data type, and a specific variable type using tf.raw_ops.DeleteMemoryCache.
 - Write a code to delete memory caches that match a specific pattern in their names and are associated with a specific TensorFlow session, a particular device, and a specific operation type using tf.raw_ops.DeleteMemoryCache.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

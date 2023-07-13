@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing r
 - Implement a code to apply random horizontal flipping to an image tensor with shape (None, 64, 64) using tf.keras.layers.experimental.preprocessing.RandomFlip.
 - Write a code to apply random horizontal flipping to a set of images stored in a directory with a probability of 0.9 using tf.keras.layers.experimental.preprocessing.RandomFlip.
 - How can you apply random flipping to an image dataset stored in a Pandas DataFrame without labels using tf.keras.layers.experimental.preprocessing.RandomFlip?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

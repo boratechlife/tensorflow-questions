@@ -66,3 +66,17 @@ description: Practice questions for tf nn max pool2d.
 - Write a code to perform max pooling on a 2D tensor using tf.nn.max_pool2d and apply a convolutional layer followed by a dropout operation and then another convolutional layer to the pooled output.
 - Write a code to perform max pooling on a 2D tensor using tf.nn.max_pool2d and apply a convolutional layer followed by a dense layer and then another convolutional layer to the pooled output.
 - Write a code to perform max pooling on a 2D tensor using tf.nn.max_pool2d and apply a convolutional layer followed by a recurrent neural network and then another convolutional layer to the pooled output.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

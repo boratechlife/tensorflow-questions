@@ -66,3 +66,17 @@ description: Practice questions for tf equal.
 - Write a code to compare two floating-point arrays with tolerance using "tf.equal".
 - Write a code to check if two TensorFlow placeholders have the same data type using "tf.equal".
 - Write a code to compare two sparse tensors with a specified epsilon using "tf.equal".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

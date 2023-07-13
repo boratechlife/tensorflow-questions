@@ -66,3 +66,17 @@ description: Practice questions for tf losses hinge.
 - Write a code to compute the hinge loss for a multiclass classification problem using tf.losses.hinge with a custom label smoothing.
 - Write a code to compute the hinge loss for a multilabel classification problem using tf.losses.hinge with a custom label smoothing.
 - Write a code to compute the hinge loss for a regression problem using tf.losses.hinge with a custom label smoothing.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

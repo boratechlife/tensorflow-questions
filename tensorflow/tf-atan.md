@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to compute the arctangent of a tensor and calculate the element-wise absolute difference with a scalar value.
 - Write a code to compute the arctangent of a tensor and calculate the element-wise exponential of a scalar value.
 - Write a code to compute the arctangent of a tensor and calculate the element-wise logarithm of a scalar value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

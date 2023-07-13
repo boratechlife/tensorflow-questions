@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreescreateensemble.
 - How can you specify the learning rate decay for the boosted trees ensemble using "tf.raw_ops.BoostedTreesCreateEnsemble"?
 - Write a code to set the learning rate decay step size for the boosted trees ensemble using "tf.raw_ops.BoostedTreesCreateEnsemble".
 - How can you specify the learning rate decay type using "tf.raw_ops.BoostedTreesCreateEnsemble"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

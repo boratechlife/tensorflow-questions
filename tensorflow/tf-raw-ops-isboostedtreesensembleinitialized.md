@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops isboostedtreesensembleinitialized
 - Create a Python function to check whether a BoostedTrees ensemble model is initialized or not.
 - How can you use tf.raw_ops.IsBoostedTreesEnsembleInitialized to validate the initialization status of a BoostedTrees ensemble model?
 - Write a code snippet to determine the initialization status of a BoostedTrees ensemble model using TensorFlow raw operations.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

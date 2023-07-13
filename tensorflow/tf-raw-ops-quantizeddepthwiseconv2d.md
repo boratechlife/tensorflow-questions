@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizeddepthwiseconv2d.
 - Write a code to set the quantization type for the bias term in a quantized depthwise convolution operation.
 - Write a code to specify the output quantization type for the bias term in a quantized depthwise convolution operation.
 - Write a code to perform a quantized depthwise convolution with a given rounding mode for the bias term.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

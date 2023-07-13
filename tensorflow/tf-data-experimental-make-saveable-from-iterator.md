@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental make saveable from iter
 - Write a code to create a saveable iterator from a dataset and save it as a TensorFlow NPY using tf.data.experimental.make_saveable_from_iterator.
 - Write a code to restore a saveable iterator from a TensorFlow NPY using tf.data.experimental.make_saveable_from_iterator.
 - Write a code to create a saveable iterator from a dataset and save it as a TensorFlow Pickle using tf.data.experimental.make_saveable_from_iterator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

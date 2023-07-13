@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy vander.
 - Write a code to generate a Vandermonde matrix using tf.experimental.numpy.vander with multiple input arrays, using a custom function for generating the power values, a custom column ordering, and excluding a range of column indices, ending at a specific column index.
 - Write a code to generate a Vandermonde matrix using tf.experimental.numpy.vander with a single input array and a specified number of columns, using a custom function for generating the power values, a custom column ordering, and excluding a range of column indices, starting and ending at specific column indices.
 - Write a code to generate a Vandermonde matrix using tf.experimental.numpy.vander with multiple input arrays, using a custom function for generating the power values, a custom column ordering, and excluding a range of column indices, starting and ending at specific column indices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

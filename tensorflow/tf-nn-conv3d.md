@@ -115,3 +115,17 @@ description: Practice questions for tf nn conv3d.
 - Write a code to apply a 3D convolution to a batch of 3D input tensors using tf.nn.conv3d.
 - 
 - Write a code to apply a transposed 3D convolution to a batch of 3D input tensors using tf.nn.conv3d_transpose.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

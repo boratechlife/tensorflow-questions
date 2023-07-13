@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops argmin.
 - Write a code to find the index of the minimum element in a TensorFlow tensor and save the result to a file using tf.raw_ops.ArgMin.
 - Write a code to find the index of the minimum element in a TensorFlow tensor and load the result from a file using tf.raw_ops.ArgMin.
 - Write a code to find the index of the minimum element in a TensorFlow tensor and visualize the result using a plot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

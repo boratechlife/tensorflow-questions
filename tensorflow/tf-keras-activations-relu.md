@@ -66,3 +66,17 @@ description: Practice questions for tf keras activations relu.
 - Write a code to apply the ReLU activation function to a tensor after a fully connected layer and global average pooling layer using tf.keras.activations.relu.
 - Write a code to apply the ReLU activation function to a tensor after a fully connected layer and global max pooling layer using tf.keras.activations.relu.
 - Write a code to apply the ReLU activation function to a tensor after a convolutional layer and global average pooling layer using tf.keras.activations.relu.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

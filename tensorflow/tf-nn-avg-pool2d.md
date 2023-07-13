@@ -67,3 +67,17 @@ description: Practice questions for tf nn avg pool2d.
 - Write a code to perform average pooling with a pooling window size of 2x2, strides of 2x2, no padding, and handling an empty pooling region.
 - How can you specify the behavior of the function when encountering out-of-bound indices using tf.nn.avg_pool2d?
 - Write a code to perform average pooling with a pooling window size of 3x3, strides of 1x1, same padding, and handling out-of-bound indices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

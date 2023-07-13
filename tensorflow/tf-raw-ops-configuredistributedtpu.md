@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops configuredistributedtpu.
 - Write a code to configure a distributed TPU with a specific XLA tile size configuration using tf.raw_ops.ConfigureDistributedTPU.
 - Write a code to configure a distributed TPU with a specific XLA tensor layout configuration using tf.raw_ops.ConfigureDistributedTPU.
 - Write a code to configure a distributed TPU with a specific XLA tensor shape configuration using tf.raw_ops.ConfigureDistributedTPU.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

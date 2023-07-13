@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet resnet50.
 - Write a code to apply cyclic learning rates during training with ResNet50.
 - Write a code to perform class activation mapping for ResNet50.
 - Write a code to apply early stopping based on validation accuracy for ResNet50.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

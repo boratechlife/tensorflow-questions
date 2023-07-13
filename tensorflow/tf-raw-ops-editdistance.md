@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops editdistance.
 - Write a code to find the most similar audio signal tensor in a list based on edit distance using tf.raw_ops.EditDistance.
 - Write a code to calculate the average edit distance between a list of audio signal tensors and a reference audio signal tensor using tf.raw_ops.EditDistance.
 - Write a code to find the two most similar audio signal tensors in a list based on edit distance using tf.raw_ops.EditDistance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

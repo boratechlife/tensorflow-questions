@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops accumulatornumaccumulated.
 - Write a code to compute the mean of values in multiple TensorFlow accumulators.
 - Write a code to compute the maximum value in a TensorFlow accumulator.
 - Write a code to compute the maximum value in multiple TensorFlow accumulators.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

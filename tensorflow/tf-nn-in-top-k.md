@@ -66,3 +66,17 @@ description: Practice questions for tf nn in top k.
 - Write a code to compute the F1 score using tf.nn.in_top_k.
 - Write a code to calculate the top k accuracy using tf.nn.in_top_k.
 - Write a code to find the top 5 predictions and check if the true label is one of them.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

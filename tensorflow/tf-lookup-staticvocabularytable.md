@@ -66,3 +66,17 @@ description: Practice questions for tf lookup staticvocabularytable.
 - Write a code to set the size of a StaticVocabularyTable.
 - Write a code to create a StaticVocabularyTable with a custom value.
 - Write a code to get the value of a StaticVocabularyTable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

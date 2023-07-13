@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental unbatch.
 - How can you unbatch a dataset and convert each element to a recommendation problem using tf.data.experimental.unbatch?
 - Write a code to unbatch a dataset and apply a feature encoding function to each element using tf.data.experimental.unbatch.
 - How can you unbatch a dataset and convert each element to a time series anomaly detection problem using tf.data.experimental.unbatch?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops diagpart.
 - How can you extract the diagonal elements from a tensor and compute their Wasserstein distance using tf.raw_ops.DiagPart?
 - Write a code to extract the diagonal elements from a tensor and compute their Kullback-Leibler divergence using tf.raw_ops.DiagPart.
 - How can you extract the diagonal elements from a tensor and compute their Jensen-Shannon divergence using tf.raw_ops.DiagPart?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

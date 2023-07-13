@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image random zoom.
 - How can you specify the zoom range as a fraction of the original size for width and height independently when using tf.keras.preprocessing.image.random_zoom?
 - Write a code to zoom multiple images in a directory with random zoom factors within specific ranges and save the modified images with new names.
 - How can you specify the zoom range as a percentage of the original size for width and height independently when using tf.keras.preprocessing.image.random_zoom?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

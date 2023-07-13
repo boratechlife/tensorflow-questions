@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy diag.
 - Write a code to calculate the sum of upper triangular elements in a matrix using "tf.experimental.numpy.diag".
 - Write a code to check if a matrix is a tridiagonal matrix using "tf.experimental.numpy.diag".
 - Write a code to create a matrix with the diagonal elements as the sine of the original diagonal elements using "tf.experimental.numpy.diag".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

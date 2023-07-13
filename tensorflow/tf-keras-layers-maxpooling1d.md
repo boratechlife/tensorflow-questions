@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers maxpooling1d.
 - Write a code to create a MaxPooling1D layer with a pool size of 2 and apply it to a 5D input tensor with shape (None, 10, 100, 1, 1).
 - Write a code to create a MaxPooling1D layer with a pool size of 2 and apply it to a 5D input tensor with shape (None, 10, 1, 100, 1).
 - Write a code to create a MaxPooling1D layer with a pool size of 2 and apply it to a 5D input tensor with shape (None, 10, 1, 1, 100).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

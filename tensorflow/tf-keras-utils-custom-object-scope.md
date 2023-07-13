@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils custom object scope.
 - Write a code to define a custom object that requires a custom "len" method and use it with "custom_object_scope."
 - Write a code to define a custom object that requires a custom "str" method and use it with "custom_object_scope."
 - Write a code to define a custom object that requires a custom "repr" method and use it with "custom_object_scope."
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

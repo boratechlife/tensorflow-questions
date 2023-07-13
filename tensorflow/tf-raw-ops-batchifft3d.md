@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchifft3d.
 - Write a code to calculate the inverse 3D Fourier transform for a set of complex-valued 3D inputs using "tf.raw_ops.BatchIFFT3D".
 - Write a code to perform a batched inverse 3D fast Fourier transform on a batch of complex 3D tensors.
 - Write a code to compute the batched inverse Fourier transform for a batch of 3D complex-valued inputs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

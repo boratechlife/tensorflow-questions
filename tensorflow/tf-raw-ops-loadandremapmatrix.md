@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loadandremapmatrix.
 - How can you set the number of records to skip when loading and remapping a matrix from a binary file with tf.raw_ops.LoadAndRemapMatrix?
 - Write a code to load and remap a matrix using tf.raw_ops.LoadAndRemapMatrix and apply a dropout operation to the loaded data.
 - How can you specify the endianess of the binary file when using tf.raw_ops.LoadAndRemapMatrix?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

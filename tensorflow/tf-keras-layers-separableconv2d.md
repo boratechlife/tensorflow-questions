@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers separableconv2d.
 - Write a code to add a SeparableConv2D layer and set the pointwise initializer to a custom initializer.
 - Write a code to create a SeparableConv2D layer and set the depthwise regularizer to a custom regularizer.
 - Write a code to add a SeparableConv2D layer and set the pointwise regularizer to a custom regularizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy random random.
 - Write a code to generate a random number from a given exponential distribution using "tf.experimental.numpy.random.random".
 - Write a code to generate an array of 100 random numbers from an exponential distribution with a rate of 0.5 using "tf.experimental.numpy.random.random".
 - Write a code to generate a random number from a given normal distribution using "tf.experimental.numpy.random.random".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

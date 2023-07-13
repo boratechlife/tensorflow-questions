@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedconv2dwithbias.
 - Can I use tf.raw_ops.QuantizedConv2DWithBias for quantized dilated convolutions?
 - How can I specify the quantization scale or step size for the tf.raw_ops.QuantizedConv2DWithBias operation?
 - Can I use tf.raw_ops.QuantizedConv2DWithBias for quantized group convolutions?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

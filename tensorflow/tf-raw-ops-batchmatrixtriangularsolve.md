@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchmatrixtriangularsolve.
 - How can you use tf.raw_ops.BatchMatrixTriangularSolve to compute the generalized Schur decomposition of a batch of triangular matrices with different output types?
 - Write a code to solve a batch of triangular systems of equations with packed triangular matrices and transposed matrices with a packed triangular matrix and multiple right-hand sides using tf.raw_ops.BatchMatrixTriangularSolve.
 - How can you compute the generalized SVD of a batch of upper triangular matrices with different output types using tf.raw_ops.BatchMatrixTriangularSolve?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

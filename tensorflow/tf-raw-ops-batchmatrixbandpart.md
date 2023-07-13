@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchmatrixbandpart.
 - Write a code to split a batch of matrices into two parts using tf.raw_ops.BatchMatrixBandPart.
 - Write a code to apply an element-wise function to a batch of matrices using tf.raw_ops.BatchMatrixBandPart.
 - Write a code to reshape a batch of matrices using tf.raw_ops.BatchMatrixBandPart.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

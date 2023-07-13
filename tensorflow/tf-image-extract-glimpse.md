@@ -66,3 +66,17 @@ description: Practice questions for tf image extract glimpse.
 - How can you extract glimpses from an image and randomly apply a combination of affine and perspective transformations to them using tf.image.extract_glimpse?
 - Write a code to extract a glimpse from an image and randomly adjust its brightness, contrast, and saturation while also applying affine transformations to it using tf.image.extract_glimpse.
 - How can you extract glimpses from an image and randomly apply a combination of perspective transformations, elastic transformations, and noise adjustments to them using tf.image.extract_glimpse?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

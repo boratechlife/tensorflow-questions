@@ -66,3 +66,17 @@ description: Practice questions for tf variable.
 - Write a code to create a TensorFlow variable "output_activation" and initialize it with the "softmax" activation function.
 - Write a code to create a TensorFlow variable "learning_rate" and initialize it with the "PiecewiseConstantDecay" function.
 - Write a code to create a TensorFlow variable "decay_steps" and set its initial value to 1000.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

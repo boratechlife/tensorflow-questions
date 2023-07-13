@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses binaryfocalcrossentropy.
 - Write a code to calculate the binary focal cross-entropy loss for a time series classification model.
 - Write a code to create a custom loss function that incorporates uncertainty estimation with BinaryFocalCrossentropy.
 - Write a code to calculate the binary focal cross-entropy loss for a semi-supervised learning model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

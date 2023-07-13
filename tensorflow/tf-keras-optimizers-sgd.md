@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers sgd.
 - Write a code to set the learning rate to 0.01 and the momentum to 0.9 for the first 10 epochs, then decrease the learning rate by a factor of 0.1 and increase the momentum to 0.95 for the next 10 epochs, and finally decrease the learning rate by a factor of 0.01 and decrease the momentum to 0.9 if the validation accuracy increases for 3 consecutive epochs, the validation loss increases for 3 consecutive epochs, or the validation loss decreases for 5 consecutive epochs using an SGD optimizer.
 - Write a code to set the learning rate to 0.01 and the momentum to 0.9 for the first 10 epochs, then decrease the learning rate by a factor of 0.1 and increase the momentum to 0.95 for the next 10 epochs, and finally decrease the learning rate by a factor of 0.01 and decrease the momentum to 0.9 if the validation accuracy does not improve for 5 consecutive epochs, the validation loss increases for 3 consecutive epochs, the validation loss decreases for 5 consecutive epochs, or the validation accuracy decreases for 3 consecutive epochs using an SGD optimizer.
 - Write a code to set the learning rate to 0.01 and the momentum to 0.9 for the first 10 epochs, then decrease the learning rate by a factor of 0.1 and increase the momentum to 0.95 for the next 10 epochs, and finally decrease the learning rate by a factor of 0.01 and decrease the momentum to 0.9 if the validation accuracy increases for 3 consecutive epochs, the validation loss increases for 3 consecutive epochs, the validation loss decreases for 5 consecutive epochs, or the validation accuracy decreases for 3 consecutive epochs using an SGD optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

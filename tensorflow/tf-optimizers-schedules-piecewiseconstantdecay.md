@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers schedules piecewiseconstantdec
 - Write a code to create a piecewise constant decay schedule with two decay steps at epochs 5 and 10, with decay rates of 0.1 and 0.2, respectively, and an exponential decay starting at epoch 8.
 - Write a code to get the learning rate at epoch 7 for a piecewise constant decay schedule with two decay steps at epochs 5 and 10, with decay rates of 0.1 and 0.2, respectively, and a linear decay starting at epoch 3.
 - Write a code to create a piecewise constant decay schedule with three decay steps at epochs 5, 10, and 15, with decay rates of 0.1, 0.2, and 0.3, respectively, and a linear decay starting at epoch 8.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

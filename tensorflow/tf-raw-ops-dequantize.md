@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops dequantize.
 - How can you dequantize multiple tensors with a specified range and the default mode using tf.raw_ops.Dequantize and round the results to the nearest integers?
 - Write a code to dequantize a tensor using tf.raw_ops.Dequantize and obtain the output as a tf.Tensor.
 - How can you dequantize a tensor with a specified mode using tf.raw_ops.Dequantize and obtain the output as a tf.Tensor?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

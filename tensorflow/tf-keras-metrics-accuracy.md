@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics accuracy.
 - Write a code to calculate the accuracy of a model on a document classification dataset using Accuracy metric.
 - Write a code to calculate the accuracy of a model on a named entity recognition dataset using Accuracy metric.
 - Write a code to calculate the accuracy of a model on a topic modeling dataset using Accuracy metric.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

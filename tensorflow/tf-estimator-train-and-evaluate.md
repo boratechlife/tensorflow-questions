@@ -66,3 +66,17 @@ description: Practice questions for tf estimator train and evaluate.
 - How do you configure the evaluation start delay in terms of time instead of steps in "tf.estimator.train_and_evaluate"?
 - Write a code to train and evaluate a TensorFlow estimator using a custom evaluation throttle with "tf.estimator.train_and_evaluate".
 - How do you configure the train saving in "tf.estimator.train_and_evaluate"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops leakyrelu.
 - How can you set the alpha parameter for tf.raw_ops.LeakyRelu to a scalar value in TensorFlow?
 - Write a code to apply tf.raw_ops.LeakyRelu on a TensorFlow variable named "weights" with a negative_slope parameter of 0.5.
 - How can you adjust the threshold for tf.raw_ops.LeakyRelu using a TensorFlow constant?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

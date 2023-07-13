@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy trace.
 - Write a code to calculate the trace of a matrix obtained by applying the element-wise absolute difference function to each element of a matrix using tf.experimental.numpy.trace.
 - Write a code to calculate the trace of a matrix obtained by applying the element-wise bitwise AND function to each element of a matrix using tf.experimental.numpy.trace.
 - Write a code to calculate the trace of a matrix obtained by applying the element-wise bitwise OR function to each element of a matrix using tf.experimental.numpy.trace.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf bitwise invert.
 - Write a code to invert the bits in a given tensor of binary strings using tf.bitwise.invert and apply the inversion only to strings that have a specific number of bits equal to the bitwise NOT of their Fibonacci sequence representation.
 - Write a code to invert the bits in a given tensor of integers using tf.bitwise.invert and apply the inversion only to numbers that have a specific number of bits equal to the bitwise XOR of their digit sum.
 - Write a code to invert the bits in a given tensor of binary strings using tf.bitwise.invert and apply the inversion only to strings that have a specific number of bits equal to the bitwise AND of their digit sum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf nn rnncellresidualwrapper.
 - Write a code to set the bias regularizer of an RNNCellResidualWrapper to L2 regularization.
 - Write a code to set the bias regularizer of an RNNCellResidualWrapper to a custom regularizer.
 - Write a code to set the recurrent initializer of an RNNCellResidualWrapper to a custom initializer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

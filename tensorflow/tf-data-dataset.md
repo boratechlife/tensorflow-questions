@@ -66,3 +66,17 @@ description: Practice questions for tf data dataset.
 - Write a code to compute the element-wise logical OR of two TensorFlow datasets of booleans.
 - Write a code to compute the element-wise logical NOT of a TensorFlow dataset of booleans.
 - Write a code to apply a custom transformation function to a TensorFlow dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

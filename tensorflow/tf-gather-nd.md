@@ -66,3 +66,17 @@ description: Practice questions for tf gather nd.
 - Perform a gather operation with indices stored in a TensorFlow tensor using tf.gather_nd.
 - Select elements from a tensor based on a boolean condition specified as a TensorFlow tensor using tf.gather_nd.
 - Fetch elements from a tensor using indices specified as a TensorFlow variable using tf.gather_nd.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

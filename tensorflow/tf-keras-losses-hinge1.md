@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses hinge1.
 - Write a code to calculate the hinge loss for a link prediction problem using tf.keras.losses.hinge.
 - Write a code to calculate the hinge loss for a social network analysis problem using tf.keras.losses.hinge.
 - Write a code to calculate the hinge loss for a reinforcement learning with continuous action space problem using tf.keras.losses.hinge.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

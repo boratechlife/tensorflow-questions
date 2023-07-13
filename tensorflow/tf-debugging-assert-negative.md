@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert negative.
 - Write a code to assert that all elements in a tensor are within a specific range of values (inclusive).
 - Write a code to assert that at least one element in a tensor is within a specific range of values (inclusive).
 - Write a code to assert that a list of numbers contains only values within a specific range (inclusive).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

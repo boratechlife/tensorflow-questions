@@ -66,3 +66,17 @@ description: Practice questions for tf unconnectedgradients.
 - Write a code to determine the unconnected gradients for a TensorFlow variable and use tf.stop_gradient to stop backpropagation on specific tensors.
 - Write a code to compute the unconnected gradients for a given loss function and use tf.stop_gradient to stop backpropagation on specific tensors.
 - Write a code to calculate the unconnected gradients for a TensorFlow placeholder and use tf.stop_gradient to stop backpropagation on specific tensors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

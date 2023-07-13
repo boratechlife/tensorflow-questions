@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers schedules cosinedecay.
 - Write a code to get the learning rate value at step 3000 using CosineDecay with initial learning rate 0.1, decay steps 10000, staircase set to True, alpha value 0.8, cycle set to True, name set to "lr_schedule", num_periods 1.5, warmup steps 1000, dtype set to tf.float32, seed set to 123, epsilon set to 1e-8, and a multiplier of 2.0.
 - Write a code to create a CosineDecay learning rate schedule with initial learning rate 0.01, decay steps 1000, alpha value 0.5, cycle set to True, name set to "lr_schedule", num_periods 0.5, warmup steps 100, dtype set to tf.float16, seed set to 123, epsilon set to 1e-8, a multiplier of 2.0, and a name set to "lr_schedule".
 - Write a code to get the learning rate value at step 500 using CosineDecay with initial learning rate 0.1, decay steps 2000, alpha value 0.8, cycle set to True, name set to "lr_schedule", num_periods 0.8, warmup steps 200, dtype set to tf.float16, seed set to 123, epsilon set to 1e-8, a multiplier of 2.0, and a name set to "lr_schedule".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

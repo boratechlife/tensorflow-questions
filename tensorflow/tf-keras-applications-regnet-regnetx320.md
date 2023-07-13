@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnet regnetx320.
 - Write a code to implement a custom loss function for training the RegNetX320 model.
 - Write a code to implement a custom metric for evaluating the RegNetX320 model.
 - Write a code to implement a custom callback for monitoring training progress of the RegNetX320 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

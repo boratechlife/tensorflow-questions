@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to apply tf.raw_ops.PreventGradient to a tensor and replace it with a placeholder during a specific phase of the inference loop.
 - Write a code to prevent gradient computation for a specific tensor and replace it with a constant value during a specific phase of the training loop using tf.raw_ops.PreventGradient.
 - Write a code to use tf.raw_ops.PreventGradient to exclude a tensor from participating in gradient aggregation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

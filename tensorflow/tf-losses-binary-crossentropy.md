@@ -66,3 +66,17 @@ description: Practice questions for tf losses binary crossentropy.
 - Write a code to compute the weighted binary cross-entropy loss with logits for a set of predictions and target labels with sample weights.
 - Write a code to calculate the binary cross-entropy loss using tf.losses.binary_crossentropy and apply additional regularization.
 - Write a code to apply tf.losses.binary_crossentropy with additional regularization to a binary classification problem.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

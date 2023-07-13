@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses categoricalhinge.
 - Write a code to calculate the CategoricalHinge loss for a batch of predictions and labels, and compute the loss only for a specific class with a class weight.
 - Write a code to apply the CategoricalHinge loss to a single prediction and label, and compute the loss only for a specific class with a mask.
 - Write a code to calculate the CategoricalHinge loss for a batch of predictions and labels, and compute the loss only for a specific class with a mask.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

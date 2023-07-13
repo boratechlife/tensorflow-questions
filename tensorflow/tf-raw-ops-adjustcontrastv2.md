@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops adjustcontrastv2.
 - How can you apply a contrast adjustment to an image using a bilateral filter and tf.raw_ops.AdjustContrastv2?
 - Write a code to adjust the contrast of an image using a histogram specification technique and tf.raw_ops.AdjustContrastv2.
 - How can you apply a contrast adjustment to an image using a median filter and tf.raw_ops.AdjustContrastv2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

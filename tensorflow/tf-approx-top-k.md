@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to calculate the approximate top k values and indices from a tensor and calculate their absolute values using tf.approx_top_k.
 - Write a code to find the approximate top k values from a tensor and perform element-wise division with another tensor using tf.approx_top_k.
 - Write a code to extract the indices of the approximate top k values from a tensor and perform element-wise modulo operation with another tensor using tf.approx_top_k.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

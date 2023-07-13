@@ -66,3 +66,17 @@ description: Practice questions for tf nn avg pool3d.
 - Write a code to perform 3D average pooling with negative padding sizes.
 - How do you handle padding sizes larger than the input in tf.nn.avg_pool3d?
 - Write a code to perform 3D average pooling with padding sizes larger than the input.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

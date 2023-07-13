@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops printv2.
 - How can you print the element-wise logical AND across multiple tensors using "tf.raw_ops.PrintV2"?
 - Write a code to print the element-wise logical OR across multiple tensors using "tf.raw_ops.PrintV2".
 - How can you print the element-wise logical XOR across multiple tensors using "tf.raw_ops.PrintV2"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

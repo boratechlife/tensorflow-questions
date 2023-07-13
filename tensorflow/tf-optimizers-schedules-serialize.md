@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers schedules serialize.
 - Write a code to deserialize an optimizer schedule from an Elasticsearch index.
 - Write a code to serialize an optimizer schedule and store it in a Redis cache cluster.
 - Write a code to deserialize an optimizer schedule from a Redis cache cluster.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

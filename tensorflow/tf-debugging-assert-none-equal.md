@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert none equal.
 - Write a code to assert that all elements in a TensorFlow tensor are unique and satisfy a specific condition using tf.debugging.assert_none_equal.
 - Write a code to ensure that a TensorFlow tensor has no duplicate elements in a specific value, data type, and shape using tf.debugging.assert_none_equal.
 - Write a code to assert that two TensorFlow tensors have no common elements of a specific value, data type, shape, and range using tf.debugging.assert_none_equal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers separableconv1d.
 - Write a code to apply a SeparableConv1D layer with 128 filters and a kernel size of 5 to a 1D input tensor, followed by a Flatten layer and a Dense layer with 256 units, both followed by ReLU activation, BatchNormalization, Dropout with a rate of 0.2, a Dense layer with 64 units, a softmax activation, and categorical_crossentropy loss.
 - Write a code to create a model with a SeparableConv1D layer with 64 filters and a kernel size of 3, followed by a MaxPooling1D layer with pool size 2, and another SeparableConv1D layer with 128 filters and a kernel size of 3, both followed by ReLU activation, BatchNormalization, Dropout with a rate of 0.2, a Dense layer with 64 units, a softmax activation, and categorical_crossentropy loss.
 - Write a code to apply a SeparableConv1D layer with 32 filters and a kernel size of 3 to a 1D input tensor, followed by a Dropout layer with a rate of 0.5, and another SeparableConv1D layer with 64 filters and a kernel size of 3, both followed by BatchNormalization, ReLU activation, MaxPooling1D layer with pool size 2, a Dense layer with 128 units, a softmax activation, and categorical_crossentropy loss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

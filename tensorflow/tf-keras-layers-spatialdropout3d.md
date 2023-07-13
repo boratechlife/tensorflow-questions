@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers spatialdropout3d.
 - Write a code to apply SpatialDropout3D to a tensor with a different dropout rate for each channel and time step.
 - Write a code to apply SpatialDropout3D to a tensor with a different dropout rate for each feature map and sample.
 - Write a code to apply SpatialDropout3D to a tensor with a different dropout rate for each channel and voxel.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend set epsilon.
 - Create a code snippet to calculate the element-wise hyperbolic sine of a tensor using the current epsilon value of the Keras backend.
 - How can you compute the element-wise hyperbolic cosine of a tensor using the current epsilon value of the Keras backend?
 - Write a code to compute the element-wise arctangent of two tensors, element-wise multiplied, using the current epsilon value of the Keras backend.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

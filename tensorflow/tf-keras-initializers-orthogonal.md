@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers orthogonal.
 - Write a code to initialize a tensor with orthogonal values and a gain of 1 and print its shape using tf.keras.initializers.Orthogonal.
 - Write a code to initialize a tensor with orthogonal values and a seed of 111 and print its shape using tf.keras.initializers.Orthogonal.
 - Write a code to create a dense layer with orthogonal weight initialization and a gain of 0.1 and print its shape using tf.keras.initializers.Orthogonal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

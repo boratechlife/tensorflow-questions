@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Can you apply transfer learning with pre-trained models in reinforcement learning scenarios? How?
 - What are some techniques to handle class imbalance when using pre-trained models for multi-class classification?
 - How can you leverage pre-trained models for anomaly detection tasks in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

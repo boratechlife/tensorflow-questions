@@ -66,3 +66,17 @@ description: Practice questions for tf distribute cluster resolver kubernetesclu
 - Write a code to specify the OAuth token for Kubernetes API authentication.
 - Write a code to specify the username and password for Kubernetes API authentication.
 - Write a code to set the HTTP proxy for accessing the Kubernetes API.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf random stateless uniform.
 - Write a code to generate random numbers with a given shape and a state using tf.random.stateless_uniform and a specific seed.
 - Write a code to generate random numbers with a given shape and a state using tf.random.stateless_uniform and a specific seed.
 - Write a code to generate random numbers with a given shape and a state using tf.random.stateless_uniform and a specific seed.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

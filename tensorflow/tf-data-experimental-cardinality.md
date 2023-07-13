@@ -115,3 +115,17 @@ description: Practice questions for tf data experimental cardinality.
 - Write a code to handle a dataset with unknown cardinality and return a custom message or value using tf.data.experimental.cardinality.
 - 
 - Write a code to handle a dataset with unknown or infinite cardinality and return a default value using tf.data.experimental.cardinality.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

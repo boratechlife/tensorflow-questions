@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops compositetensorvariantfromcompone
 - How can you convert a dictionary of dictionaries, NumPy arrays, Pandas DataFrames, TensorFlow tensors, lists, dictionaries, and tuples into a CompositeTensorVariant using tf.raw_ops.CompositeTensorVariantFromComponents?
 - Write a code to create a CompositeTensorVariant object from a dictionary of lists, NumPy arrays, Pandas DataFrames, TensorFlow tensors, lists, dictionaries, and tuples using CompositeTensorVariantFromComponents.
 - How can you convert a list of dictionaries, NumPy arrays, Pandas DataFrames, TensorFlow tensors, lists, dictionaries, tuples, and other CompositeTensorVariant objects into a CompositeTensorVariant using tf.raw_ops.CompositeTensorVariantFromComponents?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

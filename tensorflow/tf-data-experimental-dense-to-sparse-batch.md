@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental dense to sparse batch.
 - Write a code to convert a dense tensor to a sparse tensor batch and apply a concatenation operation on the input dense tensor using tf.data.experimental.dense_to_sparse_batch.
 - Write a code to convert a dense tensor to a sparse tensor batch and specify the tensors to concatenate for the input dense tensor using tf.data.experimental.dense_to_sparse_batch.
 - Write a code to convert a dense tensor to a sparse tensor batch and apply a transformation function to the input dense tensor using tf.data.experimental.dense_to_sparse_batch.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

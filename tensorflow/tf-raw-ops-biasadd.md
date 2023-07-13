@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops biasadd.
 - Can you use tf.raw_ops.BiasAdd to add a bias tensor with a different data type than the input tensor?
 - Write a code to add a bias scalar to a tensor with a specific name, data_format, and dtype using tf.raw_ops.BiasAdd.
 - How can you handle cases where the input tensor and bias vector have different data types in tf.raw_ops.BiasAdd?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

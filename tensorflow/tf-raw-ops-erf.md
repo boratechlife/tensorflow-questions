@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops erf.
 - Write a code to calculate the complementary error function for an n-dimensional tensor using tf.raw_ops.Erf.
 - Write a code to compute the element-wise derivative of the error function for an n-dimensional tensor using tf.raw_ops.Erf.
 - Write a code to calculate the inverse error function for each element in an n-dimensional tensor using tf.raw_ops.Erf.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

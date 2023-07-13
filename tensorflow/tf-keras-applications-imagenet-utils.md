@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications imagenet utils.
 - Write a code to freeze the layers of the InceptionV3 model.
 - Write a code to freeze the layers of the MobileNet model.
 - Write a code to evaluate the performance of the VGG16 model on a test dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

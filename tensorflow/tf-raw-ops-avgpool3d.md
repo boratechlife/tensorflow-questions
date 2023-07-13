@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops avgpool3d.
 - Write a code to perform average pooling with a stride of 1 in the spatial dimensions and 2 in the depth dimension using tf.raw_ops.AvgPool3D.
 - Write a code to apply tf.raw_ops.AvgPool3D with a padding size of 2 in the spatial dimensions and 1 in the depth dimension.
 - Write a code to compute the average pooling operation with a custom output shape using tf.raw_ops.AvgPool3D.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

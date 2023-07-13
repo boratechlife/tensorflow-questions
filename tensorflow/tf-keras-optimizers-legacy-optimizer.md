@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers legacy optimizer.
 - Write a code to get the learning rate of an optimizer at a specific epoch.
 - Write a code to get the momentum of an optimizer at a specific epoch.
 - Write a code to get the current learning rate and momentum of an optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert rank in.
 - Write a code to assert that a given tensor has at most 10 dimensions.
 - Write a code to assert that a given tensor has a rank between 1 and 4.
 - Write a code to assert that a given tensor has a rank greater than 1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

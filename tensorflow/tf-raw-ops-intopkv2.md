@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops intopkv2.
 - Write a code to find the top k values and indices from a tensor, excluding NaN, zero, negative, positive, infinite, subnormal, and normal values, using tf.raw_ops.InTopKV2.
 - Write a code to implement a function that returns the top k values and their indices from a tensor, excluding a specific value and set of values, while considering only abnormal values, using tf.raw_ops.InTopKV2.
 - Write a code to find the indices of the top k unique abnormal values in a tensor using tf.raw_ops.InTopKV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

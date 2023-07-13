@@ -115,3 +115,17 @@ description: Practice questions for tf initializers constantt.
 - Write a code to initialize a constant tensor with a shape of [2, 3] and a value of -1 using tf.initializers.constant.
 - 
 - Write a code to initialize a constant tensor with a shape of [3, 2] and a value of 10 using tf.initializers.constant.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

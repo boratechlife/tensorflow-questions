@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fifoqueue.
 - Write a code to find the sum of the odd elements in a FIFOQueue.
 - Write a code to find the number of elements greater than a given value in a FIFOQueue.
 - Write a code to find the number of elements less than a given value in a FIFOQueue.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

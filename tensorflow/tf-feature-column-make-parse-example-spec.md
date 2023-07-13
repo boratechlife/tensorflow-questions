@@ -66,3 +66,17 @@ description: Practice questions for tf feature column make parse example spec.
 - Write a code to create a parse example specification using tf.feature_column.make_parse_example_spec for feature columns with feature sequence length reference.
 - Write a code to create a parse example specification using tf.feature_column.make_parse_example_spec for feature columns with feature column order reference.
 - Write a code to create a parse example specification using tf.feature_column.make_parse_example_spec for feature columns with feature delimiter reference.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

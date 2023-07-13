@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications inception v3 decode pr
 - Write a code to implement early stopping based on validation accuracy in the inception_v3 model.
 - Write a code to calculate the Hamming loss of the inception_v3 model on a test dataset.
 - Write a code to implement label smoothing in the loss function of the inception_v3 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

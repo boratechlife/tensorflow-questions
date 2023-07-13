@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalthreadpooldataset.
 - How can you create a ThreadPoolDataset using tf.raw_ops.ExperimentalThreadPoolDataset and calculate the moving correlation coefficient of each window?
 - Write a code to create a ThreadPoolDataset using tf.raw_ops.ExperimentalThreadPoolDataset and calculate the moving Euclidean distance of each window.
 - How can you create a ThreadPoolDataset using tf.raw_ops.ExperimentalThreadPoolDataset and calculate the moving Manhattan distance of each window?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

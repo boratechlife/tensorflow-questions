@@ -66,3 +66,17 @@ description: Practice questions for tf compat path to str.
 - Write a code to convert a TensorFlow-compatible path object to a string and write an object as a pickle file using tf.compat.path_to_str.
 - Write a code to convert a TensorFlow-compatible path object to a string and append an object to a pickle file using tf.compat.path_to_str.
 - Write a code to convert a TensorFlow-compatible path object to a string and create a temporary file using tf.compat.path_to_str.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf linalg triangular solve.
 - Write a code to solve a Wiener-Hopf linear system using tf.linalg.triangular_solve.
 - Write a code to solve a Frobenius linear system using tf.linalg.triangular_solve.
 - Write a code to solve a circulant linear system using tf.linalg.triangular_solve.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

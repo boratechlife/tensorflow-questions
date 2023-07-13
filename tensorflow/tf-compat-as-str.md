@@ -66,3 +66,17 @@ description: Practice questions for tf compat as str.
 - How can you handle encoding issues when converting a NumPy array to a TensorFlow string tensor with a default encoding using tf.compat.as_str?
 - Write a code to convert a TensorFlow string tensor to a Python string with a default encoding using tf.compat.as_str.
 - How can you handle encoding issues when converting a TensorFlow string tensor to a Python string with a default encoding using tf.compat.as_str?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

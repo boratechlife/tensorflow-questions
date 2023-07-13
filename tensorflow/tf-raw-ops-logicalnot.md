@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops logicalnot.
 - Write a code to check if a given boolean variable is not true in place using tf.raw_ops.LogicalNot.
 - Write a code to negate the truth value of multiple expressions in place using tf.raw_ops.LogicalNot.
 - Write a code to invert the values of multiple boolean variables in place using tf.raw_ops.LogicalNot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

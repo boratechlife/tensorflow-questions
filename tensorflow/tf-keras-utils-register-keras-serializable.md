@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils register keras serializable.
 - Write a code to unregister a custom Keras metric that was previously registered as serializable using register_keras_serializable.
 - Write a code to unregister a custom Keras loss function that was previously registered as serializable using tf.keras.utils.register_keras_serializable.
 - Write a code to unregister a custom Keras activation function that was previously registered as serializable using register_keras_serializable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

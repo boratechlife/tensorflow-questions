@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnet regnetx032.
 - Write a code to implement a custom metric for evaluating the performance of the RegNetX032 model.
 - Write a code to implement exponential learning rate scheduling for the RegNetX032 model.
 - Write a code to implement cosine annealing learning rate scheduling for the RegNetX032 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

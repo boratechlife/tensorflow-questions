@@ -66,3 +66,17 @@ description: Practice questions for tf image non max suppression padded.
 - How does tf.image.non_max_suppression_padded handle cases where all boxes have identical coordinates?
 - Write a code to apply non-maximum suppression to a set of bounding boxes with additional attributes, class labels, confidence scores, segmentation masks, regression offsets, and semantic segmentation masks.
 - How can you use tf.image.non_max_suppression_padded to perform non-maximum suppression on object proposals with different scales?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

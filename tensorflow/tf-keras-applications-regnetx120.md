@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnetx120.
 - Write a code to get the names of all layers in the RegNetX120 model.
 - Write a code to get the trainable status of a specific layer in the RegNetX120 model.
 - Write a code to set the trainable status of a specific layer in the RegNetX120 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

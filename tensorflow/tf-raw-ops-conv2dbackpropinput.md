@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conv2dbackpropinput.
 - Write a code to implement a deconvolution operation with a given stride, dilation, and padding using "tf.raw_ops.Conv2DBackpropInput".
 - Write a code to reverse the forward pass of a 2D convolution with a given stride, dilation, and padding using "tf.raw_ops.Conv2DBackpropInput".
 - Write a code to compute the input gradients for a 2D transposed convolution with a given stride, dilation, and padding using "tf.raw_ops.Conv2DBackpropInput".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

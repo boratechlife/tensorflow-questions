@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops debugidentity.
 - Write a code to apply tf.raw_ops.DebugIdentity to two tensors and print their element-wise addition during TensorFlow execution.
 - Write a code to use tf.raw_ops.DebugIdentity to print the element-wise subtraction of two tensors during TensorFlow execution.
 - Write a code to add a tf.raw_ops.DebugIdentity operation to a TensorFlow graph and print the element-wise subtraction of two intermediate tensors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

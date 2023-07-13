@@ -66,3 +66,17 @@ description: Practice questions for tf losses squaredhinge.
 - Write a code to compute the squared hinge loss with a custom batch normalization.
 - Write a code to calculate the squared hinge loss for a natural language processing task.
 - Write a code to minimize the squared hinge loss using the L-BFGS optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

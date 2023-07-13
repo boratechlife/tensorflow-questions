@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image apply channel s
 - Implement a function to apply channel shift to multiple images and calculate the sum of the channel shift values using tf.keras.preprocessing.image.apply_channel_shift.
 - Write a code to apply channel shift to an image and perform a random transformation on the modified image using tf.keras.preprocessing.image.apply_channel_shift.
 - How can you apply channel shift to an image and rotate the modified image using tf.keras.preprocessing.image.apply_channel_shift?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

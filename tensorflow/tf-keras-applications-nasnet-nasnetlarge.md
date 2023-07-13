@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications nasnet nasnetlarge.
 - Write a code to set the use of mixed precision training for the NASNetLarge model.
 - Write a code to set the mixed precision policy for the NASNetLarge model.
 - Write a code to set the loss weights for different outputs of the NASNetLarge model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalgroupbywindowdataset.
 - Write a code to filter out keys from a grouped window that have a count greater than a specified threshold.
 - Write a code to apply a custom aggregation function on a sliding window of values in a grouped window.
 - Write a code to create an ExperimentalGroupByWindowDataset with a key function that converts the input into lowercase before grouping.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

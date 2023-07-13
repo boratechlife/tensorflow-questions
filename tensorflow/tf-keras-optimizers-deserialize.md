@@ -115,3 +115,17 @@ description: Practice questions for tf keras optimizers deserialize.
 - Write a code to deserialize an optimizer with a custom decay_type value using tf.keras.optimizers.deserialize().
 - 
 - How can you deserialize an optimizer with a custom momentum_decay value using tf.keras.optimizers.deserialize()?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

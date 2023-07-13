@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to create a ParallelInterleaveDatasetV3 that performs a different windowing transformation for each input dataset with a specific shift.
 - Write a code to create a ParallelInterleaveDatasetV3 that shuffles the elements from each input dataset independently with a specific buffer size and seed.
 - Write a code to create a ParallelInterleaveDatasetV3 that applies a different padding operation for each element of each input dataset with a specific padding value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

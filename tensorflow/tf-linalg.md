@@ -66,3 +66,17 @@ description: Practice questions for tf linalg.
 - Write a code to compute the batched matrix cosine using tf.linalg.cosm().
 - Write a code to compute the batched matrix sine using tf.linalg.sinm().
 - Write a code to compute the batched matrix tangent using tf.linalg.tanm().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

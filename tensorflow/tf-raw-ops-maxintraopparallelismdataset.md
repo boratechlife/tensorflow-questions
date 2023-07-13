@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maxintraopparallelismdataset.
 - How to handle data skew and load balancing issues in a parallel dataset operation using MaxIntraOpParallelismDataset?
 - Write a code to set the intra-op parallelism level based on the available system memory.
 - How to use MaxIntraOpParallelismDataset for distributed training with TensorFlow's MirroredStrategy?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

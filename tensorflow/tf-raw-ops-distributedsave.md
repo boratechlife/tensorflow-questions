@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops distributedsave.
 - How can you specify the option to save only the model's trainable variables, optimizer variables, and global step when using tf.raw_ops.DistributedSave?
 - Write a code to save a TensorFlow model with a specific global step value using tf.raw_ops.DistributedSave.
 - How can you specify the option to save only the model's trainable variables, optimizer variables, global step, and architecture (graph) when using tf.raw_ops.DistributedSave?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

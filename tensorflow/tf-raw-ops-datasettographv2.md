@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops datasettographv2.
 - How can you convert a TensorFlow tf.data.Dataset to a graph and use it for natural language understanding tasks with TensorFlow's tf.data.experimental.SqlDataset?
 - Write a code to convert a TensorFlow Dataset to a graph and perform custom data preprocessing using TensorFlow's tf.data.Dataset.from_tensor_slices.
 - How can you convert a TensorFlow tf.data.Dataset to a graph and use it for time series analysis tasks with TensorFlow's tf.data.Dataset.from_generator?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

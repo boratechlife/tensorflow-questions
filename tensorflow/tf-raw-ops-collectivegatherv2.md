@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectivegatherv2.
 - Implement a code to gather elements from a distributed tensor using tf.raw_ops.CollectiveGatherV2 and calculate the element-wise Euclidean distance with another tensor.
 - Write a code to gather elements from a distributed tensor using tf.raw_ops.CollectiveGatherV2 and calculate the element-wise Manhattan distance with another tensor.
 - How can you use tf.raw_ops.CollectiveGatherV2 to gather elements from a distributed tensor and calculate the element-wise cosine similarity with another tensor?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy random uniform.
 - Write a code to generate an array of random uniform numbers using a specified seed, range, dtype, and with a specified number of samples, and replace the sampled values.
 - Write a code to generate a random uniform number using a specified range and shape, and with a specified number of samples, without replacement.
 - Write a code to generate an array of random uniform numbers using a specified range and shape, and with a specified number of samples, without replacement.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

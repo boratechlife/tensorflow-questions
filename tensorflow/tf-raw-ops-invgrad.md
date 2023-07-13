@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops invgrad.
 - Write a code to analyze the generalization performance of inverse gradient optimization using tf.raw_ops.InvGrad.
 - Write a code to compute the inverse gradient of a capsule network using tf.raw_ops.InvGrad.
 - Write a code to apply the inverse gradient to an actor-critic algorithm in reinforcement learning using tf.raw_ops.InvGrad.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

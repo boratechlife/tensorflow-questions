@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops barrierreadysize.
 - Write a code to check if a barrier is ready and log a message with the barrier size if it is.
 - Write a code to calculate the size of a ready barrier and use it to perform a TensorFlow convolution operation.
 - Write a code to get the size of a ready barrier and use it to create a TensorFlow placeholder with a dynamic shape and batch size.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops matrixdiagpartv3.
 - Write a code to calculate the median of the anti-diagonal elements of a matrix using tf.raw_ops.MatrixDiagPartV3.
 - Write a code to calculate the mode of the anti-diagonal elements of a matrix using tf.raw_ops.MatrixDiagPartV3.
 - Write a code to calculate the range of the anti-diagonal elements of a matrix using tf.raw_ops.MatrixDiagPartV3.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

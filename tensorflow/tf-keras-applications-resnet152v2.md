@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet152v2.
 - Write a code to set the dilation rate for the ResNet152V2 model.
 - Write a code to set the kernel size for the ResNet152V2 model.
 - Write a code to set the activation function for the ResNet152V2 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

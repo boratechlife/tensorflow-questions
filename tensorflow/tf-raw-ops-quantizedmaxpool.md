@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedmaxpool.
 - How can you implement quantized max pooling with specified ksize, strides, dilation rate, and data format using TensorFlow's tf.raw_ops.QuantizedMaxPool operation?
 - Write a code to perform quantized max pooling on a TensorFlow tensor using tf.raw_ops.QuantizedMaxPool, and specify the quantization range, type, and output range.
 - How can you compute quantized max pooling with a specified quantization range, type, and output range using TensorFlow's tf.raw_ops.QuantizedMaxPool operation?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

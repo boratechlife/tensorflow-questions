@@ -66,3 +66,17 @@ description: Practice questions for tf math is non decreasing.
 - Write a code to find the kth smallest non-decreasing subarray sum in a given array.
 - Write a code to determine if a given linked list is non-decreasing modulo-wise.
 - Write a code to find the maximum number of non-decreasing subarrays in a given array.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

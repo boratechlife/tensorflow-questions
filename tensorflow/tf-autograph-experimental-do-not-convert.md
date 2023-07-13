@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to exclude multiple TensorFlow functions from conversion, while converting the rest of the graph using tf.autograph.experimental.do_not_convert and applying tf.autograph.experimental.do_not_convert to specific operations, tensor manipulations, loops, variable assignments, and control flow operations.
 - Write a code to convert a TensorFlow graph to TensorFlow autograph, excluding a specific TensorFlow operation, multiple functions, specific operations, tensor manipulations, loops, variable assignments, and control flow operations using tf.autograph.experimental.do_not_convert.
 - Write a code to define a TensorFlow function and exclude it from conversion, while applying tf.autograph.experimental.do_not_convert to another TensorFlow function, specific operations, tensor manipulations, loops, variable assignments, and control flow operations.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

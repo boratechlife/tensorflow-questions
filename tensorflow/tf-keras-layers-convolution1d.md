@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers convolution1d.
 - Write a code to create a Convolution1D layer with input shape (None, 10, 1) and use the 'valid' padding with a kernel size of 5.
 - Write a code to create a Convolution1D layer with input shape (None, 10, 1) and use the 'same' padding with a kernel size of 5.
 - Write a code to create a Convolution1D layer with input shape (None, 10, 1) and use the 'causal' padding with a kernel size of 5.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

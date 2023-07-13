@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops inplaceadd.
 - Write a code to add a scalar value to a specific element of a tensor, but only for specific indices and elements that meet a certain condition, in-place using tf.raw_ops.InplaceAdd.
 - Write a code to add a tensor to a selected subset of another tensor, but only for specific indices and elements that satisfy a condition, in-place using tf.raw_ops.InplaceAdd.
 - Write a code to increment all elements of a tensor by a tensor of the same shape, but only for specific indices and elements that meet a certain condition, using tf.raw_ops.InplaceAdd.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

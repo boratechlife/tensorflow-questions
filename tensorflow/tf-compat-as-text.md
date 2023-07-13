@@ -66,3 +66,17 @@ description: Practice questions for tf compat as text.
 - Write a code to convert a NumPy array with floating-point values to TensorFlow compatible text using tf.compat.as_text.
 - Write a code to convert a Pandas DataFrame column to TensorFlow compatible text, converting strings to lowercase.
 - Write a code to convert a list of tuples to TensorFlow compatible text, joining the elements with a specified delimiter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

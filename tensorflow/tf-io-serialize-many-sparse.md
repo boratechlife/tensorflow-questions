@@ -66,3 +66,17 @@ description: Practice questions for tf io serialize many sparse.
 - How can you decode a byte string back to a serialized sparse tensor using tf.io.decode_proto_sparse and tf.io.deserialize_many_sparse?
 - Write a code to serialize multiple sparse tensors and save them to separate files using tf.io.serialize_many_sparse and tf.io.write_file, and then convert the files to byte strings using tf.io.encode_proto_sparse.
 - How can you convert the byte strings back to serialized sparse tensors using tf.io.decode_proto_sparse and tf.io.deserialize_many_sparse?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

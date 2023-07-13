@@ -67,3 +67,17 @@ description: Practice questions for tf raw ops deletemultideviceiterator.
 - How can you delete a multi-device iterator and prevent any unauthorized access or usage after deletion using tf.raw_ops.DeleteMultiDeviceIterator?
 - Write a code to delete a multi-device iterator and retrieve the number of affected computational nodes using tf.raw_ops.DeleteMultiDeviceIterator.
 - How can you delete a multi-device iterator and ensure that it does not impact the overall performance or stability of the TensorFlow runtime using tf.raw_ops.DeleteMultiDeviceIterator?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental optimizationoptions.
 - Write a code to disable experimental optimize dataset in an OptimizationOptions object.
 - Write a code to set the experimental optimize dataset buffer size in an OptimizationOptions object.
 - Write a code to set the experimental optimize dataset policy in an OptimizationOptions object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

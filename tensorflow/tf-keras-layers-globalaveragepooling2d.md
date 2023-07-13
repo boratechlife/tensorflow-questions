@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers globalaveragepooling2d.
 - How can you set the output shape explicitly for a GlobalAveragePooling2D layer based on a previous layer?
 - Write a code to create a GlobalAveragePooling2D layer and set its bias regularizer based on a previous layer.
 - How can you set the bias constraint explicitly for a GlobalAveragePooling2D layer in TensorFlow Keras?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

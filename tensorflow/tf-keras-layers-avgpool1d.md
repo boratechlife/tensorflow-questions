@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers avgpool1d.
 - Write a code to set the kernel constraint of an AvgPool1D layer named 'avg_pool' to a max norm constraint.
 - How can you set the bias constraint of an AvgPool1D layer?
 - Write a code to set the bias constraint of an AvgPool1D layer named 'avg_pool' to a non-negativity constraint.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

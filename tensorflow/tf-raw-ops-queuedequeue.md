@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops queuedequeue.
 - How can you specify the name scope for the dequeue operation using tf.raw_ops.QueueDequeue?
 - Write a code to dequeue elements from a TensorFlow queue and apply a filtering function to each element using tf.raw_ops.QueueDequeue.
 - How can you ensure that the dequeued elements are divisible by a certain value using tf.raw_ops.QueueDequeue?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

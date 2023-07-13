@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops compositetensorvarianttocomponent
 - Write a code snippet to showcase the usage of tf.raw_ops.CompositeTensorVariantToComponents on a provided composite tensor variant.
 - How can you convert a composite tensor variant into its tensors as separate components using TensorFlow's tf.raw_ops.CompositeTensorVariantToComponents?
 - Create a Python function that employs tf.raw_ops.CompositeTensorVariantToComponents to separate the tensors from a composite tensor variant.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

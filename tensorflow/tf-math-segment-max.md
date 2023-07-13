@@ -66,3 +66,17 @@ description: Practice questions for tf math segment max.
 - Write a code to calculate the maximum value for each segment of a tensor, with the segment IDs provided as a dictionary, using "tf.math.segment_max".
 - Write a code to determine the maximum value along the specified segments of a tensor, using "tf.math.segment_max" and the segment IDs provided as a dictionary.
 - Write a code to find the maximum value within each segment of a tensor, using "tf.math.segment_max" and the segment IDs provided as a dictionary.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

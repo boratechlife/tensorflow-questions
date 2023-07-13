@@ -66,3 +66,17 @@ description: Practice questions for tf io parse tensor.
 - Write a code to parse a tensor from a file with a specified compression type and unknown shape using tf.io.parse_tensor.
 - Write a code to parse a tensor from a string with a specified compression type and unknown dtype using tf.io.parse_tensor.
 - Write a code to parse a tensor from a file with a specified compression type and unknown dtype using tf.io.parse_tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

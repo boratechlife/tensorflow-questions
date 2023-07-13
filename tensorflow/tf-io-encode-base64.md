@@ -66,3 +66,17 @@ description: Practice questions for tf io encode base64.
 - Write a code to encode a string using tf.io.encode_base64 and compress the encoded value using a compression algorithm.
 - Write a code to encode a string using tf.io.encode_base64 and decompress the encoded value using a compression algorithm.
 - Write a code to encode a string using tf.io.encode_base64 and calculate the size of the encoded value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

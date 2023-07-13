@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops nonmaxsuppressionv5.
 - How can you use tf.raw_ops.NonMaxSuppressionV5 to merge bounding boxes that have similar motion patterns?
 - Write a code to utilize tf.raw_ops.NonMaxSuppressionV5 to filter out bounding boxes with low motion scores.
 - How can you use tf.raw_ops.NonMaxSuppressionV5 to merge bounding boxes that have similar temporal correlations across consecutive frames in a video sequence?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

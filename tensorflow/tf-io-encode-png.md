@@ -66,3 +66,17 @@ description: Practice questions for tf io encode png.
 - How can you encode an image with a specified compression level, filter mode, compression strategy, and pixel order to PNG format using tf.io.encode_png?
 - Write a code to encode an image with a specified compression level, filter mode, compression strategy, and color type to PNG format using tf.io.encode_png.
 - How can you encode an image with a specified compression level, filter mode, compression strategy, and color type to PNG format using tf.io.encode_png?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

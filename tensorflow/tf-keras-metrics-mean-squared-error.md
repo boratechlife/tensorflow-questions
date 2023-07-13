@@ -115,3 +115,17 @@ description: Practice questions for tf keras metrics mean squared error.
 - Write a code to calculate the mean squared error between two arrays and calculate the mean squared logarithmic error using tf.keras.metrics.mean_squared_error.
 - 
 - Write a code to calculate the mean squared error between two tensors and calculate the mean absolute percentage error using tf.keras.metrics.mean_squared_error.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

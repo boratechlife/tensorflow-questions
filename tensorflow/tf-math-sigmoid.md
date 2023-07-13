@@ -66,3 +66,17 @@ description: Practice questions for tf math sigmoid.
 - Write a code to apply the sigmoid function followed by the softmax function to each column of a TensorFlow matrix.
 - Write a code to calculate the sigmoid function of the sum of two TensorFlow tensors.
 - Write a code to calculate the sigmoid function of the element-wise product of two TensorFlow tensors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

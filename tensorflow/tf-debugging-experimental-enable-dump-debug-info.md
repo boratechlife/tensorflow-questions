@@ -66,3 +66,17 @@ description: Practice questions for tf debugging experimental enable dump debug 
 - Write a code to enable dump debug info for a specific distributed training step in TensorFlow using tf.debugging.experimental.enable_dump_debug_info.
 - Write a code to enable dump debug info for a specific distributed inference step in TensorFlow using tf.debugging.experimental.enable_dump_debug_info.
 - Write a code to enable dump debug info for a specific distributed evaluation step in TensorFlow using tf.debugging.experimental.enable_dump_debug_info.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

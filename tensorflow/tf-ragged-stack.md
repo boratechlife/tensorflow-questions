@@ -66,3 +66,17 @@ description: Practice questions for tf ragged stack.
 - Write a code to stack ragged tensors and specify a custom ragged rank, padding value, and axis along the axis 1 using tf.ragged.stack.
 - Write a code to stack ragged tensors and specify a custom ragged rank, padding value, and axis along the axis 2 using tf.ragged.stack.
 - Write a code to stack ragged tensors and specify a custom ragged rank, padding value, and axis along the axis 3 using tf.ragged.stack.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

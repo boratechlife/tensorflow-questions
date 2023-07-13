@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy complex.
 - Write a code to extract the imaginary part of a complex number with a string representation of "-1.5+0.5j".
 - Write a code to calculate the sum of the real parts of two complex numbers with real parts 3 and 2, and imaginary parts -1 and 4.
 - Write a code to calculate the sum of the imaginary parts of two complex numbers with real parts 3 and 2, and imaginary parts -1 and 4.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf io gfile rename.
 - How can you rename a file and set its permissions to a specific value using octal representation using tf.io.gfile.rename?
 - Write a code to rename a file and append a unique identifier in hexadecimal format to its name using tf.io.gfile.rename.
 - How can you rename a file and set its modification time to the current time in a specific timezone using tf.io.gfile.rename?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

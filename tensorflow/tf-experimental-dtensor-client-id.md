@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor client id.
 - Write a code to remove all tf.experimental.dtensor objects with duplicate client IDs from a list.
 - Write a code to check if a given client ID is present in any of the tf.experimental.dtensor objects' metadata.
 - Write a code to extract the unique prefixes of all client IDs in a list of tf.experimental.dtensor objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

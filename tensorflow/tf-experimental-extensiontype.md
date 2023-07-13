@@ -66,3 +66,17 @@ description: Practice questions for tf experimental extensiontype.
 - Write a code to call a module-level method for a custom extension type.
 - Write a code to define a custom module-level operator for a custom extension type.
 - Write a code to perform an operation using the custom module-level operator on instances of a custom extension type.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

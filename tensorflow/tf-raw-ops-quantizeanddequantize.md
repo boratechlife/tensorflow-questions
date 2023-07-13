@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizeanddequantize.
 - How can you specify a custom range for quantization and dequantization for each channel when the input tensor has a dynamic range using tf.raw_ops.QuantizeAndDequantize?
 - Write a code to quantize and dequantize a tensor with per-channel quantization using a custom rounding mode for each channel.
 - How can you specify the quantization scale and zero point values for each channel when performing per-channel quantization with a custom rounding mode using tf.raw_ops.QuantizeAndDequantize?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

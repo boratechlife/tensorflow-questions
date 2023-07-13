@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lookuptableimport.
 - Write a code to import a lookup table from a Google Maps API using the "tf.raw_ops.LookupTableImport" operation.
 - Write a code to import a lookup table from a Google Translate API using the "tf.raw_ops.LookupTableImport" operation.
 - Write a code to import a lookup table from a Google Vision API using the "tf.raw_ops.LookupTableImport" operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to assert that the output of a neural network is less than or equal to 0.5.
 - Write a code to assert that the value of a variable is less than or equal to the mean of a list.
 - Write a code to assert that the number of elements in a NumPy array is less than or equal to 1000.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

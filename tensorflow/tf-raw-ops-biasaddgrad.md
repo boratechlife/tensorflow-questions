@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops biasaddgrad.
 - Write a code to print the size of the bias addition gradient tensor using tf.raw_ops.BiasAddGrad.
 - 
 - Write a code to create a TensorFlow operation for the backward pass of bias addition with a specified shape using tf.raw_ops.BiasAddGrad.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

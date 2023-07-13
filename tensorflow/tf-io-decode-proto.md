@@ -66,3 +66,17 @@ description: Practice questions for tf io decode proto.
 - Write a code to handle errors when decoding a protobuf message and extracting specific fields using tf.io.decode_proto.
 - Write a code to handle errors when decoding a protobuf message with a custom options object using tf.io.decode_proto.
 - Write a code to handle errors when decoding a protobuf message with a specified message type and extract specific fields using tf.io.decode_proto.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

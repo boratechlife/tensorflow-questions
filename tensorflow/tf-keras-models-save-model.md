@@ -66,3 +66,17 @@ description: Practice questions for tf keras models save model.
 - How do you save a Keras model with a custom callback using save_model?
 - Write a code to save a Keras model with a custom callback in the TensorFlow SavedModel format.
 - How can you save a Keras model with a custom layer using save_model?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

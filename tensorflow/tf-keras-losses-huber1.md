@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses huber1.
 - Write a code to compute the Huber loss and Poisson loss for predicted and target values using tf.keras.losses.huber and a custom loss function.
 - Write a code to compute the Huber loss and Poisson loss for a batch of data points using tf.keras.losses.huber and a custom loss function.
 - Write a code to compute the Huber loss and custom loss function for predicted and target values using tf.keras.losses.huber and a custom loss function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

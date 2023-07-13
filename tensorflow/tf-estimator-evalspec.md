@@ -66,3 +66,17 @@ description: Practice questions for tf estimator evalspec.
 - Write a code to set the exporters for evaluation in EvalSpec.
 - Write a code to set the name of the evaluation mode in EvalSpec.
 - Write a code to set the maximum number of workers to use during evaluation in EvalSpec.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

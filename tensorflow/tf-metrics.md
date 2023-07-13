@@ -66,3 +66,17 @@ description: Practice questions for tf metrics.
 - Write a code to calculate the binary cross entropy metric using tf.metrics.binary_crossentropy.
 - Write a code to calculate the categorical cross entropy metric using tf.metrics.categorical_crossentropy.
 - Write a code to calculate the sparse categorical cross entropy metric using tf.metrics.sparse_categorical_crossentropy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

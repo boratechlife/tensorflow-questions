@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers timedistributed.
 - Write a code to use TimeDistributed with a recurrent model and stacked bidirectional LSTM layers.
 - Write a code to apply TimeDistributed to a convolutional layer with depthwise convolution.
 - Write a code to apply TimeDistributed to a dense layer with batch normalization and dropout.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

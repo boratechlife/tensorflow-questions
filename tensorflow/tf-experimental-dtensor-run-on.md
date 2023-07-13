@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor run on.
 - Write a code to run a tensor on a specific device and set the inter-op parallelism threads using "tf.experimental.dtensor.run_on".
 - Write a code to run a tensor on a specific device and set the intra-op parallelism threads using "tf.experimental.dtensor.run_on".
 - Write a code to run a tensor on a specific device and set the maximum memory fraction using "tf.experimental.dtensor.run_on".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

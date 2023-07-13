@@ -66,3 +66,17 @@ description: Practice questions for tf estimator finalexporter.
 - Write a code to set a custom name for the exported model with a specified signature definition using tf.estimator.FinalExporter.
 - Write a code to set a custom name for the exported model and include the best checkpoint using tf.estimator.FinalExporter.
 - Write a code to set a custom name for the exported model and include only the latest checkpoint using tf.estimator.FinalExporter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf fingerprint.
 - Write a code to calculate the fingerprint of a tensor and convert it to a binary string with a specified encoding.
 - Write a code to compute the fingerprint of a tensor and write it to a MongoDB collection.
 - Write a code to calculate the fingerprint of a tensor and return it as a TensorFlow variable tensor with shape (1,).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

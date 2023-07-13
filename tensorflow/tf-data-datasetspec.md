@@ -66,3 +66,17 @@ description: Practice questions for tf data datasetspec.
 - Write a code to create a balanced dataset from an imbalanced tf.data.DatasetSpec.
 - Write a code to split a tf.data.DatasetSpec into train, validation, and test sets.
 - Write a code to convert a tf.data.DatasetSpec to a TensorFlow dataset object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

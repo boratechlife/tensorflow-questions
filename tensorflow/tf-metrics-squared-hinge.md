@@ -66,3 +66,17 @@ description: Practice questions for tf metrics squared hinge.
 - Write a code to calculate the squared hinge loss for a multi-class classification problem with additional metrics.
 - Write a code to update a squared hinge loss metric with additional metrics for a binary classification problem.
 - Write a code to calculate the mean squared hinge loss for a multi-class classification problem with additional metrics.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

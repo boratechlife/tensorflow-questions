@@ -66,3 +66,17 @@ description: Practice questions for tf mlir experimental convert graph def.
 - Write a code to convert a TensorFlow GraphDef to MLIR and optimize the software pipelining in the converted code.
 - Write a code to convert a TensorFlow GraphDef to MLIR and apply loop parallelization optimizations.
 - Write a code to convert a TensorFlow GraphDef to MLIR and optimize the instruction-level parallelism in the converted code.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

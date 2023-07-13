@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy less.
 - Write a code to create a function that takes a tensor as input and returns a boolean tensor indicating if each element in the tensor is zero.
 - Write a code to check if all elements in a tensor are zero using tf.experimental.numpy.less.
 - Write a code to create a function that takes a tensor as input and returns a boolean tensor indicating if each element in the tensor is non-zero.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

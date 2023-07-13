@@ -115,3 +115,17 @@ description: Practice questions for tf metrics sensitivityatspecificity.
 - Write a code to calculate the sensitivity at a specific specificity threshold for different subsets of a dataset using tf.metrics.SensitivityAtSpecificity.
 - 
 - Write a code to calculate the sensitivity at a specific specificity threshold for different time points in a time series using tf.metrics.SensitivityAtSpecificity.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

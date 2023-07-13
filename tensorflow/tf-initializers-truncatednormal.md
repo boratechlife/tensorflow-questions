@@ -66,3 +66,17 @@ description: Practice questions for tf initializers truncatednormal.
 - Write a code to initialize a bias vector with a truncated normal distribution and shape [10] and a specific mean and standard deviation, and assign it to a specific GPU device.
 - Write a code to initialize multiple TensorFlow variables with a truncated normal distribution and assign them to different GPU devices.
 - Write a code to initialize multiple TensorFlow tensors with a truncated normal distribution and assign them to different GPU devices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

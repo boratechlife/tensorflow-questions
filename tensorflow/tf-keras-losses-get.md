@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses get.
 - Write a code to retrieve the loss function specified by a JSON string '{"loss": "mape"}' using "get" from tf.keras.losses.
 - Write a code to check if a loss function named "cosine_similarity" exists in tf.keras.losses.
 - Write a code to get the logcosh loss function with a constant parameter from tf.keras.losses using "get".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

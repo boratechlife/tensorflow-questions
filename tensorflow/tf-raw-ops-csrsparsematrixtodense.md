@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops csrsparsematrixtodense.
 - Implement a function that converts a CSR sparse matrix represented as a list of dictionaries with row-index:column-index:datetime-value triplets to a dense matrix using tf.raw_ops.CSRSparseMatrixToDense.
 - Write a code to convert a CSR sparse matrix with duplicate rows and missing values to a dense matrix using tf.raw_ops.CSRSparseMatrixToDense.
 - How can you handle the case when the CSR sparse matrix contains categorical values when converting it to a dense matrix using tf.raw_ops.CSRSparseMatrixToDense?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

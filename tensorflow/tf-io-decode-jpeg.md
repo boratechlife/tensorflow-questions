@@ -66,3 +66,17 @@ description: Practice questions for tf io decode jpeg.
 - How can you decode a JPEG image and convert it to a TensorFlow tensor with specific color channels using tf.io.decode_jpeg?
 - Write a code to decode a JPEG image and apply a perspective transformation using tf.io.decode_jpeg.
 - How can you decode a JPEG image and convert it to a NumPy array with specific color channels using tf.io.decode_jpeg?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

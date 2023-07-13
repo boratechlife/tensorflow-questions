@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet50.
 - Write a code to preprocess a list of images using the preprocess_input function.
 - Write a code to calculate the average prediction time of the ResNet50 model for a given dataset.
 - Write a code to perform image classification using the ResNet50 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

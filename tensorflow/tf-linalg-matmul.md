@@ -66,3 +66,17 @@ description: Practice questions for tf linalg matmul.
 - Write a code to calculate the cosine similarity between two matrices A and B after multiplying them using tf.linalg.matmul.
 - Write a code to calculate the angular distance between two matrices A and B after multiplying them using tf.linalg.matmul.
 - Write a code to calculate the correlation coefficient between two matrices A and B after multiplying them using tf.linalg.matmul.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

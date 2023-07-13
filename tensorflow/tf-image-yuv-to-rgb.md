@@ -66,3 +66,17 @@ description: Practice questions for tf image yuv to rgb.
 - Write a code to convert a YUV image to RGB and perform image segmentation using a U-Net model.
 - Write a code to convert a YUV image to RGB and apply image smoothing using a bilateral filter.
 - Write a code to convert a YUV image to RGB and perform image denoising using a non-local means filter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

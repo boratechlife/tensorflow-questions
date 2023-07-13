@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops addmanysparsetotensorsmap.
 - How can you handle the case where a sparse tensor has indices and values of different shapes when using AddManySparseToTensorsMap?
 - Write a code to handle the case where a sparse tensor has indices and values of different dtypes when using AddManySparseToTensorsMap.
 - How can you handle the case where a sparse tensor has indices and values with different numbers of dimensions when using AddManySparseToTensorsMap?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

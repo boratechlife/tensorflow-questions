@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental service from dataset id
 - Write a code to apply label encoding to a dataset loaded using from_dataset_id.
 - Write a code to convert a dataset loaded from its ID into a pickle file.
 - Write a code to apply principal component analysis (PCA) to a dataset loaded using from_dataset_id.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

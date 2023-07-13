@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops getsessionhandlev2.
 - How can you obtain the session handle from a TensorFlow session and use it for time series forecasting using tf.raw_ops.GetSessionHandleV2?
 - Write a code to retrieve the session handle and run a TensorFlow graph on edge devices using tf.raw_ops.GetSessionHandleV2.
 - How can you use the session handle obtained from tf.raw_ops.GetSessionHandleV2 to perform model parallelism in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

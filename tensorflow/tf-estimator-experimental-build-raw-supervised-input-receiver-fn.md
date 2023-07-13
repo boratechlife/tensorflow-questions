@@ -66,3 +66,17 @@ description: Practice questions for tf estimator experimental build raw supervis
 - Write a code to enable or disable automatic differentiation in build_raw_supervised_input_receiver_fn.
 - Write a code to enable or disable distributed evaluation in build_raw_supervised_input_receiver_fn.
 - Write a code to enable or disable model serving in build_raw_supervised_input_receiver_fn.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

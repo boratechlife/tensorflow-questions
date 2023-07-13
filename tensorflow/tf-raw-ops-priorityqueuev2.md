@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops priorityqueuev2.
 - Write a code to calculate the weighted sum of priorities of items in a tf.raw_ops.PriorityQueueV2.
 - Write a code to find the item with the closest priority value to a given value in a tf.raw_ops.PriorityQueueV2.
 - Write a code to find the items with priorities within a specific range in a tf.raw_ops.PriorityQueueV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

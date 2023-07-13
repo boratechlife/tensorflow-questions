@@ -66,3 +66,17 @@ description: Practice questions for tf linalg lu matrix inverse.
 - Write a code to compute the inverse of a matrix using the LU factorization method and tf.linalg.lu_matrix_inverse provided by TensorFlow.
 - Write a code to find the inverse of a matrix using LU decomposition and tf.linalg.lu_matrix_inverse technique in TensorFlow.
 - Write a code to calculate the inverse of a matrix using tf.linalg.lu_matrix_inverse and LU decomposition implemented by TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf initializers he uniform.
 - Write a code to initialize a tensor with "tf.initializers.he_uniform" and a custom fan_in and fan_out values of 200 and 400, respectively, and a seed value of 42.
 - Write a code to initialize a variable named "weights" with "tf.initializers.he_uniform" and a custom distribution type of "random_normal" and a mean of 1.0.
 - Write a code to initialize a tensor using "tf.initializers.he_uniform" with a custom scale value of 0.1, a standard deviation of 0.5, and a mean of 1.0.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

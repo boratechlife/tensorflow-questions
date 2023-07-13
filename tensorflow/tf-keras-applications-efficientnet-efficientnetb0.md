@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnet efficient
 - Write a code to implement class activation maps (CAM) with the EfficientNetB0 model.
 - Write a code to implement early stopping based on a combination of validation loss and accuracy during training of the EfficientNetB0 model.
 - Write a code to implement a custom callback for monitoring specific metrics during training of the EfficientNetB0 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

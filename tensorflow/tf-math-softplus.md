@@ -66,3 +66,17 @@ description: Practice questions for tf math softplus.
 - Write a code to calculate the softplus function for a tensor and replace the negative values with zeros using TensorFlow.
 - Write a code to compute the softplus activation for a specific layer in a transformer network using TensorFlow.
 - Write a code to calculate the derivative of the softplus function and subtract it from a given tensor using TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

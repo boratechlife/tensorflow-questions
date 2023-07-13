@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics mse1.
 - Write a code to calculate the MSE for a model's predictions using deep learning and tf.keras.metrics.mse.
 - Write a code to calculate the MSE for a model's predictions using convolutional neural networks (CNN) and tf.keras.metrics.mse.
 - Write a code to calculate the MSE for a model's predictions using recurrent neural networks (RNN) and tf.keras.metrics.mse.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

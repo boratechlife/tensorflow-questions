@@ -66,3 +66,17 @@ description: Practice questions for tf metrics precisionatrecall.
 - Write a code to calculate the precision at a recall threshold for a few-shot reinforcement learning problem using tf.metrics.PrecisionAtRecall.
 - Write a code to calculate the precision at a recall threshold for a few-shot recommendation problem using tf.metrics.PrecisionAtRecall.
 - Write a code to calculate the precision at a recall threshold for a few-shot anomaly detection problem using tf.metrics.PrecisionAtRecall.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

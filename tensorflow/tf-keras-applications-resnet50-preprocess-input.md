@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet50 preprocess in
 - Write a code to preprocess an image and perform image compression using a pre-trained ResNet50 model with custom weights.
 - Write a code to preprocess an image and perform image registration using a pre-trained ResNet50 model with custom weights.
 - Write a code to preprocess an image and perform image fusion using a pre-trained ResNet50 model with custom weights.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

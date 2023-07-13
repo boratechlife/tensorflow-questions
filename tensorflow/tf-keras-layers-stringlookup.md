@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers stringlookup.
 - Write a code to convert a sequence of encoded indices to strings using a pre-trained StringLookup layer.
 - Write a code to create a StringLookup layer and set the output_mode as "int" with custom vocabulary and token counts.
 - Write a code to create a StringLookup layer and set the output_mode as "binary" with custom vocabulary and token counts.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

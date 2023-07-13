@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops besseli0.
 - Write a code to calculate the Bessel function of a specific order for a TensorFlow variable of input values and round the results to a specific decimal place.
 - Write a code to calculate the Bessel function of order 0 for a given input value and handle any exceptions that may occur.
 - Write a code to calculate the Bessel function of a specific order for a given input value and handle any exceptions that may occur.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf math erfc.
 - Write a code to calculate the erfc value for each element in a tensor and return the result as a sparse distributed tensor using TensorFlow.
 - Write a code to calculate the erfc value for each element in a tensor and return the result as a EagerTensor using TensorFlow.
 - Write a code to calculate the erfc value for each element in a tensor and return the result as a symbolic tensor using TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

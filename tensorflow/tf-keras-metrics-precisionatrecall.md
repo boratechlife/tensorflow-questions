@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics precisionatrecall.
 - Write a code to calculate the precision at recall for a machine translation problem.
 - Write a code to calculate the precision at recall for a time series forecasting problem with external factors.
 - Write a code to calculate the precision at recall for a named entity recognition problem with nested entities.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

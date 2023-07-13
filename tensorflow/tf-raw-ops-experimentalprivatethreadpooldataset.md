@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalprivatethreadpooldata
 - Write a code to save the elements of a tf.raw_ops.ExperimentalPrivateThreadPoolDataset to a file.
 - Write a code to load elements from a file into a tf.raw_ops.ExperimentalPrivateThreadPoolDataset.
 - Write a code to visualize the elements of a tf.raw_ops.ExperimentalPrivateThreadPoolDataset using a histogram plot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

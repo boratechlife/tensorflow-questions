@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops linspace.
 - Write a code to generate a linearly spaced array of 5 values between 1 and 10 using tf.raw_ops.LinSpace.
 - Write a code to generate a linearly spaced array of 40 values between -π (pi) and π (pi) using tf.raw_ops.LinSpace.
 - Write a code to generate a linearly spaced array of 30 values between -1000 and 1000 using tf.raw_ops.LinSpace.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

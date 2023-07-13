@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications mobilenet.
 - Write a code to implement gradient clipping during the training of the MobileNet model.
 - Write a code to implement early stopping based on validation loss during the training of the MobileNet model.
 - Write a code to implement early stopping based on validation accuracy during the training of the MobileNet model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy true divide.
 - Write a code to divide two arrays and compute the element-wise reciprocal of the result using tf.experimental.numpy.true_divide.
 - Write a code to divide two arrays and compute the element-wise square of the result using tf.experimental.numpy.true_divide.
 - Write a code to divide two arrays and compute the element-wise square root of the result using tf.experimental.numpy.true_divide.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

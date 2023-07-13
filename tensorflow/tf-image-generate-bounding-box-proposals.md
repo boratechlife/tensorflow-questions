@@ -66,3 +66,17 @@ description: Practice questions for tf image generate bounding box proposals.
 - How can you set the IoU threshold for the rotated anchor boxes and rotated bounding boxes using tf.image.generate_bounding_box_proposals?
 - Write a code to generate bounding box proposals with a specific number of scales for the rotated anchor boxes and rotated bounding boxes.
 - How can you set the maximum number of rotated bounding boxes using tf.image.generate_bounding_box_proposals with rotated anchor boxes and rotated bounding boxes?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

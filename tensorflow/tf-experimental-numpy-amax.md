@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy amax.
 - Write a code to find the maximum value in a numpy array and calculate the cumulative product of all values less than the maximum using tf.experimental.numpy.amax.
 - Write a code to find the maximum value in a numpy array and calculate the cumulative mean of all values less than the maximum using tf.experimental.numpy.amax.
 - Write a code to find the maximum value in a numpy array and calculate the cumulative standard deviation of all values less than the maximum using tf.experimental.numpy.amax.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

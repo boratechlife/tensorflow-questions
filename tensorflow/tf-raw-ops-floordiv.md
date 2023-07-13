@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops floordiv.
 - Write a code to perform floor division operation on two tensors using "tf.raw_ops.FloorDiv" and obtain the floor value of the division.
 - Write a code to compute the element-wise floor division of two tensors and round down to the nearest integer using "tf.raw_ops.FloorDiv" in TensorFlow.
 - Write a code to divide two tensors and return the result rounded down to the nearest integer using "tf.raw_ops.FloorDiv" operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

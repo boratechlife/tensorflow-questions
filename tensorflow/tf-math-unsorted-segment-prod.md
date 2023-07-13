@@ -66,3 +66,17 @@ description: Practice questions for tf math unsorted segment prod.
 - Write a code to compute the product of segments in a tensor and return the bottom-k values and indices for each segment using tf.math.unsorted_segment_prod.
 - Write a code to compute the product of segments in a tensor and calculate the cosine similarity between segments using tf.math.unsorted_segment_prod.
 - Write a code to compute the product of segments in a tensor and calculate the Euclidean distance between segments using tf.math.unsorted_segment_prod.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf image resize.
 - Write a code to resize an image using tf.image.resize and apply a pre-trained model for object detection.
 - Write a code to resize an image using tf.image.resize and apply a pre-trained model for image segmentation.
 - Write a code to resize an image using tf.image.resize and apply a pre-trained model for style transfer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

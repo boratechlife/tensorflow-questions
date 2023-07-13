@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications convnext.
 - Write a code to create a new ConvNeXt101 model with modified architecture.
 - Write a code to create a new ConvNeXt152 model with modified architecture.
 - Write a code to fine-tune only the last few layers of the ConvNeXt50 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops barrier.
 - Write a code to retrieve the list of operations that a tf.raw_ops.Barrier operation depends on.
 - Write a code to retrieve the list of devices that a tf.raw_ops.Barrier operation can be executed on.
 - Write a code to retrieve the list of available GPU devices for executing a tf.raw_ops.Barrier operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

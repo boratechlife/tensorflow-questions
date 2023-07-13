@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops directedinterleavedataset.
 - Write a code to shuffle, batch, and prefetch the elements of a DirectedInterleaveDataset.
 - Write a code to count the number of elements in a DirectedInterleaveDataset.
 - Write a code to calculate the statistics (mean, variance, etc.) of a DirectedInterleaveDataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

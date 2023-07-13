@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert greater.
 - Write a code to assert that all elements in a list lst are greater than 5 and less than or equal to 10 or less than -5.
 - Write a code to assert that the matrix m has all rows with sums between 100 (exclusive) and 200 (inclusive) or less than 50.
 - Write a code to assert that the value of x is greater than the value of y or the value of z is less than 5 or the variable w is equal to 0.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

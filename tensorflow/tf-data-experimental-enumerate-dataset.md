@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental enumerate dataset.
 - How can you use enumerate_dataset to split a dataset into multiple smaller datasets of equal size?
 - Create a TensorFlow dataset, enumerate it, and split it into multiple smaller datasets of equal size using tf.data.experimental.enumerate_dataset.
 - Write a code to enumerate a dataset and calculate the maximum value of the enumerated elements.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

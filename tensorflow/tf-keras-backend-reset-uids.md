@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend reset uids.
 - How can you reset the unique identifier counters for all objects in TensorFlow Keras backend?
 - Write a code to reset the unique identifier counters and then create a new layer with a custom regularizer in TensorFlow Keras backend.
 - How does reset_uids affect the unique identifier counters for custom regularizers that have already been created in TensorFlow Keras backend?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

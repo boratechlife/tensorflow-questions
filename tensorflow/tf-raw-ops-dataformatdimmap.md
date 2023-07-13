@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops dataformatdimmap.
 - Write a code to calculate the dot product of two tf.raw_ops.DataFormatDimMap objects.
 - Write a code to calculate the cross product of two tf.raw_ops.DataFormatDimMap objects.
 - Write a code to calculate the Euclidean distance between two tf.raw_ops.DataFormatDimMap objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

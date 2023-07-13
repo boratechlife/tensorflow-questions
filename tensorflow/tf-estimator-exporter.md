@@ -66,3 +66,17 @@ description: Practice questions for tf estimator exporter.
 - Write a code to export the TensorFlow estimator model with a specific serving input receiver function using tf.estimator.FinalModelExporter.
 - Write a code to export the TensorFlow estimator model along with a specific export version string using tf.estimator.ExportVersionStrategyExporter.
 - Write a code to export the TensorFlow estimator model with a specific export directory structure using tf.estimator.DirectoryStructureExporter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

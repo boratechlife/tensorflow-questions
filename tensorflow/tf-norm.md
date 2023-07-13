@@ -66,3 +66,17 @@ description: Practice questions for tf norm.
 - Write a code to calculate the squared Frobenius norm along a specific axis of a batch of tensors using tf.norm.
 - Write a code to calculate the squared L2 norm of a complex-valued tensor using tf.norm.
 - Write a code to calculate the squared Frobenius norm of a complex-valued tensor using tf.norm.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

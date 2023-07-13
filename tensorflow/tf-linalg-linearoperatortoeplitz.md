@@ -66,3 +66,17 @@ description: Practice questions for tf linalg linearoperatortoeplitz.
 - Write a code to calculate the element-wise matrix square of a LinearOperatorToeplitz object.
 - Write a code to calculate the element-wise matrix square root of a LinearOperatorToeplitz object.
 - Write a code to calculate the element-wise matrix exponential of a LinearOperatorToeplitz object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

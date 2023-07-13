@@ -66,3 +66,17 @@ description: Practice questions for tf estimator dnnlinearcombinedestimator.
 - Write a code to implement learning rate warm-up in a tf.estimator.DNNLinearCombinedEstimator.
 - Write a code to implement learning rate schedules based on external factors in a tf.estimator.DNNLinearCombinedEstimator.
 - Write a code to implement feature selection for input features in a tf.estimator.DNNLinearCombinedEstimator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

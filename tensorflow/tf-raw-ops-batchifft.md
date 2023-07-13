@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchifft.
 - Write a code to compute the batch inverse fast Fourier transform of a complex-valued tensor using tf.raw_ops.BatchIFFT in TensorFlow.
 - Write a code to perform inverse FFT on a batch of complex tensors using tf.raw_ops.BatchIFFT in TensorFlow.
 - Write a code to apply batch inverse fast Fourier transform using tf.raw_ops.BatchIFFT function in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

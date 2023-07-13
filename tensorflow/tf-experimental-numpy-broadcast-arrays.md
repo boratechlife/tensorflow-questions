@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy broadcast arrays.
 - Write a code to perform element-wise minimum finding using broadcast_arrays.
 - Write a code to perform element-wise normalization using broadcast_arrays.
 - Write a code to perform element-wise distance calculation using broadcast_arrays.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

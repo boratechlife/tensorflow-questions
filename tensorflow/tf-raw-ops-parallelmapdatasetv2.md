@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you apply a map function that performs data augmentation on tabular data using ParallelMapDatasetV2 in TensorFlow?
 - Write a code to create a ParallelMapDatasetV2 from a text file using TensorFlow.
 - How can you create a ParallelMapDatasetV2 that processes data from multiple text files using TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

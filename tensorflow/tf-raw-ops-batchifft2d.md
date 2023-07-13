@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchifft2d.
 - How to implement batch inverse fast Fourier transform on a batch of 2D complex tensors using tf.raw_ops.BatchIFFT2D in TensorFlow?
 - Write a code to perform batch inverse FFT on a batch of 2D complex tensors using TensorFlow's tf.raw_ops.BatchIFFT2D.
 - How to use tf.raw_ops.BatchIFFT2D in TensorFlow to compute batch inverse Fourier transform on a batch of 2D complex tensors?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy greater.
 - Write a code to count the number of elements in an array that are greater than or equal to a specific value using tf.experimental.numpy.greater.
 - Write a code to compare if two arrays are element-wise greater and return a boolean scalar value using tf.experimental.numpy.greater.
 - Write a code to check if all elements in an array are greater than or equal to zero using tf.experimental.numpy.greater.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

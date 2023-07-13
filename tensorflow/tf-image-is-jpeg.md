@@ -66,3 +66,17 @@ description: Practice questions for tf image is jpeg.
 - Write a function that takes a list of image file paths as input, filters out non-JPEG images using tf.image.is_jpeg, and returns the filtered list.
 - Implement a code snippet that reads an image file and checks if it is in JPEG format using tf.image.is_jpeg, returning True or False.
 - How can you incorporate tf.image.is_jpeg into a TensorFlow dataset pipeline to filter out non-JPEG images?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

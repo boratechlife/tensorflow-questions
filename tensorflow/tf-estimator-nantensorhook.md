@@ -66,3 +66,17 @@ description: Practice questions for tf estimator nantensorhook.
 - Write a code to create an instance of NanTensorHook and handle the NaN error by skipping the current step and continuing training with a custom error message format.
 - Write a code to create an instance of NanTensorHook and handle the NaN error by stopping evaluation and providing a custom error message format.
 - Write a code to create an instance of NanTensorHook and handle the NaN error by skipping the current step and continuing evaluation with a custom error message format.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

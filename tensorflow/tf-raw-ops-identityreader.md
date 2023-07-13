@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops identityreader.
 - Write a code to transpose the value stored in a tf.raw_ops.IdentityReader object.
 - Write a code to apply a convolution operation to the value stored in a tf.raw_ops.IdentityReader object.
 - Write a code to apply a pooling operation to the value stored in a tf.raw_ops.IdentityReader object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

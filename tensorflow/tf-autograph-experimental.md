@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to disable TensorFlow autograph for all Python functions using tf.autograph.experimental.disable.
 - Write a code to check if TensorFlow autograph is enabled for a specific Python function using tf.autograph.experimental.is_enabled.
 - Write a code to check if a Python function is compatible with TensorFlow autograph using tf.autograph.experimental.is_supported.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

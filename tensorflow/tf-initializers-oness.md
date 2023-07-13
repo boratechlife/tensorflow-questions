@@ -66,3 +66,17 @@ description: Practice questions for tf initializers oness.
 - Write a code to initialize a tensor of shape (3, 3, 3) with all ones using tf.initializers.ones and a custom mode value.
 - Write a code to initialize a tensor of shape (2, 2) with all ones using tf.initializers.ones and a custom mode value.
 - Write a code to initialize a tensor of shape (4, 4) with all ones using tf.initializers.ones and a custom mode value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

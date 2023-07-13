@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy expm1.
 - Write a code to calculate the expm1 for a 2D NumPy array and return the result as a pandas DataFrame using tf.experimental.numpy.expm1.
 - Write a code to calculate the exponential minus one of a tensor with a specified dtype and return the result as a NumPy array using tf.experimental.numpy.expm1.
 - Write a code to calculate the expm1 of a tensor with a specified shape and return the result as a pandas Series using tf.experimental.numpy.expm1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

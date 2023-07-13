@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops groupbyreducerdataset.
 - How can you calculate the Kendall rank correlation coefficient between two groups in a GroupByReducerDataset?
 - Write a code to calculate the mean absolute deviation (MAD) of the values within each group in a GroupByReducerDataset.
 - How can you calculate the mean squared error (MSE) between two groups in a GroupByReducerDataset?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -115,3 +115,17 @@ description: Practice questions for tf math reduce any.
 - Write a code to check if any element in a given TensorFlow tensor is a valid URL using "tf.math.reduce_any".
 - 
 - Write a code to find if there is any element in a TensorFlow tensor that is a Roman numeral using "tf.math.reduce_any".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

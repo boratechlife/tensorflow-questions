@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops optimizedatasetv2.
 - How can you set the optimization_parameters parameter to a tensor in the tf.raw_ops.OptimizeDatasetV2 function?
 - Write a code to optimize a dataset using tf.raw_ops.OptimizeDatasetV2 and specify the dataset parameter as a tensor.
 - How can you set the input_dataset_info parameter to a tensor in the tf.raw_ops.OptimizeDatasetV2 function?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

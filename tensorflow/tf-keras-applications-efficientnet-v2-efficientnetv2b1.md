@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnet v2 effici
 - Write a code to set the learning rate schedule for training the EfficientNetV2B1 model.
 - Write a code to apply early stopping based on a specific metric during training of the EfficientNetV2B1 model.
 - Write a code to save the weights of the EfficientNetV2B1 model to a file.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

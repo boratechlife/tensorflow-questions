@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental run functions eagerly
 - Write a code to enable eager execution globally for all TensorFlow graphs.
 - Write a code to disable eager execution globally for all TensorFlow graphs.
 - Write a code to check if eager execution is enabled globally for all TensorFlow graphs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

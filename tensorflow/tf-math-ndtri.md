@@ -66,3 +66,17 @@ description: Practice questions for tf math ndtri.
 - Write a code to calculate the cross-spectral density between two standard normal distributions using tf.math.ndtri.
 - Write a code to calculate the cross-spectral density between two normal distributions with given means and standard deviations using tf.math.ndtri.
 - Write a code to calculate the coherence between two standard normal distributions using tf.math.ndtri.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

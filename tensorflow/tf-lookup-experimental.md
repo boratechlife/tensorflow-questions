@@ -66,3 +66,17 @@ description: Practice questions for tf lookup experimental.
 - Write a code to perform a lookup operation on a lookup table with missing keys and default values using tf.lookup.experimental.HashTable, tf.lookup.experimental.index_table_from_tensor, tf.gather, tf.where, tf.fill, tf.reduce_sum, tf.logical_not, tf.tile, tf.transpose, and tf.random.shuffle.
 - Write a code to create a lookup table from a tensor of keys and a tensor of values using tf.lookup.experimental.HashTable and tf.lookup.experimental.KeyValueTensorInitializer with initializer tensors and default values.
 - Write a code to perform a lookup operation on a lookup table with missing keys and default values using tf.lookup.experimental.HashTable, tf.lookup.experimental.index_table_from_tensor, tf.gather, tf.where, tf.fill, tf.reduce_sum, tf.logical_not, tf.tile, tf.transpose, tf.random.shuffle, and tf.reverse.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

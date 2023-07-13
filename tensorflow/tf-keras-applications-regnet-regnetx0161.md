@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnet regnetx0161.
 - Use the RegNetX016 model for image super-resolution.
 - Perform model knowledge distillation using the RegNetX016 model as a teacher model.
 - Use the RegNetX016 model for image generation (e.g., generative adversarial networks).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

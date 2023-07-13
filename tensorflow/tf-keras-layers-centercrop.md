@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers centercrop.
 - How can you crop the center portion of a batch of videos with dimensions (200, 200) using tf.keras.layers.CenterCrop?
 - Write a code to perform center cropping on an image using tf.keras.layers.CenterCrop with a dynamic crop size based on image dimensions.
 - How can you apply center cropping to an image in TensorFlow using tf.keras.layers.CenterCrop with a dynamic crop size based on image dimensions?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

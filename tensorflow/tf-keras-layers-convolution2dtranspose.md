@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers convolution2dtranspose.
 - Write a code to create a Convolution2DTranspose layer with a specified name of 'deconv5', dilation rate of (6, 6), and kernel initializer of 'he_normal'.
 - Write a code to create a Convolution2DTranspose layer with a specified bias initializer of 'ones', kernel regularizer of L2 regularization, and bias regularizer of L1 regularization.
 - Write a code to create a Convolution2DTranspose layer with a specified kernel constraint of non-negativity and bias constraint of max norm with a value of 0.5, using the 'tanh' activation function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf edit distance.
 - Write a code to calculate the edit distance between two time series of stock prices using tf.edit_distance.
 - Write a code to find the most similar stock price time series from a list of series based on edit distance using tf.edit_distance.
 - Write a code to calculate the edit distance between two code snippets using tf.edit_distance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

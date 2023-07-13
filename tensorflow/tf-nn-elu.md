@@ -66,3 +66,17 @@ description: Practice questions for tf nn elu.
 - Write a code to apply the tf.nn.elu activation function to a tensor and then apply a dropout layer with specified rate and training flag.
 - Write a code to apply the tf.nn.elu activation function to a tensor and then apply a batch normalization layer with specified parameters and training flag.
 - Write a code to apply the tf.nn.elu activation function to a tensor and then apply a max pooling layer with specified pool size, strides, and padding.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

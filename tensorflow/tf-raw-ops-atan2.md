@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops atan2.
 - Write a code to calculate the arctangent of a tensor and normalize the result between 0 and 360 degrees using tf.raw_ops.Atan2.
 - Write a code to find the angle between two lines of intersection using tf.raw_ops.Atan2.
 - Write a code to compute the direction of a vector in spherical coordinates using tf.raw_ops.Atan2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

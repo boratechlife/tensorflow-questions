@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend get uid.
 - Write a code to check if the UID of a specific TensorFlow Keras operation is equal to a given value using the get_uid function.
 - Write a code to get the UID of a specific TensorFlow Keras object using the get_uid function.
 - Write a code to assign the UID of a specific TensorFlow Keras object to a variable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

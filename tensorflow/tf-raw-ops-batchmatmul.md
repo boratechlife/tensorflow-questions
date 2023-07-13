@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchmatmul.
 - Compute the batch matrix multiplication and calculate the Hinge loss between the rows of the result using tf.raw_ops.BatchMatMul.
 - Compute the batch matrix multiplication and calculate the squared hinge loss between the rows of the result using tf.raw_ops.BatchMatMul.
 - Compute the batch matrix multiplication and calculate the LogCosh loss between the rows of the result using tf.raw_ops.BatchMatMul.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

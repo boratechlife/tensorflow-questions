@@ -66,3 +66,17 @@ description: Practice questions for tf metrics serialize.
 - Write a code to receive and deserialize a serialized TensorFlow metric from Apache Kafka using tf.metrics.serialize.
 - Write a code to serialize multiple TensorFlow metrics and send them as messages using Apache Kafka using tf.metrics.serialize.
 - Write a code to receive and deserialize multiple serialized TensorFlow metrics from Apache Kafka using tf.metrics.serialize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

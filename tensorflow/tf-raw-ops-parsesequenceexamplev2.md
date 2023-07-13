@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you retrieve all the feature values from a parsed sequence example using "tf.raw_ops.ParseSequenceExampleV2"?
 - Write a code to parse a sequence example and retrieve the feature lengths of variable-length features using "tf.raw_ops.ParseSequenceExampleV2".
 - How can you retrieve the feature lengths of variable-length features from a parsed sequence example using "tf.raw_ops.ParseSequenceExampleV2"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

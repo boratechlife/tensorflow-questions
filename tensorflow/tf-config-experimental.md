@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental.
 - Write a code to enable or disable automatic mixed precision using tf.config.experimental.enable_auto_mixed_precision.
 - Write a code to check if automatic mixed precision is enabled using tf.config.experimental.is_auto_mixed_precision_enabled.
 - Write a code to set the experimental TensorFlow ops caching optimization level using tf.config.experimental.set_tensorflow_ops_caching_enable
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

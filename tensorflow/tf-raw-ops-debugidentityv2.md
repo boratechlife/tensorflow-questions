@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops debugidentityv2.
 - Write a code to examine the effect of different dropout rates on a tensor using tf.raw_ops.DebugIdentityV2.
 - Write a code to debug the weight initialization problem in a specific layer using tf.raw_ops.DebugIdentityV2.
 - Write a code to investigate the changes in the tensor values across different optimization algorithms using tf.raw_ops.DebugIdentityV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

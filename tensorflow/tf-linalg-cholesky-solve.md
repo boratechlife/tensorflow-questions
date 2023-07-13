@@ -66,3 +66,17 @@ description: Practice questions for tf linalg cholesky solve.
 - Write a code to calculate the matrix hyperbolic arccosine using tf.linalg.cholesky_solve.
 - Write a code to solve a linear system of equations using tf.linalg.cholesky_solve for a positive definite banded matrix.
 - Write a code to calculate the matrix hyperbolic arctangent using tf.linalg.cholesky_solve.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

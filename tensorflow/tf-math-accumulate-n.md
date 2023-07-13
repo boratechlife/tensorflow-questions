@@ -66,3 +66,17 @@ description: Practice questions for tf math accumulate n.
 - Write a code to accumulate a list of tensors and compute the element-wise subtraction using tf.math.accumulate_n.
 - Write a code to accumulate a list of tensors and compute the element-wise maximum using tf.math.accumulate_n.
 - Write a code to accumulate a list of tensors and compute the element-wise minimum using tf.math.accumulate_n.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

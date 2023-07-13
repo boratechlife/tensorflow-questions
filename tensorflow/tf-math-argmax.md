@@ -66,3 +66,17 @@ description: Practice questions for tf math argmax.
 - Write a code to find the indices and values of the top K maximum values along the last axis in a TensorFlow tensor using tf.math.argmax.
 - Write a code to find the indices and values of the top K maximum values along the first axis in a TensorFlow tensor using tf.math.argmax.
 - Write a code to find the indices and values of the top K maximum values along a specific axis in a high-dimensional TensorFlow tensor using tf.math.argmax.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

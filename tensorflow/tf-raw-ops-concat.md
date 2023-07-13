@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops concat.
 - Create a code snippet to concatenate tensors along multiple dynamic axes specified as a tensor for multiple dynamic dimensions using a scalar tensor using "tf.raw_ops.Concat".
 - How can you concatenate tensors along multiple dynamic axes specified as a tensor for multiple dynamic dimensions using a scalar tensor using "tf.raw_ops.Concat"?
 - Write a code to concatenate tensors along multiple dynamic axes using a tensor for multiple dimensions specified as a scalar tensor using a scalar tensor using "tf.raw_ops.Concat".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

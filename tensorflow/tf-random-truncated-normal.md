@@ -66,3 +66,17 @@ description: Practice questions for tf random truncated normal.
 - Write a code to generate a random tensor of shape (2, 2, 2) with mean 5 and standard deviation 0.5 using truncated normal distribution.
 - Write a code to generate a random tensor of shape (1000,) with a mean of 0 and a standard deviation of 0.1 using truncated normal distribution.
 - Write a code to generate a random tensor of shape (5, 5) with a mean of 10 and a standard deviation of 1 using truncated normal distribution.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental make batched features d
 - How can you create a dataset with a specific number of elements per interleave using make_batched_features_dataset?
 - Write a code to create a dataset with a specified filter function using make_batched_features_dataset.
 - How can you create a dataset with a specific number of flat map blocks using make_batched_features_dataset?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

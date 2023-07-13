@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops audiosummary.
 - Write a code to compute the audio kurtosis of an audio summary using tf.raw_ops.AudioSummary.
 - Write a code to compute the audio harmonic-percussive source separation of an audio summary using tf.raw_ops.AudioSummary.
 - Write a code to compute the audio beat synchronous features of an audio summary using tf.raw_ops.AudioSummary.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

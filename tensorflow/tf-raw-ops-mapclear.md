@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mapclear.
 - Write a code to clear all keys that have been marked for deletion from a TensorFlow map.
 - Write a code to clear all keys that have not been marked for deletion from a TensorFlow map.
 - Write a code to clear all keys randomly from a TensorFlow map.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

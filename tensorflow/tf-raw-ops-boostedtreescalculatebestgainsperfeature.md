@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreescalculatebestgainsper
 - Implement a code snippet that uses "tf.raw_ops.BoostedTreesCalculateBestGainsPerFeature" to calculate the best gains per feature with a minimum leaf node weight.
 - Write a code to calculate the best gains per feature using "tf.raw_ops.BoostedTreesCalculateBestGainsPerFeature" and a specified maximum leaf node weight.
 - How can you set a maximum leaf node weight when calculating the best gains per feature using "tf.raw_ops.BoostedTreesCalculateBestGainsPerFeature"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

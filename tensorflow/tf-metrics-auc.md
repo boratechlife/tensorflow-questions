@@ -66,3 +66,17 @@ description: Practice questions for tf metrics auc.
 - Write a code to calculate the AUC for a TensorFlow model's predictions and labels with data augmentation using the tf.metrics.AUC class.
 - Write a code to calculate the AUC for a TensorFlow model's predictions and labels with model ensembling using the tf.metrics.AUC class.
 - Write a code to calculate the AUC for a TensorFlow model's predictions and labels with model pruning using the tf.metrics.AUC class.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

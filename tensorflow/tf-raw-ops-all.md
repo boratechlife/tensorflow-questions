@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops all.
 - Write a code to verify if all elements in a list of tensors have the same dimensions and shape as the corresponding elements in another list of tensors using tf.raw_ops.All.
 - 
 - Write a code to determine if all elements in a list of tensors have the same shape and are divisible by the corresponding elements in another list of tensors using tf.raw_ops.All.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

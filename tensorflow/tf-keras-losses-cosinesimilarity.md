@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses cosinesimilarity.
 - Write a code to compute the cosine similarity between two tensors of shape (None, 2000000, 2000000) using tf.keras.losses.CosineSimilarity.
 - Write a code to calculate the cosine similarity loss for a batch of user profile region embeddings using tf.keras.losses.CosineSimilarity.
 - Write a code to compute the cosine similarity between two tensors of shape (None, 5000000, 5000000) using tf.keras.losses.CosineSimilarity.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental sqldataset.
 - Write a code to create a SqlDataset from a table in a NLTK corpus.
 - Write a code to create a SqlDataset from a table in a OpenAI Gym environment.
 - Write a code to create a SqlDataset from a table in a BeautifulSoup parsed HTML.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

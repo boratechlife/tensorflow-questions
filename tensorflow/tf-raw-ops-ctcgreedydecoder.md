@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops ctcgreedydecoder.
 - Implement a function that applies CTC greedy decoding on a sequence using tf.raw_ops.CTCGreedyDecoder and returns the probability of the decoding path.
 - Write a code to perform CTC greedy decoding on a sequence and obtain the start and end indices of each decoded sequence.
 - How can you obtain the start and end indices of each decoded sequence using tf.raw_ops.CTCGreedyDecoder?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

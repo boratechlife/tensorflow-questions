@@ -66,3 +66,17 @@ description: Practice questions for tf nn dropout.
 - Write a code to apply dropout with a keep probability of 0.7 to the tensor x and specify the noise shape as [batch_size, 1], set the seed as 123, and apply L2 regularization with a scale of 0.1.
 - Write a code to apply dropout with a keep probability of 0.6 to the tensor x and specify the noise shape as [1, num_features], set the seed as 456, and apply L1 regularization with a scale of 0.05.
 - Write a code to apply dropout with a keep probability of 0.5 to the tensor x and specify the noise shape as [batch_size, num_features], set the seed as 789, and apply both L1 and L2 regularizations with scales of 0.1 and 0.2 respectively.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

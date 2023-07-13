@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are some challenges specific to reinforcement learning in physical robotics?
 - How can TensorFlow be used to address these challenges in reinforcement learning for physical robotics?
 - What are some future directions and advancements in reinforcement learning for robotics that leverage TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mapunstage.
 - Write a code to pass a TensorFlow tensor through the "tf.raw_ops.MapUnstage" operation and then calculate its cumulative sum along a specific axis.
 - Write a code to apply the "tf.raw_ops.MapUnstage" operation on a batch of image tensors and then calculate their L1 norm.
 - Write a code to pass a TensorFlow tensor through the "tf.raw_ops.MapUnstage" operation and then calculate its element-wise inverse.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

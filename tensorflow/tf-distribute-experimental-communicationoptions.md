@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental communicationopti
 - Write a code to create a CommunicationOptions object and set the experimental_max_concurrent_streams parameter to 16.
 - Write a code to create a CommunicationOptions object and enable the experimental_maybe_disable_gpu parameter.
 - Write a code to create a CommunicationOptions object and set the experimental_intra_op_parallelism_threads parameter to 8.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf nn conv1d transpose.
 - Write a code to apply a transposed convolution with a different output channel size and padding size using "tf.nn.conv1d_transpose".
 - Write a code to perform a 1D transposed convolution with a dynamic input size and padding using "tf.nn.conv1d_transpose".
 - Write a code to apply a transposed convolution with a specified output shape and dilation rate using "tf.nn.conv1d_transpose".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers maximum.
 - Write a code to apply a maximum pooling operation with a pool size of (3, 3), strides of (2, 2), padding 'same', and data format 'channels_last' to an input tensor using tf.keras.layers.Maximum.
 - Write a code to create a maximum pooling layer with a pool size of (2, 2), a strides of (2, 2), and padding 'same', and data format 'channels_first' using tf.keras.layers.Maximum.
 - Write a code to apply a maximum pooling operation with a pool size of (3, 3), strides of (2, 2), padding 'same', and data format 'channels_first' to an input tensor using tf.keras.layers.Maximum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

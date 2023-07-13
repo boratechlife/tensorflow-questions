@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops flatmapdataset.
 - How do you specify the transformation function, flat map, and the output type in tf.raw_ops.FlatMapDataset?
 - Write a code to take a specified number of elements from the input dataset and then flat map the result with a specified output type using tf.raw_ops.FlatMapDataset.
 - How do you specify the number of elements to take, flat map, and the output type in tf.raw_ops.FlatMapDataset?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

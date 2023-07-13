@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops computeaccidentalhits.
 - Implement a function that takes a set of model predictions and ground truth labels, and utilizes the tf.raw_ops.ComputeAccidentalHits operation to evaluate the number of accidental hits while considering data streaming and limited memory.
 - Write a code snippet that demonstrates how to use the tf.raw_ops.ComputeAccidentalHits operation to analyze the impact of different network architectures on the occurrence of accidental hits.
 - How can you adapt the tf.raw_ops.ComputeAccidentalHits operation to handle hierarchical classification problems? Provide an example code.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

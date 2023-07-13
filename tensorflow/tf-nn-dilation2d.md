@@ -66,3 +66,17 @@ description: Practice questions for tf nn dilation2d.
 - Write a code to perform 2D dilation on an image tensor using tf.nn.dilation2d and specify the behavior for different negative input handling strategies.
 - Write a code to perform 2D dilation on an image tensor using tf.nn.dilation2d and specify the behavior for different negative output handling strategies.
 - Write a code to perform 2D dilation on an image tensor using tf.nn.dilation2d and specify the behavior for different zero-valued input and output handling strategies.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

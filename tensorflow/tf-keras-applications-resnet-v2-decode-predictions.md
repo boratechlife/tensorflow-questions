@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet v2 decode predi
 - Write a code to get the top predicted class and its probability as a formatted string.
 - Write a code to get the top 3 predicted classes and their probabilities as a formatted string.
 - Write a code to get all the predicted classes and their probabilities as a formatted string.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

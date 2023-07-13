@@ -66,3 +66,17 @@ description: Practice questions for tf distribute replicacontext.
 - Write a code to get the replica context's experimental set losses within the replica context.
 - Write a code to get the replica context's experimental set metrics within the replica context.
 - Write a code to get the replica context's experimental set step and time within the replica context.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

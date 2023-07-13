@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics auc.
 - How to compute the AUC-PR metric using tf.keras.metrics.AUC with a different threshold value.
 - Write a code to calculate the AUC metric using tf.keras.metrics.AUC with a different summation method.
 - How to compute the AUC-PR metric using tf.keras.metrics.AUC with a different summation method.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

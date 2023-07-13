@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops div.
 - How can you divide a tensor by a scalar and compute the element-wise logical OR with another tensor using tf.raw_ops.Div?
 - Write a code to divide a tensor by a scalar and calculate the element-wise logical XOR with another tensor using tf.raw_ops.Div.
 - How can you divide a tensor by a scalar and compute the element-wise logical NOT with another tensor using tf.raw_ops.Div?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

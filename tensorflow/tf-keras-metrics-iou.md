@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics iou.
 - Write a code to calculate the per-class IoU for each region of interest in a batch of images using tf.keras.metrics.IoU.
 - Write a code to calculate the IoU between two bounding boxes using tf.keras.metrics.IoU.
 - Write a code to calculate the IoU between two polygons using tf.keras.metrics.IoU.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

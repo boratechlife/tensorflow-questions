@@ -66,3 +66,17 @@ description: Practice questions for tf estimator experimental stop if lower hook
 - Write a code to stop training if the validation accuracy does not increase for a certain number of epochs or the validation loss does not decrease for a certain number of steps after a certain number of epochs using tf.estimator.experimental.stop_if_lower_hook.
 - Write a code to stop training if the validation loss becomes lower than a certain threshold or the training loss becomes higher than a certain threshold after a certain number of steps or the validation accuracy becomes higher than a certain threshold after a certain number of epochs using tf.estimator.experimental.stop_if_lower_hook.
 - Write a code to stop training if the validation accuracy becomes higher than a certain threshold or the validation loss becomes lower than a certain threshold after a certain number of epochs or the training accuracy becomes lower than a certain threshold after a certain number of epochs using tf.estimator.experimental.stop_if_lower_hook.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

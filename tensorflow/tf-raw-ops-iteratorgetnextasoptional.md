@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops iteratorgetnextasoptional.
 - How can you apply custom loss functions to the elements returned by tf.raw_ops.IteratorGetNextAsOptional? Write a code example.
 - Write a code to create a TensorFlow iterator from a JSON file and use tf.raw_ops.IteratorGetNextAsOptional to read the data.
 - How can you handle class imbalance in the elements returned by tf.raw_ops.IteratorGetNextAsOptional? Provide a code snippet.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops isnan.
 - Write a code to calculate the element-wise maximum of two tensors, but ignore NaN values using "tf.raw_ops.IsNan".
 - Write a code to calculate the element-wise minimum of two tensors, but ignore NaN values using "tf.raw_ops.IsNan".
 - Write a code to calculate the element-wise power of a tensor, but replace NaN values with zeros using "tf.raw_ops.IsNan".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

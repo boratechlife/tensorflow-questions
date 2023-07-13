@@ -66,3 +66,17 @@ description: Practice questions for tf linalg linearoperatoridentity.
 - Write a code to calculate the trace of the matrix pseudo-inverse of the identity linear operator using tf.linalg.LinearOperatorIdentity.
 - Write a code to calculate the trace of the matrix absolute determinant of the identity linear operator using tf.linalg.LinearOperatorIdentity.
 - Write a code to calculate the trace of the matrix log absolute determinant of the identity linear operator using tf.linalg.LinearOperatorIdentity.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

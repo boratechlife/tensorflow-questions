@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalbytesproducedstatsdat
 - How to shard the elements of tf.raw_ops.ExperimentalBytesProducedStatsDataset across multiple hosts asynchronously?
 - Write a code to configure the number of shards asynchronously in tf.raw_ops.ExperimentalBytesProducedStatsDataset.
 - How to shard the elements based on a key function asynchronously in tf.raw_ops.ExperimentalBytesProducedStatsDataset?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

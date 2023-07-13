@@ -66,3 +66,17 @@ description: Practice questions for tf feature column bucketized column.
 - Write a code to bucketize a feature named "age" into 3 buckets with custom boundaries: [0, 30, 50, 80].
 - Write a code to bucketize a feature named "price" into 5 logarithmically scaled buckets with labels as integers.
 - Write a code to bucketize a numerical feature named "income" into 5 buckets using quantile boundaries and provide labels as strings.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

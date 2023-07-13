@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops depthtospace.
 - Implement a function that performs depth-to-space transformation on an 8D tensor using tf.raw_ops.DepthToSpace.
 - Write a code snippet to apply depth-to-space transformation to a tensor with a block size of 22 using TensorFlow's tf.raw_ops.DepthToSpace.
 - How can you use the tf.raw_ops.DepthToSpace operation to convert a tensor with spatial pooling to spatial upsampling?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

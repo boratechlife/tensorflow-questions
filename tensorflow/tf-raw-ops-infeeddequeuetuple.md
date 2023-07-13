@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops infeeddequeuetuple.
 - How can you handle the case when the dequeued tuple requires a specific data type conversion using tf.raw_ops.InfeedDequeueTuple?
 - Write a code to dequeue tuples from the infeed and dynamically adjust the batch size based on resource availability.
 - How can you handle the case when the dequeued tuple requires additional preprocessing steps before use using tf.raw_ops.InfeedDequeueTuple?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

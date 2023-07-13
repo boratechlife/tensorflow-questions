@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops compresselement.
 - How can you compress an element and calculate the compression time using tf.raw_ops.CompressElement?
 - Write a code to compress an element and measure the decompression time using tf.raw_ops.CompressElement.
 - How can you compress an element and calculate the decompression time using tf.raw_ops.CompressElement?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

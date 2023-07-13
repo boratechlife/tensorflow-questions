@@ -66,3 +66,17 @@ description: Practice questions for tf nn bias add.
 - Write a code to add a bias term to a TensorFlow variable and then apply a flatten operation using tf.nn.bias_add.
 - Write a code to add a bias vector to a tensor and then apply a residual connection using tf.nn.bias_add.
 - Write a code to add a bias term to a TensorFlow tensor and then apply a self-attention mechanism using tf.nn.bias_add.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

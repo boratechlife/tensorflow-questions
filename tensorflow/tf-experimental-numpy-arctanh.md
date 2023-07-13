@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy arctanh.
 - Write a code to calculate the inverse hyperbolic tangent of each element in a given NumPy array and apply element-wise rounding using np.round after tf.experimental.numpy.arctanh.
 - Write a code to calculate the inverse hyperbolic tangent of each element in a given TensorFlow tensor and apply element-wise rounding using tf.round after tf.experimental.numpy.arctanh.
 - Write a code to calculate the inverse hyperbolic tangent of a given value and apply element-wise absolute value using np.abs after tf.experimental.numpy.arctanh.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

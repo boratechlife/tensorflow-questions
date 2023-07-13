@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops neg.
 - Write a code to negate the elements of a tensor and compute their element-wise less-than comparison with a scalar using tf.raw_ops.Neg.
 - Write a code to negate the elements of a tensor and compute their element-wise less-than-or-equal-to comparison with a scalar using tf.raw_ops.Neg.
 - Write a code to negate the elements of a tensor and compute their element-wise logical NOT using tf.raw_ops.Neg.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

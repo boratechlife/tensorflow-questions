@@ -66,3 +66,17 @@ description: Practice questions for tf linalg tensor diag part.
 - Write a code to calculate the cumulative sum of anti-diagonal elements in a tensor using tf.linalg.tensor_diag_part.
 - Write a code to calculate the difference between the maximum and minimum values of anti-diagonal elements in a tensor using tf.linalg.tensor_diag_part.
 - Write a code to check if all anti-diagonal elements of a tensor are positive using tf.linalg.tensor_diag_part.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

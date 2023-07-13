@@ -66,3 +66,17 @@ description: Practice questions for tf get current name scope.
 - Write a code to get the current name scope and append a given string to it, ignoring a specific substring.
 - Write a code to create a TensorFlow placeholder and assign it a specific name appended with the current name scope, ignoring a specific substring.
 - Write a code to get the current name scope and prepend a given string to it, ignoring a specific substring.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

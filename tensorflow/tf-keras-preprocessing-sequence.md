@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing sequence.
 - Write a code to convert a sequence of text into a sequence of word-level n-gram vectors with custom tokenizer rules using tf.keras.preprocessing.text.Tokenizer.
 - Write a code to convert a sequence of text into a sequence of character-level n-gram vectors with custom tokenizer rules using tf.keras.preprocessing.text.Tokenizer.
 - Write a code to perform sequence padding with a custom padding value and maximum sequence length for variable-length inputs using tf.keras.preprocessing.sequence.pad_sequences.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

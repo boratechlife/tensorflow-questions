@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils sequence.
 - Write a code to handle hyperparameter tuning in a custom sequence class.
 - Write a code to handle early stopping based on validation loss in a custom sequence class.
 - Write a code to handle early stopping based on validation accuracy in a custom sequence class.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

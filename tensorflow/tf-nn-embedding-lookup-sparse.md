@@ -66,3 +66,17 @@ description: Practice questions for tf nn embedding lookup sparse.
 - Write a code to calculate the Euclidean distance between embeddings for a set of sparse indices using tf.nn.embedding_lookup_sparse and tf.losses.euclidean_distance.
 - Write a code to perform a sparse embedding lookup and perform a segment_sum operation using tf.nn.embedding_lookup_sparse and tf.segment_sum.
 - Write a code to create a sparse tensor from a given dense tensor and a sparsity mask using tf.sparse.from_dense_mask.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf initializers identity.
 - Write a code to initialize a 3x3 identity matrix using tf.initializers.Identity and apply it to a variable named weights of shape (3, 3) with a specified gain_initializer value.
 - Write a code to initialize a 2x2 identity matrix using tf.initializers.Identity and apply it to a variable named weights of shape (2, 2) with a specified gain_initializer value.
 - Write a code to initialize a 4x4 identity matrix using tf.initializers.Identity and apply it to a variable named weights of shape (4, 4) with a specified gain_initializer value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

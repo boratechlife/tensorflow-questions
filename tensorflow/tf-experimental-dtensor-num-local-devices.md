@@ -115,3 +115,17 @@ description: Practice questions for tf experimental dtensor num local devices.
 - Write a code to display the number of GPUs available on the local machine and store it in a variable for later use only if it is greater than zero using "tf.experimental.dtensor.num_local_devices".
 - 
 - Write a code to determine the number of available TPUs locally and store it in a variable for later use only if it is greater than zero using "tf.experimental.dtensor.num_local_devices".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

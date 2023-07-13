@@ -66,3 +66,17 @@ description: Practice questions for tf name scope.
 - Write a code to create a TensorFlow name scope called "scope48" and nest it inside "scope47".
 - Write a code to create a TensorFlow name scope called "scope49" and nest it inside "scope48".
 - Write a code to create a TensorFlow name scope called "scope50" and nest it inside "scope49".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

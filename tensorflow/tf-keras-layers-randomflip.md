@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers randomflip.
 - Write a code to create a model that applies random flipping to an input image along the horizontal axis if a condition is true using tf.keras.Sequential and tf.keras.layers.RandomFlip.
 - Write a code to create a model that applies random flipping to a batch of images along the horizontal axis if a condition is true using tf.keras.Sequential and tf.keras.layers.RandomFlip.
 - Write a code to create a model that applies random flipping to an input image along the vertical axis if a condition is true using tf.keras.Sequential and tf.keras.layers.RandomFlip.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

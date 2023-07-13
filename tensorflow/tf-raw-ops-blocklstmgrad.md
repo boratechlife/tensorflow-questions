@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops blocklstmgrad.
 - Write a code to implement a graph neural network (GNN) using BlockLSTM.
 - Write a code to implement a capsule network using BlockLSTM.
 - Write a code to implement a deep Q-network (DQN) using BlockLSTM.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

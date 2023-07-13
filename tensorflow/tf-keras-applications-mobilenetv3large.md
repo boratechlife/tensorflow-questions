@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications mobilenetv3large.
 - Write a code to implement early stopping based on training accuracy during training.
 - Write a code to calculate the AUC-ROC score for the predictions made by the MobileNetV3Large model.
 - Write a code to implement transfer learning with feature extraction using the MobileNetV3Large model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

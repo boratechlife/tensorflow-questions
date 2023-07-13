@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fifoqueuev2.
 - Write a code to find the second largest value in a FIFOQueueV2 object.
 - Write a code to find the second smallest value in a FIFOQueueV2 object.
 - Write a code to calculate the cumulative sum of elements in a FIFOQueueV2 object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers conv1dtranspose.
 - Write a code to create a Conv1DTranspose layer and set the kernel constraint to a min_max_norm constraint with a minimum value of -1.0 and maximum value of 1.0.
 - Write a code to create a Conv1DTranspose layer and set the bias constraint to a unit_norm constraint.
 - Write a code to create a Conv1DTranspose layer and set the padding mode to 'reflect'.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

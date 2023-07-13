@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops decoderaw.
 - How can you handle the check digit of the raw tensor before decoding it with tf.raw_ops.DecodeRaw?
 - Write a code to decode a raw tensor with check digit using tf.raw_ops.DecodeRaw.
 - How can you handle the parity bit of the raw tensor before decoding it with tf.raw_ops.DecodeRaw?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

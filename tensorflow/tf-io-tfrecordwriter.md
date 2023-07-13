@@ -66,3 +66,17 @@ description: Practice questions for tf io tfrecordwriter.
 - Write a code to write examples with multi-modal features to a TFRecord file.
 - Write a code to write examples with multi-resolution images to a TFRecord file.
 - Write a code to write examples with multi-channel images to a TFRecord file.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

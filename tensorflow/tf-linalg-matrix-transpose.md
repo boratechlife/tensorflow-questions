@@ -66,3 +66,17 @@ description: Practice questions for tf linalg matrix transpose.
 - Write a code to transpose a matrix and then calculate the matrix logarithm.
 - Write a code to transpose a matrix and then calculate the matrix square root.
 - Write a code to transpose a matrix and then calculate the matrix sine function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -115,3 +115,17 @@ description: Practice questions for tf io encode proto.
 - Write a code to encode a protocol buffer message and store it in a RedisLabs database using tf.io.encode_proto.
 - 
 - Write a code to encode a protocol buffer message and store it in an Azure Cosmos DB container using tf.io.encode_proto.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

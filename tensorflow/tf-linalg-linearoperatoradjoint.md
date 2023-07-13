@@ -66,3 +66,17 @@ description: Practice questions for tf linalg linearoperatoradjoint.
 - Write a code to calculate the matrix element-wise tangent of a linear operator using tf.linalg.LinearOperatorAdjoint.
 - Write a code to calculate the matrix element-wise hyperbolic cosine of a linear operator using tf.linalg.LinearOperatorAdjoint.
 - Write a code to calculate the matrix element-wise hyperbolic sine of a linear operator using tf.linalg.LinearOperatorAdjoint.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

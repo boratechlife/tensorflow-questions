@@ -66,3 +66,17 @@ description: Practice questions for tf estimator regressionhead.
 - Write a code to create a tf.estimator.EstimatorSpec with custom prediction_hooks using a tf.estimator.RegressionHead instance.
 - Write a code to create a tf.estimator.EstimatorSpec with custom scaffold using a tf.estimator.RegressionHead instance.
 - Write a code to create a tf.estimator.EstimatorSpec with custom host_call using a tf.estimator.RegressionHead instance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

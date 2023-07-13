@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops addv2.
 - Write a code to add two tensors and compute the element-wise mean of the result using tf.raw_ops.AddV2 and tf.reduce_mean.
 - Write a code to add two tensors and concatenate the result along a specific axis using tf.raw_ops.AddV2 and tf.concat.
 - Write a code to add two tensors and stack the result along a new axis using tf.raw_ops.AddV2 and tf.stack.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

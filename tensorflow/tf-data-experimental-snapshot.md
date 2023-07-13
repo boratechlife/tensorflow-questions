@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental snapshot.
 - Write a code to calculate the kurtosis of a specific feature in a TensorFlow dataset snapshot using tf.data.experimental.snapshot.
 - Write a code to calculate the autocorrelation of a specific feature in a TensorFlow dataset snapshot using tf.data.experimental.snapshot.
 - Write a code to calculate the cross-correlation between two features in a TensorFlow dataset snapshot using tf.data.experimental.snapshot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

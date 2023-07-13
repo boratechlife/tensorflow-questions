@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops besselj0.
 - How can you calculate the element-wise multiplication of two Bessel functions J0 using tf.raw_ops.BesselJ0?
 - Write a code to calculate the cumulative maximum of Bessel function J0 using tf.raw_ops.BesselJ0.
 - How can you calculate the cumulative minimum of Bessel function J0 using tf.raw_ops.BesselJ0?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

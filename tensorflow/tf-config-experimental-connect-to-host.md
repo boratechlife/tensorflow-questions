@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental connect to host.
 - Write a code to connect to a remote TensorFlow server and set the experimental_set_rpc_graph_executor_config using tf.config.experimental_connect_to_host.
 - Write a code to connect to a remote TensorFlow server and set the experimental_set_rpc_inference_optimization_config using tf.config.experimental_connect_to_host.
 - Write a code to connect to a remote TensorFlow server and set the experimental_set_rpc_stream_executor_config using tf.config.experimental_connect_to_host.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

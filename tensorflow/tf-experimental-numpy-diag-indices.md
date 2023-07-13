@@ -115,3 +115,17 @@ description: Practice questions for tf experimental numpy diag indices.
 - Write a code to obtain the diagonal indices of a given 11x11 matrix using tf.experimental.numpy.diag_indices.
 - 
 - Write a code to create a 14x14 matrix with the diagonal values as [196, 169, 144, 121, 100, 81, 64, 49, 36, 25, 16, 9, 4, 1] using tf.experimental.numpy.diag_indices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

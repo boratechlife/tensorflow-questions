@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops depthwiseconv2dnativebackpropinpu
 - Write a code to calculate the input gradients for a depthwise convolution with batch normalization using tf.raw_ops.DepthwiseConv2dNativeBackpropInput.
 - Write a code to perform the backpropagation step for input gradients in a depthwise convolution with batch normalization using tf.raw_ops.DepthwiseConv2dNativeBackpropInput.
 - Write a code to compute the gradients of input tensors for a depthwise convolution operation with dropout regularization using tf.raw_ops.DepthwiseConv2dNativeBackpropInput.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

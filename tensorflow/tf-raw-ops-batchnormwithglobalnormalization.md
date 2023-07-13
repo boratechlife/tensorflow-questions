@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchnormwithglobalnormalization.
 - Write a code to apply the calculated gradients to update the scale tensor of tf.raw_ops.BatchNormWithGlobalNormalization.
 - Write a code to apply the calculated gradients to update the offset tensor of tf.raw_ops.BatchNormWithGlobalNormalization.
 - Write a code to apply the calculated gradients to update the variance tensor of tf.raw_ops.BatchNormWithGlobalNormalization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

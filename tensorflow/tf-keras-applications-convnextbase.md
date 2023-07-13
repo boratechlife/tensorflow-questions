@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications convnextbase.
 - Write a code to add an average pooling layer after a specific convolutional layer in the ConvNeXt model.
 - Write a code to add a dense layer with a specified number of units and activation function to the ConvNeXt model.
 - Write a code to set the number of blocks and cardinality for the ConvNeXt model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

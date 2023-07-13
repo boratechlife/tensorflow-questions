@@ -66,3 +66,17 @@ description: Practice questions for tf losses meanabsolutepercentageerror.
 - Write a code to calculate the mean absolute percentage error for a batch of predictions and targets with shape [batch_size, height, width].
 - Write a code to compute the mean absolute percentage error loss between two tensors with shape [batch_size, sequence_length].
 - Write a code to calculate the mean absolute percentage error between a predicted value and a target value with shape [batch_size, height, width, channels].
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

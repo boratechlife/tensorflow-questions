@@ -66,3 +66,17 @@ description: Practice questions for transfer learning.
 - How can transfer learning be applied to computer vision tasks other than image classification?
 - Can transfer learning be used for real-time or online inference scenarios?
 - What are the future research directions in transfer learning?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

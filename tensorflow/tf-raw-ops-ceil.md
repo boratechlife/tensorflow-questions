@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops ceil.
 - How can you apply the ceiling operation to a tensor and compute the maximum value among the rounded values?
 - Write a code to round up the elements of a tensor and return a new tensor with the rounded values repeated a specified number of times.
 - How can you use tf.raw_ops.Ceil to round up the elements of a tensor and compute their minimum value?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

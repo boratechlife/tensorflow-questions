@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image.
 - Write a code to apply a zoom augmentation to an image using tf.keras.preprocessing.image.random_zoom().
 - Write a code to apply a rescaling transformation to an image using tf.keras.preprocessing.image.rescale().
 - Write a code to apply a preprocessing function to a batch of images using tf.keras.preprocessing.image.apply_batch_preprocessing_function().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

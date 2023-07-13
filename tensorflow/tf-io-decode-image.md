@@ -66,3 +66,17 @@ description: Practice questions for tf io decode image.
 - Write a code to decode an image and apply a black hat operation using tf.io.decode_image.
 - Write a code to decode an image and apply a custom image filter using tf.io.decode_image.
 - Write a code to decode an image and apply an image transformation using tf.io.decode_image.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

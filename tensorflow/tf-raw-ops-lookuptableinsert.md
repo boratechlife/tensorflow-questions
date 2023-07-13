@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lookuptableinsert.
 - How can you truncate or clip the values stored in a lookup table to a specified range using tf.raw_ops.LookupTableInsert?
 - Write a code to apply a convolutional operation to the values stored in a lookup table using tf.raw_ops.LookupTableInsert.
 - How can you perform element-wise exponentiation on the values stored in a lookup table using tf.raw_ops.LookupTableInsert?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

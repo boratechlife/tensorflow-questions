@@ -66,3 +66,17 @@ description: Practice questions for tf distribute strategy.
 - Write a code to perform an asynchronous training step in a strategy.
 - Write a code to perform synchronous data parallelism in a strategy.
 - Write a code to perform asynchronous data parallelism in a strategy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

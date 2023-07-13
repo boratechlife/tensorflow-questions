@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils audio dataset from directory.
 - How can you configure the experimental num_parallel_batches option for an audio dataset?
 - Write a code to create an audio dataset that includes the file properties using audio_dataset_from_directory.
 - How can you configure the experimental parallel_map option for an audio dataset?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

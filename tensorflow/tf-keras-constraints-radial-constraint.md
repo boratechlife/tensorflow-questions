@@ -66,3 +66,17 @@ description: Practice questions for tf keras constraints radial constraint.
 - Write a code to apply a radial constraint to specific elements across multiple bias vectors in TensorFlow Keras.
 - Write a code to apply a radial constraint to specific elements across multiple tensors in TensorFlow Keras.
 - Write a code to create a radial constraint that applies a different radius to each element of specific neurons across multiple layers in TensorFlow Keras.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

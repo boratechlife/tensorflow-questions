@@ -66,3 +66,17 @@ description: Practice questions for tf module.
 - Write a code to call the forward method from the call method.
 - Write a code to define a method named summary inside MyModule.
 - Write a code to print a summary of the trainable variables in my_module using the summary method.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

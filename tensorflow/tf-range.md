@@ -66,3 +66,17 @@ description: Practice questions for tf range.
 - Write a code to generate a sequence of numbers from 1 to 100 and calculate their natural logarithm using tf.range, then calculate the sum of the natural logarithms.
 - Write a code to generate a sequence of numbers from 1 to 100 and calculate their binary logarithm using tf.range, then calculate the sum of the binary logarithms.
 - Write a code to generate a sequence of numbers from 1 to 100 and calculate their hyperbolic sine using tf.range, then calculate the sum of the hyperbolic sines.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

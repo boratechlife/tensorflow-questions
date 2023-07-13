@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet rs resnetrs350.
 - Write a code to get the output shape of a specific layer in the ResNetRS350 model.
 - Write a code to add a new layer to the ResNetRS350 model with a specific configuration.
 - Write a code to remove a specific layer from the ResNetRS350 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

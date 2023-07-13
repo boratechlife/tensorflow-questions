@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedconv2d.
 - Write a code to apply quantized 2D convolution to an input tensor using tf.raw_ops.QuantizedConv2D and a specified data format, quantization type, output padding value, and padding scheme.
 - Write a code to perform a quantized 2D convolution with a given input tensor and filter, using a specified quantization type, quantization parameters, activation function, output padding value, and padding algorithm.
 - Write a code to apply quantized 2D convolution to an input tensor using tf.raw_ops.QuantizedConv2D and a specified output shape, output padding value, stride, dilation rate, padding mode, and data format.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

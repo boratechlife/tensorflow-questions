@@ -66,3 +66,17 @@ description: Practice questions for tf io gfile join.
 - Write a code to join a directory path, a list of subdirectory paths, and a filename using tf.io.gfile.join.
 - Write a code to join a list of subdirectory paths, a filename, and a directory path using tf.io.gfile.join.
 - Write a code to join a list of filenames, a directory path, and a subdirectory path using tf.io.gfile.join.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

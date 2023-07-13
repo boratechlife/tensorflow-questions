@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert proper iterable.
 - Write a code to ensure that a dictionary's keys and values are proper iterables, excluding specific keys.
 - Write a code to verify if a TensorFlow SparseTensorValues is a proper iterable using assert_proper_iterable.
 - Write a code to assert that a TensorFlow RaggedTensorSpec is a proper iterable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

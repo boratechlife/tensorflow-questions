@@ -66,3 +66,17 @@ description: Practice questions for tf nn moments.
 - Write a code to calculate the moments of a tensor and calculate the element-wise hyperbolic cosine using tf.nn.moments.
 - Write a code to calculate the mean and variance of a tensor and calculate the element-wise hyperbolic tangent using the calculated statistics using tf.nn.moments.
 - Write a code to calculate the moments of a tensor and calculate the element-wise absolute maximum using tf.nn.moments.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils generatorenqueuer.
 - Write a code to customize the enqueuing process by implementing a custom enqueue_wait function.
 - Write a code to initialize GeneratorEnqueuer with a given generator and set the wait_time and timeout parameters.
 - Write a code to modify the enqueuing thread's behavior by implementing a custom thread_run function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

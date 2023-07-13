@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor fetch layout.
 - Write a code to fetch the layout of multiple tf.experimental.dtensor objects in a list and calculate the sum of their elements.
 - Write a code to fetch the layout of a tf.experimental.dtensor object and calculate the mean of its elements.
 - Write a code to fetch the layout of multiple tf.experimental.dtensor objects in a list and calculate the mean of their elements.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

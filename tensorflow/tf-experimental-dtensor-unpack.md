@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor unpack.
 - Write a code to unpack a tf.experimental.dtensor object and calculate the element-wise exponential differences with another tf.experimental.dtensor object.
 - Write a code to unpack a tf.experimental.dtensor object and calculate the element-wise logarithmic differences with another tf.experimental.dtensor object.
 - Write a code to unpack a tf.experimental.dtensor object and calculate the element-wise reciprocal values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf estimator poissonregressionhead.
 - Write a code to evaluate an Estimator with a PoissonRegressionHead head using a given input function and a specified number of evaluation steps and metrics.
 - Write a code to predict using an Estimator with a PoissonRegressionHead head using a given input function and a specified set of keys and hooks.
 - Write a code to export a saved model from an Estimator with a PoissonRegressionHead head and a specified serving input receiver function and export directory.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

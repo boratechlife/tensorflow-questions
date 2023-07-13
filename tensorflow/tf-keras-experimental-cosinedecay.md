@@ -66,3 +66,17 @@ description: Practice questions for tf keras experimental cosinedecay.
 - Write a code to create a cosine decay learning rate schedule with a decay steps value of 5000 and plot the learning rate values for the first 1000 steps using tf.keras.experimental.CosineDecay.
 - Write a code to create a cosine decay learning rate schedule with a warmup period of 1000 steps and plot the learning rate values for the first 1000 steps using tf.keras.experimental.CosineDecay.
 - Write a code to create a cosine decay learning rate schedule with a minimum learning rate of 0.001 and plot the learning rate values for the first 1000 steps using tf.keras.experimental.CosineDecay.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

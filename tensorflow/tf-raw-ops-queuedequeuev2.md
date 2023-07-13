@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops queuedequeuev2.
 - How can you switch to a backup queue when the timeout occurs while dequeuing from multiple queues simultaneously using tf.raw_ops.QueueDequeueV2?
 - Write a code to dequeue elements from multiple TensorFlow queues simultaneously with a priority order and handle the case when no elements are available in the requested priority order using tf.raw_ops.QueueDequeueV2.
 - How can you handle the case when no elements are available in the requested priority order while dequeuing from multiple queues simultaneously using tf.raw_ops.QueueDequeueV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

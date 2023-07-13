@@ -66,3 +66,17 @@ description: Practice questions for tf nest pack sequence as.
 - Write a code to pack a tuple of tuples of lists of dictionaries using tf.nest.pack_sequence_as.
 - Write a code to pack a tuple of tuples of dictionaries of lists using tf.nest.pack_sequence_as.
 - Write a code to pack a list of tuples of tuples of lists using tf.nest.pack_sequence_as.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

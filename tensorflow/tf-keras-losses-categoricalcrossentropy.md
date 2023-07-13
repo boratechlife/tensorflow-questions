@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses categoricalcrossentropy.
 - Write a code to calculate the categorical cross-entropy loss between two tensors and handle class imbalance.
 - Write a code to calculate the weighted categorical cross-entropy loss using logits and handle class imbalance.
 - Write a code to calculate the categorical cross-entropy loss with label smoothing using logits and handle class imbalance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

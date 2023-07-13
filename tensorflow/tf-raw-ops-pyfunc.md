@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops pyfunc.
 - Write a code to calculate the eigenvalues and eigenvectors of a TensorFlow tensor using tf.raw_ops.PyFunc.
 - Write a code to apply a 2D convolution to a TensorFlow tensor using tf.raw_ops.PyFunc.
 - Write a code to apply a 2D pooling operation to a TensorFlow tensor using tf.raw_ops.PyFunc.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

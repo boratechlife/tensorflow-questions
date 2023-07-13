@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics binary focal crossentropy.
 - Write a code to calculate the binary focal crossentropy loss for a TensorFlow model and compute the Huber loss.
 - Write a code to calculate the binary focal crossentropy loss for a TensorFlow model and compute the Poisson loss.
 - Write a code to calculate the binary focal crossentropy loss for a TensorFlow model and compute the Kullback-Leibler divergence loss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

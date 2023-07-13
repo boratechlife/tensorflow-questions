@@ -66,3 +66,17 @@ description: Practice questions for tf initializers randomuniform.
 - Write a code to initialize a variable weights with a shape of (100, 100, 100, 100, 100) using tf.initializers.RandomUniform with a range from -0.01 to 0.01.
 - Write a code to initialize a 2D tensor inputs of shape (100, 100, 100, 100, 100) using tf.initializers.RandomUniform with a range from 0 to 100.
 - Write a code to initialize a variable weights with a shape of (1000, 1000, 1000, 1000, 1000) using tf.initializers.RandomUniform with a range from -0.5 to 0.5.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

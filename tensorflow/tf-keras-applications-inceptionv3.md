@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications inceptionv3.
 - Write a code to implement transfer learning using the InceptionV3 model and multiple datasets.
 - Write a code to fine-tune the InceptionV3 model using a cyclical learning rate schedule.
 - Write a code to train the InceptionV3 model using mixed precision training for improved performance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

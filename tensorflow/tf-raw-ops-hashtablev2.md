@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops hashtablev2.
 - Write a code to create a HashTableV2 with a specific default value in TensorFlow.
 - Write a code to update the default value of a HashTableV2 in TensorFlow.
 - Write a code to handle collisions in a HashTableV2 in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

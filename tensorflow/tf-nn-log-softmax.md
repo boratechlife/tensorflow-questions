@@ -66,3 +66,17 @@ description: Practice questions for tf nn log softmax.
 - Write a code to apply the log softmax function to a tensor and calculate the log variance of the probabilities.
 - Write a code to compute the log softmax of a tensor and obtain the indices of the top-n percent probabilities.
 - Write a code to compute the log softmax of a tensor and return the log probabilities as a sparse matrix.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

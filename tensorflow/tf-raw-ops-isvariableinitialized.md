@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops isvariableinitialized.
 - Write a code to verify if a TensorFlow variable named "bias" has been initialized, and if not, initialize it with random values from a normal distribution.
 - Write a code to ensure that the variable "my_variable" is initialized, and if not, initialize it with random values from a truncated normal distribution.
 - Write a code to check if a TensorFlow variable named "weights" is initialized, and if not, initialize it with a constant value of 1.0.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

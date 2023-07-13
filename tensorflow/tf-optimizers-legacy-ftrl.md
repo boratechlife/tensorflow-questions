@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers legacy ftrl.
 - Write a code to set the l2_learning_rate_power flag for the Ftrl optimizer.
 - Write a code to get the current l2_learning_rate_power flag of the Ftrl optimizer.
 - Write a code to set the learning_rate_decay_factor flag for the Ftrl optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

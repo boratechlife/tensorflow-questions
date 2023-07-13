@@ -66,3 +66,17 @@ description: Practice questions for tf keras activations deserialize.
 - Write a code to deserialize an activation function using a custom deserialization function that returns a constant value with tf.keras.activations.deserialize.
 - Write a code to deserialize an activation function using a custom deserialization function that modifies the parameters with tf.keras.activations.deserialize.
 - Write a code to deserialize an activation function using a custom deserialization function that performs additional preprocessing with tf.keras.activations.deserialize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

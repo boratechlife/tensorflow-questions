@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy lcm.
 - Write a code to find the LCM of two numbers using the formula: LCM(a, b) = (a * b) / GCD(a, b) and tf.experimental.numpy.lcm.
 - Write a code to calculate the LCM of two numbers using the formula: LCM(a, b) = (a / GCD(a, b)) * b and tf.experimental.numpy.lcm.
 - Write a code to find the LCM of two numbers using prime factorization and tf.experimental.numpy.lcm.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

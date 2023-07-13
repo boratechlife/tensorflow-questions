@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental get memory info.
 - Write a code to analyze the memory usage of a TensorFlow model during training with dropout using tf.config.experimental.get_memory_info.
 - Write a code to compare the memory usage of different TensorFlow models during training with different hardware configurations using tf.config.experimental.get_memory_info.
 - Write a code to log the memory usage of a TensorFlow model during training with different batch normalization settings using tf.config.experimental.get_memory_info.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

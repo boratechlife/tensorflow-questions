@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops debugnancount.
 - Create a code snippet to find the indices of the non-NaN values that are not equal to any value in a given list using tf.raw_ops.DebugNanCount.
 - How can you use tf.raw_ops.DebugNanCount to check if any elements of a TensorFlow tensor are infinite values?
 - Implement a function that takes a TensorFlow tensor as input and returns a new tensor with the non-NaN values rounded to the nearest integer, using tf.raw_ops.DebugNanCount.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

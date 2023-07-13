@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops besselk1.
 - How can you use tf.raw_ops.BesselK1 to calculate the kurtosis of a dataset?
 - Write a code to compute the element-wise hyperbolic tangent of tf.raw_ops.BesselK1.
 - How can you compute the element-wise minimum of tf.raw_ops.BesselK1 with another tensor?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

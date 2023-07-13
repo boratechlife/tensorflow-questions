@@ -66,3 +66,17 @@ description: Practice questions for tf initializers lecun uniform.
 - Write a code to initialize a TensorFlow variable with a specific shape, trainable flag, and synchronization flag using tf.initializers.lecun_uniform.
 - Write a code to initialize a TensorFlow variable with a specific shape, trainable flag, and aggregation method using tf.initializers.lecun_uniform.
 - Write a code to initialize a TensorFlow variable with a specific shape, trainable flag, and colocate_gradients_with_ops flag using tf.initializers.lecun_uniform.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

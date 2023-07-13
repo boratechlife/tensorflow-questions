@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops dataformatvecpermute.
 - Write a code to reverse the order of the last N dimensions in a data format vector using tf.raw_ops.DataFormatVecPermute and a mask.
 - Write a code to swap the first and second dimensions of a data format vector using tf.raw_ops.DataFormatVecPermute and a mask.
 - Write a code to apply a cyclic shift to a specific dimension with a given shift amount in a data format vector using tf.raw_ops.DataFormatVecPermute and a mask.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

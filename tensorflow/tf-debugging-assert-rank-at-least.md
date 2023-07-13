@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert rank at least.
 - Write a code to assert that a given tensor has rank at least 5 and at most 8, with a specific error message.
 - Write a code to assert that a given tensor has rank at least 1 and at most 4, with a specific error message.
 - Write a code to assert that a given tensor has rank at least 0 and at most 3, with a specific error message.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

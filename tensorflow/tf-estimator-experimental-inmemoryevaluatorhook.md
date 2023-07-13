@@ -66,3 +66,17 @@ description: Practice questions for tf estimator experimental inmemoryevaluatorh
 - Write a code to configure the evaluation checkpoint evaluation input function for the InMemoryEvaluatorHook.
 - Write a code to configure the evaluation checkpoint evaluation metrics for the InMemoryEvaluatorHook.
 - Write a code to configure the evaluation checkpoint model directory for the InMemoryEvaluatorHook.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

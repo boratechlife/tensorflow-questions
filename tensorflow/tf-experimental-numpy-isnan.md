@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy isnan.
 - Check if all rows in a 2D NumPy array contain NaN values.
 - Replace NaN values in a Pandas DataFrame with values from a specified series.
 - Check if any column in a 2D NumPy array contains NaN values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops listdataset.
 - Write a code to create a ListDataset from a list of tensors and compute the mean squared error (MSE) between two tensors.
 - Write a code to create a ListDataset from a list of tensors and compute the cross-entropy loss between two tensors.
 - Write a code to create a ListDataset from a list of tensors and apply a custom activation function to each element.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

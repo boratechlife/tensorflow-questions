@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers upsampling2d.
 - Write a code to upsample an image using tf.keras.layers.UpSampling2D and specify the cutoff frequency and sigma parameters for the antialiasing filter.
 - Write a code to upsample a tensor using tf.keras.layers.UpSampling2D and specify the output shape directly.
 - Write a code to upsample an image using tf.keras.layers.UpSampling2D and specify the output shape as a function of the input shape.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

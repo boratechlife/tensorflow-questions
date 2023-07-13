@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers randombrightness.
 - How can you apply the RandomBrightness layer to an image with a specific aspect ratio?
 - Write a code to apply the RandomBrightness layer to an image and preserve the original brightness range.
 - How can you modify the RandomBrightness layer to apply different brightness factors to different regions of an image based on a mask?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

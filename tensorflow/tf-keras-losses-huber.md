@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses huber.
 - Write a code to calculate the Huber loss for a batch of predictions and target values, and apply a momentum value.
 - Write a code to calculate the Huber loss for a batch of predictions and target values, and apply a weight update rule.
 - Write a code to calculate the Huber loss for a batch of predictions and target values, and apply a random seed value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

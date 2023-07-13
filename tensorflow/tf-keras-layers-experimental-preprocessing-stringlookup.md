@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing s
 - Write a code to create a StringLookup layer and set its vocabulary from a given text file.
 - Write a code to create a StringLookup layer and set its vocabulary from a given CSV file.
 - Write a code to create a StringLookup layer and set its vocabulary from a given database table.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

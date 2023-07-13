@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops matrixdiagpart.
 - Write a code to compute the diagonal part of a tensor with a known rank using tf.raw_ops.MatrixDiagPart.
 - 
 - How can you extract the diagonal elements of a tensor with partially known ranks using tf.raw_ops.MatrixDiagPart?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

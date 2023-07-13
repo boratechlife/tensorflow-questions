@@ -66,3 +66,17 @@ description: Practice questions for tf nest map structure.
 - Write a code to remove all empty dictionaries from a given nested tuple using tf.nest.map_structure.
 - Write a code to check if all elements in a given nested dictionary are positive integers using tf.nest.map_structure.
 - Write a code to calculate the sum of all values in a given nested list and ignore any non-numeric values using tf.nest.map_structure.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

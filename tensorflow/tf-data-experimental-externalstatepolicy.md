@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental externalstatepolicy.
 - Write a code to calculate the weighted standard deviation of the elements in the dataset while updating the external state using tf.data.experimental.ExternalStatePolicy.
 - Write a code to calculate the weighted cross-entropy loss between two datasets while keeping track of the external state using tf.data.experimental.ExternalStatePolicy.
 - Write a code to calculate the weighted mean squared error between two datasets while preserving the external state using tf.data.experimental.ExternalStatePolicy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

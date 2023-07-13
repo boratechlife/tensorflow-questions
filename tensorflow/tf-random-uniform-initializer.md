@@ -66,3 +66,17 @@ description: Practice questions for tf random uniform initializer.
 - Write a code to initialize a tensor of shape (12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12) using tf.random_uniform_initializer with a lower bound of 0 and an upper bound of 10.
 - Write a code to create a tf.Variable named "weights" with shape (1200,) and initialize it using tf.random_uniform_initializer with a lower bound of -0.01 and an upper bound of 0.01.
 - Write a code to initialize a bias vector of length 140 using tf.random_uniform_initializer with a lower bound of -0.1 and an upper bound of 0.1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental connect to cluster.
 - Write a code to connect to a cluster using tf.config.experimental_connect_to_cluster and specify the task and server_cert and ca_cert parameters.
 - Write a code to connect to a cluster using tf.config.experimental_connect_to_cluster and specify the task and server_cert, private_key, and ca_cert parameters.
 - Write a code to connect to a cluster using tf.config.experimental_connect_to_cluster and specify the task and rpc_options parameters.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

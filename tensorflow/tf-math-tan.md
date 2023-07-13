@@ -66,3 +66,17 @@ description: Practice questions for tf math tan.
 - Write a code to calculate the tangent of an angle and calculate its cube using tf.math.tan.
 - Write a code to calculate the tangent of an angle and calculate its reciprocal using tf.math.tan.
 - Write a code to calculate the tangent of an angle and calculate its square root using tf.math.tan.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

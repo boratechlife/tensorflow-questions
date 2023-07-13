@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image load img.
 - Write a code to load an image and apply image rotation and shearing using "tf.keras.preprocessing.image.load_img".
 - Write a code to load an image and apply image rotation and flipping using "tf.keras.preprocessing.image.load_img".
 - Write a code to load an image and perform image registration using a specific algorithm using "tf.keras.preprocessing.image.load_img".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

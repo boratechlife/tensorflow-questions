@@ -66,3 +66,17 @@ description: Practice questions for tf nn fixed unigram candidate sampler.
 - Write a code to set the seed18 in the fixed unigram candidate sampler.
 - Write a code to set the seed19 in the fixed unigram candidate sampler.
 - Write a code to set the seed20 in the fixed unigram candidate sampler.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

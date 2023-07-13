@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops initializetable.
 - Write a code to initialize a table with values from a pre-trained autoencoder model using tf.raw_ops.InitializeTable.
 - Write a code to initialize a table with values from a pre-trained deep reinforcement learning model using tf.raw_ops.InitializeTable.
 - Write a code to initialize a table with values from a pre-trained generative adversarial network (GAN) model using tf.raw_ops.InitializeTable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

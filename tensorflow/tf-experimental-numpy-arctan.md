@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy arctan.
 - Write a code to calculate the arctan of each element in a given tensor and calculate the correlation coefficient between the results and another tensor.
 - Write a code to calculate the arctan of each element in a given tensor and calculate the covariance between the results and another tensor.
 - Write a code to calculate the arctan of each element in a given tensor and calculate the dot product between the results and another tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

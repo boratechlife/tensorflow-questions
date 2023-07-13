@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loadtpuembeddingadadeltaparameter
 - Write a code to calculate the element-wise softmax of the TPUEmbeddingAdadelta parameters.
 - How can you calculate the element-wise sigmoid function of the TPUEmbeddingAdadelta parameters?
 - Write a code to calculate the element-wise hyperbolic tangent of the TPUEmbeddingAdadelta parameters.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

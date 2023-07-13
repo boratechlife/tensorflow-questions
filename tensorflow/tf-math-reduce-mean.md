@@ -66,3 +66,17 @@ description: Practice questions for tf math reduce mean.
 - Write a code to calculate the mean of a tensor and compute the element-wise inverse hyperbolic tangent using tf.math.reduce_mean.
 - Write a code to compute the mean of a tensor and calculate the element-wise log-softmax using tf.math.reduce_mean.
 - Write a code to calculate the mean of a tensor and compute the element-wise log-sigmoid using tf.math.reduce_mean.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

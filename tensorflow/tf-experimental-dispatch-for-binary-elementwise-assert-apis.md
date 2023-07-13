@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dispatch for binary elementw
 - Write a code to compute the element-wise maximum between a tensor, a scalar, and another tensor using "tf.experimental.dispatch_for_binary_elementwise_assert_apis".
 - Write a code to compute the element-wise minimum between a tensor, a scalar, and another tensor using "tf.experimental.dispatch_for_binary_elementwise_assert_apis".
 - Write a code to compute the element-wise multiplication of two tensors, add a scalar, and subtract another tensor using "tf.experimental.dispatch_for_binary_elementwise_assert_apis".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

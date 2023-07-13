@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops igammagrada.
 - Implement a function that uses tf.raw_ops.IgammaGradA to compute the derivative of the incomplete gamma function for a tensor with specific initialization techniques.
 - How can you apply tf.raw_ops.IgammaGradA to calculate the gradient of the incomplete gamma function for a tensor with variable sequence lengths?
 - Write a code snippet that demonstrates the use of tf.raw_ops.IgammaGradA to compute the derivative of the upper incomplete gamma function for a tensor with random values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

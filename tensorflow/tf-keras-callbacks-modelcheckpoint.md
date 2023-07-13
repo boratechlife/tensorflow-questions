@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks modelcheckpoint.
 - Write a code to create a ModelCheckpoint callback and save the model weights only if the validation loss stops improving.
 - Write a code to create a ModelCheckpoint callback and save the model weights only if the training accuracy stops improving.
 - Write a code to create a ModelCheckpoint callback and save the model weights only if the validation accuracy stops improving.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

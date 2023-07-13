@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers densefeatures.
 - Write a code to create a DenseFeatures layer with a custom layer for feature ranking, selection, similarity calculation, and clustering.
 - Write a code to create a DenseFeatures layer with a custom layer for feature generation, reconstruction, clustering, and classification.
 - Write a code to create a DenseFeatures layer with a custom layer for feature transformation, selection, encoding, embedding, and classification.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

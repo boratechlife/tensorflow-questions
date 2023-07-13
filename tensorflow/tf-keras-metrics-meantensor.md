@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics meantensor.
 - Write a code to calculate the mean tensor value for a batch of predictions and targets, weighted by a user-defined weight tensor, excluding certain classes, and excluding certain data points.
 - Write a code to update the MeanTensor metric with a batch of predictions, targets, and sample weights, weighted by a user-defined weight tensor, excluding certain classes, and excluding certain data points.
 - Write a code to calculate the mean tensor value for a batch of predictions and targets, weighted by a user-defined weight tensor, excluding certain classes, and excluding certain data points.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

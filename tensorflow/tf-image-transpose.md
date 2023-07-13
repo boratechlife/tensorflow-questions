@@ -66,3 +66,17 @@ description: Practice questions for tf image transpose.
 - Write a code to transpose the height dimension with the color channels and width dimension of a batch of images while maintaining other dimensions and changing the color order using tf.image.transpose.
 - Write a code to transpose the color channels and width dimension with the height dimension of a given image while maintaining other dimensions and changing the color order using tf.image.transpose.
 - Write a code to transpose the color channels and width dimension with the height dimension of a batch of images while maintaining other dimensions and changing the color order using tf.image.transpose.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

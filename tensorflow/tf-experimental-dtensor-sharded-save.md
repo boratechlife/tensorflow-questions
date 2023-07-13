@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor sharded save.
 - How to save a dtensor object with a specific shard cache drop policy using sharded_save?
 - Write a code to save a dtensor object with a specified shard cache seed using sharded_save.
 - How to save a dtensor object with a specific shard cache metadata using sharded_save?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

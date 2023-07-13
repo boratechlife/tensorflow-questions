@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils pack x y sample weight.
 - Write a code to pack the inputs x and y along with their corresponding sample weights, and handle the case where x is a sparse matrix and y is a 1D array.
 - In a multi-class classification task, y contains labels encoded as integers. Write a code to pack the inputs x and y along with their corresponding sample weights, where the sample weights are calculated based on the inverse of the class probabilities using a pre-trained model.
 - Write a code to pack the inputs x and y along with their corresponding sample weights, and handle the case where the sample weights are provided as a dictionary with sample indices as keys and weight values as values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

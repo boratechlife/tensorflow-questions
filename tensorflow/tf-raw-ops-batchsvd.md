@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchsvd.
 - Write a code to calculate the matrix logarithmic integral of a batch of matrices using tf.raw_ops.BatchSvd.
 - How can you use tf.raw_ops.BatchSvd to compute the matrix cosine integral of a batch of matrices?
 - Write a code to calculate the matrix sine integral of a batch of matrices using tf.raw_ops.BatchSvd.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

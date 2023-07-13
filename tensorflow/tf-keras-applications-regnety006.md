@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnety006.
 - Write a code to calculate the F1 score of the RegNetY006 model on a given test dataset.
 - Write a code to calculate the mean squared error (MSE) loss of the RegNetY006 model on a given test dataset.
 - Write a code to calculate the mean absolute error (MAE) loss of the RegNetY006 model on a given test dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

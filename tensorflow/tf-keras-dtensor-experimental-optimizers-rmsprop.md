@@ -66,3 +66,17 @@ description: Practice questions for tf keras dtensor experimental optimizers rms
 - Write a code to set the learning rate schedule of an existing RMSprop optimizer to a staircase learning rate schedule.
 - Write a code to set the learning rate schedule of an existing RMSprop optimizer to a cosine decay restarts schedule.
 - Write a code to set the learning rate schedule of an existing RMSprop optimizer to a custom learning rate callback.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

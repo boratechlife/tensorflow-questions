@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental service shardingpolicy.
 - Write a code to set the shard weighted rank ratio bounds in a ShardingPolicy object.
 - Write a code to get the shard weighted rank ratio bounds from a ShardingPolicy object.
 - Write a code to set the shard weighted rank size ratio bounds in a ShardingPolicy object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

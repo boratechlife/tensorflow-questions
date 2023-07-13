@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops enqueuetpuembeddingraggedtensorba
 - Write a code to enqueue a batch of RaggedTensor objects and specify the learning rate decay steps for the embedding updates using tf.raw_ops.EnqueueTPUEmbeddingRaggedTensorBatch.
 - Write a code to enqueue a batch of RaggedTensor objects and set the gradient accumulation steps for the embedding updates using tf.raw_ops.EnqueueTPUEmbeddingRaggedTensorBatch.
 - Write a code to enqueue a batch of RaggedTensor objects and specify the checkpoint path for the embedding updates using tf.raw_ops.EnqueueTPUEmbeddingRaggedTensorBatch.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

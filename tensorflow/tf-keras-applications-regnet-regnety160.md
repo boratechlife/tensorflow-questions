@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnet regnety160.
 - Write a code to compute the F1 score for the predictions made by the RegNetY160 model.
 - Write a code to plot the training and validation loss curves for the RegNetY160 model.
 - Write a code to plot the confusion matrix for the predictions made by the RegNetY160 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

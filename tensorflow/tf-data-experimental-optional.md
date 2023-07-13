@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental optional.
 - Write a code to convert an optional dataset to a list of tensors using tf.data.experimental.Optional.
 - Write a code to create a dataset with a default value for missing elements using tf.data.experimental.Optional.
 - Write a code to create a dataset with a placeholder value for missing elements using tf.data.experimental.Optional.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

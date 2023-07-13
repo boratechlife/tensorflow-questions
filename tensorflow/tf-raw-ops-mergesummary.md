@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mergesummary.
 - How can you merge summaries from different TensorFlow runs with different plugins using tf.raw_ops.MergeSummary?
 - Write a code to merge summaries with different shapes and data types using tf.raw_ops.MergeSummary.
 - How can you merge summaries from different TensorFlow event files into a single summary tensor with customized metadata, step numbers, namespaces, plugins, summary versions, summary collections, shapes, and data types using tf.raw_ops.MergeSummary?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

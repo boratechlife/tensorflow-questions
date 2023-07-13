@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers separableconvolution2d.
 - Write a code to add a SeparableConvolution2D layer with 64 filters and a kernel size of (3, 3) to a model, followed by a tf.keras.layers.SeparableConv2D layer with a pointwise_regularizer of a non-negative constraint.
 - Write a code to create a SeparableConvolution2D layer with 128 filters and a kernel size of (3, 3), and set the pointwise_initializer and depthwise_constraint to different initializers/constraints.
 - Write a code to add a SeparableConvolution2D layer with 32 filters and a kernel size of (3, 3) to a model, followed by a tf.keras.layers.DepthwiseConv2D layer with a padding of 'valid' and a depth multiplier of 3.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

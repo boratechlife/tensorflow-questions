@@ -66,3 +66,17 @@ description: Practice questions for tf nn selu.
 - Write a code to apply the SELU activation function to a tensor and scale the output using a specific alpha value in TensorFlow.
 - Write a code to implement a 3D convolutional layer with SELU activation in TensorFlow.
 - Write a code to calculate the average absolute activation of a SELU layer in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

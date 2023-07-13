@@ -115,3 +115,17 @@ description: Practice questions for tf experimental numpy broadcast to.
 - Write a code to create a 2D array of shape (3, 4) and broadcast it to shape (3, 4, 4, 4).
 - 
 - Write a code to create a 1D array of shape (2,) and broadcast it to shape (2, 3, 2, 2).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

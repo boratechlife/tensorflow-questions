@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers spatialdropout1d.
 - Write a code to create a model with a SpatialDropout1D layer followed by a sequence-to-sequence recurrent layer.
 - Write a code to add a SpatialDropout1D layer with a dropout rate of 0.9 after a recurrent dropout layer.
 - Write a code to create a model with a SpatialDropout1D layer followed by a 2D convolutional layer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

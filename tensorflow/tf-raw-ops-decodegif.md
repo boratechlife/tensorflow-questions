@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops decodegif.
 - How can you extract the color histogram of each frame in a GIF using tf.raw_ops.DecodeGif?
 - Write a code to create a GIF from a series of text strings using tf.raw_ops.DecodeGif.
 - How can you extract the frame index of the largest image in a decoded GIF using tf.raw_ops.DecodeGif?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

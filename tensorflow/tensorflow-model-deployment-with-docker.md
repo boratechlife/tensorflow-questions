@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are some tools and frameworks for visualizing and analyzing the performance of TensorFlow model deployments with Docker?
 - Explain the concept of distributed TensorFlow and its implications for model deployment with Docker.
 - How can you deploy TensorFlow models with Docker in hybrid cloud environments?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

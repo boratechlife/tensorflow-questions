@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers adamw.
 - Write a code to get the learning rate of an existing AdamW optimizer with AMSGrad in TensorFlow.
 - Write a code to get the weight decay of an existing AdamW optimizer with AMSGrad in TensorFlow.
 - Write a code to create an instance of the AdamW optimizer with a custom learning rate, weight decay, AMSGrad, and a custom learning rate schedule in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

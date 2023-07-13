@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops histogramfixedwidth.
 - Write a code to calculate the histogram using tf.raw_ops.HistogramFixedWidth and specify the histogram type.
 - Write a code to calculate the histogram using tf.raw_ops.HistogramFixedWidth and specify the value range mode for the input tensor.
 - Write a code to calculate the histogram using tf.raw_ops.HistogramFixedWidth and specify the value range mode for the bin edges tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

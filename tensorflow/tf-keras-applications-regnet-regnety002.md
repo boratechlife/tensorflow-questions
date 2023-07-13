@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnet regnety002.
 - Write a code to set a specific pooling type for the pooling layers in RegNetY002.
 - Write a code to set a specific stride value for the convolutional layers in RegNetY002.
 - Write a code to set a specific weight initialization scheme for RegNetY002.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

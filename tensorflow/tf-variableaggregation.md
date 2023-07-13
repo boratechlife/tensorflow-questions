@@ -66,3 +66,17 @@ description: Practice questions for tf variableaggregation.
 - Write a code to calculate the Frobenius norm of a TensorFlow variable.
 - Write a code to calculate the mean squared error between two TensorFlow variables.
 - Write a code to calculate the cosine similarity between two TensorFlow variables.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

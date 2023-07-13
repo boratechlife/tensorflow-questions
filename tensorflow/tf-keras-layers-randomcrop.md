@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers randomcrop.
 - Write a code to apply a random crop layer that applies a specific preprocessing function to the cropped region to a batch of images.
 - Write a code to create a random crop layer that applies multiple preprocessing functions to the cropped region using tf.keras.layers.RandomCrop.
 - Write a code to apply a random crop layer that applies multiple preprocessing functions to the cropped region to an input image.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

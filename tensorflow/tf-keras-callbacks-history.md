@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks history.
 - Write a code to set a callback to log the layer-wise activations during training in tf.keras.callbacks.History.
 - Write a code to set a callback to log the model's predictions on a batch of training data during training in tf.keras.callbacks.History.
 - Write a code to set a callback to log the training and validation losses using custom metrics in tf.keras.callbacks.History.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops nonmaxsuppressionv3.
 - How can you set the input format for semantic segmentation maps (e.g., pixel-wise labels) when using tf.raw_ops.NonMaxSuppressionV3?
 - Write a code to perform non-maximum suppression and return the selected bounding boxes as well as the corresponding segmentation maps using tf.raw_ops.NonMaxSuppressionV3.
 - How can you handle non-maximum suppression with semantic segmentation maps when using tf.raw_ops.NonMaxSuppressionV3?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

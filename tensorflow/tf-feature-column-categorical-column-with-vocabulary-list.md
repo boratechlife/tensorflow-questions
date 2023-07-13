@@ -66,3 +66,17 @@ description: Practice questions for tf feature column categorical column with vo
 - How can you create an embedding column from a sequence categorical column with hash buckets using tf.feature_column.embedding_column and tf.feature_column.sequence_categorical_column_with_hash_bucket?
 - Write a code to create an embedding column from a sequence categorical column named category_seq with 50 hash buckets using tf.feature_column.embedding_column and tf.feature_column.sequence_categorical_column_with_hash_bucket.
 - How can you create a weighted sequence categorical column from a sequence categorical column with vocabulary using tf.feature_column.weighted_sequence_categorical_column and tf.feature_column.sequence_categorical_column_with_vocabulary_list?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

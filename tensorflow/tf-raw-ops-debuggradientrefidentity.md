@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops debuggradientrefidentity.
 - Write a code to measure the memory usage of tf.raw_ops.DebugGradientRefIdentity operation.
 - Write a code to identify the effect of different learning rate schedules on the gradient reference identity using tf.raw_ops.DebugGradientRefIdentity.
 - Write a code to analyze the impact of different model architectures on the gradient reference identity using tf.raw_ops.DebugGradientRefIdentity.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

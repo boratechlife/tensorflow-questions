@@ -66,3 +66,17 @@ description: Practice questions for tf math unsorted segment mean.
 - Write a code to calculate the mean of segments in a tensor using segment IDs provided as a tensor of heights using tf.math.unsorted_segment_mean.
 - Write a code to calculate the mean of segments in a tensor using segment IDs provided as a tensor of ages using tf.math.unsorted_segment_mean.
 - Write a code to calculate the mean of segments in a tensor using segment IDs provided as a tensor of scores using tf.math.unsorted_segment_mean.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

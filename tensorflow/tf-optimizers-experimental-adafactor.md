@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers experimental adafactor.
 - Write a code to get the memory size regularization of an Adafactor optimizer.
 - Write a code to set the memory size regularization of an Adafactor optimizer.
 - Write a code to get the regularization loss of an Adafactor optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

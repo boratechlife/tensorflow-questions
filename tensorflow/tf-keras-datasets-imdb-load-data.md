@@ -66,3 +66,17 @@ description: Practice questions for tf keras datasets imdb load data.
 - Write a code to load the IMDB movie review dataset and perform sentiment analysis using a pre-trained language model.
 - Write a code to load the IMDB movie review dataset and calculate the accuracy, precision, recall, and F1 score of a sentiment analysis model.
 - Write a code to load the IMDB movie review dataset and plot the learning curves of a deep learning model during training.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

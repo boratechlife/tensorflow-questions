@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maxpoolwithargmax.
 - How can you perform max pooling with argmax operation with multiple strides using TensorFlow's "tf.raw_ops.MaxPoolWithArgmax" operation?
 - Write a code to apply max pooling with argmax on a time-series data using TensorFlow's "tf.raw_ops.MaxPoolWithArgmax" operation.
 - How can you implement a max pooling with argmax operation with different pooling regions for each channel using TensorFlow's "tf.raw_ops.MaxPoolWithArgmax" operation?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

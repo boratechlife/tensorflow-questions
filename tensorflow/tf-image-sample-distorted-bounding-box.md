@@ -66,3 +66,17 @@ description: Practice questions for tf image sample distorted bounding box.
 - Write a code to specify the random_seed parameter when using tf.image.sample_distorted_bounding_box.
 - Write a code to apply the tf.image.sample_distorted_bounding_box function with different parameters for each image, bounding box, mask tensor, and random seed generated in a batch.
 - Write a code to obtain the cropped and resized images as well as the corresponding mask tensors and bounding box coordinates using tf.image.sample_distorted_bounding_box for a batch of images with different parameters, including random_seed.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

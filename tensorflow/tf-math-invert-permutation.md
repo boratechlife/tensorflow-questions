@@ -66,3 +66,17 @@ description: Practice questions for tf math invert permutation.
 - Write a code to find the average of all elements in a permutation using tf.math.invert_permutation.
 - Write a code to find the standard deviation of all elements in a permutation using tf.math.invert_permutation.
 - Write a code to find the variance of all elements in a permutation using tf.math.invert_permutation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

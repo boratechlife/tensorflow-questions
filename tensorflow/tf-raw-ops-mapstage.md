@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mapstage.
 - Write a code to set the gradient function input arg handles for a MapStage operation.
 - Write a code to set the gradient function input types for a MapStage operation.
 - Write a code to set the gradient function input shapes for a MapStage operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

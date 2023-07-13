@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentaliteratorgetdevice.
 - How can you access the device of an experimental iterator in TensorFlow using tf.raw_ops.ExperimentalIteratorGetDevice? Provide a code snippet.
 - Provide a code snippet that demonstrates the usage of tf.raw_ops.ExperimentalIteratorGetDevice to get the device of an experimental iterator.
 - Write a code to retrieve the device details of an experimental iterator by utilizing tf.raw_ops.ExperimentalIteratorGetDevice.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

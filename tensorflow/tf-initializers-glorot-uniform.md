@@ -66,3 +66,17 @@ description: Practice questions for tf initializers glorot uniform.
 - Write a code to initialize a tensor and set the gain value using tf.initializers.glorot_uniform.
 - Write a code to initialize a tensor and set the mode and scale using tf.initializers.glorot_uniform.
 - Write a code to initialize a tensor and set the partition_strategy using tf.initializers.glorot_uniform.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras regularizers serialize.
 - How can you load a serialized regularizer from a TensorFlow Hub format in TensorFlow Keras?
 - Write a code to serialize a regularizer and convert it to a TensorFlow Extended (TFX) format.
 - How can you load a serialized regularizer from a TensorFlow Extended (TFX) format in TensorFlow Keras?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

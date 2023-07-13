@@ -66,3 +66,17 @@ description: Practice questions for tf linalg linearoperatorlowrankupdate.
 - Write a code to calculate the matrix hyperbolic tangent of a low-rank operator using the matrix exponential.
 - Write a code to calculate the matrix hyperbolic cotangent of a low-rank operator using the matrix exponential.
 - Write a code to calculate the matrix hyperbolic secant of a low-rank operator using the matrix exponential.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

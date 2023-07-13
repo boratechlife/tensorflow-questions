@@ -66,3 +66,17 @@ description: Practice questions for tf config physicaldevice.
 - Write a code to get the maximum surface width of a specific GPU device.
 - Write a code to get the maximum surface height of a specific GPU device.
 - Write a code to get the maximum surface depth of a specific GPU device.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

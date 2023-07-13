@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops abort.
 - Write a code to catch the exception raised by the tf.raw_ops.Abort operation and perform a specific recovery action.
 - Write a code to pass a specific error code and a dictionary as the error message to the tf.raw_ops.Abort operation.
 - Write a code to handle the exception raised by the tf.raw_ops.Abort operation and send a notification to a monitoring system.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops decodeprotov2.
 - How can you decode a protocol buffer message and handle errors with optional fields and missing required fields using "tf.raw_ops.DecodeProtoV2"?
 - Write a code to decode a protocol buffer message and handle errors with optional fields and repeated fields using "tf.raw_ops.DecodeProtoV2".
 - How can you decode a protocol buffer message and handle errors with optional fields and unknown fields using "tf.raw_ops.DecodeProtoV2"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

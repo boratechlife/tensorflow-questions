@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops oneshotiterator.
 - Write a code to create a one-shot iterator and calculate the element-wise softmax values using tf.raw_ops.OneShotIterator.
 - Write a code to create a one-shot iterator and calculate the element-wise sigmoid values using tf.raw_ops.OneShotIterator.
 - Write a code to create a one-shot iterator and calculate the element-wise hyperbolic tangent values using tf.raw_ops.OneShotIterator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

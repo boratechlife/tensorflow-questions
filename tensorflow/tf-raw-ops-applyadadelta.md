@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops applyadadelta.
 - Write a code to compute the variable update using Adadelta optimization with "tf.raw_ops.ApplyAdadelta."
 - Write a code to update the variable accumulator using Adadelta optimization with "tf.raw_ops.ApplyAdadelta."
 - Write a code to apply Adadelta optimization with a given learning rate, decay factor, and epsilon using "tf.raw_ops.ApplyAdadelta."
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

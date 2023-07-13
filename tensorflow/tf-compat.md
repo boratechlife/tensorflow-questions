@@ -66,3 +66,17 @@ description: Practice questions for tf compat.
 - Write a code to calculate the element-wise inverse of a TensorFlow tensor using "tf.compat.v1.reciprocal()".
 - Write a code to calculate the element-wise power of a TensorFlow tensor using "tf.compat.v1.pow()".
 - Write a code to calculate the element-wise greater than comparison between two TensorFlow tensors using "tf.compat.v1.greater()".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

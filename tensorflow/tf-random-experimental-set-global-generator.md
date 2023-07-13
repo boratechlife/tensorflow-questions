@@ -66,3 +66,17 @@ description: Practice questions for tf random experimental set global generator.
 - Write a code to generate a random tensor with a given shape and a gamma distribution using a non-default random number generator.
 - Write a code to generate a random tensor with a given shape and a Poisson distribution using a non-default random number generator.
 - Write a code to generate a random tensor with a given shape and an exponential distribution using a non-default random number generator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

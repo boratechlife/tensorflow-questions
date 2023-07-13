@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental service distribute.
 - Write a code to calculate the standard deviation of elements in a distributed dataset using tf.data.experimental.service.distribute.
 - Write a code to calculate the maximum value of elements in a distributed dataset using tf.data.experimental.service.distribute.
 - Write a code to calculate the minimum value of elements in a distributed dataset using tf.data.experimental.service.distribute.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

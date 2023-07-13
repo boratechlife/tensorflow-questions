@@ -66,3 +66,17 @@ description: Practice questions for tf keras mixed precision global policy.
 - Write a code to set the global policy of TensorFlow's mixed precision to 'float16' with automatic casting disabled.
 - Write a code to set the global policy of TensorFlow's mixed precision to 'bfloat16' with automatic casting disabled.
 - Write a code to set the global policy of TensorFlow's mixed precision to 'mixed_float16_and_bfloat16' with automatic casting disabled.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

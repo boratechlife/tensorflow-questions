@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Describe the role of the TFX SchemaGen component in automatically inferring and validating data schemas.
 - What are the considerations for managing metadata and artifacts in a TFX pipeline?
 - Explain the role of the TFX Pusher component in deploying trained models to serving infrastructure.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

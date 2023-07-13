@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops logsoftmax.
 - Write a code to apply log-softmax activation to the output of a 2D convolutional layer in a neural network using tf.raw_ops.LogSoftmax.
 - Write a code to compute the log-softmax values for a tensor and perform element-wise square root using tf.raw_ops.LogSoftmax.
 - Write a code to calculate the log-softmax probabilities for a tensor with a specific axis using tf.raw_ops.LogSoftmax.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

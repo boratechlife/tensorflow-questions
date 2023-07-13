@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maxpool3d.
 - How can you specify the data format for the output tensor when using tf.raw_ops.MaxPool3D?
 - Write a code to perform a 3D max pooling operation and specify the data format for the output tensor using tf.raw_ops.MaxPool3D.
 - Write a code to apply tf.raw_ops.MaxPool3D on a 3D tensor and return the indices of the k largest values in each pooled region.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy iinfo.
 - Write a code to get the smallest positive normalized value that is less than one, rounded towards zero, of a given data type using tf.experimental.numpy.iinfo.
 - Write a code to get the smallest positive denormalized value, rounded towards zero, of a given data type using tf.experimental.numpy.iinfo.
 - Write a code to get the largest positive denormalized value, rounded towards zero, of a given data type using tf.experimental.numpy.iinfo.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

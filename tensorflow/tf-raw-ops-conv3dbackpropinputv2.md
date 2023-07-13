@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conv3dbackpropinputv2.
 - Implement a function in TensorFlow to calculate the gradient of the input tensor using tf.raw_ops.Conv3DBackpropInputV2.
 - Write a code to perform 3D deconvolution in TensorFlow using tf.raw_ops.Conv3DBackpropInputV2.
 - How can you implement a backward convolutional input operation in TensorFlow using tf.raw_ops.Conv3DBackpropInputV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

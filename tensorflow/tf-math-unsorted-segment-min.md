@@ -66,3 +66,17 @@ description: Practice questions for tf math unsorted segment min.
 - Write a code to calculate the minimum values of each segment in a tensor based on segment IDs, segment labels, segment indices, segment labels, segment IDs, segment labels, and segment indices using tf.math.unsorted_segment_min.
 - Write a code to perform element-wise minimum computation within each segment of a tensor based on segment indices, segment IDs, segment labels, segment indices, segment IDs, segment labels, segment indices, and a specified axis using tf.math.unsorted_segment_min.
 - Write a code to find the minimum values within each segment of a tensor based on segment labels, segment IDs, segment indices, segment labels, segment IDs, segment labels, segment indices, and a specified axis using tf.math.unsorted_segment_min.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

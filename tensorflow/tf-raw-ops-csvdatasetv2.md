@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops csvdatasetv2.
 - Write a code to calculate the R-squared score of a regression model on a CSVDatasetV2 object.
 - Write a code to calculate the precision, recall, and F1 score of a classification model on a CSVDatasetV2 object.
 - Write a code to perform cross-validation on a CSVDatasetV2 object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

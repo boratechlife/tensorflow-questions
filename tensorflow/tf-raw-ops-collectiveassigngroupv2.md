@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectiveassigngroupv2.
 - How can you handle distributed training with tf.raw_ops.CollectiveAssignGroupV2 in the presence of stragglers?
 - Write a code to perform an overlap communication using tf.raw_ops.CollectiveAssignGroupV2.
 - How can you handle version compatibility issues when using tf.raw_ops.CollectiveAssignGroupV2 in a distributed TensorFlow setup?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

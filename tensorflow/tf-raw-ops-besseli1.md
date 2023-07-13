@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops besseli1.
 - Write a code to calculate the mean absolute error between two lists of BesselI1 values.
 - Write a code to calculate the median absolute error between two lists of BesselI1 values.
 - Write a code to calculate the correlation coefficient between two lists of BesselI1 values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

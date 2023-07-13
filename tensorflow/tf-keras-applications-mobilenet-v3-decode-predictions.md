@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications mobilenet v3 decode pr
 - Write a code to use decode_predictions to get the top predictions for multiple images and return the class labels and probabilities as separate CSV files.
 - Write a code to load a pre-trained MobileNetV3 model and use decode_predictions to get the top predictions for multiple images, excluding a specific class.
 - Write a code to use decode_predictions to get the top predictions for multiple images and return the class labels and probabilities as a Pandas DataFrame.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

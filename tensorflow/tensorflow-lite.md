@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Can you run multiple TensorFlow Lite models simultaneously on the same device?
 - What are the key differences between TensorFlow Lite and other lightweight machine learning frameworks?
 - Can you convert a TensorFlow Lite model back to the original TensorFlow format for further training or modification?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

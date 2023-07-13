@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fractionalavgpool.
 - How can you configure the pseudo-random generator seed5 for fractional average pooling using tf.raw_ops.FractionalAvgPool?
 - Write a code to apply fractional average pooling with a pooling factor of 0.1 and the output size set to 5x5.
 - How can you specify the divisor override value for fractional average pooling using tf.raw_ops.FractionalAvgPool?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

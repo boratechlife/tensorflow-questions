@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops dataservicedataset.
 - Write a code to perform feature scaling on the elements in a DataServiceDataset.
 - Write a code to perform dimensionality reduction on the elements in a DataServiceDataset.
 - Write a code to perform hyperparameter tuning on a machine learning model using a DataServiceDataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

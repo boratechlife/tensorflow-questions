@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lookuptableremovev2.
 - Write a code to remove keys from a lookup table and update a PyTorch tensor with the removed values using "tf.raw_ops.LookupTableRemoveV2".
 - Write a code to remove keys from a lookup table and update a PyTorch tensor with the removed keys and values using "tf.raw_ops.LookupTableRemoveV2".
 - Write a code to remove keys from a lookup table and return a TensorFlow tensor with the removed keys and values using "tf.raw_ops.LookupTableRemoveV2".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

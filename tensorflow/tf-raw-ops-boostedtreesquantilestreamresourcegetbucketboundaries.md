@@ -67,3 +67,17 @@ description: Practice questions for tf raw ops boostedtreesquantilestreamresourc
 - Write a code to perform element-wise subtraction with a constant value from the bucket boundaries in a BoostedTreesQuantileStreamResource.
 - Write a code to perform element-wise multiplication by a constant value to the bucket boundaries in a BoostedTreesQuantileStreamResource.
 - Write a code to perform element-wise division by a constant value to the bucket boundaries in a BoostedTreesQuantileStreamResource.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

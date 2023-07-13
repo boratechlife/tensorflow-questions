@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental service register datase
 - How can you specify the iterator name while getting iterator options using tf.data.experimental.service.get_iterator_options?
 - Write a code to get the current state of a registered dataset iterator using tf.data.experimental.service.get_iterator_state.
 - How can you specify the iterator name while getting the iterator state using tf.data.experimental.service.get_iterator_state?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

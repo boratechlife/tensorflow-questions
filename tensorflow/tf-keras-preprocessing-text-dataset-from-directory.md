@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing text dataset from dir
 - Write a code to create a text dataset from a directory, applying a custom function to preprocess the text and labels using a specific seed, subset of classes, shuffling, specifying the label mode, limiting the maximum number of samples, specifying the batch size, specifying the validation split, specifying the maximum vocabulary size, specifying the maximum sequence length, specifying the shuffle buffer size, specifying the encoding for the text files, applying a custom function to filter the samples, and applying a custom function to preprocess the samples and labels using tf.keras.preprocessing.text_dataset_from_directory.
 - Write a code to create a text dataset from a directory, applying a custom function to preprocess the text and labels using a specific seed, subset of classes, shuffling, specifying the label mode, limiting the maximum number of samples, specifying the batch size, specifying the validation split, specifying the maximum vocabulary size, specifying the maximum sequence length, specifying the shuffle buffer size, specifying the encoding for the text files, applying a custom function to filter the samples, applying a custom function to preprocess the samples and labels, and converting the labels to binary one-hot encoding using tf.keras.preprocessing.text_dataset_from_directory.
 - Write a code to create a text dataset from a directory, applying a custom function to preprocess the text and labels using a specific seed, subset of classes, shuffling, specifying the label mode, limiting the maximum number of samples, specifying the batch size, specifying the validation split, specifying the maximum vocabulary size, specifying the maximum sequence length, specifying the shuffle buffer size, specifying the encoding for the text files, applying a custom function to filter the samples, applying a custom function to preprocess the samples and labels, converting the labels to binary one-hot encoding, and specifying the seed for shuffling using tf.keras.preprocessing.text_dataset_from_directory.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

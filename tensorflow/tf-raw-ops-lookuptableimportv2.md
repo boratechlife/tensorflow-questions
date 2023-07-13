@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lookuptableimportv2.
 - How can you calculate the variance of entries along a specific axis in a lookup table using tf.raw_ops.LookupTableImportV2?
 - Write a code to calculate the standard deviation of entries along a specific axis in a lookup table using tf.raw_ops.LookupTableImportV2.
 - How can you perform a lookup operation with a fallback lookup table using tf.raw_ops.LookupTableImportV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

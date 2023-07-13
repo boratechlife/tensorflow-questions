@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers adam.
 - Write a code to train a model using the Adam optimizer and apply learning rate warm-up with constant decay.
 - Write a code to train a model using the Adam optimizer and apply learning rate warm-up with no decay.
 - Write a code to train a model using the Adam optimizer and apply learning rate warm-up with adaptive decay.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

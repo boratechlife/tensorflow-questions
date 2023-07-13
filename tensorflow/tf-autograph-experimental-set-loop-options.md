@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to enable loop interchange using tf.autograph.experimental.set_loop_options.
 - Write a code to disable loop interchange using tf.autograph.experimental.set_loop_options.
 - Write a code to enable loop blocking using tf.autograph.experimental.set_loop_options.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

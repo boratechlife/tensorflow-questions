@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing r
 - Write a code to create a RandomContrast layer and set the seed to a fixed value.
 - Write a code to apply RandomContrast with a contrast factor of 1.1 and a fill mode of "reflect" to an image.
 - Write a code to create a RandomContrast layer and set the interpolation method to "nearest".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops applyadagradv2.
 - Write a code to update the variables with custom gradients, learning rates, accumulators, and weight decay factors using AdagradV2 optimization and tf.raw_ops.ApplyAdagradV2.
 - Write a code to apply AdagradV2 optimization to a tensor with specified gradients, learning rates, accumulators, and weight decay factors using tf.raw_ops.ApplyAdagradV2.
 - Write a code to compute the adaptive learning rate with lookahead in AdagradV2 optimization using tf.raw_ops.ApplyAdagradV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses meansquarederror.
 - Write a code to calculate the mean squared error loss using tf.keras.losses.MeanSquaredError and use it in an autoencoder model.
 - Write a code to calculate the mean squared error loss using tf.keras.losses.MeanSquaredError and handle time-dependent features in a forecasting problem.
 - Write a code to calculate the mean squared error loss using tf.keras.losses.MeanSquaredError and incorporate it in a model that includes custom metrics.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

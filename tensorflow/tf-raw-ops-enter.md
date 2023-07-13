@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops enter.
 - How can you add an "Enter" operation to a TensorFlow graph and retrieve the control dependencies?
 - Write a code to create an "Enter" operation and set the shape of the input tensor using a constant.
 - How can you retrieve the graph collection of the "Enter" operation in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

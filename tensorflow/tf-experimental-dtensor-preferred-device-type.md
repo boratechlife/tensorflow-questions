@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor preferred device typ
 - Write a code to disable memory growth for the first available CPU using tf.experimental.dtensor.preferred_device_type.
 - Write a code to disable memory growth for the current preferred device using tf.experimental.dtensor.preferred_device_type.
 - Write a code to check if memory growth is enabled for a specific device using tf.experimental.dtensor.preferred_device_type.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

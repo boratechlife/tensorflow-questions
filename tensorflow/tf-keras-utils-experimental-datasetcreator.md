@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils experimental datasetcreator.
 - How to create a dataset from a Redis Streams data source using DatasetCreator?
 - Write a code to load and preprocess graph data using DatasetCreator.
 - How to apply graph neural networks to graph data using DatasetCreator?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you perform feature extraction from time series data using deep learning models in TensorFlow?
 - Explain the concept of generative adversarial networks (GANs) in time series analysis using TensorFlow.
 - What are the emerging trends and future directions in time series analysis with TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

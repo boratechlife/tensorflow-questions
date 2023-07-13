@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers discretization.
 - Write a code to create a discretization layer and set the epsilon mode.
 - Write a code to set the epsilon mode of a discretization layer to "scale".
 - Write a code to set the epsilon mode of a discretization layer to "fixed".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

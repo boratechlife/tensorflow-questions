@@ -66,3 +66,17 @@ description: Practice questions for tf lite representativedataset.
 - Write a code to convert the pixel values in the representative examples of a RepresentativeDataset object to a specific data type.
 - Write a code to calculate the percentage of representative examples that satisfy a certain condition.
 - Write a code to calculate the total size in bytes of the representative examples in a RepresentativeDataset object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

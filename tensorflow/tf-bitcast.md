@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to set a specific range of bits in a 32-bit integer to a specific value using tf.bitcast.
 - Write a code to clear a specific range of bits in a 32-bit integer using tf.bitcast.
 - Write a code to toggle a specific range of bits in a 32-bit integer using tf.bitcast.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

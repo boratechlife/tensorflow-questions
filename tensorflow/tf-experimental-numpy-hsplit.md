@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy hsplit.
 - Write a code to split a given 3D NumPy array into three equal parts along the specified axis using tf.experimental.numpy.hsplit.
 - Write a code to split a given 3D NumPy array into three unequal parts along the specified axis using tf.experimental.numpy.hsplit.
 - Write a code to split a given 1D NumPy array into two equal halves along the specified axis using tf.experimental.numpy.hsplit.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

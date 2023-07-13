@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cumsum.
 - How can you compute the cumulative sum of a TensorFlow tensor and calculate the Jaccard similarity with another tensor at each step using tf.raw_ops.Cumsum?
 - Write a code to calculate the cumulative sum of a TensorFlow tensor and find the indices where the values are powers of two at each step using tf.raw_ops.Cumsum.
 - How can you perform the cumulative sum operation on a TensorFlow tensor and calculate the Manhattan distance with another tensor at each step using tf.raw_ops.Cumsum?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

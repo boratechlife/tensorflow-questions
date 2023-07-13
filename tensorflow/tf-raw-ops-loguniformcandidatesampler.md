@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loguniformcandidatesampler.
 - Write a code to sample candidates from a log-uniform distribution and set the device parameter using tf.raw_ops.LogUniformCandidateSampler.
 - Write a code to sample candidates from a log-uniform distribution and specify the dtype of the candidates using tf.raw_ops.LogUniformCandidateSampler.
 - Write a code to sample candidates from a log-uniform distribution and specify the dtype of the log probabilities using tf.raw_ops.LogUniformCandidateSampler.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

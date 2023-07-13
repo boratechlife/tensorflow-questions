@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedreshape.
 - Write a code to reshape a quantized tensor while preserving the quantization parameters, adjusting the scaling factors, zero points, and quantization ranges using tf.raw_ops.QuantizedReshape.
 - Write a code to reshape a quantized tensor with a dynamic target shape determined at runtime, adjust the scaling factors, zero points, and quantization ranges, and preserve the quantization parameters using tf.raw_ops.QuantizedReshape.
 - Write a code to reshape a quantized tensor while adjusting the quantization parameters, preserving the scaling factors, zero points, and quantization ranges, and preserving the quantization parameters using tf.raw_ops.QuantizedReshape.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

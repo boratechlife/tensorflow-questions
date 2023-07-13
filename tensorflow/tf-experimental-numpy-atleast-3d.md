@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy atleast 3d.
 - Write a code to ensure that a given 2D array with shape (14, 14) is represented as a 3D array with shape (14, 14, 1) using tf.experimental.numpy.atleast_3d.
 - Write a code to convert a 1D array with shape (15,) to a 3D array with shape (15, 1, 1) using tf.experimental.numpy.atleast_3d.
 - Write a code to ensure that a given 3D array with shape (9, 9, 9) remains as a 3D array using tf.experimental.numpy.atleast_3d.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

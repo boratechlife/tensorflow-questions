@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Explain the concept of probabilistic graphical models in TensorFlow Probability.
 - What are the available techniques for handling imbalanced data in TensorFlow Probability?
 - How can you incorporate prior knowledge into probabilistic models using TensorFlow Probability?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

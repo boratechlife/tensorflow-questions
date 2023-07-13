@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops isotonicregression.
 - Write a code to perform isotonic regression with a maximum number of iterations, a monotonicity constraint, and a custom weighting scheme using tf.raw_ops.IsotonicRegression.
 - Write a code to calculate the weighted mean absolute deviation of an isotonic regression using tf.raw_ops.IsotonicRegression.
 - Write a code to perform isotonic regression with a maximum number of iterations, a monotonicity constraint, a regularization term, and a custom weighting scheme using tf.raw_ops.IsotonicRegression.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

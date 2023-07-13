@@ -66,3 +66,17 @@ description: Practice questions for tf io serialize tensor.
 - Write a code to decode a serialized TensorFlow tensor from a Feather file using tfio.experimental.feather.deserialize_feather and tf.io.deserialize_tensor.
 - Write a code to serialize a TensorFlow tensor and convert it to an Arrow file using tf.io.serialize_tensor and pyarrow.serialize.
 - Write a code to decode a serialized TensorFlow tensor from an Arrow file using pyarrow.deserialize and tf.io.deserialize_tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

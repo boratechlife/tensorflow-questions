@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers unitnormalization.
 - Write a code to apply UnitNormalization to a specific subset of layers in a neural network model.
 - Write a code to apply UnitNormalization with a specific axis parameter in a neural network model.
 - Write a code to apply UnitNormalization with a specific epsilon parameter in a neural network model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

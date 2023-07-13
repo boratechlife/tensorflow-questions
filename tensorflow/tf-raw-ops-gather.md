@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops gather.
 - How can you use tf.raw_ops.Gather to gather elements from a tensor using sparse index tensors, dynamic gather dimensions, and dynamic batch dimensions with varying values, shapes, and sizes?
 - Write a code to perform a gather operation on a tensor using a gather axis of higher rank, gather dimension, negative index tensor, and dynamic batch dimensions with tf.raw_ops.Gather.
 - How can you use tf.raw_ops.Gather to gather elements from a tensor using a gather axis of higher rank, gather dimension, negative index tensor, and dynamic batch dimensions with varying values, shapes, and sizes?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

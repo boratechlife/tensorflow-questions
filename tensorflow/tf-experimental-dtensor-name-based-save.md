@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor name based save.
 - Write a code to load a TensorFlow dtensor with a specific file access mode using "name_based_save".
 - Write a code to save a TensorFlow dtensor with a custom serialization format using "name_based_save".
 - Write a code to load a TensorFlow dtensor with a custom deserialization format using "name_based_save".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

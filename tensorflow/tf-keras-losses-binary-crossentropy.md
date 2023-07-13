@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses binary crossentropy.
 - Write a code to compute the binary cross-entropy loss for a tensor of predicted probabilities and a tensor of target labels, and ignore a specific class with a custom value for a specific sample using tf.keras.losses.binary_crossentropy.
 - Write a code to compute the binary cross-entropy loss for a tensor of predicted probabilities and a tensor of target labels, and ignore a specific class with a custom value for a specific batch using tf.keras.losses.binary_crossentropy.
 - Write a code to compute the binary cross-entropy loss for a tensor of predicted probabilities and a tensor of target labels, and ignore a specific class with a custom value for a specific sample and batch using tf.keras.losses.binary_crossentropy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

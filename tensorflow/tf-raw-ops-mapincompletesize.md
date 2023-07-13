@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mapincompletesize.
 - Write a code to apply a custom function to each element of a tensor and return the maximum value along a specific axis using tf.raw_ops.MapIncompleteSize.
 - Write a code to calculate the element-wise division of a scalar by a tensor using tf.raw_ops.MapIncompleteSize.
 - Write a code to apply a custom function to each element of a tensor and return the minimum value along a specific axis using tf.raw_ops.MapIncompleteSize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

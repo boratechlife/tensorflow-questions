@@ -66,3 +66,17 @@ description: Practice questions for tf metrics onehotiou.
 - Write a code to calculate the frequency-weighted IoU over a specific threshold using tf.metrics.OneHotIoU.
 - Write a code to calculate the pixel-wise IoU over a specific threshold using tf.metrics.OneHotIoU.
 - Write a code to calculate the top-k IoU over a specific threshold using tf.metrics.OneHotIoU.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops matrixsetdiagv2.
 - Create a code snippet to replace the diagonal elements of a matrix with the absolute difference between two tensors using MatrixSetDiagV2 in TensorFlow.
 - Write a code to set the diagonal elements of a matrix to the element-wise maximum of the diagonal values and a scalar using MatrixSetDiagV2 in TensorFlow.
 - How can you replace the diagonal elements of a matrix with the element-wise minimum of the diagonal values and a scalar using MatrixSetDiagV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf nn local response normalization.
 - Write a code to apply local response normalization and calculate the Euclidean distance between two normalized tensors.
 - Write a code to apply local response normalization and calculate the mean squared error between the normalized tensor and a target tensor.
 - Write a code to apply local response normalization and calculate the accuracy of a classification model using the normalized tensor as input.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

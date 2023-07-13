@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy ptp.
 - Write a code to find the peak-to-peak difference of a subset of elements in a 3D NumPy array excluding positive values and store the result in a variable using "tf.experimental.numpy.ptp".
 - Write a code to calculate the range of values in a 1D NumPy array and return the result using "tf.experimental.numpy.ptp".
 - Write a code to find the peak-to-peak difference of a subset of elements in a 1D NumPy array and return the result using "tf.experimental.numpy.ptp".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

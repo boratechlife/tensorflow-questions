@@ -66,3 +66,17 @@ description: Practice questions for tf io fixedlensequencefeature.
 - Write a code to split a fixed-length sequence into training and test sets using a FixedLenSequenceFeature.
 - Write a code to perform cross-validation on a fixed-length sequence using a FixedLenSequenceFeature.
 - Write a code to train a machine learning model on a fixed-length sequence using a FixedLenSequenceFeature.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

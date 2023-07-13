@@ -66,3 +66,17 @@ description: Practice questions for tf quantization quantized concat.
 - Write a code to concatenate quantized tensors with different data ordering, layout ordering, precision levels, and quantization ranges using tf.quantization.quantized_concat.
 - Write a code to concatenate quantized tensors with different scales, zero-points, quantization ranges, strides, and padding schemes along the batch dimension using tf.quantization.quantized_concat.
 - Write a code to concatenate quantized tensors with different data types, precision levels, data ordering, layout ordering, and channel orders using tf.quantization.quantized_concat.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

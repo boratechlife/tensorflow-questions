@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are the key considerations for data partitioning in TensorFlow Federated?
 - How does TensorFlow Federated handle scenarios with limited client resources, such as memory or processing power?
 - What are some potential future developments and improvements expected in TensorFlow Federated?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

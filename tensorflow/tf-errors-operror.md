@@ -66,3 +66,17 @@ description: Practice questions for tf errors operror.
 - Write a code to handle a tf.errors.OpError by updating a dashboard or monitoring system.
 - Write a code to handle a tf.errors.OpError by adjusting the system configuration.
 - Write a code to handle a tf.errors.OpError by triggering a notification to a support team.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf io raggedfeature valuerowids.
 - Write a code to round each value in the "ValueRowIds" of a "tf.io.RaggedFeature" to a specific decimal place.
 - Write a code to calculate the element-wise product of two "ValueRowIds" arrays from different "tf.io.RaggedFeature" objects.
 - Write a code to calculate the element-wise division of two "ValueRowIds" arrays from different "tf.io.RaggedFeature" objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

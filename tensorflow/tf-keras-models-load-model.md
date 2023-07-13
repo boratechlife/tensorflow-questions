@@ -66,3 +66,17 @@ description: Practice questions for tf keras models load model.
 - How can you load a model and use it for anomaly detection on unlabeled data?
 - Write a code to load a model and perform model quantization for efficient inference.
 - How can you load a model and use it for real-time object detection using TensorFlow's Object Detection API?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras experimental sequencefeatures.
 - Write a code to set the default value of the "timestamps" feature to an empty list in SequenceFeatures.
 - Write a code to set the default value of the "event_time" feature to the current timestamp in SequenceFeatures.
 - Write a code to set the default value of the "created_at" feature to a specific timestamp in SequenceFeatures.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications convnext convnextxlarg
 - Write a code to implement early stopping based on a custom metric during training of the ConvNeXtXLarge model.
 - Write a code to implement a custom callback during training of the ConvNeXtXLarge model.
 - Write a code to visualize the filters of a specific layer in the ConvNeXtXLarge model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

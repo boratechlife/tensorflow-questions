@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental group by reducer.
 - Write a code to calculate the hyperbolic cosine of values in each group using tf.data.experimental.group_by_reducer.
 - Write a code to calculate the hyperbolic tangent of values in each group using tf.data.experimental.group_by_reducer.
 - Write a code to calculate the inverse hyperbolic sine of values in each group using tf.data.experimental.group_by_reducer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

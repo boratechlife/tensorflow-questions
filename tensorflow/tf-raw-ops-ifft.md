@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops ifft.
 - Write a code to calculate the inverse Fourier transform of a real-valued tensor using tf.raw_ops.IFFT and obtain the complex-valued output, replacing any positive values in the real part with zeros.
 - Write a code to perform an inverse fast Fourier transform on a given tensor using tf.raw_ops.IFFT and obtain the element-wise square of the real part.
 - Write a code to calculate the inverse Fourier transform of a complex-valued tensor using tf.raw_ops.IFFT and obtain the element-wise natural logarithm of the exponential.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

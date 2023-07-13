@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers experimental adam.
 - Write a code to disable gradient normalization in an Adam optimizer.
 - Write a code to retrieve the gradient normalization flag from an Adam optimizer.
 - Write a code to set the gradient normalization method in an Adam optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

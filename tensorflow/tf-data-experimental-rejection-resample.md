@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental rejection resample.
 - Write a code to apply rejection resampling on a dataset with class imbalance in a face recognition task.
 - Write a code to apply rejection resampling on a dataset with class imbalance in a natural language generation (NLG) problem.
 - Write a code to apply rejection resampling on a dataset with class imbalance in a speech recognition task.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf constant.
 - Write a code to create a TensorFlow constant with the value 1 and shape (2, 2) using the tf.ones_like function.
 - Write a code to create a TensorFlow constant with the value -1 and shape (3, 3) using the tf.ones_like function.
 - Write a code to create a TensorFlow constant with the value [1, 2, 3] and shape (3,) using the tf.ones_like function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

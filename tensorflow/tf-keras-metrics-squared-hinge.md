@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics squared hinge.
 - Write a code to calculate the squared hinge loss for a set of predictions and targets, where the predictions are similarity scores.
 - Write a code to compute the squared hinge loss for a set of predictions and targets, where the predictions are predicted rankings.
 - Write a code to calculate the squared hinge loss for a set of predictions and targets, where the predictions are binary decisions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

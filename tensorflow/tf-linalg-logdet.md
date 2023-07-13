@@ -115,3 +115,17 @@ description: Practice questions for tf linalg logdet.
 - Write a code to calculate the log determinant of a matrix with shape (n, n) and return the result as a tensor using tf.linalg.logdet.
 - 
 - Write a code to find the log determinant of a symmetric positive definite matrix and return the result as a tensor using the tf.linalg.logdet function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

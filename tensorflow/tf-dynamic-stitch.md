@@ -66,3 +66,17 @@ description: Practice questions for tf dynamic stitch.
 - Write a code to dynamically stitch tensors and handle missing indices with default values using tf.dynamic_stitch.
 - Write a code to merge tensors and handle shape mismatches with default values using tf.dynamic_stitch.
 - Write a code to combine tensors with different dimensions and handle shape inconsistencies using tf.dynamic_stitch.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

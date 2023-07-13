@@ -66,3 +66,17 @@ description: Practice questions for tf keras dtensor experimental layout map sco
 - Write a code to apply a convolution operation to a tensor in a tf.keras.dtensor.experimental.layout_map_scope.
 - Write a code to apply a recurrent operation to a tensor in a tf.keras.dtensor.experimental.layout_map_scope.
 - Write a code to apply a normalization operation to a tensor in a tf.keras.dtensor.experimental.layout_map_scope.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf losses kl divergence.
 - Write a code to calculate the KL divergence between two triangular (non-standard) distributions using tf.losses.kl_divergence.
 - Write a code to calculate the KL divergence between two exponential power distributions using tf.losses.kl_divergence.
 - Write a code to calculate the KL divergence between two generalized Pareto Type II distributions using tf.losses.kl_divergence.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

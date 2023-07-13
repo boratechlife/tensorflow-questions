@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy ix.
 - Write a code to concatenate two arrays along a specified axis using tf.experimental.numpy.ix_.
 - Write a code to reshape an array into a different shape using tf.experimental.numpy.ix_.
 - Write a code to transpose a matrix using tf.experimental.numpy.ix_.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

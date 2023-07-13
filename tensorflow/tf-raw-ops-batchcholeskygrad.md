@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchcholeskygrad.
 - Write a code to compute the gradient of a batch of Cholesky decompositions using TensorFlow raw ops.
 - Write a code to calculate the derivative of a batched Cholesky decomposition using TensorFlow raw ops.
 - Write a code to implement the BatchCholeskyGrad operation for computing the gradient of a batched Cholesky decomposition.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

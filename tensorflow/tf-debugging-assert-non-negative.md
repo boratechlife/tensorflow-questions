@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert non negative.
 - Write a code to assert that a given tensor is non-negative, replacing the negative elements with a specified value and raising a custom exception with a message and the count of the negative elements if it is not using tf.debugging.assert_non_negative.
 - Write a code to assert that all elements of a tensor are non-negative, replacing the negative elements with a specified value and raising a custom exception with a message and the count of any negative element if there is one using tf.debugging.assert_non_negative.
 - Write a code to create a tensor and assert that it is non-negative, replacing the negative elements with zeros and raising a custom exception with a message and the count of the negative elements if it is not using tf.debugging.assert_non_negative.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

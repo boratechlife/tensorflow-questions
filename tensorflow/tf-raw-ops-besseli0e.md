@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops besseli0e.
 - Write a code to calculate the Bessel function of the first kind for a range of orders using tf.raw_ops.BesselI0e.
 - How can you calculate the Bessel function of the first kind using a lookup table with tf.raw_ops.BesselI0e?
 - Write a code to calculate the Bessel function of the first kind for a set of randomly generated input values using tf.raw_ops.BesselI0e.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

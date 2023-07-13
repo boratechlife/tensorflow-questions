@@ -66,3 +66,17 @@ description: Practice questions for tf image adjust gamma.
 - How can you adjust the gamma of an image using a gamma value obtained from a semantic segmentation model in TensorFlow?
 - Write a code to adjust the gamma of an image and apply a sharpening filter afterward.
 - How can you adjust the gamma of an image using a gamma value obtained from a generative adversarial network (GAN) in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

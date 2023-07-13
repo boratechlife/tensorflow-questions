@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to trace a TensorFlow autograph function and analyze the memory alignment within the traced graph.
 - Write a code to trace a TensorFlow autograph function and estimate the impact of different memory layouts on performance.
 - Write a code to trace a TensorFlow autograph function and analyze the impact of different data precisions on execution time.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

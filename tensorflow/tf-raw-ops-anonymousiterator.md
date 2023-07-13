@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops anonymousiterator.
 - Write a code to check if an AnonymousIterator object is compatible with another iterator.
 - Write a code to merge two AnonymousIterator objects.
 - Write a code to split an AnonymousIterator object into multiple iterators.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

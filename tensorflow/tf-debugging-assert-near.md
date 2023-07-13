@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert near.
 - Write a code to assert if two tensors are nearly equal using tf.debugging.assert_near and specify a custom check function that compares only a subset of the tensors based on the magnitude, shape, and rank with a given message and number of decimals.
 - Write a code to assert if two tensors are nearly equal using tf.debugging.assert_near and specify a custom check function that compares only a subset of the tensors based on the magnitude, shape, rank, and tolerance.
 - Write a code to assert if two tensors are nearly equal using tf.debugging.assert_near and specify a custom check function that compares only a subset of the tensors based on the magnitude, shape, rank, and tolerance with a given message.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

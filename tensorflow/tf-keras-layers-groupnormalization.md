@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers groupnormalization.
 - Write a code to create a model with a GroupNormalization layer and apply a specific regularization technique before it.
 - Write a code to create a model with a GroupNormalization layer and apply batch normalization before it.
 - Write a code to create a model with a GroupNormalization layer and apply a specific weight initialization technique.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

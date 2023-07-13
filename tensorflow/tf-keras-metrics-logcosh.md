@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics logcosh.
 - Write a code to calculate the logcosh metric for a music generation task.
 - Write a code to calculate the logcosh metric for a few-shot image segmentation scenario.
 - Write a code to calculate the logcosh metric for a machine translation problem.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

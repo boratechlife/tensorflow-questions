@@ -66,3 +66,17 @@ description: Practice questions for tf linalg linearoperatorcirculant3d.
 - Write a code to compute the matrix power of a batch of 3D circulant linear operators using tf.linalg.LinearOperatorCirculant3D.
 - Write a code to compute the matrix sign function of a batch of 3D circulant linear operators using tf.linalg.LinearOperatorCirculant3D.
 - Write a code to compute the matrix exponential of a batch of scaled 3D circulant linear operators using tf.linalg.LinearOperatorCirculant3D.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

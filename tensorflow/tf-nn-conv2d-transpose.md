@@ -66,3 +66,17 @@ description: Practice questions for tf nn conv2d transpose.
 - Write a code to perform a transpose convolution with a specific output shape and custom dropout rate using tf.nn.conv2d_transpose.
 - Write a code to perform a transpose convolution with a specific output shape and custom regularization method using tf.nn.conv2d_transpose.
 - Write a code to perform a transpose convolution with a specific output shape and custom optimizer using tf.nn.conv2d_transpose.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

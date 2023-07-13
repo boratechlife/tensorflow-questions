@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to calculate the Jacobian matrix of a tensor function with respect to a matrix variable using tf.autodiff.
 - Write a code to compute the Hessian matrix of a tensor function with respect to multiple variables using tf.autodiff.
 - Write a code to compute the directional derivative of a tensor function using tf.autodiff.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

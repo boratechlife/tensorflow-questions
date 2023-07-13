@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics poisson1.
 - Write a code to calculate the Poisson metric for a tensor of predicted and target values, and then reduce it using a specific reduction method with keepdims and multiple axes.
 - Write a code to calculate the Poisson metric for a tensor of predicted and target values, and then reduce it using a weighted reduction method with keepdims and multiple axes.
 - Write a code to calculate the Poisson metric for a tensor of predicted and target values, and then reduce it using a specific reduction method with keepdims and multiple axes, and specifying the dtype of the result.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

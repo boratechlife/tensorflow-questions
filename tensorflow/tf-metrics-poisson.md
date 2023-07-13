@@ -66,3 +66,17 @@ description: Practice questions for tf metrics poisson.
 - Write a code to retrieve the current value of the mean Poisson loss from a tf.metrics.Poisson object after updating with a batch of predictions and a single label.
 - Write a code to reset the state of a tf.metrics.Poisson object after updating with a batch of predictions and a single label and calculating the mean loss.
 - Write a code to calculate the Poisson loss for a single prediction and multiple labels and return the mean loss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

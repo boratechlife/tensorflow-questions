@@ -66,3 +66,17 @@ description: Practice questions for tf metrics mean squared logarithmic error.
 - Write a code to calculate the mean squared logarithmic error between two tensors representing chemical compounds using TensorFlow.
 - Write a code to calculate the mean squared logarithmic error for a multi-modal fusion problem using TensorFlow.
 - Write a code to compute the mean squared logarithmic error between two tensors representing brain imaging data using TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

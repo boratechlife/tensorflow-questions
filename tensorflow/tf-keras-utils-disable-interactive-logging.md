@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils disable interactive logging.
 - How can you filter logs based on a specific log message content while disabling interactive logging in TensorFlow Keras?
 - Write a code to disable interactive logging and redirect the logs to a different logging handler in TensorFlow Keras.
 - How can you redirect the logs to a different logging handler while disabling interactive logging in TensorFlow Keras?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

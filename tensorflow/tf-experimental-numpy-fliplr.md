@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy fliplr.
 - Reverse the order of columns in a 2D array obtained from a PIL image with image transformations using tf.experimental.numpy.fliplr.
 - Reverse the order of columns in a 2D array obtained from a TensorFlow tensor with custom operations using tf.experimental.numpy.fliplr.
 - Reverse the order of columns in a 2D array obtained from a scikit-learn dataset with feature scaling using tf.experimental.numpy.fliplr.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

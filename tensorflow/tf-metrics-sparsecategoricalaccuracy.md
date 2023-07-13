@@ -66,3 +66,17 @@ description: Practice questions for tf metrics sparsecategoricalaccuracy.
 - Write a code to update the accuracy metric for a batch of predictions and sparse labels, considering the top-k predictions, ignoring certain classes, using a specific threshold, specifying the sample weights, and considering the label masking using tf.metrics.SparseCategoricalAccuracy.
 - Write a code to calculate the average accuracy over multiple batches of predictions and sparse labels, considering the top-k predictions, ignoring certain classes, using a specific threshold, specifying the sample weights, and considering the label masking using tf.metrics.SparseCategoricalAccuracy.
 - Write a code to retrieve the total count of false negatives at a given threshold from tf.metrics.SparseCategoricalAccuracy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

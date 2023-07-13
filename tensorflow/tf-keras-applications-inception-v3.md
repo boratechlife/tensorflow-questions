@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications inception v3.
 - Write a code to set the activation function for a specific layer in the InceptionV3 model.
 - Write a code to apply dropout regularization to a specific layer in the InceptionV3 model.
 - Write a code to compute the output of the InceptionV3 model given an input image and a specific layer's name.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf cosh.
 - Write a code to calculate the hyperbolic cosine of each element in a given sequence of video frames represented as a tensor using tf.cosh.
 - Write a code to calculate the hyperbolic cosine of each element in a given sequence of textual embeddings represented as a tensor using tf.cosh.
 - Write a code to calculate the hyperbolic cosine of each element in a given sequence of word vectors represented as a tensor using tf.cosh.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

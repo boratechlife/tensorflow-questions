@@ -46,3 +46,17 @@ description: Practice questions for tf config threading get inter op parallelism
 - Write a code to implement a TensorFlow scheduler that uses multiple clouds, machines, GPUs, CPUs, threads, dependencies between operations, the optimal number of threads, and the availability of resources to run operations in parallel.
 - Write a code to implement a TensorFlow scheduler that uses multiple clouds, machines, GPUs, CPUs, threads, dependencies between operations, the optimal number of threads, the availability of resources, and the cost of resources to run operations in parallel.
 - Write a code to implement a TensorFlow scheduler that uses multiple clouds, machines, GPUs, CPUs, threads, dependencies between operations, the optimal number of threads, the availability of resources, the cost of resources, and the user's preferences to run operations in parallel.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

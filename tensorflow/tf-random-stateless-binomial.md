@@ -66,3 +66,17 @@ description: Practice questions for tf random stateless binomial.
 - Write a code to calculate the log-likelihood of a stateless binomial distribution with n=50 and p=0.7 given a set of observed values.
 - Write a code to generate 50 samples from a stateless binomial distribution with n=100 and p=0.5, and calculate the deviance.
 - Write a code to generate 100 samples from a stateless binomial distribution with n=20 and p=0.3, and calculate the odds ratio.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

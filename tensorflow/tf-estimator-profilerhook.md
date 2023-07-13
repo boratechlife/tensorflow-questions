@@ -66,3 +66,17 @@ description: Practice questions for tf estimator profilerhook.
 - Write a code to create a ProfilerHook and enable TensorFlow device kernel memory operation allocation statistics profiling.
 - Write a code to create a ProfilerHook and enable TensorFlow device kernel memory operation allocation details profiling.
 - Write a code to create a ProfilerHook and enable TensorFlow device kernel memory operation allocation size profiling.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

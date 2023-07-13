@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks remotemonitor.
 - Write a code to set the mode URL for RemoteMonitor callback.
 - Write a code to set the data format URL for RemoteMonitor callback.
 - Write a code to set the update frequency URL for RemoteMonitor callback.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

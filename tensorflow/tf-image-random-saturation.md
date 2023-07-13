@@ -66,3 +66,17 @@ description: Practice questions for tf image random saturation.
 - How can you apply a saturation adjustment to an image using tf.image.random_saturation and vary the adjustment range based on the input image's properties?
 - Write a code to apply a random saturation adjustment to an image and visualize the distribution of saturation values using a histogram plot and tf.image.random_saturation.
 - How can you apply a saturation adjustment to an image using tf.image.random_saturation and ensure that the adjustment is within a specific percentile range for images of different sizes?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

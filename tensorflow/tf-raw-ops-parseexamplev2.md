@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you parse an example with features that have a combined length equal to a specified value using tf.raw_ops.ParseExampleV2?
 - Write a code to parse an example with a feature that has a length greater than the length of another feature using tf.raw_ops.ParseExampleV2.
 - How can you parse an example with features that have a combined length not equal to a specified value using tf.raw_ops.ParseExampleV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

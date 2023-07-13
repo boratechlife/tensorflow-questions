@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops l2loss.
 - Write a code to calculate the L2 loss for a tensor and compute the softmax loss using tf.raw_ops.L2Loss.
 - Write a code to calculate the L2 loss for a tensor and compute the triplet loss using tf.raw_ops.L2Loss.
 - Write a code to calculate the L2 loss for a tensor and compute the sparse categorical cross-entropy loss using tf.raw_ops.L2Loss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

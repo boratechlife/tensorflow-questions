@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy compress.
 - Write a code to exclude specific rows and columns from a 2D array using tf.experimental.numpy.compress.
 - Write a code to implement element-wise rounding on an array using tf.experimental.numpy.compress.
 - Write a code to apply a filter based on a set of values using tf.experimental.numpy.compress.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

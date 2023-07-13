@@ -66,3 +66,17 @@ description: Practice questions for tf nn embedding lookup.
 - Write a code to perform an embedding lookup and apply a machine translation model using tf.nn.embedding_lookup.
 - Write a code to perform an embedding lookup and apply a named entity recognition model using tf.nn.embedding_lookup.
 - Write a code to perform an embedding lookup and apply a text classification model using tf.nn.embedding_lookup.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

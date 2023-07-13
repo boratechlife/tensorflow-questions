@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnet regnetx064.
 - Write a code to implement gradual unfreezing of layers during transfer learning with the RegNetX064 model.
 - Write a code to implement mixed-precision training with the RegNetX064 model.
 - Write a code to implement early stopping based on a combination of training and validation metrics during training of the RegNetX064 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

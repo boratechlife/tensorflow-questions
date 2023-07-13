@@ -66,3 +66,17 @@ description: Practice questions for tf estimator linearregressor.
 - Write a code to set the model weight column for a tf.estimator.LinearRegressor.
 - Write a code to get the model weight column of a tf.estimator.LinearRegressor.
 - Write a code to set the model name for a tf.estimator.LinearRegressor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cudnnrnnbackpropv2.
 - Write a code to demonstrate the usage of the is_reverse parameter in tf.raw_ops.CudnnRNNBackpropV2.
 - How can you utilize the time_major parameter in tf.raw_ops.CudnnRNNBackpropV2 to control the shape of input and output tensors? Provide a code snippet.
 - Write a code to set the reserve_space_size_in_bytes_input parameter to a specific value in tf.raw_ops.CudnnRNNBackpropV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

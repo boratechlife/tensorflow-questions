@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops broadcastto.
 - Write a code to broadcast a tensor x to a shape (10,) using tf.raw_ops.BroadcastTo.
 - 
 - Write a code to broadcast a tensor x to a shape (4, 4) using tf.raw_ops.BroadcastTo.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

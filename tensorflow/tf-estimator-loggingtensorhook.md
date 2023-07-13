@@ -66,3 +66,17 @@ description: Practice questions for tf estimator loggingtensorhook.
 - Write a code to create a LoggingTensorHook that logs tensors every 1000 steps and logs only tensors that are Eager tensors.
 - Write a code to create a LoggingTensorHook that logs tensors every 200 steps and logs only tensors that are symbolic tensors.
 - Write a code to create a LoggingTensorHook that logs tensors every 500 steps and logs only tensors that are sparse tensor indices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

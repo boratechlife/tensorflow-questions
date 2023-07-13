@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental valuecontext.
 - Write a code to create a new ValueContext object and set its value as a copy of the parent ValueContext object.
 - Write a code to create a new ValueContext object and set its value as a copy of the child ValueContext object.
 - Write a code to create a new ValueContext object and set its value as a copy of a specific ValueContext object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

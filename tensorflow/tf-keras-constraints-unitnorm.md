@@ -66,3 +66,17 @@ description: Practice questions for tf keras constraints unitnorm.
 - Write a code to apply unit norm constraint to the weights of a specific layer in a neural network using tf.keras.constraints.UnitNorm and set the axis and rate parameters dynamically based on variables.
 - Write a code to apply unit norm constraint to a specific layer in a neural network using tf.keras.constraints.UnitNorm and set the rate parameter based on a callback function.
 - Write a code to apply unit norm constraint to the weights of a specific layer in a neural network using tf.keras.constraints.UnitNorm and set the axis parameter based on a configuration file.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

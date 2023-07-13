@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops iteratorgetnext.
 - Write a code to apply a median filter to the next image fetched using tf.raw_ops.IteratorGetNext.
 - Write a code to extract specific elements from a tensor obtained using tf.raw_ops.IteratorGetNext.
 - Write a code to compute the Frobenius norm of a matrix obtained from tf.raw_ops.IteratorGetNext.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

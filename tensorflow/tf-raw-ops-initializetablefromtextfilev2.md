@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops initializetablefromtextfilev2.
 - How can you handle the case where the text file contains header information while initializing the table using tf.raw_ops.InitializeTableFromTextFileV2?
 - Write a code to specify the column's data type for a specific column name while initializing a table from a text file using tf.raw_ops.InitializeTableFromTextFileV2.
 - How can you handle the case where a column contains missing values while initializing a table from a text file using tf.raw_ops.InitializeTableFromTextFileV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

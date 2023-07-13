@@ -66,3 +66,17 @@ description: Practice questions for tf math maximum.
 - Write a code to calculate the element-wise maximum of a tensor and a constant scalar value, broadcasting to a common shape, and return the result as a new tensor, ignoring NaN values and replacing NaN values with a default value using tf.math.maximum.
 - Write a code to find the maximum value in each channel of an image tensor and its corresponding indices, ignoring NaN values using tf.math.maximum.
 - Write a code to find the maximum value among a list of tensors element-wise, ignoring NaN values and replacing NaN values with a default value using tf.math.maximum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

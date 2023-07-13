@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops outfeeddequeuetuple.
 - How can you calculate the element-wise minimum between two dequeued tuples?
 - Write a code to calculate the element-wise absolute difference between two dequeued tuples.
 - How can you calculate the element-wise power of the dequeued tuple to a given exponent?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

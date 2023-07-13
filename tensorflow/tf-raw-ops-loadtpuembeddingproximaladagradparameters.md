@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loadtpuembeddingproximaladagradpa
 - How can you handle parameter loading for models with dynamic or varying architecture using tf.raw_ops.LoadTPUEmbeddingProximalAdagradParameters?
 - Can you explain how tf.raw_ops.LoadTPUEmbeddingProximalAdagradParameters handles distributed file systems or network storage for parameter loading?
 - Write a code to load TPU embedding proximal Adagrad parameters and apply custom scaling or normalization operations to them.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

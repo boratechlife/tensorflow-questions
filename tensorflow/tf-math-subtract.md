@@ -66,3 +66,17 @@ description: Practice questions for tf math subtract.
 - Write a code to subtract two tensors element-wise and compute the element-wise difference squared error using tf.math.subtract, tf.math.square, and tf.reduce_mean.
 - Write a code to subtract two tensors element-wise and compute the element-wise difference absolute error using tf.math.subtract, tf.math.abs, and tf.reduce_mean.
 - Write a code to subtract two tensors element-wise and compute the element-wise difference Huber loss using tf.math.subtract, tf.keras.losses.Huber, and tf.reduce_mean.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreesupdateensemblev2.
 - Write a code to update the ensemble with a specific prune_every_samples using tf.raw_ops.BoostedTreesUpdateEnsembleV2.
 - Write a code to update the ensemble with a specific prune_every_n_layer using tf.raw_ops.BoostedTreesUpdateEnsembleV2.
 - Write a code to update the ensemble with a specific logits_order using tf.raw_ops.BoostedTreesUpdateEnsembleV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

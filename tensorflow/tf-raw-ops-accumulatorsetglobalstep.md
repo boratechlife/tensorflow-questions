@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops accumulatorsetglobalstep.
 - Write a code to retrieve the global values of all the accumulators in a group using tf.raw_ops.AccumulatorGroupGetGlobalValuesV2.
 - Write a code to reset the values of all the accumulators in a group using tf.raw_ops.AccumulatorGroupResetV2.
 - Write a code to set the global step of all the accumulators in a group using tf.raw_ops.AccumulatorGroupSetGlobalStepV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

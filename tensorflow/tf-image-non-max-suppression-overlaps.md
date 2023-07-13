@@ -66,3 +66,17 @@ description: Practice questions for tf image non max suppression overlaps.
 - Write a code to apply non-maximum suppression on a set of bounding boxes and display the results with different line colors for bounding boxes.
 - Write a code to apply non-maximum suppression on a set of bounding boxes and display the results with different line widths for bounding boxes.
 - Write a code to apply non-maximum suppression on a set of bounding boxes and display the results with different line caps for bounding boxes.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

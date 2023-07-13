@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fusedbatchnormv2.
 - Implement a function to calculate the gradients of fused batch normalization with a specified momentum, epsilon, axis, data format, and scale using tf.raw_ops.FusedBatchNormV2Grad.
 - How can you set the fused batch normalization to use a specific set of gamma and beta tensors, compute the batch statistics, and use a custom set of mean and variance tensors with a given momentum and epsilon using tf.raw_ops.FusedBatchNormV2?
 - Write a code to apply fused batch normalization to a tensor with a specified momentum, axis, scale, offset, and data format using tf.raw_ops.FusedBatchNormV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

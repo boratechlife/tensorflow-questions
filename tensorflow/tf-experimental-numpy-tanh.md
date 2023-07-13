@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy tanh.
 - Write a code to calculate the hyperbolic tangent of each element in a masked tensor with NaN values using tf.experimental.numpy.tanh.
 - Write a code to calculate the hyperbolic tangent of each element in a masked tensor with inf values using tf.experimental.numpy.tanh.
 - Write a code to calculate the hyperbolic tangent of each element in a masked tensor with both NaN and inf values using tf.experimental.numpy.tanh.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

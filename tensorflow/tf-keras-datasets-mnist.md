@@ -66,3 +66,17 @@ description: Practice questions for tf keras datasets mnist.
 - Write a code to implement label smoothing for a neural network model for MNIST classification.
 - Write a code to build a deep residual network (ResNet) for MNIST classification using tf.keras.
 - Write a code to implement warm-up training for a neural network model on the MNIST dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

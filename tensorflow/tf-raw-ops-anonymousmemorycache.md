@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops anonymousmemorycache.
 - Write a code to filter the values in a tf.raw_ops.AnonymousMemoryCache based on a given condition.
 - Write a code to transform the values in a tf.raw_ops.AnonymousMemoryCache using a mapping function.
 - Write a code to sort the values in a tf.raw_ops.AnonymousMemoryCache in ascending or descending order.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image numpyarrayitera
 - Write a code to set the horizontal flip augmentation mode for the images in a NumpyArrayIterator object.
 - Write a code to set the vertical flip augmentation mode for the images in a NumpyArrayIterator object.
 - Write a code to set the brightness augmentation range for the images in a NumpyArrayIterator object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

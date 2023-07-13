@@ -66,3 +66,17 @@ description: Practice questions for tf io deserialize many sparse.
 - Write a code to serialize and deserialize multiple sparse tensors from a serialized string using tf.io.serialize_sparse and tf.io.deserialize_many_sparse.
 - Write a code to serialize a single sparse tensor and deserialize it using tf.io.serialize_sparse and tf.io.deserialize_many_sparse.
 - Write a code to serialize multiple sparse tensors and deserialize them using tf.io.serialize_sparse and tf.io.deserialize_many_sparse.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

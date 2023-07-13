@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops eagerpyfunc.
 - Write a code to calculate the element-wise absolute value of a tensor using EagerPyFunc.
 - Write a code to calculate the element-wise sine of a tensor using EagerPyFunc.
 - Write a code to calculate the element-wise cosine of a tensor using EagerPyFunc.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

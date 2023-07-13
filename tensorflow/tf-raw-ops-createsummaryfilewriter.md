@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops createsummaryfilewriter.
 - How can you set the file name prefix and file name suffix for the summary file writer using tf.raw_ops.CreateSummaryFileWriter?
 - Write a code to create a summary file writer with a specified queue capacity and max queue size using tf.raw_ops.CreateSummaryFileWriter.
 - How can you set the max serialization delay and serialization limit for the summary file writer using tf.raw_ops.CreateSummaryFileWriter?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

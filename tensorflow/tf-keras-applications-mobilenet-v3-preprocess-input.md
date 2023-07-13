@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications mobilenet v3 preproces
 - Write a code to preprocess an image using preprocess_input and perform image resizing with aspect ratio preservation.
 - Write a code to preprocess an image using preprocess_input and apply a specific image restoration technique, such as deconvolution or Wiener filtering.
 - Write a code to preprocess an image using preprocess_input and apply a specific image enhancement technique, such as contrast stretching or histogram equalization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

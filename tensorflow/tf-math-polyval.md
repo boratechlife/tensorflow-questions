@@ -66,3 +66,17 @@ description: Practice questions for tf math polyval.
 - Write a code to calculate the value of a quintic equation ax^5 + bx^4 + cx^3 + dx^2 + ex + f at a given value of x using tf.math.polyval.
 - Write a code to evaluate the polynomial expression 3x^2 + 2 at a given value of x using tf.math.polyval.
 - Write a code to calculate the value of a quadratic equation ax^2 + bx + c at a given value of x using tf.math.polyval.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

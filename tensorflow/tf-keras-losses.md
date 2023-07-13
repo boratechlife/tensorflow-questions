@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses.
 - Write a code to calculate the squared hinge loss using tf.keras.losses.SquaredHinge.
 - Write a code to calculate the Kullback-Leibler divergence loss using tf.keras.losses.KLDivergence.
 - Write a code to calculate the mean pairwise squared error loss using tf.keras.losses.MeanPairwiseSquaredError.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

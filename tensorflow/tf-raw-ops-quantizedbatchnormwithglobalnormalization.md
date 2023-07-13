@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedbatchnormwithglobalnorma
 - Write a code to compute the quantized scale and offset for batch normalization with global normalization on a 9D tensor representing multi-modal data using TensorFlow.
 - Write a code to perform quantized batch normalization with global normalization on a batch of volumetric data represented as 5D tensors using TensorFlow.
 - Write a code to apply quantized batch normalization with global normalization to a tensor with quantized values, a given scale and offset, and custom mean and variance, while preserving all dimensions, using TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

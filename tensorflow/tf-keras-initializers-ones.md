@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers ones.
 - How can you initialize a weight matrix with ones for a specific layer in a model and set a specific trainable status using tf.keras.initializers.Ones?
 - Initialize a bias vector with ones for a specific layer in a model and set a specific trainable status using tf.keras.initializers.Ones.
 - Create a code snippet to initialize a 2D tensor with ones and set a specific trainable status for a specific layer in a model using tf.keras.initializers.Ones.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

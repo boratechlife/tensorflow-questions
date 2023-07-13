@@ -66,3 +66,17 @@ description: Practice questions for tf linalg tridiagonal matmul.
 - Write a code to multiply a circulant matrix with a tridiagonal matrix using tf.linalg.tridiagonal_matmul.
 - Write a code to multiply a batch of circulant matrices with a tridiagonal matrix using tf.linalg.tridiagonal_matmul.
 - Write a code to multiply a tridiagonal matrix with a block circulant matrix using tf.linalg.tridiagonal_matmul.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

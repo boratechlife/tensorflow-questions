@@ -66,3 +66,17 @@ description: Practice questions for tf random algorithm.
 - Write a code to generate a random number from a normal distribution with mean 0 and standard deviation 1 using the "Stateless" random number generator algorithm.
 - Write a code to generate a random number from a Poisson distribution with lambda 1 using the "Stateless" random number generator algorithm.
 - Write a code to generate a random number from a Bernoulli distribution with probability of success 0.5 using the "Stateless" random number generator algorithm.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

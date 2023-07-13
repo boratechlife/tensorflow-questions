@@ -66,3 +66,17 @@ description: Practice questions for tf math atan2.
 - Write a code to calculate the phase angle of each complex number represented by a tensor of matrices using tf.math.atan2.
 - Write a code to find the arctangent of each element in a tensor of matrices using tf.math.atan2.
 - Write a code to calculate the angle between each pair of vectors represented by a tensor of matrices using tf.math.atan2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

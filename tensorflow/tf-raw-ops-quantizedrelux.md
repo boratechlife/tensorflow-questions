@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedrelux.
 - Write a code to create a TensorFlow graph that applies tf.raw_ops.QuantizedReluX and calculates the L2 norm of the output tensor.
 - Can you use tf.raw_ops.QuantizedReluX for quantized recurrent neural networks (RNNs)? Explain.
 - How can you specify a custom threshold function for tf.raw_ops.QuantizedReluX?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

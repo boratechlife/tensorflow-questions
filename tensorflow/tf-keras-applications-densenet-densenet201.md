@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications densenet densenet201.
 - Write a code to implement early stopping based on accuracy during training of the DenseNet201 model.
 - Write a code to implement learning rate decay during training of the DenseNet201 model.
 - Write a code to plot the training and validation curves for the DenseNet201 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

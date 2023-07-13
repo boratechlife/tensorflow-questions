@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics sparse categorical crossent
 - Write a code to calculate the average sparse categorical cross-entropy loss over a dataset using the sparse_categorical_crossentropy function, reducing the loss values along the batch axis, and applying a sample weight.
 - Write a code to compute the average sparse categorical cross-entropy loss over a dataset using the sparse_categorical_crossentropy function, reducing the loss values along the batch axis, and applying a sample weight.
 - Write a code to calculate the average sparse categorical cross-entropy loss over a dataset using the sparse_categorical_crossentropy function, reducing the loss values along the batch axis, and applying a class weight.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

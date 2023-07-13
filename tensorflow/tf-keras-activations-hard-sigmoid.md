@@ -66,3 +66,17 @@ description: Practice questions for tf keras activations hard sigmoid.
 - Write a code to apply the hard_sigmoid activation function to a tensor with adjustable slope and shift parameters.
 - Write a code to create a convolutional neural network with residual connections using hard_sigmoid activation.
 - Write a code to apply the hard_sigmoid activation function to a tensor with adjustable slope, shift, and bounds parameters.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

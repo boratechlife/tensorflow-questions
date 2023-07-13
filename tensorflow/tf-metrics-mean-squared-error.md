@@ -66,3 +66,17 @@ description: Practice questions for tf metrics mean squared error.
 - Write a code to compute the mean squared error between two video summarization model outputs using tf.metrics.mean_squared_error.
 - Write a code to calculate the mean squared error between two audio generation model predictions using tf.metrics.mean_squared_error.
 - Write a code to compute the mean squared error between two text-to-speech model outputs using tf.metrics.mean_squared_error.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

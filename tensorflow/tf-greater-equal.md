@@ -66,3 +66,17 @@ description: Practice questions for tf greater equal.
 - Write a code to create a new tensor by replacing all elements in a TensorFlow tensor that are greater than a given threshold with the mean value of the tensor.
 - Write a code to check if a TensorFlow tensor has all elements greater than or equal to a specific value and satisfy a certain condition.
 - Write a code to find the indices of the top k largest elements in a TensorFlow tensor, considering only the elements that are greater than or equal to a specific threshold and satisfy a certain condition.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

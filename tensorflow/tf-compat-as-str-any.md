@@ -66,3 +66,17 @@ description: Practice questions for tf compat as str any.
 - How can you convert a TensorFlow tensor to a string and remove all HTML tags using tf.compat.as_str_any?
 - Write a code to convert a TensorFlow tensor to a string and sort its characters alphabetically using tf.compat.as_str_any.
 - How can you convert a TensorFlow tensor to a string and replace all non-ASCII characters with their closest ASCII equivalents using tf.compat.as_str_any?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

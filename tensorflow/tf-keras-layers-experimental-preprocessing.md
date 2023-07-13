@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing.
 - Write a code to resize an image using tf.keras.layers.experimental.preprocessing.Rescaling.
 - Write a code to apply rotation to an image using tf.keras.layers.experimental.preprocessing.RandomRotation.
 - Write a code to crop an image using tf.keras.layers.experimental.preprocessing.CenterCrop.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing t
 - Write a code to apply TextVectorization and specify the vocabulary to be used.
 - Write a code to apply TextVectorization and perform text normalization using a custom function.
 - Write a code to apply TextVectorization and exclude certain tokens based on a custom condition.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy cumsum.
 - Write a code to calculate the cumulative sum of a 1D array and return the minimum cumulative sum value using tf.experimental.numpy.cumsum.
 - Write a code to calculate the cumulative sum of a 2D array along a specific axis and return the minimum cumulative sum value using tf.experimental.numpy.cumsum.
 - Write a code to calculate the cumulative sum of a 1D array and return the indices of the sorted cumulative sums using tf.experimental.numpy.cumsum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

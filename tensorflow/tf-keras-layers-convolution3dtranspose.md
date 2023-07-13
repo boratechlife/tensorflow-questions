@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers convolution3dtranspose.
 - Write a code to create a model with a Convolution3DTranspose layer and a Reshape layer.
 - Write a code to create a model with a Convolution3DTranspose layer and a Lambda layer.
 - Write a code to create a model with a Convolution3DTranspose layer and a custom layer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

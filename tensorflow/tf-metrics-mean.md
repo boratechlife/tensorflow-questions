@@ -66,3 +66,17 @@ description: Practice questions for tf metrics mean.
 - Write a code to calculate the Matthews correlation coefficient using tf.metrics.Mean.
 - Write a code to calculate the normalized mutual information using tf.metrics.Mean.
 - Write a code to calculate the pairwise precision and recall using tf.metrics.Mean.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf image flip up down.
 - How can you flip an image vertically and perform image super-resolution using "tf.image.flip_up_down"?
 - Write a code to flip an image vertically and apply a non-local patch similarity filter using "tf.image.flip_up_down".
 - How can you flip an image vertically and perform image inpainting with partial convolution using "tf.image.flip_up_down"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

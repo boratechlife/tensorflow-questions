@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils get custom objects.
 - Write a code to retrieve a custom preprocessing layer after registering it with tf.keras.utils.get_custom_objects.
 - Write a code to define a custom constraint and register it with tf.keras.utils.get_custom_objects.
 - Write a code to retrieve a custom constraint after registering it with tf.keras.utils.get_custom_objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

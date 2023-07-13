@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mul.
 - Write a code to multiply a tensor by a constant value and calculate its element-wise square root using tf.raw_ops.Mul.
 - Write a code to multiply two tensors and calculate their element-wise absolute difference using tf.raw_ops.Mul.
 - Write a code to multiply a tensor by a constant value and calculate its element-wise rounding using tf.raw_ops.Mul.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

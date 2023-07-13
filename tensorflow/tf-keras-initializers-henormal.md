@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers henormal.
 - Write a code to initialize a recurrent layer with HeNormal initializer and limit the maximum value of weights.
 - Write a code to initialize a specific weight tensor using HeNormal initializer and limit the maximum value of weights.
 - Write a code to create a custom layer that uses HeNormal initializer for its weights and limit the maximum value of weights.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

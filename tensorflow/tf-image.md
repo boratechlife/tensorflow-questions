@@ -66,3 +66,17 @@ description: Practice questions for tf image.
 - Write a code to adjust the saturation of an image by a scale factor using tf.image.adjust_saturation.
 - Write a code to adjust the brightness of an image by a scale factor using tf.image.adjust_brightness.
 - Write a code to convert an image to grayscale and apply a median filter using tf.image.rgb_to_grayscale and tf.image.median_filter2d.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

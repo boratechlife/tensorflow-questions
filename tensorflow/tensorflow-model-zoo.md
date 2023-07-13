@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Are there any pre-trained models in the TensorFlow Model Zoo for time series anomaly detection or outlier detection?
 - Can you name some models in the TensorFlow Model Zoo that have been successfully used in computer vision competitions or benchmarks?
 - How can you contribute to the TensorFlow Model Zoo or provide feedback on existing models?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

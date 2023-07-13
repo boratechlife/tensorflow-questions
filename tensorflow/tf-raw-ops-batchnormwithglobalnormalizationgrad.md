@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchnormwithglobalnormalizationg
 - Write a code to compute the second-order gradients of "tf.raw_ops.BatchNormWithGlobalNormalizationGrad" using TensorFlow's automatic differentiation and a custom loss function.
 - Write a code to apply "tf.raw_ops.BatchNormWithGlobalNormalizationGrad" to a given input tensor and compute the gradients with respect to each element in the tensor using TensorFlow's gradient tape.
 - Write a code to calculate the gradient of "tf.raw_ops.BatchNormWithGlobalNormalizationGrad" with respect to a specific output element and a set of variables using TensorFlow's autodiff library.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

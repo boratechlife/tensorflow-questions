@@ -66,3 +66,17 @@ description: Practice questions for tf experimental structuredtensor spec.
 - Write a code to apply a binary reduction operation (e.g., maximum, minimum) between two structured tensors of the same shape.
 - Write a code to compute the element-wise absolute value of a given structured tensor.
 - Write a code to compute the element-wise square root of a given structured tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

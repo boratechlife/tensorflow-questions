@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy ones.
 - Write a code to create a 3-dimensional array of ones with dimensions (2, 2, 2) and count the number of elements greater than 1.
 - Write a code to create a 1-dimensional array of ones with a length of 10 and print its elements in reverse order.
 - Write a code to create a 2-dimensional array of ones with dimensions (3, 3) and print its elements row-wise.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

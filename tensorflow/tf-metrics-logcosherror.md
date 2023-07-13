@@ -66,3 +66,17 @@ description: Practice questions for tf metrics logcosherror.
 - Write a code to reset the state of a tf.metrics.LogCoshError object and verify its behavior in a distributed computing environment.
 - Write a code to calculate the log-cosh error between two arrays and apply weights to different samples.
 - Write a code to compute the log-cosh error between two tensors and use it to compare different models on a dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

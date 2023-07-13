@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing r
 - Write a code to create a RandomTranslation layer and chain it with other layers within a custom model architecture.
 - Write a code to create a RandomTranslation layer and set the data format to 'channels_first'.
 - Write a code to create a RandomTranslation layer and set the data format to 'channels_last'.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

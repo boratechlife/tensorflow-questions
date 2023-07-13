@@ -66,3 +66,17 @@ description: Practice questions for tf losses get.
 - Write a code to retrieve the loss function with the name 'tf.compat.v1.losses.mean_squared_logarithmic_error' using tf.losses.get.
 - Write a code to retrieve the loss function with the name 'tf.compat.v1.losses.poisson' using tf.losses.get.
 - Write a code to retrieve the loss function with the name 'tf.compat.v1.losses.cosine_similarity' using tf.losses.get.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

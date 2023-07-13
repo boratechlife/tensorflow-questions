@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fusedbatchnormv3.
 - Write a code to calculate the gradients of tf.raw_ops.FusedBatchNormV3 with respect to the input tensor and scale and offset, using the forward pass and the backward pass, and apply the gradients using an optimizer.
 - Write a code to calculate the gradients of tf.raw_ops.FusedBatchNormV3 with respect to the input tensor and scale and offset, using the forward pass and the backward pass, and update the scale and offset using an optimizer.
 - Write a code to calculate the gradients of tf.raw_ops.FusedBatchNormV3 with respect to the input tensor and scale and offset, using the forward pass and the backward pass, and update the running mean and variance using an optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

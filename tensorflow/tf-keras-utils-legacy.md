@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils legacy.
 - Write a code to calculate the element-wise rectified linear unit (ReLU) activation of an array using tf.keras.utils.legacy module.
 - Write a code to calculate the element-wise hyperbolic tangent (tanh) activation of an array using tf.keras.utils.legacy module.
 - Write a code to calculate the element-wise softmax activation of an array and return the index of the maximum value using tf.keras.utils.legacy module.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

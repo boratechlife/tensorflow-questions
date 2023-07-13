@@ -66,3 +66,17 @@ description: Practice questions for tf nn depthwise conv2d.
 - Write a code to apply a depthwise convolution with a specified dilation rate regularizer using tf.nn.depthwise_conv2d.
 - Write a code to perform a depthwise convolution with a specified filter padding using tf.nn.depthwise_conv2d.
 - Write a code to apply a depthwise convolution with a specified stride padding using tf.nn.depthwise_conv2d.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

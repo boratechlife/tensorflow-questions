@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Can TensorFlow handle hierarchical time series anomaly detection?
 - What are some techniques for handling long-term dependencies in time series anomaly detection with TensorFlow?
 - How can you visualize and interpret the learned representations in TensorFlow-based anomaly detection models?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

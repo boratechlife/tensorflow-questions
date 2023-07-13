@@ -66,3 +66,17 @@ description: Practice questions for tf keras regularizers l1l2.
 - Write a code to define an L1L2 regularizer with a variable factor for kernel and a fixed factor for bias.
 - Write a code to create a neural network layer with L1L2 regularization using a variable factor for kernel and a fixed factor for bias.
 - Write a code to add L1L2 regularization to a specific layer with a variable factor for kernel and a fixed factor for bias.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

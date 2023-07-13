@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers dot.
 - Apply element-wise multiplication between a tensor and a scalar using tf.keras.layers.Dot with broadcasting.
 - Multiply two tensors along axis 1 using tf.keras.layers.Dot.
 - Perform dot product between two tensors along axis 1 using tf.keras.layers.Dot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

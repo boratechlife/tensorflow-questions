@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image random channel 
 - How can you apply a random channel shift to an image and then convert it to a TensorFlow tensor using tf.keras.preprocessing.image.random_channel_shift?
 - Write a code to apply a random channel shift to an image and then adjust the hue using tf.keras.preprocessing.image.random_channel_shift.
 - Can you use tf.keras.preprocessing.image.random_channel_shift with images stored in a Google Drive folder? If so, how?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

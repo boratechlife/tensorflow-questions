@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops inv.
 - Write a code to compute the inverse of a matrix with tensor decomposition methods using tf.raw_ops.Inv.
 - Write a code to find the inverse of a matrix with randomized algorithms using tf.raw_ops.Inv.
 - Write a code to calculate the inverse of a matrix with autodifferentiation using tf.raw_ops.Inv.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

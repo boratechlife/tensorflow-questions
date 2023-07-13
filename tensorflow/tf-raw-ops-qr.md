@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops qr.
 - How can you use QR decomposition with "tf.raw_ops.Qr" to perform image compression?
 - Write a code to calculate the rank of a matrix using QR decomposition with "tf.raw_ops.Qr".
 - How can you apply QR decomposition with "tf.raw_ops.Qr" to perform matrix sparsification?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

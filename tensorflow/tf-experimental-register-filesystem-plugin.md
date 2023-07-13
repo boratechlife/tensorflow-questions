@@ -66,3 +66,17 @@ description: Practice questions for tf experimental register filesystem plugin.
 - Write a code to read a YAML file using a registered file system plugin in TensorFlow.
 - Write a code to write data to a YAML file using a registered file system plugin in TensorFlow.
 - Write a code to read an Excel file using a registered file system plugin in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf metrics mse.
 - Write a code to calculate the MSE for a batch of predictions and labels using tf.keras.metrics.MeanSquaredError.
 - Write a code to update the state of a tf.keras.metrics.MeanSquaredError object with new predictions and labels.
 - Write a code to calculate the mean MSE over multiple batches of predictions and labels using tf.keras.metrics.MeanSquaredError.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

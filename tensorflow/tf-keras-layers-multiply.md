@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers multiply.
 - How can you multiply a tensor with a matrix and apply a global pooling operation using the Multiply layer?
 - Write a code to multiply two input tensors and compute the element-wise minimum along a specific axis using the Multiply layer.
 - How can you multiply a tensor with a matrix and apply a recurrent layer using the Multiply layer?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf losses mean squared error.
 - Write a code to calculate the mean squared error loss between two tensors and calculate the mean squared logarithmic error metric.
 - Write a code to calculate the mean squared error loss between two tensors and calculate the Huber loss.
 - Write a code to calculate the mean squared error loss between two tensors and calculate the quantile loss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

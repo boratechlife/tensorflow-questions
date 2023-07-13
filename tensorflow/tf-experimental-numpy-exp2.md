@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy exp2.
 - Write a code to calculate the exponential of 2 for each element in a random NumPy array and store the result in a new array using broadcasting.
 - Write a code to calculate the exponential of 2 for each element in a random NumPy array and reshape the result to a different shape.
 - Write a code to calculate the exponential of 2 for each element in a random TensorFlow tensor and store the result in a new tensor using broadcasting.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops priorityqueue.
 - Write a code to find the top k unique elements in a TensorFlow priority queue.
 - Write a code to calculate the product of all priorities in a TensorFlow priority queue.
 - Write a code to find the median of the top k elements in a TensorFlow priority queue.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

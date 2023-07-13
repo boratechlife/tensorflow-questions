@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications mobilenet decode predi
 - Write a code to visualize the predictions of the modified MobileNet model on an input image using bounding boxes and class labels.
 - Write a code to compare the predictions of the original MobileNet model and the modified MobileNet model on an input image.
 - Write a code to calculate the difference in predictions between the original MobileNet model and the modified MobileNet model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

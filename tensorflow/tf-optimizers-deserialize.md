@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers deserialize.
 - Write a code to deserialize an optimizer from a JSON string with custom configuration.
 - Write a code to deserialize an optimizer from a YAML file with custom configuration.
 - Write a code to deserialize an optimizer from a pickled object with custom configuration.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

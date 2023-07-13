@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy isclose.
 - Write a code to compare two arrays with different shapes, broadcasting the smaller array and allowing for exact matches, while excluding NaN and infinities using tf.experimental.numpy.isclose.
 - Write a code to compare two arrays, considering elements with NaN values as not equal within a specified tolerance and excluding infinities using tf.experimental.numpy.isclose.
 - Write a code to compare two arrays, considering elements with infinities as not equal within a specified tolerance and ignoring elements below a specified threshold, while excluding NaN values using tf.experimental.numpy.isclose.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

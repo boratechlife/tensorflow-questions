@@ -66,3 +66,17 @@ description: Practice questions for tf io parse example.
 - Write a code to parse a feature with a default value, shape, dtype, and length decoding/decompression/decryption using tf.io.parse_example.
 - Write a code to parse a feature with a default value, shape, dtype, and length compression/encryption/decryption using tf.io.parse_example.
 - Write a code to parse a feature with a default value, shape, dtype, and length encoding/compression/decryption using tf.io.parse_example.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

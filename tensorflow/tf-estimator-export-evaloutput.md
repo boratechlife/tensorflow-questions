@@ -66,3 +66,17 @@ description: Practice questions for tf estimator export evaloutput.
 - Write a code to access the export-related info values from EvalOutput.
 - Write a code to retrieve the asset filepaths from EvalOutput.
 - Write a code to check if EvalOutput contains the export-related metrics values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

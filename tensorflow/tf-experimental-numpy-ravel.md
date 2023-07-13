@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy ravel.
 - Write a code to flatten a NumPy array and calculate the element-wise floor of the flattened array using tf.experimental.numpy.ravel.
 - Write a code to flatten a NumPy array and calculate the element-wise round of the flattened array using tf.experimental.numpy.ravel.
 - Write a code to flatten a NumPy array and calculate the element-wise clip of the flattened array using tf.experimental.numpy.ravel.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental ignore errors.
 - Write a code to ignore errors related to data augmentation while loading a video dataset using tf.data.experimental.ignore_errors.
 - Write a code to ignore errors related to missing timestamps while loading a dataset using tf.data.experimental.ignore_errors.
 - Write a code to ignore errors related to data feature extraction while loading a dataset using tf.data.experimental.ignore_errors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

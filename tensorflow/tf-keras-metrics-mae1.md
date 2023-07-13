@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics mae1.
 - Write a code to calculate the mean absolute error (MAE) using tf.keras.metrics.mae for a set of predictions and apply post-processing techniques such as thresholding or filtering to improve the predictions.
 - Write a code to calculate the mean absolute error (MAE) using tf.keras.metrics.mae for a set of predictions and implement model compression techniques to reduce model size while preserving performance.
 - Write a code to calculate the mean absolute error (MAE) using tf.keras.metrics.mae for a set of predictions and perform model retraining on new data to continuously update and improve the model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

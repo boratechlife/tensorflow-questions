@@ -66,3 +66,17 @@ description: Practice questions for tf keras regularizers l2.
 - Write a code to create a regularized BERT (Bidirectional Encoder Representations from Transformers) model with L2 regularization using tf.keras.regularizers.L2.
 - Write a code to create a regularized GPT (Generative Pre-trained Transformer) model with L2 regularization using tf.keras.regularizers.L2.
 - Write a code to create a regularized DCGAN (Deep Convolutional Generative Adversarial Network) model with L2 regularization using tf.keras.regularizers.L2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

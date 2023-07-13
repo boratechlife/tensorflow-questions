@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks lambdacallback.
 - Write a code to define a lambda function that applies model pruning to reduce inference time.
 - Write a code to define a lambda function that logs the current regularization strength.
 - Write a code to define a lambda function that applies model compression to reduce model size.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

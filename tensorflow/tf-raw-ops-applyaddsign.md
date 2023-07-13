@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops applyaddsign.
 - Write a code to apply the ApplyAddSign operation to a tensor and compute its element-wise division by another tensor.
 - How can you apply the ApplyAddSign operation to compute the element-wise division of two tensors in TensorFlow?
 - Implement a function to apply the ApplyAddSign operation to two tensors and compute their element-wise division, returning the result.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

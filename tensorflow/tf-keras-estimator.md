@@ -66,3 +66,17 @@ description: Practice questions for tf keras estimator.
 - Write a code to use L1 or L2 regularization for the weights of a tf.keras.estimator model.
 - Write a code to add a callback function to a tf.keras.estimator model.
 - Write a code to implement model ensembling using multiple tf.keras.estimator models.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

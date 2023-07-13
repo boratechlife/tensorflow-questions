@@ -67,3 +67,17 @@ description: Practice questions for tf raw ops quantizedconv2dwithbiassignedsuma
 - Write a code to calculate the number of output channels, output shape, and data type for "tf.raw_ops.QuantizedConv2DWithBiasSignedSumAndRequantize".
 - Write a code to specify the data type, output shape, and strides for "tf.raw_ops.QuantizedConv2DWithBiasSignedSumAndRequantize".
 - Write a code to calculate the number of batches, output shape, and data type for "tf.raw_ops.QuantizedConv2DWithBiasSignedSumAndRequantize".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

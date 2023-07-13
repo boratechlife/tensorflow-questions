@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy sinc.
 - Write a code to calculate the arc tangent of the sinc function for an array of input values using "tf.experimental.numpy.sinc".
 - Write a code to calculate the hyperbolic cosine of the sinc function for a given input value using "tf.experimental.numpy.sinc".
 - Write a code to calculate the hyperbolic cosine of the sinc function for an array of input values using "tf.experimental.numpy.sinc".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

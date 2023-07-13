@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers schedules polynomialdeca
 - Write a code to calculate the decayed learning rate at a specific step using a PolynomialDecay schedule with a cycle parameter, power parameter, end learning rate, start step, cycle step size, cycle decay steps, and staircase flag.
 - Write a code to plot the decayed learning rate over a range of steps using PolynomialDecay with a cycle parameter, power parameter, end learning rate, start step, cycle step size, cycle decay steps, and staircase flag.
 - Write a code to create a PolynomialDecay learning rate schedule with a given cycle parameter, power parameter, end learning rate, start step, cycle step size, cycle decay steps, staircase flag, and name.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

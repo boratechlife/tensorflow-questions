@@ -66,3 +66,17 @@ description: Practice questions for tf profiler experimental start.
 - Write a code to start the TensorFlow profiler and enable TensorFlow XLA save memory peak gradient name node op input tensor sizes.
 - Write a code to start the TensorFlow profiler and enable TensorFlow XLA save memory peak gradient name node op input workspace sizes.
 - Write a code to start the TensorFlow profiler and enable TensorFlow XLA save memory peak gradient name node op input output sizes.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

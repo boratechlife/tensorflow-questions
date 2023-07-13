@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers randomcontrast.
 - How can you apply a RandomContrast layer to an input tensor and calculate the skewness of the output contrast factors?
 - Write a code to create a RandomContrast layer and set its contrast factor to a specific range with a logarithmic distribution.
 - How can you apply a RandomContrast layer to an input tensor and calculate the kurtosis of the output contrast factors?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

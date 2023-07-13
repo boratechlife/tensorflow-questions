@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend rnn.
 - Write a code to implement a recurrent neural network with graph convolutional attention-based sequence labeling using tf.keras.backend.rnn.
 - Write a code to implement a recurrent neural network with graph convolutional dynamic memory networks using tf.keras.backend.rnn.
 - Write a code to implement a recurrent neural network with graph convolutional graph recurrent networks using tf.keras.backend.rnn.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

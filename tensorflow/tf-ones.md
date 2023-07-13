@@ -115,3 +115,17 @@ description: Practice questions for tf ones.
 - Write a code to create a tensor of shape (2, 3) with all elements initialized to 5 using tf.fill and calculate the logarithm of each element using tf.math.log.
 - 
 - Write a code to create a tensor of shape (2, 2, 2) with all elements initialized to 1 using tf.ones and calculate the mean of all elements using tf.reduce_mean.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

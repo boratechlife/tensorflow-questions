@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedbiasadd.
 - Write a code to perform asymmetrical quantized bias addition using "tf.raw_ops.QuantizedBiasAdd".
 - How can you handle the case when the input and bias tensors have different data types and quantization scales in the "tf.raw_ops.QuantizedBiasAdd" operation?
 - Can you provide an example of using "tf.raw_ops.QuantizedBiasAdd" to add a bias tensor to multiple quantized tensors with different data types and quantization scales?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

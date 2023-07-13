@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conv3dbackpropfilter.
 - How can you implement the backward filter computation for a 3D convolutional operation using tf.raw_ops.Conv3DBackpropFilter?
 - Write a code to compute the gradients of a 3D convolutional filter backward pass using tf.raw_ops.Conv3DBackpropFilter.
 - How can you perform the backward computation for a 3D convolutional filter using tf.raw_ops.Conv3DBackpropFilter?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

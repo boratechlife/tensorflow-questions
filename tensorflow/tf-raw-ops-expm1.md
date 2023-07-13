@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops expm1.
 - Implement a code to apply tf.raw_ops.Expm1 to a tensor and calculate the product of all elements in the resulting tensor.
 - Write a code to calculate the exponential minus one of a tensor and display the result as a 3D surface plot using tf.raw_ops.Expm1.
 - How can you compute the exponential minus one of a tensor element-wise using tf.raw_ops.Expm1 and calculate the element-wise square root of the result?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

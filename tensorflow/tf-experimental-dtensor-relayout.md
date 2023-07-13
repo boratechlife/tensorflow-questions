@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor relayout.
 - Write a code to relayout a tensor from the NCDHW format to the NHWC format using "tf.experimental.dtensor.relayout", preserving the batch dimension and specifying the target spatial dimension order.
 - Write a code to relayout a tensor from the NHWC format to the NCDHW format using "tf.experimental.dtensor.relayout", preserving the batch dimension and specifying the target spatial dimension order.
 - Write a code to relayout a tensor from the NHWC format to the NCHW format using "tf.experimental.dtensor.relayout", preserving the batch and channel dimensions and specifying the target spatial dimension order.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

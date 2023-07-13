@@ -66,3 +66,17 @@ description: Practice questions for tf keras models model.
 - Write a code to add a global average pooling layer to a tf.keras.models.Model.
 - Write a code to add a global max pooling layer to a tf.keras.models.Model.
 - Write a code to compute the gradients of a tf.keras.models.Model using a custom loss function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

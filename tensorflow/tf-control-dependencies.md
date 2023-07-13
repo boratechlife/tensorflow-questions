@@ -66,3 +66,17 @@ description: Practice questions for tf control dependencies.
 - Write a code to use tf.control_dependencies to enforce the execution of certain operations before applying batch normalization.
 - Write a code to create a control dependency between two TensorFlow operations and a dropout application operation.
 - Write a code to use tf.control_dependencies to enforce the execution of a certain operation before applying activation functions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf estimator finalopshook.
 - Write a code to register a callback function to be called when a FinalOpsHook is finished.
 - Write a code to set a custom logging delay for a FinalOpsHook.
 - Write a code to access the time at which a FinalOpsHook was finished.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

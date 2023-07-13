@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are some strategies for dealing with non-stationary time series data in TensorFlow?
 - Explain the concept of transfer learning from other domains to time series forecasting using TensorFlow.
 - How can you deploy a TensorFlow time series forecasting model into a production environment?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

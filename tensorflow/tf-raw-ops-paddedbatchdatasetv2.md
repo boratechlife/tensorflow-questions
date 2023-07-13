@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to create a PaddedBatchDatasetV2 and sort its elements in descending order.
 - Write a code to create a PaddedBatchDatasetV2 and apply a one-hot encoding to its elements.
 - Write a code to create a PaddedBatchDatasetV2 and convert its elements to lowercase.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

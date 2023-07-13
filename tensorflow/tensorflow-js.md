@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you handle missing data in TensorFlow.js?
 - What is the TensorFlow.js Community Showcase, and what can you find there?
 - How can you contribute to the TensorFlow.js open-source project?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

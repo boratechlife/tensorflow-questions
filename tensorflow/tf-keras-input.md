@@ -66,3 +66,17 @@ description: Practice questions for tf keras input.
 - Write a code to create an input layer with a specific control flow kernel initializer using tf.keras.Input.
 - Write a code to create an input layer with a specific control flow activation regularizer using tf.keras.Input.
 - Write a code to create an input layer with a specific control flow activity regularizer using tf.keras.Input.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf initializers lecununiform.
 - How can you initialize a variable using "tf.initializers.LecunUniform" and set the scaling factor as a TensorFlow constant?
 - Write a code to initialize a tensor using "tf.initializers.LecunUniform" and set the minimum value as a TensorFlow placeholder.
 - How can you initialize a variable named "weights" using "tf.initializers.LecunUniform" and specify the fan_in and fan_out values as TensorFlow constants?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy full like.
 - Write a code to create an array of the same shape and type as 'x' filled with the element-wise bitwise NOT of 'x' using "tf.experimental.numpy.full_like".
 - Write a code to create an array of the same shape and type as 'x' filled with the element-wise left shift of 'x' by 'n' positions using "tf.experimental.numpy.full_like".
 - Write a code to create an array of the same shape and type as 'x' filled with the element-wise right shift of 'x' by 'n' positions using "tf.experimental.numpy.full_like".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

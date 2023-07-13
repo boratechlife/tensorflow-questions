@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses log cosh.
 - Write a code to use the log-cosh loss function in a recommendation system model.
 - Write a code to calculate the log-cosh loss for a batch of predictions and targets with imbalanced classes.
 - Write a code to use the log-cosh loss function in a time series anomaly detection model with recurrent neural networks.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

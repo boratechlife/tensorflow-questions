@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops approxtopk.
 - Write a code to get the indices of the top K elements from a tensor and discard the values using "tf.raw_ops.ApproxTopK".
 - Write a code to find the approximate top K values from a tensor and calculate their log squared mean.
 - Write a code to perform approximate top K operation on a tensor and return the values as a variable reference tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

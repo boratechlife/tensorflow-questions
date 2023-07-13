@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops log.
 - Write a code to calculate the natural logarithm of each element of a tensor and overwrite the original tensor using the tf.raw_ops.Log operation.
 - Write a code to find the logarithm base 10 of each element of a tensor and overwrite the original tensor using the tf.raw_ops.Log operation.
 - Write a code to apply the logarithm function to a tensor and overwrite the original tensor using the tf.raw_ops.Log operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

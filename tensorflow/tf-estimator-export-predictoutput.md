@@ -66,3 +66,17 @@ description: Practice questions for tf estimator export predictoutput.
 - Write a code to set the export_outputs parameter of tf.estimator.export.PredictOutput to a dictionary of export outputs.
 - Write a code to set the tensor_info_tensor_name parameter of tf.estimator.export.PredictOutput to a string.
 - Write a code to set the tensor_info_all_axes parameter of tf.estimator.export.PredictOutput to a list of integers.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

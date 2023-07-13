@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers gaussiannoise.
 - Write a code to add a tf.keras.layers.GaussianNoise layer to a model and set the standard deviation to a variable that follows a linear annealing schedule with a specified maximum number of epochs.
 - Write a code to apply Gaussian noise to the input data of a model using tf.keras.layers.GaussianNoise with a standard deviation of 0.1 and perform random brightness augmentation on the noisy samples.
 - Write a code to create a model with a tf.keras.layers.GaussianNoise layer and use a specified loss function for training.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops optionalhasvalue.
 - Write a code to compute the cumulative product of values in a tf.raw_ops.OptionalHasValue object.
 - Write a code to check if all values in a tf.raw_ops.OptionalHasValue object are equal to zero.
 - Write a code to sort a list of tf.raw_ops.OptionalHasValue objects in descending order.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

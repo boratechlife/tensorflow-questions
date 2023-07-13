@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops.
 - Write a code to calculate the element-wise sign of a tensor using tf.raw_ops.Sign function.
 - Write a code to calculate the element-wise round value of a tensor using tf.raw_ops.Round function.
 - Write a code to calculate the element-wise ceiling value of a tensor using tf.raw_ops.Ceil function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

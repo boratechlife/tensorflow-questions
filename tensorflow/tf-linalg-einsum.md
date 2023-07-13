@@ -66,3 +66,17 @@ description: Practice questions for tf linalg einsum.
 - Write a code to compute the batched matrix sine of a batch of matrices using "tf.linalg.einsum".
 - Write a code to compute the matrix sine of a matrix using "tf.linalg.einsum".
 - Write a code to compute the batched matrix tan of a batch of matrices using "tf.linalg.einsum".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

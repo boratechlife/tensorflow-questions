@@ -66,3 +66,17 @@ description: Practice questions for tf io parse single sequence example.
 - Write a code to parse a single sequence example and handle data scaling using tf.io.parse_single_sequence_example.
 - Write a code to parse a single sequence example and handle data binarization using tf.io.parse_single_sequence_example.
 - Write a code to parse a single sequence example and handle data discretization using tf.io.parse_single_sequence_example.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

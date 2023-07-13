@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnetb4.
 - Write a code to calculate the precision and recall of the EfficientNetB4 model on a test dataset.
 - Write a code to save the entire EfficientNetB4 model (including architecture, weights, and optimizer state) to a file.
 - Write a code to load the entire EfficientNetB4 model (including architecture, weights, and optimizer state) from a file.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

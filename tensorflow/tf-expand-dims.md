@@ -66,3 +66,17 @@ description: Practice questions for tf expand dims.
 - Write a code to add an extra dimension to a tensor of shape (batch_size, time_steps, input_dim) using tf.expand_dims.
 - Write a code to expand the dimensions of a tensor along the input axis using tf.expand_dims.
 - Write a code to add a singleton dimension to a tensor of shape (batch_size, time_steps, input_dim) at axis 1 using tf.expand_dims.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

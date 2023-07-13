@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers legacy adam.
 - Write a code to restore the state of the Adam optimizer from a file.
 - Write a code to initialize the variables of the Adam optimizer.
 - Write a code to get the optimizer's state as a dictionary.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

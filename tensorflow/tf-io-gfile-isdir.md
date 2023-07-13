@@ -66,3 +66,17 @@ description: Practice questions for tf io gfile isdir.
 - Write a code to calculate the percentage of directory size compared to the total size of a directory and its subdirectories using tf.io.gfile.isdir.
 - Write a code to calculate the percentage of file size compared to the total size of a directory and its subdirectories using tf.io.gfile.isdir.
 - Write a code to check if a directory is a hidden system directory using tf.io.gfile.isdir.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

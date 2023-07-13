@@ -66,3 +66,17 @@ description: Practice questions for tf math segment min.
 - Write a code to calculate the minimum value for each segment along the last dimension of a tensor and return the result as a tensor with the same shape as the input, with minimum values replaced by a specified value, using "tf.math.segment_min".
 - Write a code to find the minimum value for each segment along a specific axis of a tensor with variable-length segments and return the result as a tensor with the same shape as the input, with minimum values replaced by a specified value, using "tf.math.segment_min".
 - Write a code to compute the minimum value for each segment along multiple axes of a tensor and return the result as a tensor with the same shape as the input, with minimum values replaced by a specified value, using "tf.math.segment_min".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

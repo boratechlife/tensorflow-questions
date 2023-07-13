@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops anonymousmultideviceiteratorv3.
 - Write a code to apply a window transformation to the outputs of the "AnonymousMultiDeviceIteratorV3" object.
 - Write a code to flat map the outputs of the "AnonymousMultiDeviceIteratorV3" object.
 - Write a code to compute the statistics of the outputs of the "AnonymousMultiDeviceIteratorV3" object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

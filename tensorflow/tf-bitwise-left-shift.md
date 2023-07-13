@@ -115,3 +115,17 @@ description: Practice questions for tf bitwise left shift.
 - Write a code to left shift the bits of a TensorFlow tensor by a variable shift value obtained from a placeholder and compute the element-wise inverse hyperbolic cosine using tf.placeholder and tf.bitwise.left_shift and tf.math.acosh.
 - 
 - Write a code to perform a left shift on a TensorFlow tensor and calculate the element-wise inverse hyperbolic tangent using tf.bitwise.left_shift and tf.math.atanh.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

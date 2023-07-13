@@ -66,3 +66,17 @@ description: Practice questions for tf estimator experimental stop if higher hoo
 - Write a code to implement a minimum training time limit using the stop_if_higher_hook.
 - Write a code to use the stop_if_higher_hook to monitor and stop training based on a ratio of two different weighted metrics.
 - Write a code to stop training if the metric value decreases beyond a certain threshold within a sliding window of consecutive steps using the stop_if_higher_hook.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

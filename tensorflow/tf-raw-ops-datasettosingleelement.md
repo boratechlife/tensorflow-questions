@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops datasettosingleelement.
 - Write a code snippet that demonstrates how to use tf.raw_ops.DatasetToSingleElement with a dataset containing audio waveforms.
 - How does tf.raw_ops.DatasetToSingleElement handle cases where the input dataset requires preprocessing or cleaning?
 - Can you explain the effect of using tf.raw_ops.DatasetToSingleElement on the memory footprint of a TensorFlow program?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

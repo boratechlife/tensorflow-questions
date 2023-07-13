@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to sort the elements of a tensor in descending order and return the indices of the sorted elements along all axes using tf.argsort.
 - Write a code to sort the rows of a matrix in ascending order based on the pairwise cosine similarity between rows using tf.argsort.
 - Write a code to sort the columns of a matrix in descending order based on the pairwise correlation coefficients between columns using tf.argsort.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

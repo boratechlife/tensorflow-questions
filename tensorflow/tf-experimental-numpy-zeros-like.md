@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy zeros like.
 - Write a code to create an array of zeros with a specific shape and fill value, given the shape and fill value as keyword arguments.
 - Write a code to create an array of zeros with a specific shape and fill value, where the fill value is a scalar value.
 - Write a code to create an array of zeros with a specific shape and fill value, where the fill value is an array or tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

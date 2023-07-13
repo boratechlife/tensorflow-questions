@@ -66,3 +66,17 @@ description: Practice questions for tf broadcast to.
 - Write a code to broadcast a tensor of shape (2, 1) to shape (2, 3, 4).
 - Write a code to broadcast a tensor of shape (2, 3) to shape (2, 3, 4).
 - Write a code to broadcast a tensor of shape (2, 3, 4) to shape (2, 3, 4, 5).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing r
 - How can you resize images and apply random augmentations with different parameters to different images in a batch using tf.keras.layers.experimental.preprocessing.Resizing?
 - Write a code to resize images and apply different padding modes to different images in a batch using tf.keras.layers.experimental.preprocessing.Resizing.
 - How can you resize images and apply different interpolation modes to different images in a batch using tf.keras.layers.experimental.preprocessing.Resizing?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

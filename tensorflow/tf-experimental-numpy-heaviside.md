@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy heaviside.
 - Write a code to calculate the Heaviside step function for a given tensor and calculate the element-wise arc sine of the tensor.
 - Write a code to calculate the Heaviside step function for a given tensor and calculate the element-wise arc cosine of the tensor.
 - Write a code to calculate the Heaviside step function for a given tensor and calculate the element-wise arc tangent of the tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

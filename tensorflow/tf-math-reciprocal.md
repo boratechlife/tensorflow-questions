@@ -66,3 +66,17 @@ description: Practice questions for tf math reciprocal.
 - Write a code to compute the element-wise reciprocal of a TensorFlow tensor with shape [batch_size, sequence_length, num_classes] using tf.math.reciprocal.
 - Write a code to calculate the reciprocal of each element in a TensorFlow tensor and return a tensor with a specified shape and dtype using tf.math.reciprocal.
 - Write a code to compute the element-wise reciprocal of a TensorFlow tensor with shape [batch_size, num_channels, height, width, depth] using tf.math.reciprocal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to calculate the element-wise reduce log sum exponential of a tensor after applying tf.asinh element-wise.
 - Write a code to calculate the element-wise reduce logsumexp of a tensor after applying tf.asinh element-wise.
 - Write a code to calculate the element-wise reduce variance of a tensor after applying tf.asinh element-wise.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

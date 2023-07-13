@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet50v2.
 - Write a code to calculate the F1 score of the ResNet50V2 model on a test dataset.
 - Write a code to implement class activation maps using the ResNet50V2 model.
 - Write a code to implement gradient-weighted class activation maps using the ResNet50V2 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

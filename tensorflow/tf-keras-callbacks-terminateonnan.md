@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks terminateonnan.
 - Write a code to create a TerminateOnNaN callback that stops training if the validation loss becomes NaN and the learning rate is less than 0.0001.
 - Write a code to create a TerminateOnNaN callback that stops training if the validation accuracy becomes NaN and the training loss is less than 0.1.
 - Write a code to create a TerminateOnNaN callback that stops training if the validation loss exceeds the training loss and the validation accuracy is less than 0.8.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

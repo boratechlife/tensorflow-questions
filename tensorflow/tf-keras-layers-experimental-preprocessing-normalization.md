@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing n
 - Write a code to normalize a batch of image tensors with a specific axis, epsilon, variance_initializer, and dtype using tf.keras.layers.experimental.preprocessing.Normalization.
 - Write a code to normalize a batch of image tensors with a specific axis, epsilon, variance_initializer, dtype, and name using tf.keras.layers.experimental.preprocessing.Normalization.
 - Write a code to normalize a batch of time series data with a specific axis, epsilon, variance_initializer, and dtype using tf.keras.layers.experimental.preprocessing.Normalization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

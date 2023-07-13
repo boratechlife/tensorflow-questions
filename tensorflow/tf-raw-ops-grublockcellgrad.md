@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops grublockcellgrad.
 - Write a code to compute the gradients of multiple GRU block cells with respect to their output sequences, initial hidden states, and trainable variables using tf.raw_ops.GRUBlockCellGrad.
 - Write a code to compute the average gradients of multiple GRU block cells with respect to their input sequences using tf.raw_ops.GRUBlockCellGrad.
 - Write a code to compute the average gradients of multiple GRU block cells with respect to their output sequences using tf.raw_ops.GRUBlockCellGrad.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

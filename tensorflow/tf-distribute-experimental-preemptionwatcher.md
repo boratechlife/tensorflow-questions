@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental preemptionwatcher
 - Write a code to check if the PreemptionWatcher object has detected any timeout events.
 - Write a code to get the list of timeout events detected by the PreemptionWatcher object.
 - Write a code to remove a specific timeout event from the list using the PreemptionWatcher object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

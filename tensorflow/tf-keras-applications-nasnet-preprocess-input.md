@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications nasnet preprocess inpu
 - Write a code to preprocess an image using tf.keras.applications.nasnet.preprocess_input and apply Canny edge detection.
 - Write a code to preprocess an image using tf.keras.applications.nasnet.preprocess_input and perform object detection using a specific algorithm.
 - Write a code to preprocess an image using tf.keras.applications.nasnet.preprocess_input and perform image classification using a specific model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

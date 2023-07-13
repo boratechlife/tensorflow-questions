@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedconv2dandrequantize.
 - Write a code to specify the filter stride size for the output tensor in the QuantizedConv2DAndRequantize operation.
 - Write a code to set the number of groups for the output tensor in the QuantizedConv2DAndRequantize operation.
 - Write a code to specify the quantization range for the output tensor in the QuantizedConv2DAndRequantize operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

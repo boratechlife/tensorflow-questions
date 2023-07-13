@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cropandresize.
 - Can you provide an example code for cropping and resizing images using the "random shear transformation" technique with tf.raw_ops.CropAndResize?
 - How can I crop and resize images using the "random zoom-in" technique with tf.raw_ops.CropAndResize?
 - Write a code to crop and resize an image using the "random zoom-out" technique with tf.raw_ops.CropAndResize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

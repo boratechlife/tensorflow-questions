@@ -66,3 +66,17 @@ description: Practice questions for tf initializers serialize.
 - Write a code to retrieve and deserialize a TensorFlow initializer from a NoSQL database (e.g., MongoDB).
 - Write a code to serialize a TensorFlow initializer and send it as a message using a messaging protocol (e.g., MQTT).
 - Write a code to receive the message, deserialize the TensorFlow initializer, and process it using the messaging protocol (e.g., MQTT).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

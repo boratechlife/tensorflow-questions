@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers experimental adadelta.
 - Write a code to set the L1 regularization factor for the Adadelta optimizer.
 - Write a code to get the L1 regularization factor for the Adadelta optimizer.
 - Write a code to reset the state of the Adadelta optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

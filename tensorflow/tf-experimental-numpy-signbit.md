@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy signbit.
 - Write a code to sort an array in ascending order considering only the positive elements using tf.experimental.numpy.signbit.
 - Write a code to check if an array is monotonically increasing considering only the negative elements using tf.experimental.numpy.signbit.
 - Write a code to check if an array is monotonically increasing considering only the positive elements using tf.experimental.numpy.signbit.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

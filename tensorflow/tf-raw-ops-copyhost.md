@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops copyhost.
 - How can you copy a subset of data from a device tensor to multiple host tensors using tf.raw_ops.CopyHost?
 - Write a code to copy a subset of data from a device tensor to a host tensor using tf.raw_ops.CopyHost.
 - How can you copy a subset of data from a device tensor to a host tensor using tf.raw_ops.CopyHost?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

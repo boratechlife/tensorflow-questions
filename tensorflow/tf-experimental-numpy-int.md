@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy int.
 - write a code to calculate the element-wise right shift of a given integer tensor by a given number of bits.
 - write a code to calculate the element-wise logical AND of two given integer tensors.
 - write a code to calculate the element-wise logical OR of two given integer tensors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

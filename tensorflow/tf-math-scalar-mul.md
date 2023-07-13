@@ -66,3 +66,17 @@ description: Practice questions for tf math scalar mul.
 - Implement a function that takes two sparse TensorFlow tensors and a scalar value as inputs and returns the result of element-wise scalar multiplication using tf.math.scalar_mul.
 - Write a code to multiply a scalar value with each element of a TensorFlow sparse tensor of arbitrary shape using tf.math.scalar_mul.
 - How can you perform scalar multiplication on a TensorFlow sparse tensor of arbitrary shape using tf.math.scalar_mul?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

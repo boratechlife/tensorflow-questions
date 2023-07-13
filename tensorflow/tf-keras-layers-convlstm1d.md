@@ -115,3 +115,17 @@ description: Practice questions for tf keras layers convlstm1d.
 - Write a code to evaluate the performance of a model with a ConvLSTM1D layer using a given test dataset and calculate the sparse categorical cross-entropy loss.
 - 
 - Write a code to evaluate the performance of a model with a ConvLSTM1D layer using a given test dataset and calculate the accuracy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

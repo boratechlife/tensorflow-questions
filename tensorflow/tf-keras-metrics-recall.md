@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics recall.
 - Write a code to calculate the recall score using tf.keras.metrics.Recall for a recommendation system based on deep reinforcement learning.
 - Write a code to calculate the recall score using tf.keras.metrics.Recall for a recommendation system based on natural language processing.
 - Write a code to calculate the recall score using tf.keras.metrics.Recall for a recommendation system based on reinforcement learning with bandits.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

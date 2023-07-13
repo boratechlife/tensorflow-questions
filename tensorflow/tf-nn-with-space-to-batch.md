@@ -66,3 +66,17 @@ description: Practice questions for tf nn with space to batch.
 - Write a code to apply tf.nn.with_space_to_batch on a tensor and apply image processing operations on the transformed tensor.
 - Write a code to apply tf.nn.with_space_to_batch on a tensor and calculate the accuracy of a model using the transformed tensor.
 - Write a code to apply tf.nn.with_space_to_batch on a tensor and perform cross-validation using the transformed tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf math ceil.
 - Write a code to round up a negative matrix of mixed data types to the nearest ten using tf.math.ceil.
 - Write a code to round up a negative matrix of mixed data types to the nearest hundred using tf.math.ceil.
 - Write a code to round up a negative matrix of mixed data types to the nearest thousand using tf.math.ceil.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

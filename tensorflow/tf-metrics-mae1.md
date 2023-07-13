@@ -66,3 +66,17 @@ description: Practice questions for tf metrics mae1.
 - Write a code to calculate the weighted MAE between two pandas Series using tf.metrics.mean_absolute_error.
 - Write a code to calculate the weighted MAE between two lists using tf.metrics.mean_absolute_error.
 - Write a code to calculate the exponentially weighted MAE using TensorFlow's tf.metrics.mean_absolute_error.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

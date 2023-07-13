@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor is dtensor.
 - Write a code to check if a given tensor is a distributed tensor and return "Yes" if it is, and "No" if it is not, using tf.experimental.dtensor.is_dtensor.
 - Write a code to create a tensor and then verify if it is a distributed tensor using tf.experimental.dtensor.is_dtensor, returning the result.
 - Write a code to define a function that takes a tensor as input and returns True if it is a distributed tensor, and False otherwise, using tf.experimental.dtensor.is_dtensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

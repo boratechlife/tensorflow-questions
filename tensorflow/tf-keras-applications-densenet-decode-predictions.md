@@ -115,3 +115,17 @@ description: Practice questions for tf keras applications densenet decode predic
 - Write a code to pass multiple images through a DenseNet model, use decode_predictions, and display the predicted classes along with probabilities for each image.
 - 
 - Write a code to preprocess an image, pass it through a DenseNet model, and use decode_predictions to get the class labels with probabilities for a batch of images.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -115,3 +115,17 @@ description: Practice questions for tf dtypes saturate cast.
 - Write a code to perform saturation casting on a TensorFlow tensor and set values outside a specified range to a random value using "tf.dtypes.saturate_cast".
 - 
 - Write a code to convert a TensorFlow tensor to a specific data type and apply a custom scaling factor and offset using "tf.dtypes.saturate_cast".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

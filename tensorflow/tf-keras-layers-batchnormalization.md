@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers batchnormalization.
 - Write a code to chain multiple BatchNormalization layers in a neural network.
 - Write a code to set the momentum parameter of a BatchNormalization layer dynamically during training.
 - Write a code to apply BatchNormalization to a pre-trained model's layers.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

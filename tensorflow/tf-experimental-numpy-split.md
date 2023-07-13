@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy split.
 - Write a code to split a 2D NumPy array horizontally into three parts, where each part contains columns with a specific label.
 - Write a code to split a 3D NumPy array along the first axis into four parts, where each part contains elements less than a threshold.
 - Write a code to split a 3D NumPy array along the second axis into three parts, where each part contains elements with a specific label.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image smart resize.
 - How can you resize an image and perform image flipping using smart_resize?
 - Write a code to resize an image and apply image scaling using smart_resize.
 - How can you resize an image and perform image thresholding using smart_resize?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

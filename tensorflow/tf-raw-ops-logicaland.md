@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops logicaland.
 - Write a code to compute the logical AND of two TensorFlow tensors and return the result as a TensorFlow tensor with a different shape, data type, and device placement.
 - Write a code to apply logical AND operation on two TensorFlow tensors and return the result as a TensorFlow tensor with a different shape, data type, and execution mode.
 - Write a code to perform logical AND operation on two TensorFlow tensors and return the result as a TensorFlow tensor with a different shape, data type, and graph.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

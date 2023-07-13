@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mean.
 - Given a tensor, write a code to calculate the mean value of its elements along a specific axis and keep the dimensions unchanged using tf.raw_ops.Mean.
 - Write a code to calculate the mean value of a tensor along multiple axes and keep the reduced dimensions using tf.raw_ops.Mean.
 - How can you calculate the mean value of a tensor and exclude specific elements satisfying a condition while keeping the reduced dimensions using tf.raw_ops.Mean?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

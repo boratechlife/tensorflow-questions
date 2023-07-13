@@ -66,3 +66,17 @@ description: Practice questions for tf initializers glorot normal.
 - Write a code to initialize a tensor using tf.initializers.glorot_normal with a shape of (3, 3) and a specific seed value.
 - Write a code to initialize a variable using tf.initializers.glorot_normal with a shape of (10,) and specify the dtype as int32.
 - Write a code to initialize a tensor using tf.initializers.glorot_normal with a shape of (2, 3, 4) and a non-default scale value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

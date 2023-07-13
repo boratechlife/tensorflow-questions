@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers constant.
 - Initialize a 2D tensor with shape (4, 4) and all elements set to 1 using tf.keras.initializers.Constant.
 - Create a constant initializer with a value of 0 and set it as the initializer for a specific layer in a neural network.
 - How can you initialize a constant weight tensor with a specific range of values in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

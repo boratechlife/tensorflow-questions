@@ -66,3 +66,17 @@ description: Practice questions for tf io raggedfeature rowlimits.
 - Write a code to calculate the minimum row length in a tf.io.RaggedFeature tensor.
 - Write a code to create a tf.io.RaggedFeature from a text file.
 - Write a code to calculate the sum of values in each row of a tf.io.RaggedFeature tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

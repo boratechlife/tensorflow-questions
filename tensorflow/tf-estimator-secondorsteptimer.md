@@ -66,3 +66,17 @@ description: Practice questions for tf estimator secondorsteptimer.
 - Write a code to check if the timer has been finished using tf.estimator.SecondOrStepTimer.
 - Write a code to check if the timer is active using tf.estimator.SecondOrStepTimer.
 - Write a code to check if the timer is inactive using tf.estimator.SecondOrStepTimer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf pad.
 - Write a code to pad a 3D tensor with zeros on the left and right sides and a pattern of values in the middle for the first two dimensions.
 - Write a code to pad a 2D tensor with zeros along the first dimension and a pattern of values on the top and bottom.
 - Write a code to pad a 1D tensor with zeros along both ends and a pattern of values in the middle with a different padding width for each end.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

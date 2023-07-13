@@ -66,3 +66,17 @@ description: Practice questions for tf image draw bounding boxes.
 - Write a code to draw bounding boxes on images with variable sizes, resolutions, orientations, aspect ratios, colors, line widths, opacities, labels, label texts, label colors, label font sizes, label positions, rounded corners, dashed lines, and customized line patterns using tf.image.draw_bounding_boxes.
 - Write a code to draw bounding boxes on images with variable sizes, resolutions, orientations, aspect ratios, colors, line widths, opacities, labels, label texts, label colors, label font sizes, label positions, rounded corners, dashed lines, customized line patterns, and transparent backgrounds using tf.image.draw_bounding_boxes.
 - Write a code to draw bounding boxes on images with variable sizes, resolutions, orientations, aspect ratios, colors, line widths, opacities, labels, label texts, label colors, label font sizes, label positions, rounded corners, dashed lines, customized line patterns, transparent backgrounds, and alpha channels using tf.image.draw_bounding_boxes.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedconcat.
 - Implement a code snippet to concatenate quantized tensors with a specified axis order using tf.raw_ops.QuantizedConcat.
 - Write a code to concatenate quantized tensors while adjusting their overflow behavior using tf.raw_ops.QuantizedConcat.
 - How would you concatenate quantized tensors with adjusted overflow behavior using tf.raw_ops.QuantizedConcat?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

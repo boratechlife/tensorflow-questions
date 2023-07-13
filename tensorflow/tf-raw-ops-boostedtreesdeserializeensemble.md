@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreesdeserializeensemble.
 - Write a code to retrieve the maximum node children index in a deserialized boosted trees ensemble.
 - Write a code to extract the node metadata from a deserialized boosted trees ensemble.
 - Write a code to determine the number of unique node metadata entries in a deserialized boosted trees ensemble.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

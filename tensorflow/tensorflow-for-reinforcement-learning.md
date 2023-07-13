@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Explain the concept of the reward hypothesis in reinforcement learning and its implications. How can TensorFlow be used to define and optimize reward functions?
 - Describe the concept of deep deterministic policy gradients (DDPG) and its application in continuous control tasks. How can TensorFlow be used to implement DDPG?
 - What are the challenges of applying reinforcement learning in real-world scenarios? How can TensorFlow be used to address these challenges?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

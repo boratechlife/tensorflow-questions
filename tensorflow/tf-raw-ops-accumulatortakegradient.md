@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops accumulatortakegradient.
 - Write a code to calculate the dot product between the accumulated gradients and another tensor in a tf.raw_ops.AccumulatorTakeGradient object.
 - Write a code to calculate the cosine similarity between the accumulated gradients and another tensor in a tf.raw_ops.AccumulatorTakeGradient object.
 - Write a code to calculate the pairwise distances between the accumulated gradients and another tensor in a tf.raw_ops.AccumulatorTakeGradient object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

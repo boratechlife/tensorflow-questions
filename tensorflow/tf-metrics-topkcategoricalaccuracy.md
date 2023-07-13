@@ -66,3 +66,17 @@ description: Practice questions for tf metrics topkcategoricalaccuracy.
 - Write a code to calculate the top-5 categorical accuracy for a batch of predictions and labels using "tf.metrics.TopKCategoricalAccuracy" metric, with a custom threshold.
 - Write a code to calculate the top-10 categorical accuracy for a batch of predictions and labels using "tf.metrics.TopKCategoricalAccuracy" metric, with a custom threshold.
 - Write a code to calculate the top-1 categorical accuracy for a batch of predictions and labels using "tf.metrics.TopKCategoricalAccuracy" metric, with class weights.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

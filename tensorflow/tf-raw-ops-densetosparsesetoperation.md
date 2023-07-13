@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops densetosparsesetoperation.
 - Implement a function that takes a multi-dimensional dense tensor and a threshold and returns the corresponding sparse tensor using tf.raw_ops.DenseToSparseSetOperation.
 - Write a code to convert a multi-dimensional dense matrix to a sparse matrix with a specified threshold using tf.raw_ops.DenseToSparseSetOperation.
 - How can you utilize tf.raw_ops.DenseToSparseSetOperation to convert a multi-dimensional dense matrix to a sparse matrix by applying a threshold to the values?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

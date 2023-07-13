@@ -66,3 +66,17 @@ description: Practice questions for tf quantization fake quant with min max args
 - Write a code to apply fake_quant_with_min_max_args_gradient to a recurrent neural network (RNN) architecture.
 - Write a code to apply fake_quant_with_min_max_args_gradient to a transformer architecture.
 - Write a code to apply fake_quant_with_min_max_args_gradient to a generative adversarial network (GAN) architecture.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

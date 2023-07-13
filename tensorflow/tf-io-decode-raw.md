@@ -66,3 +66,17 @@ description: Practice questions for tf io decode raw.
 - Write a code to decode a raw byte string and calculate the element-wise maximum with another tensor using tf.io.decode_raw.
 - Write a code to decode a raw byte string and calculate the element-wise cumulative minimum of the output using tf.io.decode_raw.
 - Write a code to decode a raw byte string and calculate the element-wise cumulative maximum of the output using tf.io.decode_raw.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

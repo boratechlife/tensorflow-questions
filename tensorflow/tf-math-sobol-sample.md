@@ -66,3 +66,17 @@ description: Practice questions for tf math sobol sample.
 - Write a code to generate Sobol samples and calculate their element-wise element-wise softmax values using tf.nn.softmax.
 - Write a code to generate Sobol samples and calculate their element-wise sigmoid values using tf.nn.sigmoid.
 - Write a code to generate Sobol samples and calculate their element-wise rectified linear unit (ReLU) values using tf.nn.relu.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

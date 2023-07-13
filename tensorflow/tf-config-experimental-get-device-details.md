@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental get device details.
 - Write a code to retrieve the device details of all available devices and find the device with the lowest memory utilization percentage among CPUs.
 - Write a code to retrieve the device details of all available devices and sort them based on memory utilization percentage.
 - Write a code to retrieve the device details of all available devices and filter out the devices with memory utilization percentage greater than 80%.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

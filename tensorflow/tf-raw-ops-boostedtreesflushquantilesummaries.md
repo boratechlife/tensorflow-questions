@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreesflushquantilesummarie
 - How can you specify the container parameter for the BoostedTreesFlushQuantileSummaries operation?
 - Write a code to set the container_tensor parameter for the BoostedTreesFlushQuantileSummaries operation.
 - How can you specify the shared_name parameter for the BoostedTreesFlushQuantileSummaries operation?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

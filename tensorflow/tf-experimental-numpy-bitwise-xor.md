@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy bitwise xor.
 - Write a code to perform bitwise XOR between two arrays of binary strings using tf.experimental.numpy.bitwise_xor and return the result.
 - Write a code to perform bitwise XOR between an array of integers and a single integer using tf.experimental.numpy.bitwise_xor and return the result.
 - Write a code to perform bitwise XOR between an array of binary strings and a single binary string using tf.experimental.numpy.bitwise_xor and return the result.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

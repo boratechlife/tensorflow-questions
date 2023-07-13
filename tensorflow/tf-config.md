@@ -66,3 +66,17 @@ description: Practice questions for tf config.
 - Write a code to get the experimental log timestamp flag using tf.config.
 - Write a code to set the experimental virtual devices flag using tf.config.
 - Write a code to get the experimental virtual devices flag using tf.config.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf feature column crossed column.
 - Write a code to create a crossed column and specify the combiner function to use when multiple values are found for a given feature, with a default combiner function for the remaining features and a default dtype for the resulting column, a default value for the remaining columns, a custom delimiter between the input columns, a custom dtype for the input columns, a custom default value for unknown feature values, a custom hash_bucket_size, a custom combiner function for the remaining features, a custom dtype for the remaining columns, a custom default value for the remaining columns, a custom delimiter for the remaining columns, a custom dtype for the remaining columns, a custom default value for the remaining columns, a custom combiner function for the remaining columns, a custom dtype for the remaining columns, and a custom default value for the remaining columns.
 - Write a code to create a crossed column and set its hash_bucket_size based on the logarithm of the total number of categories in both input columns, with a default value for the remaining columns, a custom combiner function for the resulting column, a custom delimiter between the input columns, a custom dtype for the input columns, a custom default value for unknown feature values, a custom hash_bucket_size, a custom combiner function for the remaining features, a custom dtype for the remaining columns, a custom default value for the remaining columns, a custom delimiter for the remaining columns, a custom dtype for the remaining columns, a custom default value for the remaining columns, a custom combiner function for the remaining columns, a custom dtype for the remaining columns, a custom default value for the remaining columns, and a custom hash_bucket_size.
 - Write a code to create a crossed column and set its hash_bucket_size based on the square root of the total number of categories in both input columns, with a default value for the remaining columns, a custom combiner function for the resulting column, a custom delimiter between the input columns, a custom dtype for the input columns, a custom default value for unknown feature values, a custom hash_bucket_size, a custom combiner function for the remaining features, a custom dtype for the remaining columns, a custom default value for the remaining columns, a custom delimiter for the remaining columns, a custom dtype for the remaining columns, a custom default value for the remaining columns, a custom combiner function for the remaining columns, a custom dtype for the remaining columns, a custom default value for the remaining columns, a custom hash_bucket_size, and a custom combiner function for the remaining columns.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

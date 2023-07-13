@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers rmsprop.
 - Write a code to get the epsilon parameter of an RMSprop optimizer as a variable.
 - Write a code to set the decay parameter for an RMSprop optimizer using a variable.
 - Write a code to get the decay parameter of an RMSprop optimizer as a variable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

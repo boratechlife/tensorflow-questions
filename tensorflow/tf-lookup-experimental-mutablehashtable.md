@@ -66,3 +66,17 @@ description: Practice questions for tf lookup experimental mutablehashtable.
 - Write a code to create a MutableHashTable with a specified container type, synchronization mode, initializer function, default value, key combiner, value combiner, key converter, value converter, key dtype, value dtype, hash function, table factory, shared name, initializer value, and initializer.
 - Write a code to create a MutableHashTable with a specified container type, synchronization mode, initializer function, default value, key combiner, value combiner, key converter, value converter, key dtype, value dtype, hash function, table factory, shared name, initializer value, initializer, and hash table type.
 - Write a code to create a MutableHashTable with a specified container type, synchronization mode, initializer function, default value, key combiner, value combiner, key converter, value converter, key dtype, value dtype, hash function, table factory, shared name, initializer value, initializer, hash table type, and key initializer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

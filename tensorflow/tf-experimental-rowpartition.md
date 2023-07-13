@@ -66,3 +66,17 @@ description: Practice questions for tf experimental rowpartition.
 - Write a code to calculate the minimum row size across multiple RowPartition objects.
 - Write a code to iterate over the rows in a RowPartition object.
 - Write a code to iterate over the partitions in a RowPartition object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

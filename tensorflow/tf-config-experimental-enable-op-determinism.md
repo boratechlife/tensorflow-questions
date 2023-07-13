@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental enable op determinism
 - Write a code to enable operation determinism in TensorFlow and set the distributed options.
 - Write a code to enable operation determinism in TensorFlow and set the TensorBoard options.
 - Write a code to enable operation determinism in TensorFlow and set the trace options.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

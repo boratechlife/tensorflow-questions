@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils model to dot.
 - Write a code to set the node shape in the graph to 'underline' using model_to_dot.
 - Write a code to set the node shape in the graph to 'italics' using model_to_dot.
 - Write a code to set the node shape in the graph to 'stereo' using model_to_dot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

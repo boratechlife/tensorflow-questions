@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers glorot normal.
 - Set the kernel initializer of all convolutional layers in your model to Glorot normal and specify the seed, regularizer, and constraint.
 - Create a dense layer with Glorot normal initialization, specifying the input shape, activation function, regularizer, constraint, and learning rate.
 - Initialize the weights of a specific layer in your model to Glorot normal, and set the seed to a specific value, while using a custom activation function, regularizer, constraint, and learning rate.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf random experimental create rng state.
 - Write a code to generate a random tensor with a specific shape and a truncated normal distribution using the tf.random.experimental.create_rng_state function.
 - Write a code to generate a random tensor with a specific shape and a gamma distribution using the tf.random.experimental.create_rng_state function.
 - Write a code to generate a random tensor with a specific shape and a poisson distribution using the tf.random.experimental.create_rng_state function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

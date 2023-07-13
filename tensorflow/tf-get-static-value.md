@@ -66,3 +66,17 @@ description: Practice questions for tf get static value.
 - Write a code to calculate the element-wise square root of a tensor using tf.get_static_value.
 - Write a code to calculate the element-wise power of a tensor using tf.get_static_value.
 - Write a code to calculate the element-wise absolute maximum of two tensors using tf.get_static_value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

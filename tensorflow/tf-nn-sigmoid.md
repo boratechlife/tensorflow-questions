@@ -66,3 +66,17 @@ description: Practice questions for tf nn sigmoid.
 - Write a code to compute the F1 score for a binary classification problem using sigmoid activation and tf.contrib.metrics.f1_score.
 - Write a code to apply the sigmoid activation function to a tensor and perform element-wise logarithm using tf.math.log.
 - Write a code to initialize the weights for a sigmoid activation layer using tf.nn.sigmoid and identity initialization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

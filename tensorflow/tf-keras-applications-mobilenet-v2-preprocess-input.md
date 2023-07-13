@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications mobilenet v2 preproces
 - Write a code to preprocess an image and apply bilateral filtering using mobilenet_v2.preprocess_input.
 - Write a code to preprocess an image and apply unsharp masking using mobilenet_v2.preprocess_input.
 - Write a code to preprocess an image and apply histogram stretching using mobilenet_v2.preprocess_input.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

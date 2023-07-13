@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy vsplit.
 - Write a code to split a 2D array into three equal parts vertically, apply a bitwise operation to each part, and then concatenate them horizontally using tf.experimental.numpy.vsplit, bitwise operations, and tf.experimental.numpy.hstack.
 - Write a code to split a 2D array into four equal parts vertically, apply a bitwise operation to each part, and then concatenate them horizontally using tf.experimental.numpy.vsplit, bitwise operations, and tf.experimental.numpy.hstack.
 - Write a code to split a 2D array into two parts vertically, perform a matrix operation on each part, and then concatenate them horizontally using tf.experimental.numpy.vsplit, matrix operations, and tf.experimental.numpy.hstack.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

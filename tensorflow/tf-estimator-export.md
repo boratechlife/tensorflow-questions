@@ -115,3 +115,17 @@ description: Practice questions for tf estimator export.
 - Write a code to export a TensorFlow estimator model and include multiple custom model_fn saved checkpoint formats.
 - 
 - Write a code to export a TensorFlow estimator model and include multiple custom model_fn saved_model_tags.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

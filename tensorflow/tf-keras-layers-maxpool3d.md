@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers maxpool3d.
 - Write a code to create a 3D max pooling layer with a pool size of (2, 2, 2) and set the threshold parameter for the SoftPlus activation function to 0.5.
 - Write a code to create a 3D max pooling layer with a pool size of (2, 2, 2) and set the alpha parameter for the ReLU activation function to 0.2.
 - Write a code to create a 3D max pooling layer with a pool size of (2, 2, 2) and set the alpha parameter for the LeakyReLU activation function to 0.2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

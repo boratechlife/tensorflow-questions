@@ -66,3 +66,17 @@ description: Practice questions for tf load library.
 - Write a code to load a TensorFlow library and handle any library function invocation errors using tf.load_library.
 - Write a code to load a TensorFlow library and handle any library function return value errors using tf.load_library.
 - Write a code to load a TensorFlow library and handle any library function argument type errors using tf.load_library.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy subtract.
 - Write a code to subtract a scalar value from all elements of a tensor using tf.experimental.numpy.subtract and assign the result to a new tensor.
 - Write a code to subtract two 2-D numpy arrays using tf.experimental.numpy.subtract and assign the result to a new array.
 - Write a code to subtract two 3-D numpy arrays using tf.experimental.numpy.subtract and assign the result to a new array.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers elu.
 - Write a code to apply tf.keras.layers.ELU activation to a tensor, followed by a dense layer with L1 and L2 regularization.
 - Write a code to create a neural network model with tf.keras.layers.ELU activation and early stopping based on validation accuracy.
 - Write a code to apply tf.keras.layers.ELU activation to a tensor, followed by a convolutional layer with group normalization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

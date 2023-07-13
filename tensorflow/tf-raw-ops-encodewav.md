@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops encodewav.
 - How can you encode a waveform with a specific volume level using "tf.raw_ops.EncodeWav"?
 - Implement a code that encodes a waveform into a WAV file and adds a specific channel layout using "tf.raw_ops.EncodeWav".
 - Write a code to encode a waveform into a WAV file and specify a custom metadata using "tf.raw_ops.EncodeWav".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedmatmulwithbiasandrequant
 - What is the significance of the out_min_exponent and out_max_exponent parameters in tf.raw_ops.QuantizedMatMulWithBiasAndRequantize?
 - Write a code to perform a quantized matrix multiplication with bias and requantize, dynamically setting the output minimum and maximum values.
 - How can you ensure that the output tensors have the correct shape and type for tf.raw_ops.QuantizedMatMulWithBiasAndRequantize?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

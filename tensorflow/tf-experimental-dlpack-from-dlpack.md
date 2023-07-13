@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dlpack from dlpack.
 - Write a code to convert a DLpack object to a TensorFlow Lattice tensor using "tf.experimental.dlpack.from_dlpack".
 - Write a code to convert a DLpack object to a TensorFlow Ranking tensor using "tf.experimental.dlpack.from_dlpack".
 - Write a code to convert a DLpack object to a TensorFlow Recommenders tensor using "tf.experimental.dlpack.from_dlpack".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

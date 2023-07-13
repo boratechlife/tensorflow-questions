@@ -66,3 +66,17 @@ description: Practice questions for tf nn avg pool.
 - Write a code to perform average pooling with a custom padding on a 4D tensor.
 - Write a code to perform average pooling with a combination of custom parameters on a 2D tensor.
 - Write a code to perform average pooling with a combination of custom parameters on a 3D tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

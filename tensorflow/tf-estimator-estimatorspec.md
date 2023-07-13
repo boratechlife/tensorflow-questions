@@ -66,3 +66,17 @@ description: Practice questions for tf estimator estimatorspec.
 - Write a code to create an EstimatorSpec with mode, predictions, loss, train_op, eval_metric_ops, and training_hooks, and export_outputs, and training_chief_hooks, and evaluation_hooks, and prediction_hooks using a custom model_fn and a custom scaffold and a custom config, and using a specific warm_start_from checkpoint, and specifying a specific model_dir, and specifying the number of steps, and using a specific device for training, and specifying a learning_rate schedule, and enabling automatic mixed precision training, and using a specific distribution strategy for training, and specifying a specific checkpoint interval for saving, and specifying a specific logging interval, and specifying a specific evaluation interval, and specifying a specific early stopping criterion, and specifying a specific batch size for training.
 - Write a code to create an EstimatorSpec with mode, predictions, loss, train_op, eval_metric_ops, and training_hooks, and export_outputs, and training_chief_hooks, and evaluation_hooks, and prediction_hooks using a custom model_fn and a custom scaffold and a custom config, and using a specific warm_start_from checkpoint, and specifying a specific model_dir, and specifying the number of steps, and using a specific device for training, and specifying a learning_rate schedule, and enabling automatic mixed precision training, and using a specific distribution strategy for training, and specifying a specific checkpoint interval for saving, and specifying a specific logging interval, and specifying a specific evaluation interval, and specifying a specific early stopping criterion, and specifying a specific batch size for training, and specifying a specific shuffle buffer size for training data.
 - Write a code to create an EstimatorSpec with mode, predictions, loss, train_op, eval_metric_ops, and training_hooks, and export_outputs, and training_chief_hooks, and evaluation_hooks, and prediction_hooks using a custom model_fn and a custom scaffold and a custom config, and using a specific warm_start_from checkpoint, and specifying a specific model_dir, and specifying the number of steps, and using a specific device for training, and specifying a learning_rate schedule, and enabling automatic mixed precision training, and using a specific distribution strategy for training, and specifying a specific checkpoint interval for saving, and specifying a specific logging interval, and specifying a specific evaluation interval, and specifying a specific early stopping criterion, and specifying a specific batch size for training, and specifying a specific shuffle buffer size for training data, and specifying a specific number of parallel calls for data preprocessing.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

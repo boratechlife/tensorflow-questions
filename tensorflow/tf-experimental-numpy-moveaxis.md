@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy moveaxis.
 - Write a code to move the first, second, third, and fourth axes to the fifth, sixth, seventh, and eighth positions using tf.experimental.numpy.moveaxis.
 - Write a code to move the second, third, fourth, and fifth axes to the first, third, fourth, and sixth positions using tf.experimental.numpy.moveaxis.
 - Write a code to move the first, second, third, fourth, and fifth axes to the sixth, seventh, eighth, ninth, and tenth positions using tf.experimental.numpy.moveaxis.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

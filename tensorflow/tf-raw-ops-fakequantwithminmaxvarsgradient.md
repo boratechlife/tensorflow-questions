@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fakequantwithminmaxvarsgradient.
 - Write a code to apply a leaky ReLU activation function to the gradient tensor in tf.raw_ops.FakeQuantWithMinMaxVarsGradient operation.
 - Write a code to calculate the element-wise reciprocal cube root of the gradient tensor in tf.raw_ops.FakeQuantWithMinMaxVarsGradient.
 - Write a code to compute the median value in the gradient tensor of tf.raw_ops.FakeQuantWithMinMaxVarsGradient.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

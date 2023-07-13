@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops flushsummarywriter.
 - Implement a code snippet to flush a summary writer and persist all summary data to disk.
 - Write a code to flush a summary writer and ensure that all data is written to the underlying file.
 - How can you flush a summary writer and guarantee that all buffered data is committed to disk?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

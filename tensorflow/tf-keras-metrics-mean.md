@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics mean.
 - Write a code to calculate the weighted mean of a specified axis in a NumPy array using tf.keras.metrics.Mean.
 - Write a code to calculate the weighted mean of a specified axis in a TensorFlow tensor using tf.keras.metrics.Mean.
 - Write a code to calculate the weighted mean of a specified axis in a pandas DataFrame using tf.keras.metrics.Mean.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

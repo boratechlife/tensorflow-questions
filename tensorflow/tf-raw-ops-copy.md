@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops copy.
 - Write a code to copy the shape and dtype of a TensorFlow tensor into multiple tensors using the "tf.raw_ops.Copy" operation.
 - Write a code to copy a slice of a TensorFlow tensor into multiple tensors using the "tf.raw_ops.Copy" operation.
 - Write a code to copy the values of a TensorFlow tensor into another tensor with a different shape using the "tf.raw_ops.Copy" operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

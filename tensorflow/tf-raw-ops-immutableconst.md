@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops immutableconst.
 - Write a code to calculate the element-wise minimum value among multiple immutable constant tensors using tf.raw_ops.ImmutableConst.
 - Write a code to calculate the element-wise product of multiple immutable constant tensors using tf.raw_ops.ImmutableConst.
 - Write a code to calculate the element-wise cumulative sum of an immutable constant tensor using tf.raw_ops.ImmutableConst.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

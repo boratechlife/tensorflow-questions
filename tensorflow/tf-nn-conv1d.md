@@ -66,3 +66,17 @@ description: Practice questions for tf nn conv1d.
 - Write a code to perform a 1D convolution with a custom padding and apply pooling using tf.nn.conv1d.
 - Write a code to perform a 1D convolution with a custom padding and apply multiple layers using tf.nn.conv1d.
 - Write a code to perform a 1D convolution with a custom padding and apply residual connections using tf.nn.conv1d.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

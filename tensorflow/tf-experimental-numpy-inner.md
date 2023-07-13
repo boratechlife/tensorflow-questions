@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy inner.
 - Write a code to find the dot product of two arrays and round the result to the nearest integer.
 - Write a code to compute the inner product of two arrays and truncate the decimal part of the result.
 - Write a code to calculate the dot product of two arrays and truncate the decimal part of the result.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend set floatx.
 - Write a code to set the default floating-point type to 'float32' and enable XLA (Accelerated Linear Algebra) computations using tf.keras.backend.set_floatx.
 - Write a code to set the default floating-point type to 'float64' and enable XLA (Accelerated Linear Algebra) computations using tf.keras.backend.set_floatx.
 - Write a code to set the default floating-point type to 'bfloat16' and enable XLA (Accelerated Linear Algebra) computations using tf.keras.backend.set_floatx.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops computebatchsize.
 - Implement a Python function that calculates the batch size of a TensorFlow tensor using tf.raw_ops.ComputeBatchSize.
 - 
 - Create a code snippet to determine the batch size of a given TensorFlow tensor using tf.raw_ops.ComputeBatchSize in Python.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf metrics logcosh.
 - Write a code to calculate the logcosh loss for a model with different activation functions for different layers.
 - Write a code to compute the logcosh loss for a model with different learning rate schedules.
 - Write a code to calculate the logcosh loss for a model with different loss weights for different outputs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

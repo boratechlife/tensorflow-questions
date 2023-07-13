@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops dataservicedatasetv4.
 - How can you retrieve the take count index selector resource of a DataServiceDatasetV4?
 - Write a code to set the wait for instruction for a DataServiceDatasetV4 object.
 - How can you retrieve the wait for instruction of a DataServiceDatasetV4?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

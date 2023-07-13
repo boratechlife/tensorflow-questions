@@ -66,3 +66,17 @@ description: Practice questions for tf initializers lecunnormal.
 - Write a code to initialize a tensor with tf.initializers.LecunNormal and a specific partition info value.
 - Create a code snippet to initialize a tensor with tf.initializers.LecunNormal and a specific trainable flag value.
 - How to initialize a tensor using tf.initializers.LecunNormal and a specific synchronization context value?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

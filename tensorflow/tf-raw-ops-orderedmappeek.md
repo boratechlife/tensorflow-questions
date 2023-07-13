@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops orderedmappeek.
 - Write a code to extract a subset of an OrderedMapPeek object based on a list of keys.
 - Write a code to extract a subset of an OrderedMapPeek object based on a condition applied to the keys.
 - Write a code to clear all key-value pairs from an OrderedMapPeek object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

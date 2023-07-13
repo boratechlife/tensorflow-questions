@@ -66,3 +66,17 @@ description: Practice questions for tf linalg l2 normalize.
 - Write a code to normalize a tensor and calculate the element-wise product with another tensor using tf.linalg.l2_normalize.
 - Write a code to compute the L2 norm of a tensor and return the covariance matrix using tf.linalg.l2_normalize.
 - Write a code to normalize a tensor and calculate the element-wise difference with another tensor using tf.linalg.l2_normalize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

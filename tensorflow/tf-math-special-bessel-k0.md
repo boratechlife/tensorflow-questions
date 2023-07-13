@@ -66,3 +66,17 @@ description: Practice questions for tf math special bessel k0.
 - Write a code to calculate the cosine of tf.math.special.bessel_k0 for a given input and multiply it by a constant.
 - Write a code to calculate the sine of tf.math.special.bessel_k0 for a given input and divide it by a constant.
 - Write a code to calculate the tangent of tf.math.special.bessel_k0 for a given input and add it to a constant.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

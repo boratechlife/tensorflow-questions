@@ -67,3 +67,17 @@ description: Practice questions for tf keras applications inception resnet v2 de
 - Write a code to decode predictions with a different weight initialization using decode_predictions.
 - How can you decode predictions with a different input normalization using decode_predictions?
 - Write a code to decode predictions with a different input normalization using decode_predictions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

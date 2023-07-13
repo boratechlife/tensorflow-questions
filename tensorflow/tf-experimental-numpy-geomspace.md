@@ -115,3 +115,17 @@ description: Practice questions for tf experimental numpy geomspace.
 - Write a code to generate a geometric sequence with a starting value of 1, a common ratio of 2, a step size of 2, and a range from 1 to 10 using tf.experimental.numpy.geomspace.
 - 
 - Write a code to generate a geometric sequence with a starting value of 10, a common ratio of 0.5, a step size of 0.1, and a range from 1 to 5 using tf.experimental.numpy.geomspace.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

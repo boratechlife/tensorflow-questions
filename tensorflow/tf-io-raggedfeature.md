@@ -66,3 +66,17 @@ description: Practice questions for tf io raggedfeature.
 - Write a code to convert a NumPy array to a tf.io.RaggedFeature.
 - Write a code to convert a tf.io.RaggedFeature to a JSON string.
 - Write a code to convert a JSON string to a tf.io.RaggedFeature.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

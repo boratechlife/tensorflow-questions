@@ -66,3 +66,17 @@ description: Practice questions for tf math angle.
 - Write a code to compute the angle between the vector joining the origin to a point and the plane perpendicular to the x-z plane in a 3D coordinate system using tf.math.angle.
 - Write a code to find the angle between the line connecting two points and the plane perpendicular to the x-z plane in a 3D coordinate system using tf.math.angle.
 - Write a code to calculate the angle between the resultant force vector and the plane perpendicular to the x-z plane in a 3D coordinate system using tf.math.angle.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

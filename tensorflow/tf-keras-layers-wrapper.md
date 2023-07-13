@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers wrapper.
 - Write a code to set the beta1 parameter of a custom optimizer used in a model with a custom layer subclassed from Wrapper.
 - Write a code to set the beta2 parameter of a custom optimizer used in a model with a custom layer subclassed from Wrapper.
 - Write a code to set the epsilon parameter of a custom optimizer used in a model with a custom layer subclassed from Wrapper.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

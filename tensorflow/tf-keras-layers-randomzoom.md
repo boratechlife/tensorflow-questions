@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers randomzoom.
 - How can you apply random zoom augmentation to images with a zoom range of 0.5 to 1.5 and a fill mode of "constant" using tf.keras.layers.RandomZoom?
 - Write a code to apply random zoom augmentation to images and calculate the structural similarity index (SSIM) of the augmented images using tf.keras.layers.RandomZoom.
 - How can you apply random zoom augmentation to images with a zoom range of 0.7 to 1.3 and a fill value of 0 using tf.keras.layers.RandomZoom?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

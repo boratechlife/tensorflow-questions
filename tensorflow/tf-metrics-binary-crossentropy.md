@@ -66,3 +66,17 @@ description: Practice questions for tf metrics binary crossentropy.
 - How do you compute the binary cross-entropy loss for a batch of samples using "tf.metrics.binary_crossentropy" in TensorFlow 2.x?
 - Write a code to compute the binary cross-entropy loss for a batch of samples with label smoothing and class weighting.
 - How can you use "tf.metrics.binary_crossentropy" to handle missing values in a binary classification problem?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

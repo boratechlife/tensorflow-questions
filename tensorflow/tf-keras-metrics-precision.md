@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics precision.
 - Write a code to calculate the precision score for a given set of true labels and predicted values using adaptive thresholds using tf.keras.metrics.Precision.
 - Write a code to calculate the precision score for a given set of true labels and predicted values using optimized thresholds using tf.keras.metrics.Precision.
 - Write a code to calculate the precision score for a given set of true labels and predicted values using threshold tuning using tf.keras.metrics.Precision.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

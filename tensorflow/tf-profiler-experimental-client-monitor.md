@@ -66,3 +66,17 @@ description: Practice questions for tf profiler experimental client monitor.
 - Write a code to retrieve the TensorFlow profiler timeline node statistics using tf.profiler.experimental.client.monitor.
 - Write a code to retrieve the TensorFlow profiler timeline node statistics using tf.profiler.experimental.client.monitor.
 - Write a code to retrieve the TensorFlow profiler timeline node statistics using tf.profiler.experimental.client.monitor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

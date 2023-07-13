@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops nonmaxsuppressionv2.
 - How can you perform non-maximum suppression on a set of boxes with different levels of noise using tf.raw_ops.NonMaxSuppressionV2?
 - Write a code to calculate the aspect ratios of the selected boxes after performing non-maximum suppression using tf.raw_ops.NonMaxSuppressionV2.
 - How can you handle overlapping boxes with different classes during non-maximum suppression using tf.raw_ops.NonMaxSuppressionV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

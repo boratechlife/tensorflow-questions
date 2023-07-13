@@ -66,3 +66,17 @@ description: Practice questions for tf math xlog1py.
 - Write a code to calculate the element-wise logical AND between 1 plus y and another tensor z using tf.math.xlog1py.
 - Write a code to calculate the element-wise logical OR between 1 plus y and another tensor z using tf.math.xlog1py.
 - Write a code to calculate the element-wise logical XOR between 1 plus y and another tensor z using tf.math.xlog1py.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

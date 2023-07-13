@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image save img.
 - Write a code to save an image with a specified image denoising using save_img.
 - Write a code to save an image with a specified image inpainting using save_img.
 - Write a code to save an image with a specified image generation using save_img.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

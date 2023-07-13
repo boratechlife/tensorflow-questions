@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops anonymousrandomseedgenerator.
 - Write a code to generate a random seed and use it to initialize the random number generator in a harmony search algorithm.
 - Write a code to generate a random seed and use it to initialize the random number generator in a simulated binary crossover genetic algorithm.
 - Write a code to generate a random seed and use it to initialize the random number generator in a particle filter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

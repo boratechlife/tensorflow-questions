@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to count the number of integers with a population count equal to the product of their non-prime digits in a list using tf.raw_ops.PopulationCount.
 - Write a code to calculate the sum of population counts for integers with alternating bits in a list using tf.raw_ops.PopulationCount.
 - Write a code to count the number of integers with a population count equal to the sum of their Fibonacci sequence in a list using tf.raw_ops.PopulationCount.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications vgg19.
 - Write a code to compute the gradient with respect to the input image using VGG19.
 - Write a code to visualize the saliency map of an image using the VGG19 model.
 - Write a code to generate image captions using VGG19 as a feature extractor and a language model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers schedules exponentialdec
 - Write a code to create an ExponentialDecay schedule with an initial learning rate of 0.01, a decay rate of 0.1, a staircase decay, starting at step 20000000, a minimum learning rate of 0.001, and a decay every 100000 steps, but only for the first 100000000 steps.
 - Write a code to create an ExponentialDecay schedule with an initial learning rate of 0.1, a decay rate of 0.5, and a decay every 1000 steps, but only for the first 100000000 steps.
 - Write a code to create an ExponentialDecay schedule with an initial learning rate of 0.01, a decay rate of 0.1, a staircase decay, starting at step 50000000, a minimum learning rate of 0.001, and a decay every 200000 steps, but only for the first 200000000 steps.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

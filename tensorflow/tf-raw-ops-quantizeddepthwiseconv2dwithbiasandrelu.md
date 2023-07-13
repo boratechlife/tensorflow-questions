@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizeddepthwiseconv2dwithbiasa
 - Write a code to calculate the computational complexity of QuantizedDepthwiseConv2DWithBiasAndRelu.
 - Write a code to set the output scale type for quantized outputs in QuantizedDepthwiseConv2DWithBiasAndRelu.
 - Write a code to perform a depthwise convolution with bias and ReLU activation using quantized inputs and a set of float weight tensors with different quantization parameters.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

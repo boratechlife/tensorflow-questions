@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers textvectorization.
 - Write a code to set the padding value of a TextVectorization layer to None.
 - Write a code to set the maximum number of tokens to truncate of a TextVectorization layer to 100.
 - Write a code to set the maximum number of tokens to truncate of a TextVectorization layer to 200.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

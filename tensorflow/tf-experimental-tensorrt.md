@@ -66,3 +66,17 @@ description: Practice questions for tf experimental tensorrt.
 - Write a code to enable the use of TensorRT INT8 calibration with minmax calibration cache fallback and dynamic tensor memory optimization using tf.experimental.tensorrt.
 - Write a code to enable the use of TensorRT INT8 calibration with percentile calibration cache fallback and dynamic shapes optimization using tf.experimental.tensorrt.
 - Write a code to enable the use of TensorRT INT8 calibration with entropy calibration cache fallback and dynamic shapes optimization using tf.experimental.tensorrt.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops avgpoolgrad.
 - Write a code to perform average pooling with different padding values for each dimension and a specified window size on an input tensor and calculate the gradients using "tf.raw_ops.AvgPoolGrad".
 - Write a code to create a custom average pooling layer with different padding values for each dimension using "tf.raw_ops.AvgPoolGrad".
 - Write a code to implement the backward pass for average pooling with different padding values for each dimension using "tf.raw_ops.AvgPoolGrad".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

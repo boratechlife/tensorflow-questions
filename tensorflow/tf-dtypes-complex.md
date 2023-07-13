@@ -66,3 +66,17 @@ description: Practice questions for tf dtypes complex.
 - Write a code to calculate the product of all elements in a complex tensor.
 - Write a code to calculate the element-wise absolute maximum between two complex tensors.
 - Write a code to calculate the element-wise absolute minimum between two complex tensors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

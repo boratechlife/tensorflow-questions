@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor num clients.
 - How can you implement a code snippet that dynamically adjusts the bandwidth allocated to a dtensor based on the number of clients connected using tf.experimental.dtensor.num_clients?
 - Write a code to calculate the average change in the number of clients connected to a dtensor over a given time interval using tf.experimental.dtensor.num_clients.
 - How can you use tf.experimental.dtensor.num_clients to estimate the network congestion level based on the number of clients connected to a dtensor?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

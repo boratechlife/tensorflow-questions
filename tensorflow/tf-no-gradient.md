@@ -66,3 +66,17 @@ description: Practice questions for tf no gradient.
 - Write a code to define a TensorFlow operation with tf.no_gradient decorator and specify its shape and data type using a constant tensor.
 - Write a code to apply tf.no_gradient to a TensorFlow operation that computes the element-wise absolute difference.
 - Write a code to create a TensorFlow variable with tf.no_gradient attribute, set its shape and data type using a constant tensor, and initialize it with zeros.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

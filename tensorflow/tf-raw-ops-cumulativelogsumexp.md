@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cumulativelogsumexp.
 - Write a code to apply the cumulative log-sum-exp operation to a tensor and return the absolute values using tf.raw_ops.CumulativeLogsumexp.
 - Write a code to find the cumulative log-sum-exp of a tensor and calculate its mean squared error with respect to another tensor using tf.raw_ops.CumulativeLogsumexp.
 - Write a code to calculate the cumulative log-sum-exp of a tensor and apply a custom thresholding function element-wise using tf.raw_ops.CumulativeLogsumexp.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

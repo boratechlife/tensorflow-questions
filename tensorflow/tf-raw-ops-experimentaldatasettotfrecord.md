@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentaldatasettotfrecord.
 - How can you set the example level encoding options when converting an experimental dataset to a TFRecord file using tf.raw_ops.ExperimentalDatasetToTFRecord?
 - Write a code to specify the sequence feature length dimension when converting an experimental dataset to a TFRecord file using tf.raw_ops.ExperimentalDatasetToTFRecord.
 - How can you set the example size threshold when converting an experimental dataset to a TFRecord file using tf.raw_ops.ExperimentalDatasetToTFRecord?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

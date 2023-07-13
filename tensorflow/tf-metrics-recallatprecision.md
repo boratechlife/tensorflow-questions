@@ -66,3 +66,17 @@ description: Practice questions for tf metrics recallatprecision.
 - Write a code to calculate the recall at different precision thresholds for a customer churn prediction model using tf.metrics.RecallAtPrecision.
 - Write a code to calculate the recall at precision for a model's predictions stored in a PyTorch JIT model file using TensorFlow.
 - Write a code to calculate the recall at precision for a model's predictions stored in an Apple Core ML model file using TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

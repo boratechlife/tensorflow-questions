@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops logicalor.
 - Write a code to apply the logical OR operation on a tensor and a boolean tensor of different ranks and dtypes using tf.raw_ops.LogicalOr.
 - Write a code to combine multiple boolean tensors of the same shape and dtype using tf.raw_ops.LogicalOr.
 - Write a code to perform element-wise logical OR operation between a tensor and a constant boolean value of the same dtype.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

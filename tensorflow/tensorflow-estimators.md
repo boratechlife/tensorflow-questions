@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Explain the concept of TensorFlow Estimator's tf.estimator.EstimatorSpec argument train_op.
 - What is the purpose of the tf.estimator.ModeKeys.TRAIN mode in TensorFlow Estimators?
 - How can you optimize the hyperparameters of a TensorFlow Estimator using grid search or random search?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

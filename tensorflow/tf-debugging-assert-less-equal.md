@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert less equal.
 - Write a code to check if the elements of a TensorFlow tensor x are all less than or equal to the corresponding elements of a tensor y element-wise using tf.debugging.assert_less_equal.
 - Write a code to assert that the elements of a TensorFlow tensor x are less than or equal to zero element-wise.
 - Write a code to check if the elements of a TensorFlow tensor x are all less than or equal to a given value element-wise.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

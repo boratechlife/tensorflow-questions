@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnetv2b0.
 - Write a code to calculate the binary cross-entropy loss for the EfficientNetV2B0 model.
 - Write a code to calculate the hinge loss for the EfficientNetV2B0 model.
 - Write a code to calculate the accuracy of the EfficientNetV2B0 model using a custom metric.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

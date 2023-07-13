@@ -66,3 +66,17 @@ description: Practice questions for tf config functions run eagerly.
 - Write a code to disable eager execution and train a simple TensorFlow model.
 - Write a code to enable eager execution and use the TensorFlow Profiler to analyze the performance of a TensorFlow operation.
 - Write a code to disable eager execution and use the TensorFlow Profiler to analyze the performance of a TensorFlow operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops barrierclose.
 - Write a code to calculate the element-wise element-wise logical XOR between two tensors, including the output tensor of the "tf.raw_ops.BarrierClose" operation.
 - Write a code to calculate the element-wise element-wise greater-than comparison between two tensors, including the output tensor of the "tf.raw_ops.BarrierClose" operation.
 - Write a code to calculate the element-wise element-wise less-than comparison between two tensors, including the output tensor of the "tf.raw_ops.BarrierClose" operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

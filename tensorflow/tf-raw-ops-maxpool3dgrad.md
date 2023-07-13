@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops maxpool3dgrad.
 - Write a code to perform the backward pass for a 3D max pooling operation with variable-sized pooling regions and specified padding using tf.raw_ops.MaxPool3DGrad.
 - 
 - Write a code to calculate the gradients of a 3D max pooling operation with respect to the input tensor and pooling kernel for multiple filter sizes, pooling operations, and non-linear activations using tf.raw_ops.MaxPool3DGrad.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

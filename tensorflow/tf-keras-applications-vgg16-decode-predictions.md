@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications vgg16 decode predictio
 - How can you retrieve the class labels and probabilities for all predicted classes for a single image using decode_predictions?
 - Write a code to preprocess an image, make predictions using VGG16, and obtain the top-5 predicted class labels and probabilities.
 - How can you retrieve the class labels and probabilities for a batch of images using decode_predictions?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

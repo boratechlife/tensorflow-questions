@@ -66,3 +66,17 @@ description: Practice questions for tf estimator runconfig.
 - Write a code to set the tf.estimator.RunConfig to use a specific tf.estimator.train.checkpoints_iterator using the tf.estimator.RunConfig parameter.
 - Write a code to set the tf.estimator.RunConfig to use a specific tf.estimator.train.LoggingTensorHook using the tf.estimator.RunConfig parameter.
 - Write a code to set the tf.estimator.RunConfig to use a specific tf.estimator.train.ProfilerHook using the tf.estimator.RunConfig parameter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

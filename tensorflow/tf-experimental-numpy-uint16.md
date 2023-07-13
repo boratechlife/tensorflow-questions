@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy uint16.
 - Write a code to calculate the element-wise bitwise NOT of a given tf.experimental.numpy.uint16 array.
 - Write a code to calculate the element-wise logical AND of two tf.experimental.numpy.uint16 arrays.
 - Write a code to calculate the element-wise logical OR of two tf.experimental.numpy.uint16 arrays.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

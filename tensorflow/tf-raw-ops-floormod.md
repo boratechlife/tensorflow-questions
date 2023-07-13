@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops floormod.
 - Write a code to calculate the sum of the digits in a number using recursion and tf.raw_ops.FloorMod.
 - Write a code to calculate the average of a list of numbers excluding the maximum and minimum values using tf.raw_ops.FloorMod.
 - Write a code to calculate the greatest common divisor (GCD) of multiple numbers using tf.raw_ops.FloorMod.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

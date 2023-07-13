@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers rnn.
 - Write a code to create an RNN layer and set the bias constraint to None.
 - Write a code to create an RNN layer and set the return sequences parameter to True and the return states parameter to True.
 - Write a code to create an RNN layer and set the dropout and recurrent dropout parameters to 0.2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

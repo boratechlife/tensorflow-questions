@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conv2dbackpropinputv2.
 - Write a code to perform a backward convolution operation with a specified padding size, data format, output shape, and dilation rate using "tf.raw_ops.Conv2DBackpropInputV2".
 - Write a code to calculate the input gradients for a given convolutional layer, apply them to update the input, and clip the gradients using "tf.raw_ops.Conv2DBackpropInputV2".
 - Write a code to compute the input gradients for a convolutional layer with a different padding type, output shape, data type, and activation function using "tf.raw_ops.Conv2DBackpropInputV2".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

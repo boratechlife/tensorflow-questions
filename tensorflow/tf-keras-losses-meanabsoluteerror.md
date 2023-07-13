@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses meanabsoluteerror.
 - Write a code to calculate the mean absolute error between two tensors and calculate the area under the receiver operating characteristic curve (ROC AUC) of the loss values.
 - Write a code to calculate the mean absolute error between two tensors and calculate the mean absolute percentage error (MAPE) of the loss values.
 - Write a code to calculate the mean absolute error between two tensors and calculate the coefficient of determination (R-squared) of the loss values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

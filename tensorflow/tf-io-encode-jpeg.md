@@ -66,3 +66,17 @@ description: Practice questions for tf io encode jpeg.
 - Write a code to apply random hue adjustments to a batch of JPEG images using tf.io.decode_jpeg and tf.image.random_hue.
 - Write a code to apply random saturation adjustments to a batch of JPEG images using tf.io.decode_jpeg and tf.image.random_saturation.
 - Write a code to pad a batch of JPEG images using tf.io.decode_jpeg and tf.image.pad_to_bounding_box.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

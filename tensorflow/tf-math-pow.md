@@ -66,3 +66,17 @@ description: Practice questions for tf math pow.
 - Write a code to calculate the element-wise power of a tensor and a tensor with large values using tf.math.pow and truncate the results to a specific decimal place.
 - Write a code to calculate the element-wise power of a tensor and a tensor with large values using tf.math.pow and calculate the cumulative sum of the results.
 - Write a code to calculate the element-wise power of a tensor and a tensor with large values using tf.math.pow and find the index of the maximum value in the results.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

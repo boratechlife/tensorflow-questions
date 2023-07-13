@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers relu.
 - Write a code to apply a ReLU activation to a tensor named "x" using tf.keras.activations.relu(x, threshold=-0.5, max_value=5.0, alpha=0.2).
 - Write a code to create a ReLU activation layer with a specific maximum value and a constant value for negative slope using tf.keras.layers.LeakyReLU(max_value=3.0, negative_slope=0.01, alpha_initializer=tf.keras.initializers.Constant(value=0.5)).
 - Write a code to create a ReLU activation layer with a specific maximum value and a trainable parameter for each input channel using tf.keras.layers.PReLU(max_value=5.0, alpha_initializer=tf.keras.initializers.Constant(value=0.5)).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

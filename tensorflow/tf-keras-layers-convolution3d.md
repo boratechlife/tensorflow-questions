@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers convolution3d.
 - Write a code to add a 3D convolutional layer with 64 filters, a kernel size of (3, 3, 3), a stride of (1, 1, 1), padding set to "valid," transposed group convolution with 8 groups, and "relu" activation to an existing model.
 - Write a code to create a 3D convolutional layer with 32 filters, a kernel size of (3, 3, 3), a stride of (1, 1, 1), padding set to "same," and depthwise separable group convolution with 8 groups.
 - Write a code to add a 3D convolutional layer with 64 filters, a kernel size of (3, 3, 3), a stride of (1, 1, 1), padding set to "valid," depthwise separable group convolution with 8 groups, and "relu" activation to an existing model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

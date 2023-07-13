@@ -66,3 +66,17 @@ description: Practice questions for tf distribute get strategy.
 - Write a code to retrieve the current partitioner strategy using tf.distribute.get_strategy().partitioner_strategy.
 - Write a code to retrieve the current synchronization strategy using tf.distribute.get_strategy().synchronization.
 - Write a code to retrieve the current experimental status of the distribution strategy using tf.distribute.get_strategy().experimental_status.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras activations softmax.
 - Write a code to apply the softmax activation function to a tensor and compute the Wasserstein loss.
 - Write a code to apply the softmax activation function to a tensor and compute the Contrastive Divergence (CD) loss.
 - Write a code to apply the softmax activation function to a tensor and compute the minimum probability loss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

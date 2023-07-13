@@ -66,3 +66,17 @@ description: Practice questions for tf bitwise bitwise or.
 - Write a code to apply the bitwise OR operation on a TensorFlow tensor and a scalar value, considering only the least significant n bits, and assign the result to the input tensor.
 - Write a code to apply the bitwise OR operation on a TensorFlow tensor and a scalar value, considering only the most significant n bits, and assign the result to the input tensor.
 - Write a code to perform the bitwise OR operation on a TensorFlow tensor and a scalar value, considering only the least significant n bits, and return the result as a new tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

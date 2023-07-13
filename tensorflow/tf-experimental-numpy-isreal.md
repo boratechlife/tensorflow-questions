@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy isreal.
 - Write a code to count the number of real elements in each column of a given matrix using tf.experimental.numpy.isreal.
 - Write a code to find the unique real values in each row of a given matrix using tf.experimental.numpy.isreal.
 - Write a code to find the unique real values in each column of a given matrix using tf.experimental.numpy.isreal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

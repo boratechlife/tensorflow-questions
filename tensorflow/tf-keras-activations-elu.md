@@ -66,3 +66,17 @@ description: Practice questions for tf keras activations elu.
 - Write a code to apply the "tf.keras.activations.elu" activation function to a specific layer of a cascading neural network.
 - Write a code to apply the "tf.keras.activations.elu" activation function to a specific layer of a dynamic routing network.
 - Write a code to apply the "tf.keras.activations.elu" activation function to a specific layer of a convolutional variational autoencoder.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

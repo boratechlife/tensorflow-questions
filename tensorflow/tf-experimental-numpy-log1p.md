@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy log1p.
 - Write a code to calculate the natural logarithm of 1 plus x for a given value x and handle the case when x is a negative NaN using tf.experimental.numpy.log1p.
 - Write a code to calculate the natural logarithm of 1 plus x for a given value x and handle the case when x is a positive NaN using tf.experimental.numpy.log1p.
 - Write a code to calculate the natural logarithm of 1 plus x for a given value x and handle the case when x is a negative infinity NaN using tf.experimental.numpy.log1p.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

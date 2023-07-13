@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to find the indices of the maximum elements in a TensorFlow tensor and compute their moving minimum with a window size using tf.argmax.
 - Write a code to find the indices of the maximum elements in a TensorFlow tensor and compute their moving maximum with a window size using tf.argmax.
 - Write a code to find the indices of the maximum elements in a TensorFlow tensor and compute their moving standard deviation with a window size using tf.argmax.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

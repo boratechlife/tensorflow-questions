@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchmatmulv2.
 - Write a code to multiply two batches of matrices with different batch sizes and perform element-wise power operation using tf.raw_ops.BatchMatMulV2.
 - Write a code to multiply two batches of matrices with different batch sizes and perform element-wise rounding using tf.raw_ops.BatchMatMulV2.
 - Write a code to multiply two batches of matrices with different batch sizes and compute the element-wise sign of the values using tf.raw_ops.BatchMatMulV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf math approx min k.
 - Write a code to find the k smallest distinct positive values from a tensor, excluding NaN values, using tf.math.approx_min_k.
 - Write a code to find the k smallest distinct negative values from a tensor, excluding NaN values, using tf.math.approx_min_k.
 - Write a code to find the k smallest distinct values from a tensor, rounding the values to a specified number of decimal places and excluding zero values, using tf.math.approx_min_k.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

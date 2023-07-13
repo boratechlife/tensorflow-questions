@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy tile.
 - Write a code to tile a 1D array x four times along the rows and calculate the element-wise exponential of each element using tf.experimental.numpy.tile.
 - Write a code to replicate a 2D array x five times along the rows and calculate the element-wise exponential of each element using tf.experimental.numpy.tile.
 - Write a code to tile a 1D array x three times along the rows and calculate the element-wise logarithm (base 10) of each element using tf.experimental.numpy.tile.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

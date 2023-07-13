@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnetx064.
 - Write a code to set the input normalization method for the "RegNetX064" model.
 - Write a code to set the kernel initializer for the "RegNetX064" model.
 - Write a code to set the kernel regularizer for the "RegNetX064" model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

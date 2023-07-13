@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers hashedcrossing.
 - Write a code to create a HashedCrossing layer and set the initializer for the hash output weights.
 - Write a code to set the dtype for the hash output weight initializer in a HashedCrossing layer.
 - Write a code to configure a HashedCrossing layer with different hash output weight initializer dtypes.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

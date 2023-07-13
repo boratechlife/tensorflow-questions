@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loadtpuembeddingproximalyogiparam
 - Implement a code snippet to calculate the skewness of the loaded TPU embedding Proximal Yogi parameters.
 - Write a function that takes the loaded TPU embedding Proximal Yogi parameters and performs feature importance ranking.
 - How can you handle streaming data in the loaded TPU embedding Proximal Yogi parameters for real-time predictions?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf nn atrous conv2d transpose.
 - Write a code to perform atrous convolution transpose with a given output padding.
 - Write a code to calculate the output tensor shape after atrous convolution transpose.
 - Write a code to perform atrous convolution transpose with a given stride size.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnet v2 effici
 - Write a code to set the gradient clip value for training the EfficientNetV2L model.
 - Write a code to set the loss weights for training the EfficientNetV2L model.
 - Write a code to set the shuffle buffer size for training the EfficientNetV2L model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

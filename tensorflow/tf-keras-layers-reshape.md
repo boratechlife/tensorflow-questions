@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers reshape.
 - Create a Reshape layer with a target shape of (None, 50, 50) using the tf.keras.layers.Reshape class.
 - How can you use the Reshape layer to reshape a 1D tensor into a 2D tensor with a single column and a single channel? Write the code.
 - Write a code to apply a Reshape layer to an input tensor with shape (None, 16) and reshape it to (None, 2, 2, 4).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

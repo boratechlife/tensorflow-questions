@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental autotunealgorithm.
 - Write a code to apply tf.data.experimental.AutotuneAlgorithm.TEXT_PROCESSING to a dataset for performance tuning during text processing.
 - Write a code to create a dataset from a TensorFlow record file and use tf.data.experimental.AutotuneAlgorithm for performance tuning.
 - Write a code to use tf.data.experimental.AutotuneAlgorithm.WINDOWING to optimize performance in windowing operations.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

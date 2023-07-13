@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops inplacesub.
 - Write a code to subtract two tensors element-wise and update one of the tensors in-place using tf.raw_ops.InplaceSub.
 - Write a code to subtract a constant value from each element of a tensor and update the tensor in-place using tf.raw_ops.InplaceSub.
 - Write a code to subtract a tensor from a constant value and update the tensor in-place using tf.raw_ops.InplaceSub.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

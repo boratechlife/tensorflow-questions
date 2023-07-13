@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor name based restore.
 - Write a code to restore a saved model and calculate the element-wise cumulative sum of the restored variables using "tf.experimental.dtensor.name_based_restore".
 - Write a code to restore a saved model and calculate the element-wise cumulative product of the restored variables using "tf.experimental.dtensor.name_based_restore".
 - Write a code to restore a saved model and apply a custom regularization function to the restored variables using "tf.experimental.dtensor.name_based_restore".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to create a placeholder with the name "input_data" and shape [None, None, 3] with dtype tf.float32 using the tf.raw_ops.Placeholder API.
 - Write a code to create a placeholder with the name "input_features" and shape [None, 50] with dtype tf.int64 using the tf.raw_ops.Placeholder API.
 - Write a code to create a placeholder with the name "input_ids" and shape [None, None] using the tf.compat.v1.placeholder_with_default API.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

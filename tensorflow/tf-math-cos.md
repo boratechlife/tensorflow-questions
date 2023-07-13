@@ -66,3 +66,17 @@ description: Practice questions for tf math cos.
 - Write a code to calculate the cosine of each element in a tensor and compute the element-wise cumulative maximum using tf.math.cos.
 - Write a code to calculate the cosine of each element in a tensor and compute the element-wise cumulative minimum using tf.math.cos.
 - Write a code to calculate the cosine of each element in a tensor and compute the element-wise Euclidean distance with another tensor using tf.math.cos.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

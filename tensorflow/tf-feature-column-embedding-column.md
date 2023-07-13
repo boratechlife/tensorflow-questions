@@ -66,3 +66,17 @@ description: Practice questions for tf feature column embedding column.
 - Write a code to create an embedding column with a weight initializer and an embedding initializer for a categorical feature using tf.feature_column.embedding_column.
 - Write a code to create an embedding column with a combiner function, a weight initializer, and an embedding initializer for a categorical feature using tf.feature_column.embedding_column.
 - Write a code to create an embedding column with a shared embedding variable, a weight initializer, and an embedding initializer for a categorical feature using tf.feature_column.embedding_column.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

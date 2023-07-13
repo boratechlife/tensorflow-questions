@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers cropping3d.
 - Write a code to create a Cropping3D layer with cropping values of (0, 1), (0, 1), and (0, 1) for the depth, height, and width dimensions, respectively.
 - Write a code to create a Cropping3D layer with cropping values of (2, 3), (2, 3), and (2, 3) for the depth, height, and width dimensions, respectively.
 - Write a code to create a Cropping3D layer with cropping values of (1, 2), (3, 4), and (5, 6) for the depth, height, and width dimensions, respectively.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

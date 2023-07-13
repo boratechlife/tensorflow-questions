@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizeanddequantizev4.
 - How can you quantize a tensor and specify the dequantization axis using tf.raw_ops.QuantizeAndDequantizeV4?
 - Write a code to quantize a tensor and round towards positive infinity using tf.raw_ops.QuantizeAndDequantizeV4.
 - How can you quantize a tensor and specify the dequantization mode using tf.raw_ops.QuantizeAndDequantizeV4?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

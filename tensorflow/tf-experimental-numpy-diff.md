@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy diff.
 - Write a code to compute the differences along the second and fourth axes of a 4D array and return the results as a 3D array using tf.experimental.numpy.diff.
 - Write a code to compute the differences along the last axis of a 2D array and return the results as a 4D array using tf.experimental.numpy.diff.
 - Write a code to compute the differences along the first axis of a 3D array and return the results as a 5D array using tf.experimental.numpy.diff.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

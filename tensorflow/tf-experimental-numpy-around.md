@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy around.
 - Write a code to round multiple floating-point numbers in an array to the nearest multiple of a given factor with rounding mode towards positive zero using tf.experimental.numpy.around.
 - Write a code to round a single floating-point number to the nearest multiple of a given factor with rounding mode towards negative zero using tf.experimental.numpy.around.
 - Write a code to round multiple floating-point numbers in an array to the nearest multiple of a given factor with rounding mode towards negative zero using tf.experimental.numpy.around.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

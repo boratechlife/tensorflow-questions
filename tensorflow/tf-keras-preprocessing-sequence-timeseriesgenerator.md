@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing sequence timeseriesge
 - Write a code to plot the loss values during training using the TimeseriesGenerator.
 - Write a code to plot the accuracy values during training using the TimeseriesGenerator.
 - Write a code to plot the validation metrics during training using the TimeseriesGenerator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

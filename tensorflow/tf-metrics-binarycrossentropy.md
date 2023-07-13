@@ -66,3 +66,17 @@ description: Practice questions for tf metrics binarycrossentropy.
 - Write a code to get the binary cross-entropy metric result for a batch of predictions using tf.metrics.BinaryCrossentropy.
 - Write a code to compute the binary cross-entropy loss for a single prediction and label with custom weights using tf.metrics.BinaryCrossentropy.
 - Write a code to initialize a binary cross-entropy metric with a specific reduction method using tf.metrics.BinaryCrossentropy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

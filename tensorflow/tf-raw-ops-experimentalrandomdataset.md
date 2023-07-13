@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalrandomdataset.
 - How can you calculate the element-wise power of two random datasets using tf.raw_ops.ExperimentalRandomDataset?
 - Write a code to calculate the element-wise round of a random dataset using tf.raw_ops.ExperimentalRandomDataset.
 - How can you calculate the element-wise greater than operation between two random datasets using tf.raw_ops.ExperimentalRandomDataset?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

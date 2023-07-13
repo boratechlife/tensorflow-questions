@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops getsessionhandle.
 - How can you deserialize a session handle from a byte array in TensorFlow using tf.raw_ops.GetSessionHandle?
 - Write a code to convert the session handle obtained from tf.raw_ops.GetSessionHandle to a TensorFlow resource.
 - How can you convert a TensorFlow resource to a session handle in TensorFlow using tf.raw_ops.GetSessionHandle?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

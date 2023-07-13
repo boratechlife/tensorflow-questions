@@ -66,3 +66,17 @@ description: Practice questions for tf distribute runoptions.
 - Write a code to create a RunOptions object and serialize it to a protocol buffer text file.
 - Write a code to read a RunOptions object from a protocol buffer text file and print its properties.
 - Write a code to create a RunOptions object and serialize it to a byte string.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

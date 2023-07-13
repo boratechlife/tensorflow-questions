@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image apply brightnes
 - How can you apply a brightness shift of -0.1 to an image and apply image morphing to transform it into another image?
 - Write a code to apply a brightness shift of 0.4 to an image and apply image blending with another image.
 - How can you apply a brightness shift of 0.2 to an image and apply image warping using a specified set of control points?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

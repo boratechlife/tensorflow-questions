@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics onehotiou.
 - How can you modify the tf.keras.metrics.OneHotIoU metric to calculate the per-class IoU only for a specific region of interest?
 - Implement a function to calculate the F-beta score using tf.keras.metrics.OneHotIoU.
 - Write a code to calculate the balanced accuracy using tf.keras.metrics.OneHotIoU.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

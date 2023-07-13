@@ -66,3 +66,17 @@ description: Practice questions for tf nn approx max k.
 - Write a code to calculate the approximate top 3 values in a tensor and apply an operation on the remaining values using tf.nn.approx_max_k.
 - Write a code to get the approximate maximum 5 values in a tensor along the second dimension and perform an operation on the remaining values using tf.nn.approx_max_k.
 - Write a code to find the approximate maximum k values in a 2D tensor and apply an operation on the remaining values using tf.nn.approx_max_k.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

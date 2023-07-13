@@ -115,3 +115,17 @@ description: Practice questions for tf math logical or.
 - Write a code to find the indices of True values resulting from the logical OR operation on a boolean TensorFlow tensor using "tf.where" and "tf.math.logical_or".
 - 
 - Write a code to find the indices of True values resulting from the logical OR operation on a boolean NumPy array.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

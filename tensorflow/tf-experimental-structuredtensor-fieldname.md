@@ -66,3 +66,17 @@ description: Practice questions for tf experimental structuredtensor fieldname.
 - Write a code to create a tuple from a set of StructuredTensor.FieldName objects.
 - Write a code to create a set from a tuple of StructuredTensor.FieldName objects.
 - Write a code to create a list from a tuple of StructuredTensor.FieldName objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

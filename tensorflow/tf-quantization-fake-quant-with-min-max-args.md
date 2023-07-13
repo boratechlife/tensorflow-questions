@@ -66,3 +66,17 @@ description: Practice questions for tf quantization fake quant with min max args
 - Write a code to apply fake quantization to a TensorFlow tensor, specifying the number of bits and the rounding mode for quantization using "tf.quantization.fake_quant_with_min_max_args".
 - Write a code to quantize a TensorFlow tensor using "tf.quantization.fake_quant_with_min_max_args" and calculate the mean squared percentage error between the original and quantized values.
 - Write a code to perform fake quantization on a TensorFlow tensor, rounding the values to the nearest multiple of a specified value and clamping the values within a specified range, while preserving the sign using "tf.quantization.fake_quant_with_min_max_args".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

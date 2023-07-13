@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conditionalaccumulator.
 - Write a code to accumulate values conditionally based on a Pandas condition series in a tf.raw_ops.ConditionalAccumulator instance.
 - Write a code to accumulate values conditionally based on a CSV condition column in a tf.raw_ops.ConditionalAccumulator instance.
 - Write a code to accumulate values conditionally based on a JSON condition key in a tf.raw_ops.ConditionalAccumulator instance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizev2.
 - How can you quantize a tensor and specify the axis for calculating the scale factor range with a custom data type using tf.raw_ops.QuantizeV2?
 - Write a code to quantize a tensor and specify the nearest rounding mode with a custom data type using tf.raw_ops.QuantizeV2.
 - How can you quantize a tensor and specify the rounding mode for the zero point with a custom data type using tf.raw_ops.QuantizeV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are the limitations and constraints of distributed TensorFlow training?
 - Explain the concept of TensorFlow's "between-graph replication" and "in-graph replication" modes.
 - How does TensorFlow handle distributed training with dynamic graphs?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf one hot.
 - Write a code to convert a TensorFlow dataset iterator into a one-hot encoded tensor with a specific depth and handle missing categories using tf.one_hot.
 - Write a code to convert a TensorFlow feature column into a one-hot encoded tensor with a specific depth and handle NaN values using tf.one_hot.
 - Write a code to convert a TensorFlow SparseTensorValue into a one-hot encoded tensor with a specific depth and handle NaN values using tf.one_hot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

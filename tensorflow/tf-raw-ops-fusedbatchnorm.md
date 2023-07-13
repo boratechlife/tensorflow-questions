@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fusedbatchnorm.
 - Write a code to perform fused batch normalization with a given scale and offset and calculate the updated running mean and variance, using a custom momentum parameter, epsilon value, data format, axis, and scale after normalization.
 - Write a code to calculate the gradients of the input tensor with respect to the fused batch normalization operation and apply them to update the input tensor using a custom learning rate, momentum, epsilon value, axis, and scale after normalization.
 - Write a code to compute the output of fused batch normalization given the scale, offset, input tensor, population mean, population variance, and specify the axis, data_format, fused, training, center, scale, epsilon, and is_training parameters.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

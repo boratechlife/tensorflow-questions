@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers globalmaxpooling1d.
 - How can you set the padding parameter for a GlobalMaxPooling1D layer?
 - Write a code to apply a GlobalMaxPooling1D layer followed by an activation layer with a specific activation function.
 - How can you set the data_format parameter for a GlobalMaxPooling1D layer in Keras?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

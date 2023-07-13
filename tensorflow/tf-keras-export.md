@@ -115,3 +115,17 @@ description: Practice questions for tf keras export.
 - Write a code to export a TensorFlow Keras model to a SavedModel and specify the model's training sample weight mode using tf.keras.export.
 - 
 - Write a code to save a TensorFlow Keras model as a SavedModel and include the model's training loss function using tf.keras.export.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

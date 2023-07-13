@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy outer.
 - Write a code to find the outer product of an array and a tensor with different sizes using tf.experimental.numpy.outer.
 - Write a code to compute the outer product of a tensor and an array with different sizes using tf.experimental.numpy.outer.
 - Write a code to calculate the outer product of two arrays with different lengths using tf.experimental.numpy.outer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy unicode.
 - Write a code to convert a Unicode string to a snake case version using tf.experimental.numpy.unicode_.
 - Write a code to convert a Unicode string to a title case version using tf.experimental.numpy.unicode_.
 - Write a code to check if a Unicode string contains any profanity using tf.experimental.numpy.unicode_.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor mesh.
 - How can you calculate the intersection over union (IoU) between two binary Mesh objects?
 - Write a code to perform element-wise logical AND between two Mesh objects.
 - How do you perform element-wise logical OR between two Mesh objects?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications convnext decode predic
 - Write a code to pass a batch of graph data structures through a pre-trained ConvNetX model and get the top predictions for each graph using decode_predictions.
 - Write a code to preprocess graph data structures before passing them to decode_predictions.
 - Write a code to decode predictions from a pre-trained ConvNetX model on graph data structures using decode_predictions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

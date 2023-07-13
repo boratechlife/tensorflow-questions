@@ -66,3 +66,17 @@ description: Practice questions for tf metrics truenegatives.
 - Write a code to retrieve the true negatives value for a generative adversarial network problem from a TrueNegatives metric object in TensorFlow.
 - Write a code to reset the true negatives metric for a generative adversarial network problem to zero using tf.metrics.TrueNegatives.
 - Write a code to calculate the true negatives for a time series anomaly detection problem using tf.metrics.TrueNegatives.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

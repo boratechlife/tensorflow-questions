@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnetrs200.
 - Write a code to set the padding type of all convolutional layers in the ResNetRS200 model.
 - Write a code to get the output shape of the ResNetRS200 model for a given input shape.
 - Write a code to apply a specific activation function to the output of a specific layer in the ResNetRS200 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

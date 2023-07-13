@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image directoryiterat
 - Write a code to retrieve the current image's aspect ratio from a DirectoryIterator.
 - Write a code to retrieve the current image's mode from a DirectoryIterator.
 - Write a code to retrieve the current image's data range from a DirectoryIterator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

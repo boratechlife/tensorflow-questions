@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops queuedequeueuptov2.
 - Write a code to dequeue elements from a TensorFlow queue and calculate their element-wise sigmoid using tf.raw_ops.QueueDequeueUpToV2.
 - 
 - Write a code to dequeue elements from a TensorFlow queue and apply a custom function to each element using tf.raw_ops.QueueDequeueUpToV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

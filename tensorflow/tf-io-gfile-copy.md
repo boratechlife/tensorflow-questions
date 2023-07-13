@@ -115,3 +115,17 @@ description: Practice questions for tf io gfile copy.
 - Write a code to copy a file and apply speech recognition using a pre-trained model using "tf.io.gfile.copy".
 - 
 - Write a code to copy a file and apply audio synthesis using a pre-trained model using "tf.io.gfile.copy".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

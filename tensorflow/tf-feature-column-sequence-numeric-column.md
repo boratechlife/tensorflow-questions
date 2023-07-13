@@ -66,3 +66,17 @@ description: Practice questions for tf feature column sequence numeric column.
 - Write a code to create a sequence numeric column with a key "seq" and a default value of 0, where the sequence length is expected to vary and the maximum number of sequences is unlimited.
 - Write a code to create a sequence numeric column with a key "sequence" and a default value of 0, where the sequence length is expected to vary and the maximum number of sequences is unlimited.
 - Write a code to create a sequence numeric column with a key "seq" and a default value of 0, where the sequence length is expected to vary and the maximum number of sequences is unlimited.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras saving custom object scope.
 - Write a code to load a model with a custom kernel initializer using tf.keras.saving.custom_object_scope.
 - Write a code to define a custom recurrent initializer within tf.keras.saving.custom_object_scope.
 - Write a code to save a model with a custom recurrent initializer using tf.keras.saving.custom_object_scope.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

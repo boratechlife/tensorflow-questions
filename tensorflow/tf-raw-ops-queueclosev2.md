@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops queueclosev2.
 - Write a code to close a TensorFlow queue and print the average processing time per element using tf.raw_ops.QueueCloseV2.
 - How can you close a TensorFlow queue only if it contains a specific subset of elements using tf.raw_ops.QueueCloseV2?
 - Create a TensorFlow graph that closes a queue named "my_queue" and updates the weights of a neural network using tf.raw_ops.QueueCloseV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

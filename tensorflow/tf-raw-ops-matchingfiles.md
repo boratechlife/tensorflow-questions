@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops matchingfiles.
 - How can you filter the matching files based on their file sizes being smaller than a threshold using tf.raw_ops.MatchingFiles?
 - Write a code to check if any matching files are symbolic links using tf.raw_ops.MatchingFiles.
 - How can you filter the matching files based on their file sizes being within a specific range using tf.raw_ops.MatchingFiles?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

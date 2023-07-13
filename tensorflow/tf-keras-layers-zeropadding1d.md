@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers zeropadding1d.
 - Write a code to apply a ZeroPadding1D layer with padding size of 2 to a specific input tensor and set the padding mode to "constant".
 - Write a code to add a ZeroPadding1D layer to a model with a specific input shape of (None, 10, 2).
 - Write a code to apply a ZeroPadding1D layer to a tensor and specify the padding axis as -2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

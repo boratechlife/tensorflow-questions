@@ -66,3 +66,17 @@ description: Practice questions for tf random learned unigram candidate sampler.
 - Write a code to compute the loss for the learned unigram candidate sampler using TensorFlow tensors.
 - Write a code to specify the num_sampled parameter for the learned unigram candidate sampler using TensorFlow tensors.
 - Write a code to initialize the learned unigram candidate sampler with custom weights and embeddings.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf metrics meanrelativeerror.
 - Write a code to calculate the mean relative error for a batch of predictions and targets using tf.metrics.MeanRelativeError and calculate the metric separately for each time step.
 - Write a code to calculate the mean relative error for a batch of predictions and targets using tf.metrics.MeanRelativeError and apply a custom function to modify the metric value.
 - Write a code to calculate the mean relative error for a batch of predictions and targets using tf.metrics.MeanRelativeError and apply a custom function to modify the metric update operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

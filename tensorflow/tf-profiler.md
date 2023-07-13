@@ -66,3 +66,17 @@ description: Practice questions for tf profiler.
 - Write a code to profile the TensorFlow model and obtain the memory consumption of operations on a specific process type using tf.profiler.
 - Write a code to profile the TensorFlow model and obtain the execution time of operations on a specific process type using tf.profiler.
 - Write a code to profile the TensorFlow model and obtain the memory consumption of a specific kernel type using tf.profiler.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

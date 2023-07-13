@@ -66,3 +66,17 @@ description: Practice questions for tf math greater equal.
 - Write a code to check if the elements of a tensor are greater than or equal to the corresponding elements in another tensor and within a specified range of values, and return the indices of all elements that satisfy the condition.
 - Write a code to replace the elements of a tensor that are greater than or equal to the mean of the tensor's elements with a specific value and replace the remaining elements with another value.
 - Write a code to create a boolean tensor that represents whether each element of a tensor is greater than or equal to the cumulative sum of the elements up to that position.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing h
 - Write a code to create a custom layer that computes the sum of the outputs of multiple Hashing layers.
 - Write a code to create a custom layer that computes the average of the outputs of multiple Hashing layers.
 - Write a code to create a custom layer that applies a linear transformation to the outputs of a Hashing layer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

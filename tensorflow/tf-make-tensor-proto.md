@@ -66,3 +66,17 @@ description: Practice questions for tf make tensor proto.
 - Write a code to convert a 4D TensorFlow tensor into a TensorProto using tf.make_tensor_proto.
 - Write a code to convert a 4D numpy array with a specific dtype into a TensorProto using tf.make_tensor_proto.
 - Write a code to convert a 4D TensorFlow tensor with a specific dtype into a TensorProto using tf.make_tensor_proto.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

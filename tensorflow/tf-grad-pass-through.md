@@ -66,3 +66,17 @@ description: Practice questions for tf grad pass through.
 - Write a code to perform automatic differentiation for a TensorFlow model with weight sharing using tf.grad_pass_through.
 - Write a code to implement a custom regularization term with gradient pass-through for a deep Q-network in TensorFlow.
 - Write a code to compute the second-order gradients of a TensorFlow model with respect to the model parameters and weight sharing using tf.grad_pass_through.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

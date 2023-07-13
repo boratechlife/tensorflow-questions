@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to batch-to-space the tensor with a block shape of (3, 3) and crop shape of (1, 2) for a 5D tensor using tf.batch_to_space_nd.
 - Write a code to batch-to-space the tensor with a block shape of (2, 2) and crop shape of (3, 3) for a 5D tensor using tf.batch_to_space_nd.
 - Write a code to batch-to-space the tensor with a block shape of (2, 2) and crop shape of (4, 4) for a 5D tensor using tf.batch_to_space_nd.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

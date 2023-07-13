@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizeddepthwiseconv2dwithbiasa
 - How can you set the minimum activation for the bias tensor in QuantizedDepthwiseConv2DWithBiasAndReluAndRequantize?
 - Write a code to specify the minimum activation for the output tensor in QuantizedDepthwiseConv2DWithBiasAndReluAndRequantize.
 - How can you set the activation scale for the input tensor in QuantizedDepthwiseConv2DWithBiasAndReluAndRequantize?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

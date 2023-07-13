@@ -115,3 +115,17 @@ description: Practice questions for tf experimental numpy random randn.
 - Generate a 1D array of size 50 with random numbers drawn from a normal distribution with mean 0 and standard deviation 1.
 - 
 - Create a 3D array of shape (3, 3, 3) with random numbers drawn from a normal distribution with mean 1 and standard deviation 1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

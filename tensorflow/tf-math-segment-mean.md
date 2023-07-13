@@ -66,3 +66,17 @@ description: Practice questions for tf math segment mean.
 - Write a code to compute the mean of segments in a tensor with segment indices along dynamically determined axes and dynamic dimensions using tf.math.segment_mean.
 - Write a code to find the segment-wise mean of a tensor with segment indices along dynamically determined axes and a dynamic dimension using tf.math.segment_mean.
 - Write a code to calculate the mean of segments along dynamically determined axes in a tensor with unknown rank and dimensions using tf.math.segment_mean.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

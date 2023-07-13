@@ -66,3 +66,17 @@ description: Practice questions for tf keras constraints max norm.
 - Write a code to set the maximum norm value for a Lambda layer to 2.4.
 - Write a code to create a max_norm constraint object with a value of 1.3.
 - Write a code to apply max_norm constraint to a Custom layer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

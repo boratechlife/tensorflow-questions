@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers experimental optimizer.
 - Write a code to create an instance of tf.keras.optimizers.Optimizer with a custom _resource_apply_sparse_duplicate_indices_eager_tf2 function.
 - Write a code to create an instance of tf.keras.optimizers.Optimizer with a custom _resource_apply_sparse_duplicate_indices_eager_tf1 function.
 - Write a code to create an instance of tf.keras.optimizers.Optimizer with a custom _resource_scatter_add_eager function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers experimental nadam.
 - Write a code to compute the momentum and second moment of the gradients using the Nadam optimizer.
 - Write a code to compute the variable updates using the Nadam optimizer.
 - Write a code to minimize the loss function using the Nadam optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

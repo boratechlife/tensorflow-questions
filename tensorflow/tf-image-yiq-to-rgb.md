@@ -66,3 +66,17 @@ description: Practice questions for tf image yiq to rgb.
 - Write a code to convert a single pixel from YUV to RGB color space using tf.image.yiq_to_rgb.
 - Write a code to apply YIQ to RGB conversion on a video file using tf.image.yiq_to_rgb.
 - Write a code to convert an image from CMY color space to RGB color space using tf.image.yiq_to_rgb.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

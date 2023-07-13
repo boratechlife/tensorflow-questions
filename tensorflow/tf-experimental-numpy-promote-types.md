@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy promote types.
 - Write a code to promote two TensorFlow Tensors with unknown types using tf.experimental.numpy.promote_types.
 - Write a code to promote a list and a Python scalar with an unknown type using tf.experimental.numpy.promote_types.
 - Write a code to promote a NumPy array and a TensorFlow Tensor with unknown types using tf.experimental.numpy.promote_types.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

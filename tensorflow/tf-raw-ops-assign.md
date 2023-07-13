@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops assign.
 - Write a code to assign the element-wise rounding down operation on a tensor to a TensorFlow variable using "tf.raw_ops.Assign."
 - Write a code to assign the element-wise rounding up operation on a tensor to a TensorFlow variable using "tf.raw_ops.Assign."
 - Write a code to assign the element-wise cross product of two tensors to a TensorFlow variable using "tf.raw_ops.Assign."
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

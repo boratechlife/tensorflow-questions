@@ -66,3 +66,17 @@ description: Practice questions for tf dtype.
 - Write a code to convert a TensorFlow tensor to tf.uint16 data type using tf.cast.
 - Write a code to create a TensorFlow placeholder tensor with tf.DType as tf.float64.
 - Write a code to check if a given TensorFlow tensor has a tf.DType of tf.bool.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

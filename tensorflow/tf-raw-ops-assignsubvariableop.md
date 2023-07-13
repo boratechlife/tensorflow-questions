@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops assignsubvariableop.
 - Write a code to subtract an array from a TensorFlow variable and update it, assigning the result to multiple variables using "AssignSubVariableOp".
 - Write a code to subtract two TensorFlow variables and update one of them, assigning the result to multiple variables using "AssignSubVariableOp".
 - Write a code to subtract a constant value from multiple TensorFlow variables and update them, assigning the result to multiple variables using "AssignSubVariableOp".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

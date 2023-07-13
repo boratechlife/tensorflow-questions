@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops besselk1e.
 - Write a code to calculate the mean squared error (MSE) between tf.raw_ops.BesselK1e and a target value.
 - Write a code to calculate the root mean squared error (RMSE) between tf.raw_ops.BesselK1e and a target value.
 - Write a code to calculate the R-squared (coefficient of determination) value between tf.raw_ops.BesselK1e and a target value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

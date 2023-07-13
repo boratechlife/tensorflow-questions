@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils serialize keras object.
 - Write a code to deserialize a Keras initial weight configuration using "serialize_keras_object".
 - Write a code to serialize a Keras layer with custom objects using "serialize_keras_object".
 - Write a code to deserialize a Keras layer with custom objects using "serialize_keras_object".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

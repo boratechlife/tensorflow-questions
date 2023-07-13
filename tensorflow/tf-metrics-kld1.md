@@ -66,3 +66,17 @@ description: Practice questions for tf metrics kld1.
 - Write a code to calculate the KLD between two log-normal probability distributions with different location and scale parameters using tf.metrics.kld.
 - Write a code to calculate the KLD between two beta probability distributions with different shape parameters using tf.metrics.kld.
 - Write a code to calculate the KLD between two Weibull probability distributions with different shape and scale parameters using tf.metrics.kld.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

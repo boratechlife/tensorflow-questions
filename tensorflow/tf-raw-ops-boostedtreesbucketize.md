@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreesbucketize.
 - Write a code to perform bucketization using "tf.raw_ops.BoostedTreesBucketize" and provide a default value for missing bucketization boundaries.
 - Write a code to perform bucketization using "tf.raw_ops.BoostedTreesBucketize" and enable or disable auto adjustment of boundaries.
 - Write a code to perform bucketization using "tf.raw_ops.BoostedTreesBucketize" and specify the bucketization boundaries using a list or array.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

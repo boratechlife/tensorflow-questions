@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics cosinesimilarity.
 - Write a code to calculate the cosine similarity between two tensors and find the standard deviation of the similarity scores using tf.keras.metrics.CosineSimilarity.
 - Write a code to calculate the cosine similarity between two tensors and find the median similarity score using tf.keras.metrics.CosineSimilarity.
 - Write a code to calculate the cosine similarity between two tensors and visualize the similarity scores using a histogram using tf.keras.metrics.CosineSimilarity.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops enqueuetpuembeddingsparsebatch.
 - How can you specify the row_offsets for enqueuing a sparse batch using tf.raw_ops.EnqueueTPUEmbeddingSparseBatch?
 - Write a code to enqueue a sparse batch with specific row offsets using tf.raw_ops.EnqueueTPUEmbeddingSparseBatch.
 - How can you set the feature_values for the enqueued sparse batch using tf.raw_ops.EnqueueTPUEmbeddingSparseBatch?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

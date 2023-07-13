@@ -66,3 +66,17 @@ description: Practice questions for tf logical and.
 - Write a code to perform element-wise logical AND operation between two boolean tensors a and b, returning a boolean tensor, and store the result in a new tensor c.
 - Write a code to apply logical AND operation between two boolean tensors a and b, broadcasting the larger tensor, and print the result.
 - Write a code to compute the logical AND between a boolean tensor a and a scalar value b, and return the result as a boolean tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

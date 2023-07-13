@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing text one hot.
 - Write a code to convert a given sentence into a one-hot encoded representation, considering words and characters with different weights, using a specific mode of vectorization, and normalizing the output, using tf.keras.preprocessing.text.one_hot.
 - Write a code to convert a given sentence into a one-hot encoded representation, considering words and characters with different weights, using a specific mode of vectorization, and applying feature scaling to the output, using tf.keras.preprocessing.text.one_hot.
 - Write a code to convert a given sentence into a one-hot encoded representation, considering words and characters with different weights, using a specific mode of vectorization, and handling out-of-vocabulary words, using tf.keras.preprocessing.text.one_hot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental set device policy.
 - Write a code to set the GPU device policy using tf.config.threading.set_gpu_device.
 - Write a code to get the current GPU device policy using tf.config.threading.get_gpu_device.
 - Write a code to set the default GPU configuration using tf.config.experimental.set_default_executing_device.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

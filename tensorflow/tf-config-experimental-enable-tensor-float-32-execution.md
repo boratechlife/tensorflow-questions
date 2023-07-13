@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental enable tensor float 3
 - Write a code to get the current experimental external_allocator for float32 execution using tf.config.experimental.enable_tensor_float_32_execution().
 - Write a code to enable float32 execution in TensorFlow with a specific experimental enable_intra_op_parallelism_thread option using tf.config.experimental.enable_tensor_float_32_execution().
 - Write a code to get the current experimental enable_intra_op_parallelism_thread option for float32 execution using tf.config.experimental.enable_tensor_float_32_execution().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

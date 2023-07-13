@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers legacy rmsprop.
 - Write a code to perform one training step using tf.GradientTape and tf.optimizers.legacy.RMSprop optimizer with a decay of 0.9.
 - Write a code to perform one training step using tf.GradientTape and tf.optimizers.legacy.RMSprop optimizer with momentum of 0.9.
 - Write a code to perform one training step using tf.GradientTape and tf.optimizers.legacy.RMSprop optimizer with epsilon of 1e-8.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops concatv2.
 - How can you concatenate tensors and handle data compression using tf.raw_ops.ConcatV2?
 - Implement a code to concatenate tensors and handle dimensionality reduction using tf.raw_ops.ConcatV2.
 - Write a code to concatenate tensors and handle feature engineering using tf.raw_ops.ConcatV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

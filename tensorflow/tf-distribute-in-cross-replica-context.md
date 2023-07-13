@@ -66,3 +66,17 @@ description: Practice questions for tf distribute in cross replica context.
 - Write a code to create a cross replica context with default options in tf.distribute.in_cross_replica_context.
 - Write a code to create a cross replica context manager with a custom replica id and options in tf.distribute.in_cross_replica_context.
 - Write a code to create a cross replica context manager with the default replica id and options in tf.distribute.in_cross_replica_context.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

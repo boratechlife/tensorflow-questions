@@ -66,3 +66,17 @@ description: Practice questions for tf feature column sequence categorical colum
 - Write a code to apply a sequence_categorical_column_with_vocabulary_file feature column to a TensorFlow placeholder.
 - Write a code to apply a sequence_categorical_column_with_vocabulary_file to a TensorFlow Dataset with multiple inputs.
 - Write a code to apply a sequence_categorical_column_with_vocabulary_file to a TensorFlow Dataset with multiple outputs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

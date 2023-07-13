@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loadtpuembeddingcenteredrmsproppa
 - How can you update the learning rate dynamically during training using tf.raw_ops.ApplyTPUEmbeddingCenteredRMSPropParameters?
 - Write a code to dynamically adjust the learning rate during centered RMSProp optimization using tf.raw_ops.ApplyTPUEmbeddingCenteredRMSPropParameters.
 - How can you checkpoint the centered RMSProp parameters using tf.raw_ops.SaveTPUEmbeddingCenteredRMSPropParameters?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

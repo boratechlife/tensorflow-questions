@@ -66,3 +66,17 @@ description: Practice questions for tf nn max pool.
 - Write a code to perform 2D max pooling with padding, dilation rate of 2, ceil mode, and data format HWC on a grayscale image using TensorFlow.
 - Write a code to apply max pooling with a filter size of 3x3, stride of 2, padding, dilation rate of 2, and data format HWC to a TensorFlow tensor.
 - Write a code to perform max pooling with padding, dilation rate of 2, ceil mode, and data format HWC on a batch of feature maps using TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

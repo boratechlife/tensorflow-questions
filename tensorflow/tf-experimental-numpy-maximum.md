@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy maximum.
 - Write a code to compute the element-wise maximum of a NumPy array and a scalar, and return a new array without modifying the original array using tf.experimental.numpy.maximum.
 - Write a code to find the maximum value in a 6D NumPy array along a specific axis using tf.experimental.numpy.maximum.
 - Write a code to replace all values that do not meet a certain condition in a NumPy array with the maximum value using tf.experimental.numpy.maximum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras constraints maxnorm.
 - Write a code to create a MaxNorm constraint and set it as the constraint for all the layers in all the parts of a specific section of a model except the output layer.
 - Write a code to retrieve the maximum norm value for all the weights in a specific layer in all the parts of a specific section of a model using their names.
 - Write a code to retrieve the maximum norm value for a specific weight tensor in a specific layer in all the parts of a specific section of a model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

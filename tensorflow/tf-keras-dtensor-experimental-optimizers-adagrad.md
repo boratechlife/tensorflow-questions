@@ -66,3 +66,17 @@ description: Practice questions for tf keras dtensor experimental optimizers ada
 - Write a code to set the learning rate decay schedule of the Adagrad optimizer to a custom function.
 - Write a code to apply the Adagrad optimizer with a custom learning rate, momentum, weight decay, gradient noise scale, learning rate decay, learning rate decay steps, momentum decay, and learning rate decay schedule.
 - Write a code to set the weight decay decay value of the Adagrad optimizer to 0.01.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

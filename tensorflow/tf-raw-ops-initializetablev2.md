@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops initializetablev2.
 - Write a code to initialize a table with a specific initializer, name, key initializer, and value initializer, and capacity, and key_dtype, and value_dtype, and hash_table_type, and container, and shared_name, and checkpoint, and init_weights_name, and init_weights_name2, and init_weights_name3, and init_weights_name4, and init_weights_name5, and init_weights_name6, and init_weights_name7, and init_weights_name8, and init_weights_name9, and init_weights_name10, and init_weights_name11, and init_weights_name12, and init_weights_name13, and init_weights_name14 using "tf.raw_ops.InitializeTableV2".
 - Write a code to initialize a table with a specific initializer, name, key initializer, and value initializer, and capacity, and key_dtype, and value_dtype, and hash_table_type, and container, and shared_name, and checkpoint, and init_weights_name, and init_weights_name2, and init_weights_name3, and init_weights_name4, and init_weights_name5, and init_weights_name6, and init_weights_name7, and init_weights_name8, and init_weights_name9, and init_weights_name10, and init_weights_name11, and init_weights_name12, and init_weights_name13, and init_weights_name14, and init_weights_name15 using "tf.raw_ops.InitializeTableV2".
 - Write a code to initialize a table with a specific initializer, name, key initializer, and value initializer, and capacity, and key_dtype, and value_dtype, and hash_table_type, and container, and shared_name, and checkpoint, and init_weights_name, and init_weights_name2, and init_weights_name3, and init_weights_name4, and init_weights_name5, and init_weights_name6, and init_weights_name7, and init_weights_name8, and init_weights_name9, and init_weights_name10, and init_weights_name11, and init_weights_name12, and init_weights_name13, and init_weights_name14, and init_weights_name15, and init_weights_name16 using "tf.raw_ops.InitializeTableV2".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

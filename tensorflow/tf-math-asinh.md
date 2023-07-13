@@ -66,3 +66,17 @@ description: Practice questions for tf math asinh.
 - Write a code to calculate the inverse hyperbolic sine of a tensor and calculate the element-wise logical XOR between the resulting tensor and a given tensor using tf.math.logical_xor and tf.math.asinh.
 - Write a code to calculate the inverse hyperbolic sine of a tensor and calculate the element-wise logical NOT of the resulting tensor using tf.math.logical_not and tf.math.asinh.
 - Write a code to calculate the inverse hyperbolic sine of a tensor and calculate the element-wise rounding of the resulting tensor to the nearest integer using tf.math.round and tf.math.asinh.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

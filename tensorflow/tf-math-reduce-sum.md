@@ -66,3 +66,17 @@ description: Practice questions for tf math reduce sum.
 - Write a code to compute the sum of elements in a tensor and apply a convolution operation using tf.math.reduce_sum.
 - Write a code to find the sum of elements in a tensor and calculate the inverse of a matrix using tf.math.reduce_sum.
 - Write a code to calculate the sum of elements in a tensor and perform a statistical analysis using tf.math.reduce_sum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

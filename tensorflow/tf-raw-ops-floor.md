@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops floor.
 - Write a code to floor all the elements of a TensorFlow tensor and then calculate their exponentiation.
 - Implement a function that takes a TensorFlow tensor as input and returns a new tensor with all values rounded down using "tf.raw_ops.Floor" and scaled by the reciprocal of another tensor.
 - How would you round down the elements of a TensorFlow tensor using the "tf.raw_ops.Floor" operation and calculate their cumulative sum and product along different axes?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

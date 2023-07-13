@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental copy to device.
 - Write a code to copy a TensorFlow dataset to a TPU and perform a normalization operation using "tf.data.experimental.copy_to_device".
 - Write a code to copy a TensorFlow dataset to a specific device and apply a recurrent neural network using "tf.data.experimental.copy_to_device".
 - Write a code to copy a TensorFlow dataset to the GPU and apply a convolutional neural network using "tf.data.experimental.copy_to_device".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

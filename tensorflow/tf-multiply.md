@@ -66,3 +66,17 @@ description: Practice questions for tf multiply.
 - Write a code to multiply two tensors and calculate the cosine distance of the result using tf.multiply.
 - Write a code to multiply a tensor by a matrix and perform a singular value decomposition on the result using tf.multiply.
 - Write a code to multiply two tensors and calculate the mean absolute error of the result using tf.multiply.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

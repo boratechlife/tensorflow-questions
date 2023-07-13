@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops nextafter.
 - Write a code to determine the next adjacent floating-point number of a given value in the negative direction, rounding towards the nearest number and ties away from zero, using tf.raw_ops.NextAfter.
 - Write a code to find the next adjacent floating-point number of a given value in the positive direction, rounding towards the nearest number and ties to the nearest even number, using tf.raw_ops.NextAfter.
 - Write a code to compute the next adjacent floating-point number of a given value in the negative direction, rounding towards the nearest number and ties to the nearest even number, using tf.raw_ops.NextAfter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops nextiteration.
 - Write a code to create a TensorFlow graph that calculates the natural logarithm using tf.raw_ops.NextIteration.
 - Write a code to implement a undirected graph data structure using tf.raw_ops.NextIteration.
 - Write a code to create a TensorFlow graph that calculates the factorial using tf.raw_ops.NextIteration.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

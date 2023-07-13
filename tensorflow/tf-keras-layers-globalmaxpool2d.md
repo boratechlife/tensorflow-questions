@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers globalmaxpool2d.
 - Write a code to apply a GlobalMaxPool2D layer after a 2D depthwise convolution layer.
 - Write a code to add a GlobalMaxPool2D layer to a pre-trained MobileNetV3 model.
 - Write a code to set the use_bias parameter for a GlobalMaxPool2D layer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

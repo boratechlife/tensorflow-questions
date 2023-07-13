@@ -66,3 +66,17 @@ description: Practice questions for tf nn ctc beam search decoder.
 - Write a code to decode a batch of sequences with a custom blank index, language model, vocabulary, and dynamically adjusting the beam width using CTC beam search decoding.
 - Write a code to set the decoding vocabulary size and blank index dynamically based on the input sequence length for CTC beam search decoding.
 - Write a code to obtain the best decoded sequence and its probability for a batch of sequences with a custom vocabulary, dynamically adjusting the beam width based on the decoding probability threshold using CTC beam search decoding.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

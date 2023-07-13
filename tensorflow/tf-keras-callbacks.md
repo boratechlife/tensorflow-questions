@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks.
 - Write a code to create a callback that saves the model weights only when the training accuracy improves.
 - Write a code to create a callback that stops training if the training loss becomes infinite.
 - Write a code to create a callback that logs the current epoch and batch index during training.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

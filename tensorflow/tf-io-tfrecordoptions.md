@@ -66,3 +66,17 @@ description: Practice questions for tf io tfrecordoptions.
 - Write a code to set the shard policy bytes per file of TFRecordOptions to 1048576.
 - Write a code to set the shard policy bytes per file of TFRecordOptions to 2097152.
 - Write a code to set the shard policy bytes per file of TFRecordOptions to 4194304.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

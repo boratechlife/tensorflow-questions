@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers.
 - Write a code to create a multi-class classification output layer with specific name scope in TensorFlow using tf.keras.layers.
 - Write a code to create a regression output layer with specific name scope in TensorFlow using tf.keras.layers.
 - Write a code to create a dense layer with specific name scope in TensorFlow using tf.keras.layers.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

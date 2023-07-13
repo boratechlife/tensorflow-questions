@@ -66,3 +66,17 @@ description: Practice questions for tf nn normalize moments.
 - Write a code to normalize the moments of a tensor and truncate the values within a specific range for each channel using tf.nn.normalize_moments.
 - Write a code to calculate the normalized moments of a tensor and apply a custom scaling function to the mean for each channel using tf.nn.normalize_moments.
 - Write a code to compute the normalized moments of a tensor and apply a custom threshold function to the variance for each channel using tf.nn.normalize_moments.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

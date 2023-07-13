@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy nanprod.
 - Write a code to calculate the nanprod of a TensorFlow tensor and handle NaN and infinity values using a custom replacement tensor with a custom function and condition for different data types using tf.experimental.numpy.nanprod.
 - Write a code to calculate the nanprod of a TensorFlow tensor and handle NaN and infinity values using a custom replacement tensor with a custom function and condition for different axes using tf.experimental.numpy.nanprod.
 - Write a code to calculate the nanprod of a TensorFlow tensor and handle NaN and infinity values using a custom replacement tensor with a custom function and condition for different dimensions using tf.experimental.numpy.nanprod.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

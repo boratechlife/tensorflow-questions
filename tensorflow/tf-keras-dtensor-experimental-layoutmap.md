@@ -66,3 +66,17 @@ description: Practice questions for tf keras dtensor experimental layoutmap.
 - Write a code to make predictions with a model using a LayoutMap input.
 - Write a code to save a model with a LayoutMap input and output.
 - Write a code to load a model with a LayoutMap input and output.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

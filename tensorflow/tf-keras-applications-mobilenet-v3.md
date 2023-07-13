@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications mobilenet v3.
 - Write a code to calculate the mean IoU (Intersection over Union) of the MobileNetV3 model's predictions.
 - Write a code to apply post-processing to the MobileNetV3 model's predictions.
 - Write a code to visualize the filters of a specific layer in the MobileNetV3 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

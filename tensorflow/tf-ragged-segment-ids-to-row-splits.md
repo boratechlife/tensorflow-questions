@@ -66,3 +66,17 @@ description: Practice questions for tf ragged segment ids to row splits.
 - Write a code to convert segment IDs to row splits and obtain the standard deviation of row limits for each unique segment ID using tf.ragged.segment_ids_to_row_splits.
 - Write a code to convert segment IDs to row splits and obtain the sum of row limits for each unique segment ID using tf.ragged.segment_ids_to_row_splits.
 - Write a code to convert segment IDs to row splits and obtain the product of row limits for each unique segment ID using tf.ragged.segment_ids_to_row_splits.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

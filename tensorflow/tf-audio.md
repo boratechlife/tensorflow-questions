@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to calculate the pitch strength of an audio file using TensorFlow.
 - Write a code to convert an audio file to a constant-Q cepstral coefficient (CQCC) using TensorFlow.
 - Write a code to apply a time-domain equalization to an audio file using TensorFlow's "tf.audio" module.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

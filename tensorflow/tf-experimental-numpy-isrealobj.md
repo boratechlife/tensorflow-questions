@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy isrealobj.
 - Write a code to calculate the element-wise bitwise OR of two NumPy arrays and check if the result is a real object using tf.experimental.numpy.isrealobj.
 - Write a code to calculate the element-wise bitwise XOR of two NumPy arrays and verify if the result is a real object using tf.experimental.numpy.isrealobj.
 - Write a code to calculate the element-wise bitwise NOT of a NumPy array and check if the result is a real object using tf.experimental.numpy.isrealobj.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fusedbatchnormgradv3.
 - Write a code to calculate the gradients of fused batch normalization with respect to multiple input tensors, multiple scale tensors, and multiple mean tensors using tf.raw_ops.FusedBatchNormGradV3.
 - Write a code to calculate the gradients of fused batch normalization with respect to multiple input tensors, multiple scale tensors, and multiple variance tensors using tf.raw_ops.FusedBatchNormGradV3.
 - Write a code to calculate the gradients of fused batch normalization with respect to multiple input tensors, multiple offset tensors, and multiple mean tensors using tf.raw_ops.FusedBatchNormGradV3.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

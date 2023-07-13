@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops matrixsolve.
 - Implement a code to solve a system of linear equations using the BiCGSTAB method and tf.raw_ops.MatrixSolve.
 - Write a code to calculate the condition number of a matrix using tf.raw_ops.MatrixSolve.
 - How can you use tf.raw_ops.MatrixSolve to solve a matrix equation using the SVD decomposition?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

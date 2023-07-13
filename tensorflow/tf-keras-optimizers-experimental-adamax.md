@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers experimental adamax.
 - Write a code to create an Adamax optimizer with a learning rate of 0.001 and set a custom global learning rate multiplier based on a variable or tensor.
 - Write a code to create an Adamax optimizer with a learning rate of 0.001 and set a custom global learning rate multiplier based on the epoch number.
 - Write a code to create an Adamax optimizer with a learning rate of 0.001 and set a custom global learning rate multiplier based on the current step.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

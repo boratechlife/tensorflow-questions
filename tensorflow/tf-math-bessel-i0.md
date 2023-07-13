@@ -66,3 +66,17 @@ description: Practice questions for tf math bessel i0.
 - Write a code to calculate the Bessel function I0 for a given value and calculate its logarithm base 10 value.
 - Write a code to calculate the Bessel function I0 for a given value and calculate its logarithm base 2 value.
 - Write a code to calculate the Bessel function I0 for a given value and calculate its natural logarithm value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

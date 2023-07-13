@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnet regnety032.
 - Write a code to set the verbosity level for training the RegNetY032 model.
 - Write a code to set the validation frequency during training the RegNetY032 model.
 - Write a code to set the tensorboard log directory for saving training logs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

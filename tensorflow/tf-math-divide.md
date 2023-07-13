@@ -66,3 +66,17 @@ description: Practice questions for tf math divide.
 - Write a code to divide a tensor by a constant and return the result as a tensor with the same shape as the input using tf.math.divide.
 - Write a code to divide two tensors and return the result as a tensor with broadcasted dimensions using tf.math.divide.
 - Write a code to divide a tensor by a scalar and return the result as a tensor with broadcasted dimensions using tf.math.divide.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

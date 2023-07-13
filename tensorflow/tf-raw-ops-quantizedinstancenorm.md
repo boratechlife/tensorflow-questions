@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedinstancenorm.
 - Write a code to compute the quantized instance normalization of an input tensor with dynamic spatial dimensions using tf.raw_ops.QuantizedInstanceNorm.
 - Write a code to apply quantized instance normalization on a tensor with a specified quantization range and epsilon value using tf.raw_ops.QuantizedInstanceNorm.
 - Write a code to calculate the quantized instance normalization of a tensor with dynamic quantization ranges and epsilon values using tf.raw_ops.QuantizedInstanceNorm.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

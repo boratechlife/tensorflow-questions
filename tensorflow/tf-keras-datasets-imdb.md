@@ -66,3 +66,17 @@ description: Practice questions for tf keras datasets imdb.
 - Write a code to implement label smoothing regularization in the sentiment analysis model.
 - Write a code to implement self-attention mechanism in the sentiment analysis model.
 - Write a code to implement a transformer-based model for sentiment analysis using the IMDB dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

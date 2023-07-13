@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental coordinator clust
 - Write a code to create a ServerTarget using a ClusterCoordinator.
 - Write a code to retrieve the session target of a ServerTarget using a ClusterCoordinator.
 - Write a code to retrieve the server target type of a ServerTarget using a ClusterCoordinator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

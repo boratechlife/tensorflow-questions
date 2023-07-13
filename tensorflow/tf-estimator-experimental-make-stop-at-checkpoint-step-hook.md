@@ -115,3 +115,17 @@ description: Practice questions for tf estimator experimental make stop at check
 - Write a code to create a StopAtCheckpointStepHook with a checkpoint step of 50 and a save_secs parameter of 30, a custom message, and a custom checkpoint dir.
 - 
 - Write a code to create a StopAtCheckpointStepHook with a checkpoint step of 200 and a save_secs parameter of 120, a custom message, and a custom checkpoint dir.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

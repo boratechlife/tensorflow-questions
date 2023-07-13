@@ -66,3 +66,17 @@ description: Practice questions for tf nn learned unigram candidate sampler.
 - Write a code to adjust the range of unigram counts in a learned unigram candidate sampler.
 - Write a code to set the sample method for labels in a learned unigram candidate sampler.
 - Write a code to specify the distortion method in a learned unigram candidate sampler.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

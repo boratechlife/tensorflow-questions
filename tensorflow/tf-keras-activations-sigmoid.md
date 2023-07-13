@@ -66,3 +66,17 @@ description: Practice questions for tf keras activations sigmoid.
 - Write a code to compute the mean absolute error after applying the sigmoid activation function to a regression model output.
 - Write a code to implement a self-organizing map with sigmoid activation in the adaptive layer.
 - Write a code to apply the sigmoid activation function to a NumPy matrix.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

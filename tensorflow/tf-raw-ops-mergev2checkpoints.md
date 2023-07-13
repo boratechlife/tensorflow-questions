@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mergev2checkpoints.
 - How can you handle the case where the checkpoints have different variable regularizations (e.g., L1 regularization, dropout) when merging them with "tf.raw_ops.MergeV2Checkpoints"?
 - Write a code to merge two TensorFlow checkpoints and perform principal component analysis (PCA) on the merged variables.
 - How can you use "tf.raw_ops.MergeV2Checkpoints" to merge checkpoints stored in a secure environment with encryption and access control mechanisms?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

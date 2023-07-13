@@ -66,3 +66,17 @@ description: Practice questions for tf io decode gif.
 - Write a code to decode a GIF image and perform image inpainting using deep learning techniques using "tf.io.decode_gif".
 - Write a code to decode a GIF image and perform image segmentation using a pre-trained model using "tf.io.decode_gif".
 - Write a code to decode a GIF image and perform style transfer using a neural network model using "tf.io.decode_gif".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

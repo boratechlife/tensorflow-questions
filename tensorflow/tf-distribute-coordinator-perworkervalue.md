@@ -66,3 +66,17 @@ description: Practice questions for tf distribute coordinator perworkervalue.
 - Write a code to calculate the cosine similarity between two PerWorkerValue objects across all workers.
 - Write a code to calculate the pairwise distance between values in a PerWorkerValue object across all workers.
 - Write a code to calculate the Pearson correlation coefficient between two PerWorkerValue objects across all workers.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

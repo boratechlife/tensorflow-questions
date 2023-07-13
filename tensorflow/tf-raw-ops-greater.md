@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops greater.
 - Write a code to compare two TensorFlow tensors and return a tensor of booleans indicating if each element in the first tensor is approximately equal to the corresponding element in the second tensor using tf.raw_ops.Greater.
 - Write a code to compare a TensorFlow tensor with a scalar value and return a tensor of booleans indicating if each element is approximately equal to the scalar using tf.raw_ops.Greater.
 - Write a code to compute the product of the elements in a TensorFlow tensor that are greater than or equal to a given threshold using tf.raw_ops.Greater.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

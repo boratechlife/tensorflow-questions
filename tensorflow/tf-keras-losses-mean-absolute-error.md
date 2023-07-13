@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses mean absolute error.
 - Write a code to compute the mean absolute error between two video sequences using tf.keras.losses.mean_absolute_error.
 - Write a code to apply the mean absolute error loss to a sequence labeling model using tf.keras.losses.mean_absolute_error.
 - Write a code to calculate the mean absolute error between predicted and target labels for a multi-label classification model using tf.keras.losses.mean_absolute_error.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

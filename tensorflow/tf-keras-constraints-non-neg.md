@@ -66,3 +66,17 @@ description: Practice questions for tf keras constraints non neg.
 - Write a code to create a dual-path network (DPN) with the non_neg weight constraint.
 - Write a code to apply the non_neg constraint to the dual-path connections in a DPN.
 - Write a code to create a graph convolutional network (GCN) with the non_neg weight constraint.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

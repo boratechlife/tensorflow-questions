@@ -66,3 +66,17 @@ description: Practice questions for tf distribute distributedvalues.
 - Write a code to calculate the element-wise logical XOR of two distributed variables using tf.distribute.DistributedValues.
 - Write a code to calculate the element-wise logical NOT of a distributed variable using tf.distribute.DistributedValues.
 - Write a code to calculate the element-wise absolute difference between two distributed variables using tf.distribute.DistributedValues.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

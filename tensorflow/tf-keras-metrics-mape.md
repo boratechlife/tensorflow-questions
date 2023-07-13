@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics mape.
 - Write a code to calculate the mean absolute logarithmic percentage error (MALPE) using tf.keras.metrics.MAPE.
 - Write a code to calculate the mean square percentage error (MSPE) using tf.keras.metrics.MAPE.
 - Write a code to calculate the median percentage error (MdPE) using tf.keras.metrics.MAPE.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

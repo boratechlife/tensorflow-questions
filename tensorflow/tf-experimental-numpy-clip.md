@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy clip.
 - Write a code to clip all elements in an array above a certain threshold to zero using tf.experimental.numpy.clip.
 - Write a code to clip all elements in a vector between two specified values to a range of values using tf.experimental.numpy.clip.
 - Write a code to clip all elements in a tensor above a specified maximum value to a range of values using tf.experimental.numpy.clip.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

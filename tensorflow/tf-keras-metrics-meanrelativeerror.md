@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics meanrelativeerror.
 - Write a code to calculate the mean relative error between two pandas Series using tf.keras.metrics.MeanRelativeError and print the output in a formatted manner.
 - Write a code to calculate the mean relative error between two pandas DataFrames using tf.keras.metrics.MeanRelativeError and print the output in a formatted manner.
 - Write a code to calculate the mean relative error between two lists using tf.keras.metrics.MeanRelativeError and print the output in a formatted manner.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

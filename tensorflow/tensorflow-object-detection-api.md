@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are some methods for handling object detection in scenarios with limited computational resources using the TensorFlow Object Detection API?
 - How can you handle object detection in scenarios with heavily skewed object aspect ratios using the TensorFlow Object Detection API?
 - What are some methods for handling object detection in scenarios with highly variable object scales using the TensorFlow Object Detection API?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

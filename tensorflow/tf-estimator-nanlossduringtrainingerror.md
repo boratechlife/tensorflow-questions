@@ -66,3 +66,17 @@ description: Practice questions for tf estimator nanlossduringtrainingerror.
 - Write a code to catch and handle tf.estimator.NanLossDuringTrainingError in a TensorFlow Time Series Forecasting model.
 - Write a code to catch and handle tf.estimator.NanLossDuringTrainingError in a TensorFlow Object Detection API project.
 - Write a code to catch and handle tf.estimator.NanLossDuringTrainingError in a TensorFlow Text Classification model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

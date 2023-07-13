@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers globalmaxpooling2d.
 - Write a code to apply GlobalMaxPooling2D to a model with a convolutional layer with hyperbolic tangent activation.
 - Write a code to add a GlobalMaxPooling2D layer after a convolutional layer with softmax activation.
 - Write a code to apply GlobalMaxPooling2D to a model with a convolutional layer with sigmoid activation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

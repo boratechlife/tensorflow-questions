@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalautosharddataset.
 - Write a code to apply a transformation on an ExperimentalAutoShardDataset with sequential processing using the map function.
 - Write a code to combine multiple ExperimentalAutoShardDataset objects into a single dataset using the experimental_distribute_dataset function.
 - Write a code to create a dataset from a distributed file system using the from_distributed_file function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

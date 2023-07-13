@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers schedules learningrateschedule
 - Write a code to create a learning rate schedule that applies learning rate warm-up for the first 1000 steps, increasing the learning rate linearly from 0.001 to 0.01, and then follows a step decay schedule.
 - Write a code to create a learning rate schedule that adjusts the learning rate based on the gradient norm of the model's weights, using a clip value of 0.01.
 - Write a code to create a learning rate schedule that follows a piecewise linear decay schedule, reducing the learning rate by a factor of 0.5 every 50 epochs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

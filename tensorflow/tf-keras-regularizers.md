@@ -66,3 +66,17 @@ description: Practice questions for tf keras regularizers.
 - Write a code to create a custom regularizer that penalizes the entropy of weight values.
 - Write a code to apply the custom regularizer to a specific subset of layers based on their types and names.
 - Write a code to create a L1L2 regularization with L1 factor 0.01 and L2 factor 0.001 for a specific subset of layers based on their indices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

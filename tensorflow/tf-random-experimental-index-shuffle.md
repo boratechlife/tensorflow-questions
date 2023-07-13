@@ -66,3 +66,17 @@ description: Practice questions for tf random experimental index shuffle.
 - Write a code to shuffle the indices of a tensor randomly and obtain a new tensor with the same shape and values along a specified dimension using tf.gather.
 - Write a code to shuffle the indices of a tensor along the last dimension while keeping the other dimensions fixed.
 - Write a code to shuffle the indices of a tensor and obtain a new tensor with the shuffled values in the second dimension using tf.gather.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

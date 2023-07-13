@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops infeeddequeue.
 - Write a code to dequeue elements from the infeed queue and perform time series forecasting on them.
 - Write a code to dequeue elements from the infeed queue and perform regression analysis on them.
 - Write a code to dequeue elements from the infeed queue and perform clustering analysis on them.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

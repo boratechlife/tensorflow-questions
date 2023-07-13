@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchmatrixsolve.
 - Write a code to compute the matrix exponential of a Hermitian batch of matrices using tf.raw_ops.BatchMatrixSolve.
 - Write a code to calculate the matrix logarithm of a positive definite Hermitian batch of matrices using tf.raw_ops.BatchMatrixSolve.
 - Write a code to compute the matrix square root of a positive definite Hermitian batch of matrices using tf.raw_ops.BatchMatrixSolve.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

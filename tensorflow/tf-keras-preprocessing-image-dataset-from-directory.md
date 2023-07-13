@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image dataset from di
 - Write a code to apply random cropping to the images in the dataset.
 - Write a code to apply random shearing to the images in the dataset.
 - Write a code to apply random channel shifts to the images in the dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf io gfile glob.
 - Write a code to find all directories with a specific suffix in a directory using tf.io.gfile.glob.
 - Write a code to retrieve all files that have a specific file attribute in a directory using tf.io.gfile.glob.
 - Write a code to list all directories in a directory sorted by their last modification time using tf.io.gfile.glob.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

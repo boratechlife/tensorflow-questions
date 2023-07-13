@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops queueenqueuemany.
 - Write a code to enqueue tensors with a specific timeout_ms_tensor tensor value using tf.raw_ops.QueueEnqueueMany.
 - Write a code to enqueue tensors with a specific num_shards_tensor tensor value using tf.raw_ops.QueueEnqueueMany.
 - Write a code to enqueue tensors with a specific shard_id_tensor tensor value using tf.raw_ops.QueueEnqueueMany.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

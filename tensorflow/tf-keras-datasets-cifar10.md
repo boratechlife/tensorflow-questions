@@ -66,3 +66,17 @@ description: Practice questions for tf keras datasets cifar10.
 - Write a code to implement the Swish activation function in a CNN model for CIFAR-10 classification.
 - Write a code to implement the ReLU activation function in a CNN model for CIFAR-10 classification.
 - Write a code to implement the sigmoid activation function in a CNN model for CIFAR-10 classification.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

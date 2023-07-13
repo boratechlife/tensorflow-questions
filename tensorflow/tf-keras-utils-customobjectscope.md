@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils customobjectscope.
 - Write a code to register a custom object with a different name in CustomObjectScope.
 - Write a code to check if a custom object is registered without using CustomObjectScope.
 - Write a code to wrap a model creation code within CustomObjectScope and register custom objects at the same time.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

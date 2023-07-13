@@ -66,3 +66,17 @@ description: Practice questions for tf math in top k.
 - Write a code to compute the F1 score of the top k predictions with varying true labels with varying true labels.
 - Write a code to measure the average precision at k for a set of predictions with varying true labels with varying true labels.
 - Write a code to calculate the mean average precision at k for multiple sets of predictions with varying true labels with varying true labels.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

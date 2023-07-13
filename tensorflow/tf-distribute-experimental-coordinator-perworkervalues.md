@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental coordinator perwo
 - Write a code to check if any worker in PerWorkerValues has a value equal to a given target.
 - Write a code to retrieve the values associated with the workers sorted in descending order in PerWorkerValues.
 - Write a code to calculate the variance of values in PerWorkerValues.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

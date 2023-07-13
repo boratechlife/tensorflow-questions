@@ -66,3 +66,17 @@ description: Practice questions for tf math acosh.
 - Write a code to calculate the hyperbolic arccosine of each element in a tensor, applying a specified activation function to a subset of the values using tf.math.acosh.
 - Write a code to calculate the hyperbolic arccosine of each element in a tensor, applying a specified regularization function using tf.math.acosh.
 - Write a code to calculate the hyperbolic arccosine of a tensor element-wise, applying a specified transformation function using tf.math.acosh.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

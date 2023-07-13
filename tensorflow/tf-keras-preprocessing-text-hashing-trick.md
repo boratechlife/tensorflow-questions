@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing text hashing trick.
 - Write a code to apply the hashing trick and convert a text document into a bag-of-characters representation with a fixed vocabulary size and a specified maximum document length.
 - Write a code to apply the hashing trick and convert a text document into a bag-of-embeddings representation with a fixed vocabulary size and a specified maximum document length.
 - Write a code to apply the hashing trick and convert a text document into a sequence of word indices, considering the order of words.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

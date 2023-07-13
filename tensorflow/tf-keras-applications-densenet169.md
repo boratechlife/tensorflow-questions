@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications densenet169.
 - Write a code to implement label smoothing regularization in the DenseNet169 model.
 - Write a code to implement mixup data augmentation for training the DenseNet169 model.
 - Write a code to implement cosine annealing learning rate scheduling for the DenseNet169 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

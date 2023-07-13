@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops deleteseedgenerator.
 - How can you remove a seed generator using TensorFlow's tf.raw_ops.DeleteSeedGenerator operation? Write a code snippet.
 - Implement a code snippet to delete a seed generator in TensorFlow using the tf.raw_ops.DeleteSeedGenerator API.
 - What is the syntax to delete a seed generator in TensorFlow? Provide a code snippet utilizing tf.raw_ops.DeleteSeedGenerator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

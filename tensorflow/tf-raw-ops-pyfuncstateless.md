@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops pyfuncstateless.
 - Write a code to create a stateless TensorFlow function that calculates the element-wise logical NOT of a tensor using tf.raw_ops.PyFuncStateless.
 - Write a code to create a stateless TensorFlow function that concatenates two tensors along a specified axis using tf.raw_ops.PyFuncStateless.
 - Write a code to create a stateless TensorFlow function that reshapes a tensor using tf.raw_ops.PyFuncStateless.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

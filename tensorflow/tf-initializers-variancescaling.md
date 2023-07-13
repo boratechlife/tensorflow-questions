@@ -66,3 +66,17 @@ description: Practice questions for tf initializers variancescaling.
 - Write a code to initialize a TensorFlow variable with a distribution of "normal", a mode of "fan_in", and a seed of 1234 using tf.initializers.VarianceScaling.
 - Write a code to initialize a TensorFlow variable with a distribution of "truncated_normal", a mode of "fan_in", and a seed of 1234 using tf.initializers.VarianceScaling.
 - Write a code to initialize a TensorFlow variable with a distribution of "constant", a mode of "fan_in", and a seed of 1234 using tf.initializers.VarianceScaling.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

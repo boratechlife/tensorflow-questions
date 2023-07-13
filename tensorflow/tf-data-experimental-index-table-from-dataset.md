@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental index table from datase
 - Write a code to create an index table from a dataset and set a hash initializer for numeric keys.
 - Write a code to create an index table from a dataset and set a hash key dtype for numeric keys.
 - Write a code to create an index table from a dataset and set a hash key shape for numeric keys.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

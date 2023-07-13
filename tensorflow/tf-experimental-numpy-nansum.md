@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy nansum.
 - Write a code to calculate the sum of elements in a NumPy array, skipping NaN values starting from the last consecutive block of NaN values along each axis, using tf.experimental.numpy.nansum.
 - Write a code to calculate the sum of elements in a NumPy array, skipping NaN values until the first consecutive block of NaN values along an axis, using tf.experimental.numpy.nansum.
 - Write a code to calculate the sum of elements in a NumPy array, skipping NaN values starting from the first consecutive block of NaN values along an axis, using tf.experimental.numpy.nansum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental at.
 - Write a code to filter out elements from a dataset based on a condition using tf.data.experimental.AttrDataset.
 - Write a code to create a dataset with variable-length sequences using tf.data.experimental.AttrDataset.
 - Write a code to create a dataset with padded batches using tf.data.experimental.AttrDataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

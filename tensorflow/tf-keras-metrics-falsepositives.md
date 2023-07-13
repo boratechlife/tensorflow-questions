@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics falsepositives.
 - Write a code to use tf.keras.metrics.FalsePositives in a custom regularization term in a graph mode.
 - Write a code to calculate the false positives for a binary classification problem using tf.keras.metrics.FalsePositives and a sample weight tensor in a graph mode.
 - Write a code to update the false positives count using tf.keras.metrics.FalsePositives for a batch of predictions and labels with a sample weight tensor in a graph mode.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

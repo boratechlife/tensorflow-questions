@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental from list.
 - Write a code to create a TensorFlow dataset using tf.data.experimental.from_list and calculate the autocorrelation of a specific variable.
 - Write a code to create a TensorFlow dataset using tf.data.experimental.from_list and calculate the cross-correlation between two specific variables.
 - Write a code to create a TensorFlow dataset using tf.data.experimental.from_list and calculate the entropy of a specific variable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

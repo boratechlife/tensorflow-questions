@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fusedbatchnormgrad.
 - How can you compute the gradient of the scale and offset variables using tf.raw_ops.FusedBatchNormGrad with a specific mean and variance on a TensorFlow graph with multiple layers and a specific batch size using custom gradients?
 - Write a code to apply tf.raw_ops.FusedBatchNormGrad to compute the gradient for batch normalization on a given input tensor with a specific mean and variance in a TensorFlow graph with multiple layers and a specific batch size using custom gradients.
 - How can you use tf.raw_ops.FusedBatchNormGrad to compute the gradient for batch normalization with a specific epsilon value on a TensorFlow graph with multiple layers and a specific batch size using custom gradients?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

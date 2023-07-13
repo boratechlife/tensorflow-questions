@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops bitcast.
 - Convert a tensor from float32 to float16 using tf.raw_ops.Bitcast.
 - Perform a bitcast operation to convert a tensor from int8 to uint8 using TensorFlow.
 - How can you use tf.raw_ops.Bitcast to convert a tensor from int16 to float32?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

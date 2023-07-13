@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental.
 - Write a code to configure a distributed training job with mixed precision using tf.distribute.experimental.TPUStrategy.
 - Write a code to define a distributed TensorFlow dataset with shuffling and batching using tf.distribute.Strategy.
 - Write a code to apply a distributed learning rate schedule to a TensorFlow model with custom training steps using tf.distribute.Strategy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

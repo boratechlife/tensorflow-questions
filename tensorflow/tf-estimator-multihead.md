@@ -66,3 +66,17 @@ description: Practice questions for tf estimator multihead.
 - Write a code to implement early stopping based on the absolute improvement of a custom metric for a tf.estimator.MultiHead model.
 - Write a code to implement model checkpointing based on the absolute improvement of the validation loss for a tf.estimator.MultiHead model.
 - Write a code to implement model checkpointing based on the absolute improvement of a custom metric for a tf.estimator.MultiHead model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

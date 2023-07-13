@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops leakyrelugrad.
 - Write a code to implement a leaky ReLU gradient function and apply it to a tensor with positive values, negative values, and zero values separately, each with a specific alpha value.
 - Write a code to compute the gradient of a leaky ReLU function for a tensor with mixed positive and negative values, positive values, negative values, and zero values separately and a specific alpha value using the "tf.raw_ops.LeakyReluGrad" operation.
 - Write a code to apply the leaky ReLU gradient operation to a tensor with positive values, negative values, and zero values separately, each with a specific alpha value, and compute their sum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

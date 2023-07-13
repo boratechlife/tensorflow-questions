@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers bidirectional.
 - Write a code to create a bidirectional RNN layer and set the weights initializer to a custom initializer using tf.keras.layers.Bidirectional.
 - Write a code to create a bidirectional LSTM layer and set the bias initializer to a custom initializer using tf.keras.layers.Bidirectional.
 - Write a code to create a bidirectional GRU layer and set the bias initializer to a custom initializer using tf.keras.layers.Bidirectional.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

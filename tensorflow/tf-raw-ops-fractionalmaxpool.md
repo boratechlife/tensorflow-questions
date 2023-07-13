@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fractionalmaxpool.
 - Write a code to perform fractional max pooling on a tensor with an overlapping value of 0.9.
 - Write a code to perform fractional max pooling on a tensor and specify the return_indices value.
 - Write a code to perform fractional max pooling on a tensor with return_indices set to True.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

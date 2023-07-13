@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops matrixdiagpartv2.
 - Implement a code to calculate the element-wise absolute value of a matrix using "tf.raw_ops.MatrixDiagPartV2".
 - Write a code to calculate the element-wise sign of a matrix using "tf.raw_ops.MatrixDiagPartV2".
 - How would you use "tf.raw_ops.MatrixDiagPartV2" to perform element-wise rounding of a matrix?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

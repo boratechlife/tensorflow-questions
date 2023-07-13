@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy diagonal.
 - Write a code to calculate the difference between the maximum and minimum diagonal elements of a given 3D NumPy array along a specified axis.
 - Write a code to check if the diagonal elements of a given 3D NumPy array along a specified axis are sorted in ascending order.
 - Write a code to check if the diagonal elements of a given 3D NumPy array along a specified axis are sorted in descending order.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

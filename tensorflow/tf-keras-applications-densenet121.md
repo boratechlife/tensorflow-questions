@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications densenet121.
 - Write a code to implement class balancing during training of the DenseNet121 model.
 - Write a code to calculate the Hamming loss of the DenseNet121 model on a given dataset.
 - Write a code to implement a custom metric for evaluating the performance of the DenseNet121 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

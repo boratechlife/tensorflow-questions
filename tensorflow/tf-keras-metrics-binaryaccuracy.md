@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics binaryaccuracy.
 - Write a code to calculate the binary accuracy of a model's predictions on a validation set for each label and class in a multi-label, multi-class problem using BinaryAccuracy.
 - Write a code to use BinaryAccuracy metric in a regression problem by thresholding the predicted values.
 - Write a code to calculate the binary accuracy of a model's predictions on a regression problem by thresholding the predicted values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

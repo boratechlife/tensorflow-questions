@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers schedules cosinedecayres
 - Write a code to set the initial decay cosine maximum for a CosineDecayRestarts scheduler.
 - Write a code to set the alpha decay cosine maximum for a CosineDecayRestarts scheduler.
 - Write a code to set the beta decay cosine maximum for a CosineDecayRestarts scheduler.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

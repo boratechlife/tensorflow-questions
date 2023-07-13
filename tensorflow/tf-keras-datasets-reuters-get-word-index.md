@@ -66,3 +66,17 @@ description: Practice questions for tf keras datasets reuters get word index.
 - How can you retrieve the indices of the words that have a length less than a certain number of characters in the Reuters dataset using tf.keras.datasets.reuters.get_word_index?
 - Write a code to calculate the average document length in the Reuters dataset using tf.keras.datasets.reuters.get_word_index.
 - How can you calculate the maximum document length in the Reuters dataset using tf.keras.datasets.reuters.get_word_index?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

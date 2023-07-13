@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications vgg16 preprocess input
 - Write a code to preprocess an image using the "preprocess_input" function and apply image shearing in the x-axis.
 - Write a code to preprocess an image using the "preprocess_input" function and apply image shearing in the y-axis.
 - Write a code to preprocess an image using the "preprocess_input" function and apply image resizing with custom dimensions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

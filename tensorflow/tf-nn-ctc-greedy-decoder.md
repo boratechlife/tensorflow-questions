@@ -66,3 +66,17 @@ description: Practice questions for tf nn ctc greedy decoder.
 - Write a code to calculate the average edit distance between the target sequences and the outputs of a CTC greedy decoder.
 - Write a code to calculate the average number of frames in the output sequences obtained from a CTC greedy decoder.
 - Write a code to obtain the top-K predictions and their probabilities from a CTC greedy decoder in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

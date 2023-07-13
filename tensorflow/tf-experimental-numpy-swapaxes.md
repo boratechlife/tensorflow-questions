@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy swapaxes.
 - Swap the axes 0 and 12 of a 13D NumPy array using tf.experimental.numpy.swapaxes.
 - Swap the axes 4 and 13 of a 14D NumPy array using tf.experimental.numpy.swapaxes.
 - Swap the axes 6 and 13 of a 14D NumPy array using tf.experimental.numpy.swapaxes.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

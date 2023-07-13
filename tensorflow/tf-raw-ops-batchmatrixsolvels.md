@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchmatrixsolvels.
 - Write a code to solve a batch of linear systems with a known coefficient matrix using generalized iterative least squares using tf.raw_ops.BatchMatrixSolveLs.
 - Write a code to compute the rank-deficient least squares solution of a batch of matrices using tf.raw_ops.BatchMatrixSolveLs.
 - Write a code to solve a batch of rank-deficient linear systems with a known coefficient matrix using tf.raw_ops.BatchMatrixSolveLs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

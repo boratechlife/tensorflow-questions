@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cross.
 - Implement a function to find the cross product of two vectors and update the output in an existing Pandas DataFrame using "tf.raw_ops.Cross".
 - Write a code to compute the cross product of two tensors and print the result using "tf.raw_ops.Cross" in TensorFlow.
 - How would you calculate the cross product of two tensors and display the result using "tf.raw_ops.Cross" in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

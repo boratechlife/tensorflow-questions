@@ -66,3 +66,17 @@ description: Practice questions for tf histogram fixed width bins.
 - How can you specify the experimental_tfprof_use_v2 parameter in tf.histogram_fixed_width_bins?
 - Write a code to calculate the histogram with fixed-width bins and perform dimensionality reduction on the bin values.
 - How can you specify the experimental_multiplicative_intervention parameter in tf.histogram_fixed_width_bins?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

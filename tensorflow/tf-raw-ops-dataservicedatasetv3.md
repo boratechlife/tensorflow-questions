@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops dataservicedatasetv3.
 - Write a code to compute the element-wise logical XOR between two "DataServiceDatasetV3" objects.
 - Write a code to compute the element-wise logical NOT of a "DataServiceDatasetV3" object.
 - Write a code to compute the dot product between two "DataServiceDatasetV3" objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

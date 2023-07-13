@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops log1p.
 - Write a code to compute the natural logarithm of 1 plus the element-wise L1 norm of a tensor x using tf.raw_ops.Log1p.
 - Write a code to calculate the logarithm of 1 plus the element-wise L2 norm of a tensor x using tf.raw_ops.Log1p.
 - Write a code to compute the natural logarithm of 1 plus the element-wise Frobenius norm of a tensor x using tf.raw_ops.Log1p.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

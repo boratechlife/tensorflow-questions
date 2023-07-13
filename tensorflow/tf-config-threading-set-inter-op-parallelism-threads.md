@@ -26,3 +26,17 @@ description: Practice questions for tf config threading set inter op parallelism
 - Write a code to check if the number of threads used for parallelism between independent operations is set to the default value.
 - Write a code to print a message if the number of threads used for parallelism between independent operations is not set to the default value.
 - Write a code to raise an error if the number of threads used for parallelism between independent operations is not set to a valid value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

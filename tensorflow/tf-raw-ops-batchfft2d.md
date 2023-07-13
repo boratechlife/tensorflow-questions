@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchfft2d.
 - How to perform image morphing using tf.raw_ops.BatchFFT2D?
 - Write a code to compute the linear prediction cepstrum using tf.raw_ops.BatchFFT2D.
 - How to perform image warping using tf.raw_ops.BatchFFT2D?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

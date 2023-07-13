@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers legacy nadam.
 - Write a code to set the warmup steps of a Nadam optimizer to 2000.
 - Write a code to get the warmup steps of a Nadam optimizer.
 - Write a code to set the warmup rate of a Nadam optimizer to 0.1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

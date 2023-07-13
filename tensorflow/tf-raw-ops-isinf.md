@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops isinf.
 - Write a code to replace all infinite values in each subarray of a 4D tensor with a specific value using tf.raw_ops.IsInf.
 - Write a code to create a boolean mask indicating the positions of infinite values in each subarray of a 4D tensor using tf.raw_ops.IsInf.
 - Write a code to count the number of subarrays in a 4D tensor that contain at least one infinite value using tf.raw_ops.IsInf.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

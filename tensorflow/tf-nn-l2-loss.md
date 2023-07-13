@@ -66,3 +66,17 @@ description: Practice questions for tf nn l2 loss.
 - Write a code to calculate the L2 loss of a tensor and use it to encourage transfer learning in a neural network.
 - Write a code to calculate the L2 loss of a tensor and use it to enforce smoothness in a time series prediction model.
 - Write a code to calculate the L2 loss of a tensor and use it to improve the generalization of a reinforcement learning algorithm.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

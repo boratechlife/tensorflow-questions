@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy count nonzero.
 - Write a code to count the number of nonzero elements in a TensorFlow tensor and return the indices of those elements as a hash tensor.
 - Write a code to count the number of nonzero elements in a NumPy array and return the indices of those elements as a priority queue.
 - Write a code to count the number of nonzero elements in a TensorFlow tensor and return the indices of those elements as a priority tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

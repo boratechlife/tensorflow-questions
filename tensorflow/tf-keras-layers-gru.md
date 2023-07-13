@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers gru.
 - Write a code to create a recurrent neural network with a tf.keras.layers.GRU layer and gradient reversal.
 - Write a code to create a recurrent neural network with a tf.keras.layers.GRU layer and curriculum learning.
 - Write a code to create a recurrent neural network with a tf.keras.layers.GRU layer and self-attention.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

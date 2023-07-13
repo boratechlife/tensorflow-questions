@@ -66,3 +66,17 @@ description: Practice questions for tf identity.
 - Write a code to apply the tf.identity function to a TensorFlow tensor and calculate its element-wise not equal comparison with another tensor.
 - Write a code to apply the tf.identity function to a TensorFlow tensor and calculate its element-wise greater comparison with another tensor.
 - Write a code to apply the tf.identity function to a TensorFlow tensor and calculate its element-wise less comparison with another tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

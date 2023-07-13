@@ -66,3 +66,17 @@ description: Practice questions for tf errors.
 - Write a code to catch and handle a tf.errors.InvalidArgumentError exception.
 - Write a code to check if a given exception is an instance of tf.errors.ResourceExhaustedError.
 - Write a code to raise a tf.errors.OpError exception.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

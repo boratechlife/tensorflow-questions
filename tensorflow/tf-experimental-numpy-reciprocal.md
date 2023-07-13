@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy reciprocal.
 - Write a code to calculate the reciprocal of each element in a tensor and replace any NaN reciprocals with a default value using tf.experimental.numpy.reciprocal.
 - Write a code to calculate the reciprocal of each element in a tensor and round the reciprocals to a specified number of decimal places using tf.experimental.numpy.reciprocal.
 - Write a code to calculate the reciprocal of each element in a tensor and truncate the reciprocals to a specified number of decimal places using tf.experimental.numpy.reciprocal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf losses mape.
 - Write a code to compute the MAPE loss for a radial basis function network model using tf.losses.mape.
 - Write a code to calculate the MAPE loss for a random decision forest regression model using tf.losses.mape.
 - Write a code to apply the MAPE loss function to a random decision forest classification model's predictions using tf.losses.mape.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

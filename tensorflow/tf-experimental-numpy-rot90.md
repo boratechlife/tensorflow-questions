@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy rot90.
 - Write a code to rotate a 3D tensor 90 degrees clockwise along the third axis three times using tf.experimental.numpy.rot90.
 - Write a code to rotate a 2D NumPy array 180 degrees three times using tf.experimental.numpy.rot90.
 - Write a code to rotate a 3D NumPy array 180 degrees along the third axis three times using tf.experimental.numpy.rot90.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

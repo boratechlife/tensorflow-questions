@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectivegather.
 - How can you use tf.raw_ops.CollectiveGather to gather tensors with a specific variable reference?
 - Write a code to gather tensors with a specific variable reference using tf.raw_ops.CollectiveGather.
 - How can you use the aggregation_method parameter in tf.raw_ops.CollectiveGather to specify the method for aggregating the gathered tensors?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

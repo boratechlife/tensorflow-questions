@@ -66,3 +66,17 @@ description: Practice questions for tf metrics msle.
 - Write a code to compute the MSLE between two tensors with different sizes using tf.metrics.MSLE.
 - Write a code to initialize a tf.metrics.MSLE object with a custom epsilon value.
 - Write a code to update a tf.metrics.MSLE object with predictions and targets from a test dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

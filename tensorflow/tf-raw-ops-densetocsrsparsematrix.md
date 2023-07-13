@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops densetocsrsparsematrix.
 - Implement a function that converts a dense matrix to a CSR sparse matrix, and specify the matrix norm type using tf.raw_ops.DenseToCSRSparseMatrix.
 - How can you convert a dense matrix with audio waveform samples to a CSR sparse matrix using tf.raw_ops.DenseToCSRSparseMatrix?
 - Write a code to convert a dense matrix to a CSR sparse matrix, and specify the compression algorithm for the sparse matrix using tf.raw_ops.DenseToCSRSparseMatrix.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf estimator dnnlinearcombinedregressor.
 - Write a code to set the DNN model optimizer elastic for the DNNLinearCombinedRegressor.
 - Write a code to set the DNN model optimizer micro batch size for the DNNLinearCombinedRegressor.
 - Write a code to train the DNNLinearCombinedRegressor on input data.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

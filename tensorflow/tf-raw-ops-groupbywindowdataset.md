@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops groupbywindowdataset.
 - Write a code to calculate the autocorrelation of elements in each group of a GroupByWindowDataset.
 - Write a code to calculate the cross-correlation between two groups in a GroupByWindowDataset.
 - Write a code to convert a GroupByWindowDataset into a regular dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

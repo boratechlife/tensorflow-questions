@@ -66,3 +66,17 @@ description: Practice questions for tf sparsetensor.
 - Write a code to compute the element-wise square of a tf.SparseTensor.
 - Write a code to compute the element-wise inverse of a tf.SparseTensor.
 - Write a code to compute the element-wise cumulative sum of a tf.SparseTensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

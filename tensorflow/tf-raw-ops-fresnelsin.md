@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fresnelsin.
 - How would you apply the tf.raw_ops.FresnelSin operation to calculate the Fresnel sine of a matrix with a specified shape in TensorFlow?
 - Write a code to calculate the Fresnel sine of a tensor using tf.raw_ops.FresnelSin.
 - How can you utilize the tf.raw_ops.FresnelSin function to compute the Fresnel sine of each element in a given tensor using TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

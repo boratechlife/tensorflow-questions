@@ -66,3 +66,17 @@ description: Practice questions for tf nn top k.
 - Write a code to compute the top k values and indices from a tensor with shape (batch_size, None, num_features) using tf.nn.top_k.
 - Write a code to find the top 5 values and indices from a tensor, excluding the bottom 2 values, along the second axis of a ragged tensor using tf.nn.top_k.
 - Write a code to extract the top k values and indices from a tensor with shape (batch_size, None, num_features, channels) using tf.nn.top_k.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

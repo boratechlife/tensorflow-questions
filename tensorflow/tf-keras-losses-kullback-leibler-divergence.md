@@ -115,3 +115,17 @@ description: Practice questions for tf keras losses kullback leibler divergence.
 - Write a code to calculate the Kullback-Leibler divergence between two probability distributions and multiply the result by a constant value.
 - 
 - Write a code to calculate the Kullback-Leibler divergence loss between two tensors and multiply the result by a constant value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

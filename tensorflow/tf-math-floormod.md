@@ -66,3 +66,17 @@ description: Practice questions for tf math floormod.
 - Write a code to calculate the floor modulus of a tensor by a scalar and broadcast the scalar to match the tensor's shape, returning the result as a NumPy array using "tf.math.floormod".
 - Write a code to find the remainder of dividing a tensor by a scalar and broadcast the scalar to match the tensor's shape, returning the result as a NumPy array using "tf.math.floormod".
 - Write a code to calculate the modulo of a tensor by a scalar and broadcast the scalar to match the tensor's shape, returning the result as a NumPy array using "tf.math.floormod".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

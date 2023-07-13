@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops any.
 - Write a code to find if any element in a tensor is a proper rational number using tf.raw_ops.Any.
 - Write a code to check if any element in a given tensor is an improper rational number using tf.raw_ops.Any.
 - Write a code to determine if any element in a tensor is a mixed rational number using tf.raw_ops.Any.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

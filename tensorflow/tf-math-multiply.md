@@ -66,3 +66,17 @@ description: Practice questions for tf math multiply.
 - Write a code to multiply a tensor by a constant and perform element-wise floor operation using tf.math.multiply.
 - Write a code to multiply two tensors and perform element-wise comparison using tf.math.multiply.
 - Write a code to multiply a tensor by a matrix and perform element-wise logical AND operation using tf.math.multiply.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

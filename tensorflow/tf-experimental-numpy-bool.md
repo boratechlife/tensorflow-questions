@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy bool.
 - Write a code to compute the logical XOR of all elements in a boolean array using tf.experimental.numpy.bool_.
 - Write a code to compute the logical NOT of all elements in a boolean array using tf.experimental.numpy.bool_.
 - Write a code to check if two boolean arrays are equal element-wise using tf.experimental.numpy.bool_.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

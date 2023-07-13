@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet.
 - Write a code to get the number of trainable parameters in the ResNet50 model.
 - Write a code to get the number of trainable parameters in the ResNet101 model.
 - Write a code to get the number of trainable parameters in the ResNet152 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

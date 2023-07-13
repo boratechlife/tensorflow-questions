@@ -66,3 +66,17 @@ description: Practice questions for tf math not equal.
 - Write a code to determine if any element in a tensor is not equal to a given array using tf.math.not_equal.
 - Write a code to compare if two tensors have different shapes and the same values using tf.math.not_equal.
 - Write a code to find the positions where two tensors have different elements using tf.math.not_equal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf linalg eigvals.
 - Write a code to find the eigenvalues of a banded Toeplitz matrix using tf.linalg.eigvals.
 - Write a code to calculate the eigenvalues of a banded circulant matrix using TensorFlow's tf.linalg.eigvals.
 - Write a code to compute the eigenvalues of a block diagonal matrix with random diagonal blocks using tf.linalg.eigvals.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

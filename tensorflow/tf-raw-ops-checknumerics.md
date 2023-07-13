@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops checknumerics.
 - Write a code to ensure that all elements of a tensor are non-missing data and replace any missing values with a specified value using tf.raw_ops.CheckNumerics.
 - Write a code to validate a tensor by checking if it satisfies a specific regular expression pattern using tf.raw_ops.CheckNumerics.
 - Write a code to check if a tensor contains any negative infinity values and replace them with a specified value using tf.raw_ops.CheckNumerics.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

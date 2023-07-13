@@ -66,3 +66,17 @@ description: Practice questions for tf registergradient.
 - Write a code to register a gradient for the tf.nn.sparse_softmax_cross_entropy_with_logits operation.
 - Write a code to register a gradient for the tf.nn.weighted_cross_entropy_with_logits operation.
 - Write a code to register a gradient for the tf.nn.ctc_loss operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

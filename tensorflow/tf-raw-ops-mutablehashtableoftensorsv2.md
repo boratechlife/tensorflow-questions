@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mutablehashtableoftensorsv2.
 - Write a code to create a new instance of MutableHashTableOfTensorsV2 with a specified container, shared name, default value, key and value dtype, container capacity, name scope, delta sparse threshold, initial num buckets, value shape, hash buckets, hash bucket capacity, hash table container, hash table container capacity, seed, experimental fingerprints, hash table container num splits, strong key validation, key dtype constraints, value dtype constraints, name, stats, resizable, value shape scalar, value shape unknown rank, initializer, shared_name_suffix, checkpoint, shared_embedding_collections, max_collisions, hash_table_width, key_dtypes, and value_dtypes.
 - Write a code to create a new instance of MutableHashTableOfTensorsV2 with a specified container, shared name, default value, key and value dtype, container capacity, name scope, delta sparse threshold, initial num buckets, value shape, hash buckets, hash bucket capacity, hash table container, hash table container capacity, seed, experimental fingerprints, hash table container num splits, strong key validation, key dtype constraints, value dtype constraints, name, stats, resizable, value shape scalar, value shape unknown rank, initializer, shared_name_suffix, checkpoint, shared_embedding_collections, max_collisions, hash_table_width, key_dtypes, value_dtypes, and allow_repeated_keys.
 - Write a code to create a new instance of MutableHashTableOfTensorsV2 with a specified container, shared name, default value, key and value dtype, container capacity, name scope, delta sparse threshold, initial num buckets, value shape, hash buckets, hash bucket capacity, hash table container, hash table container capacity, seed, experimental fingerprints, hash table container num splits, strong key validation, key dtype constraints, value dtype constraints, name, stats, resizable, value shape scalar, value shape unknown rank, initializer, shared_name_suffix, checkpoint, shared_embedding_collections, max_collisions, hash_table_width, key_dtypes, value_dtypes, allow_repeated_keys, and disjoint_unique_keys.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

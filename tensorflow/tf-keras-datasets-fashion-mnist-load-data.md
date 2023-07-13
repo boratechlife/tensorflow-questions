@@ -66,3 +66,17 @@ description: Practice questions for tf keras datasets fashion mnist load data.
 - Write a code to implement stochastic gradient descent for training a model on the Fashion MNIST dataset.
 - How can you visualize the gradients of different layers in a neural network on the Fashion MNIST dataset?
 - Write a code to implement L2 regularization in a fully connected neural network model for the Fashion MNIST dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental collectivecommuni
 - Write a code to retrieve the rank of the current device in a specific strategy in TensorFlow.
 - Write a code to retrieve the local rank of the current device in a specific strategy in TensorFlow.
 - Write a code to retrieve the cross-replica context associated with a specific strategy in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

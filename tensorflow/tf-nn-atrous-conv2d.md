@@ -66,3 +66,17 @@ description: Practice questions for tf nn atrous conv2d.
 - Write a code to apply atrous convolution with a specific dilation rate and bias initializer on an input tensor using "tf.nn.atrous_conv2d".
 - Write a code to apply atrous convolution with a specific dilation rate and data type on an input tensor using "tf.nn.atrous_conv2d".
 - Write a code to apply atrous convolution with a specific dilation rate and name scope on an input tensor using "tf.nn.atrous_conv2d".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

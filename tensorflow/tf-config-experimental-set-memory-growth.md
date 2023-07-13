@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental set memory growth.
 - Write a code to retrieve the current memory growth setting for a specific CPU device using its index.
 - Write a code to set the memory growth threshold to a specific value for a CPU device.
 - Write a code to reset the memory growth settings to their default values for a specific CPU device.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

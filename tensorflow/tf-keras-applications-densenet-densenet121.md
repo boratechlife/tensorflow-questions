@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications densenet densenet121.
 - Write a code to set the class mode for loading the dataset with the DenseNet121 model.
 - Write a code to set the target size for resizing the input images in the DenseNet121 model.
 - Write a code to set the color mode for loading the images with the DenseNet121 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

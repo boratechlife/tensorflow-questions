@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor jobs.
 - Write a code to delete a job from TensorFlow's dtensor.jobs module.
 - Write a code to delete all the jobs in tf.experimental.dtensor.jobs.
 - Write a code to set the job description for a job using tf.experimental.dtensor.jobs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf io gfile rmtree.
 - Write a code to delete a directory and its contents, excluding files that violate a specific policy or regulation, using tf.io.gfile.rmtree.
 - Write a code to delete a directory and its contents, excluding files that are duplicates based on their content, using tf.io.gfile.rmtree.
 - Write a code to delete a directory and its contents, excluding files that are part of a specific version control system, using tf.io.gfile.rmtree.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

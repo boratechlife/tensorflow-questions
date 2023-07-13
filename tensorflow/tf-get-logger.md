@@ -66,3 +66,17 @@ description: Practice questions for tf get logger.
 - Write a code to log a message with a custom log level page break using tf.get_logger().
 - Write a code to log a message with a custom log level line break using tf.get_logger().
 - Write a code to log a message with a custom log level text color using tf.get_logger().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

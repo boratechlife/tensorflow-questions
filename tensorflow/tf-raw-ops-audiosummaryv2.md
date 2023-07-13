@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops audiosummaryv2.
 - Write a code to extract the spectrogram of an audio file using TensorFlow.
 - Write a code to apply a time-domain convolution to an audio file using TensorFlow.
 - Write a code to apply a frequency-domain convolution to an audio file using TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

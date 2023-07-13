@@ -67,3 +67,17 @@ description: Practice questions for tf raw ops dummymemorycache.
 - Write a code to compare two DummyMemoryCache instances for equality.
 - Write a code to find the minimum value in a DummyMemoryCache instance.
 - Write a code to find the maximum value in a DummyMemoryCache instance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

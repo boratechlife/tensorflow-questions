@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnetx006.
 - Write a code to set the batch normalization momentum to 0.9 in a specific batch normalization layer of the "RegNetX006" model.
 - Write a code to set the batch normalization epsilon to 1e-5 in a specific batch normalization layer of the "RegNetX006" model.
 - Write a code to set the batch normalization center to False in a specific batch normalization layer of the "RegNetX006" model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

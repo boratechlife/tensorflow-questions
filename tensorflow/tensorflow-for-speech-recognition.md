@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are the techniques for handling multi-speaker speech recognition using TensorFlow?
 - Explain the concept of deep clustering and its application in speech separation for improved speech recognition.
 - How can you integrate a speech recognition system built with TensorFlow into an existing application or service?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

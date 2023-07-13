@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreesquantilestreamresourc
 - Can you deserialize a BoostedTrees quantile stream resource from a NoSQL database using tf.raw_ops.BoostedTreesQuantileStreamResourceDeserialize?
 - How do you handle deserialization of a BoostedTrees quantile stream resource with missing or inconsistent numerical feature scaling information?
 - Write a code to deserialize a BoostedTrees quantile stream resource and perform anomaly detection on the deserialized data.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

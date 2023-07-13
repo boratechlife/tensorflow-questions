@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers schedules cosinedecayrestarts.
 - Write a code to retrieve the t_mul value used in a CosineDecayRestarts schedule.
 - Write a code to create a CosineDecayRestarts schedule with initial learning rate 0.01, first decay steps 500, and a m_mul value of 0.8.
 - Write a code to calculate the decayed learning rate at step 1000 using a CosineDecayRestarts schedule with initial learning rate 0.05, first decay steps 2000, m_mul value of 0.9, and a multiplier of 0.1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -115,3 +115,17 @@ description: Practice questions for tf io decode csv.
 - Write a code to decode a CSV file and handle skewed data using sigmoid transformation with tf.io.decode_csv.
 - 
 - Write a code to decode a CSV file and handle skewed data using Johnson SU transformation with tf.io.decode_csv.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

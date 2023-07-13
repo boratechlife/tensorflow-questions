@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops matrixsetdiagv3.
 - Create a code snippet to set the diagonal of a matrix to zero using tf.raw_ops.MatrixSetDiagV3.
 - Write a code to set the diagonal of a matrix to a constant value using tf.raw_ops.MatrixSetDiagV3.
 - How can you set the diagonal of a matrix to an array of values using tf.raw_ops.MatrixSetDiagV3?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

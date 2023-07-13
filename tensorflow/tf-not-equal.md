@@ -66,3 +66,17 @@ description: Practice questions for tf not equal.
 - Write a code to compare two matrices and return a Boolean matrix indicating whether the elements are not equal using tf.not_equal.
 - Write a code to find the number of occurrences where two tensors are not equal element-wise using tf.not_equal.
 - Write a code to check if any element in a matrix is not equal to a given value using tf.not_equal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

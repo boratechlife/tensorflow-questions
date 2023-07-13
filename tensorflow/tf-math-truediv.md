@@ -66,3 +66,17 @@ description: Practice questions for tf math truediv.
 - Write a code to divide a tensor by a scalar element-wise and compute the hyperbolic sine of the result using tf.math.truediv and tf.math.sinh.
 - Write a code to divide a scalar by a tensor element-wise and compute the hyperbolic sine of the result using tf.math.truediv and tf.math.sinh.
 - Write a code to divide two tensors element-wise and compute the hyperbolic cosine of the result using tf.math.truediv and tf.math.cosh.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

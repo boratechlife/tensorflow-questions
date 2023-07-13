@@ -66,3 +66,17 @@ description: Practice questions for tf feature column weighted categorical colum
 - Write a code to create a feature column with embedding and sequence_categorical_column_with_hash_bucket_and_default_value for a weighted categorical column in TensorFlow.
 - Write a code to create a feature column with indicator and hashed for a weighted categorical column in TensorFlow.
 - Write a code to create a feature column with indicator and bucketized for a weighted categorical column in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

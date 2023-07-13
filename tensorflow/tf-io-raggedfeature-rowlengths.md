@@ -66,3 +66,17 @@ description: Practice questions for tf io raggedfeature rowlengths.
 - Write a code to calculate the trimmed mean of row lengths in a tf.io.RaggedFeature using the RowLengths function.
 - Write a code to calculate the log-likelihood of row lengths in a tf.io.RaggedFeature using the RowLengths function.
 - Write a code to calculate the entropy of row lengths in a tf.io.RaggedFeature using the RowLengths function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

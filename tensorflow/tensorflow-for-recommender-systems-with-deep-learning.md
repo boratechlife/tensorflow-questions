@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are the techniques for handling multi-objective optimization in recommender systems, and how can TensorFlow help in addressing these challenges?
 - Describe the concept of self-supervised learning in recommender systems and how TensorFlow can be used to implement self-supervised algorithms.
 - How can you incorporate domain knowledge and expert rules into deep learning-based recommender systems using TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

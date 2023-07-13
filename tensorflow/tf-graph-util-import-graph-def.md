@@ -66,3 +66,17 @@ description: Practice questions for tf graph util import graph def.
 - Write a code to import a graph definition and retrieve the nodes that a given operation depends on using tf.graph_util.import_graph_def.
 - Write a code to import a graph definition and retrieve the tensors that depend on a given operation using tf.graph_util.import_graph_def.
 - Write a code to import a graph definition and retrieve the tensors that a given operation depends on using tf.graph_util.import_graph_def.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

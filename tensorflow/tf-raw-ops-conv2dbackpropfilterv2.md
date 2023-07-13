@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conv2dbackpropfilterv2.
 - Implement a function to perform a backward filter convolution with padding using tf.raw_ops.Conv2DBackpropFilterV2 and a given padding type, size, dilation, groups, batch normalization, and dropout.
 - How can you use tf.raw_ops.Conv2DBackpropFilterV2 to perform a grouped dilated separable depthwise convolution operation with batch normalization?
 - Write a code to apply a 2D transposed convolution using tf.raw_ops.Conv2DBackpropFilterV2 with a given output shape, stride, padding, dilation, groups, weight decay, momentum, batch normalization, and dropout.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

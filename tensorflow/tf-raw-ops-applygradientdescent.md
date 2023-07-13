@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops applygradientdescent.
 - Write a code to apply gradient descent with ProximalAdagradOptimizer and decentralized update with zero redundancy quantization.
 - Write a code to apply gradient descent with ProximalGradientDescentOptimizer and decentralized update with zero-redundancy quantization and fault-tolerance.
 - Write a code to apply gradient descent with ProximalAdagradOptimizer and decentralized update with zero-redundancy quantization and fault-tolerance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

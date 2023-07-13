@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics get.
 - Write a code to retrieve the weighted F1-score value for a metric using the tf.keras.metrics.get function.
 - Write a code to retrieve the weighted AUC value for a metric using the tf.keras.metrics.get function.
 - Write a code to retrieve the weighted mean squared error value for a metric using the tf.keras.metrics.get function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

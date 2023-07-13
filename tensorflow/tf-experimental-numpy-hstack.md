@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy hstack.
 - Write a code to horizontally stack two arrays and then calculate the median value along each row using tf.experimental.numpy.hstack.
 - Write a code to horizontally stack two arrays and then calculate the mode value along each column using tf.experimental.numpy.hstack.
 - Write a code to horizontally stack two arrays and then calculate the standard deviation along each row using tf.experimental.numpy.hstack.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

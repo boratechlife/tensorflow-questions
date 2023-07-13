@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalchoosefastestdataset.
 - Write a code to create a tf.raw_ops.ExperimentalChooseFastestDataset dataset by applying a filter and take transformation to an input dataset.
 - Write a code to create a tf.raw_ops.ExperimentalChooseFastestDataset dataset by applying a filter and batch transformation to an input dataset.
 - Write a code to create a tf.raw_ops.ExperimentalChooseFastestDataset dataset by applying a flat map and reduce transformation to an input dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

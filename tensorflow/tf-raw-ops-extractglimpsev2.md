@@ -67,3 +67,17 @@ description: Practice questions for tf raw ops extractglimpsev2.
 - Write a code to extract a glimpse from a tensor and perform a specific image inpainting technique using tf.raw_ops.ExtractGlimpseV2.
 - Write a code to extract a glimpse from a tensor and apply a specific image deblurring method using tf.raw_ops.ExtractGlimpseV2.
 - Write a code to extract a glimpse from a tensor and perform a specific image compression technique using tf.raw_ops.ExtractGlimpseV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

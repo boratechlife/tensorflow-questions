@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy shape.
 - Write a code to determine the size of the largest axis from the end in a NumPy array using "tf.experimental.numpy.shape".
 - Write a code to determine the size of the smallest axis from the end in a NumPy array using "tf.experimental.numpy.shape".
 - Write a code to find the shape of a specific subarray along a given axis from the end in a NumPy array using "tf.experimental.numpy.shape".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

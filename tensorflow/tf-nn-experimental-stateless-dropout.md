@@ -66,3 +66,17 @@ description: Practice questions for tf nn experimental stateless dropout.
 - Write a code to apply stateless dropout with a dropout rate of 0.5 to a tensor and calculate the element-wise floor division.
 - Write a code to apply stateless dropout with a dropout rate of 0.2 to a tensor and calculate the element-wise power.
 - Write a code to apply stateless dropout with a dropout rate of 0.4 to a tensor and calculate the element-wise absolute difference.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

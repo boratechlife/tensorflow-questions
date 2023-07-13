@@ -115,3 +115,17 @@ description: Practice questions for tf keras activations serialize.
 - Write a code to serialize the activation function 'hard_sigmoid' using tf.keras.activations.serialize.
 - 
 - Write a code to serialize the activation function 'exponential' using tf.keras.activations.serialize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

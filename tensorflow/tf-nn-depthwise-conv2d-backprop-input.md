@@ -66,3 +66,17 @@ description: Practice questions for tf nn depthwise conv2d backprop input.
 - Write a code to perform depthwise convolution backward propagation for a given input tensor using TensorFlow's depthwise_conv2d_backprop_input function.
 - Write a code to calculate the gradients of the input tensor using TensorFlow's depthwise_conv2d_backprop_input function.
 - Write a code to implement depthwise convolution backward propagation using TensorFlow's depthwise_conv2d_backprop_input.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

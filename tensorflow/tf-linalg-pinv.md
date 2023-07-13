@@ -66,3 +66,17 @@ description: Practice questions for tf linalg pinv.
 - Write a code to compute the pseudo-inverse of a matrix and check if it is a sparse matrix.
 - Write a code to compute the pseudo-inverse of a matrix and check if it is a full-rank matrix.
 - Write a code to compute the pseudo-inverse of a matrix and check if it is a low-rank matrix.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

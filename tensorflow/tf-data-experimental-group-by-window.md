@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental group by window.
 - Write a code to group elements in a TensorFlow dataset and calculate the median of each group using tf.data.experimental.group_by_window.
 - Write a code to group elements in a TensorFlow dataset based on a key and calculate the median of each group using tf.data.experimental.group_by_window.
 - Write a code to group elements in a TensorFlow dataset and apply a time-based window using tf.data.experimental.group_by_window.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

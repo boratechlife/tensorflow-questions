@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental set visible devices.
 - Write a code to specify a preferred device order for visible devices.
 - Write a code to restrict the visible devices to a specific memory bus.
 - Write a code to set a specific memory limit for a specific device.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

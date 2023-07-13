@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectivereducev2.
 - Write a code to perform a reduction with a specified shard key type using tf.raw_ops.CollectiveReduceV2 on a tensor.
 - Write a code to perform a reduction with a specified shard key length using tf.raw_ops.CollectiveReduceV2 on a tensor.
 - Write a code to perform a reduction with a specified shard key dtype using tf.raw_ops.CollectiveReduceV2 on a tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchmatrixdiag.
 - Write a code to compute the batch element-wise division of two batch matrix tensors using the BatchMatrixDiag operation.
 - Write a code to create a batch matrix diagonal tensor from a given input tensor with specified padding values and a per-tensor masking value.
 - Write a code to compute the batch element-wise maximum of two batch matrix tensors using the BatchMatrixDiag operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

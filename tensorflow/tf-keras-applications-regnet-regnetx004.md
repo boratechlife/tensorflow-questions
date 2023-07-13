@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnet regnetx004.
 - Write a code to set the attention dropout rate for the RegNetX004 model.
 - Write a code to set the size of the patch embeddings for the RegNetX004 model.
 - Write a code to set the number of transformer layers in the RegNetX004 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

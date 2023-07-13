@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops countupto.
 - Write a code to implement a counter that increases by a user-defined logarithmic function in each iteration using tf.raw_ops.CountUpTo.
 - Write a code to increment a variable by a value that follows a predefined sequence and resets to a value based on a user-defined pattern using tf.raw_ops.CountUpTo.
 - Write a code to create a TensorFlow graph that counts up to a specific value and then resets to a value based on a user-defined function using tf.raw_ops.CountUpTo.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

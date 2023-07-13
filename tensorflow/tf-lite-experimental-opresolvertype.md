@@ -66,3 +66,17 @@ description: Practice questions for tf lite experimental opresolvertype.
 - Write a code to check if the OpResolverType supports any acceleration options.
 - Write a code to enable all available acceleration options in the OpResolverType.
 - Write a code to disable all acceleration options in the OpResolverType.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

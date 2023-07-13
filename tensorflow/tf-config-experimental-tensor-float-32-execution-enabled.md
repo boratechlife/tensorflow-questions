@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental tensor float 32 execu
 - Write a code to check if 32-bit floating point execution is enabled for a specific layer in TensorFlow.
 - Write a code to enable 32-bit floating point execution for a specific batch size in TensorFlow.
 - Write a code to disable 32-bit floating point execution for a specific batch size in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

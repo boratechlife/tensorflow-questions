@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cropandresizegradboxes.
 - How can you backpropagate through the boxes input using the CropAndResizeGradBoxes operation in TensorFlow for gradient calculation and optimization?
 - Write a code to calculate the gradient of the boxes input with respect to a loss function using tf.raw_ops.CropAndResizeGradBoxes for optimization and backpropagation in TensorFlow.
 - How can you obtain the gradient of the boxes input using tf.raw_ops.CropAndResizeGradBoxes in TensorFlow for optimization and backpropagation purposes?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

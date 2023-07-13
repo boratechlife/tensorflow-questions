@@ -66,3 +66,17 @@ description: Practice questions for tf math equal.
 - Write a code to compare two tensors and return a tensor of indices where the elements are not equal using tf.math.equal.
 - Write a code to compare two tensors and return a boolean tensor indicating whether each element is equal along a given axis using tf.math.equal.
 - Write a code to compare two tensors and return a boolean tensor indicating whether each element is not equal along a given axis using tf.math.equal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

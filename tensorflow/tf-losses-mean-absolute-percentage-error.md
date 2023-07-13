@@ -66,3 +66,17 @@ description: Practice questions for tf losses mean absolute percentage error.
 - Write a code to calculate the mean absolute percentage error between two tensors and handle heteroscedasticity using tf.losses.mean_absolute_percentage_error.
 - Write a code to calculate the mean absolute percentage error between two tensors and handle autocorrelation using tf.losses.mean_absolute_percentage_error.
 - Write a code to calculate the mean absolute percentage error between two tensors and handle outliers and missing values using tf.losses.mean_absolute_percentage_error.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

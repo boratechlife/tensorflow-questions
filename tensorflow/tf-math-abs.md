@@ -66,3 +66,17 @@ description: Practice questions for tf math abs.
 - Write a code to calculate the absolute value of each element in a multidimensional array using "tf.math.abs".
 - Write a code to calculate the absolute difference between corresponding elements in a multidimensional array and a scalar using "tf.math.abs".
 - Write a code to calculate the sum of absolute differences between corresponding elements in a multidimensional array and a scalar using "tf.math.abs".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

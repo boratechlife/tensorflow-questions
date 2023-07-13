@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to use the num_parallel_reads parameter with tf.data.Dataset.interleave in a ParallelInterleaveDataset.
 - Write a code to create a ParallelInterleaveDataset and set the sloppy_interleave parameter based on a condition.
 - Write a code to use the cycle_length parameter with tf.data.Dataset.interleave in a ParallelInterleaveDataset and set it conditionally.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

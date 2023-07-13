@@ -66,3 +66,17 @@ description: Practice questions for tf convert to tensor.
 - Write a code to convert a sparse csc matrix to a TensorFlow tensor using "tf.convert_to_tensor".
 - Write a code to convert a sparse bsr matrix to a TensorFlow tensor using "tf.convert_to_tensor".
 - Write a code to convert a sparse dia matrix to a TensorFlow tensor using "tf.convert_to_tensor".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

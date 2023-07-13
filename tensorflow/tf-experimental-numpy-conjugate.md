@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy conjugate.
 - Write a code to calculate the complex conjugate of a real-valued numpy array using tf.experimental.numpy.conjugate.
 - Write a code to calculate the logarithm of the conjugate of a complex number with a specified base using tf.experimental.numpy.conjugate.
 - Write a code to calculate the exponential of the conjugate of a complex number with a specified base using tf.experimental.numpy.conjugate.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

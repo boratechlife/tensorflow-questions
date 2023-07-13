@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mutablehashtablev2.
 - Write a code to get the last value in a MutableHashTableV2 object.
 - Write a code to find the key-value pair with the maximum value in a MutableHashTableV2 object.
 - Write a code to find the key-value pair with the minimum value in a MutableHashTableV2 object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

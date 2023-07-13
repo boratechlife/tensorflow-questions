@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications inception v3 inception
 - Write a code to apply L2 regularization to the weights of the InceptionV3 model.
 - Write a code to implement a learning rate schedule for training the InceptionV3 model.
 - Write a code to implement gradient clipping during training of the InceptionV3 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

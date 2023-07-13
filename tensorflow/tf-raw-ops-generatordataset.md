@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops generatordataset.
 - Write a code to calculate the element-wise rank of values with tie-breaking in a GeneratorDataset object.
 - Write a code to calculate the element-wise rank of values within groups with tie-breaking in a GeneratorDataset object.
 - Write a code to create a GeneratorDataset object from an image directory and apply image preprocessing.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

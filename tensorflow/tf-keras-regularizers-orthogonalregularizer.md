@@ -66,3 +66,17 @@ description: Practice questions for tf keras regularizers orthogonalregularizer.
 - Write a code to create a neural network with OrthogonalRegularizer and visualize the filters learned by the convolutional layers.
 - Write a code to create a neural network with OrthogonalRegularizer and interpret the model's decision boundaries.
 - Write a code to create a neural network with OrthogonalRegularizer and compare its performance with other regularization techniques.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

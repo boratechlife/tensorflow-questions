@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreessparseaggregatestats.
 - How to set the compute_split_points for BoostedTreesSparseAggregateStats?
 - Write a code to configure the node_histogram_label_bucket_indices parameter in BoostedTreesSparseAggregateStats.
 - How to specify the missing_value_policy for BoostedTreesSparseAggregateStats?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

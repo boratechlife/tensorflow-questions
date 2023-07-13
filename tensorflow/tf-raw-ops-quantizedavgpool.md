@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedavgpool.
 - Write a code to compute the quantized average pooling gradients for a 3D input and output gradient tensors with quantization parameters using tf.raw_ops.QuantizedAvgPool3DGradWithQuantizedOutput.
 - Write a code to calculate the quantized average pooling gradients for a 3D input tensor, output gradient tensor, kernel size, stride, padding, and quantization parameters using tf.raw_ops.QuantizedAvgPool3DGradWithQuantizedOutput.
 - Write a code to perform quantized average pooling with quantization parameters, kernel size, and stride on a batch of 3D tensors using tf.raw_ops.QuantizedBatchAvgPool3DWithQuantizedOutput.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

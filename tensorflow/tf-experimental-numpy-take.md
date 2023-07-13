@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy take.
 - Write a code to take the element-wise multiplication of two numpy arrays using tf.experimental.numpy.take.
 - Write a code to take the element-wise division of two numpy arrays using tf.experimental.numpy.take.
 - Write a code to take the element-wise power of elements in a numpy array using tf.experimental.numpy.take.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf image extract jpeg shape.
 - Write a code to extract the shape of a JPEG image and randomly crop a smaller region of interest with customizable parameters using tf.image.extract_jpeg_shape and tf.image.random_crop.
 - Write a code to extract the shape of a JPEG image and apply Gaussian blur with adjustable parameters using tf.image.extract_jpeg_shape and tf.image.gaussian_blur.
 - Write a code to extract the shape of a JPEG image and convert it to a tensor with normalized pixel values in a specified range using tf.image.extract_jpeg_shape and tf.image.convert_image_dtype.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

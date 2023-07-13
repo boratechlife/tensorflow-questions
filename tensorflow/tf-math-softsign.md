@@ -66,3 +66,17 @@ description: Practice questions for tf math softsign.
 - Write a code to calculate the softsign of a tensor and return the element-wise logical NAND between two tensors.
 - Write a code to calculate the softsign of a tensor and return the element-wise logical NOR between two tensors.
 - Write a code to calculate the softsign of a tensor and return the element-wise logical XNOR between two tensors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

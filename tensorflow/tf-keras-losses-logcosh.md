@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses logcosh.
 - Write a code to calculate the LogCosh loss between two tensors and obtain the loss for each output label using tf.keras.losses.LogCosh.
 - Write a code to create a model with LogCosh loss and apply dropout and batch normalization using tf.keras.losses.LogCosh.
 - Write a code to calculate the LogCosh loss between two tensors and obtain the loss for each time step label using tf.keras.losses.LogCosh.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

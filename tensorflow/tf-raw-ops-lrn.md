@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lrn.
 - How can you incorporate Local Response Normalization (LRN) into a TensorFlow model with ensemble learning using tf.raw_ops.LRN?
 - Write a code to calculate the local response normalization (LRN) for a tensor with a specified alpha and normalization parameter using TensorFlow's tf.raw_ops.LRN.
 - How can you adjust the alpha and normalization parameters for Local Response Normalization (LRN) using TensorFlow's tf.raw_ops.LRN function?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

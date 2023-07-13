@@ -66,3 +66,17 @@ description: Practice questions for tf raggedtensor.
 - Write a code to find the sum of values in each ragged row of a tf.RaggedTensor along a specific axis.
 - Write a code to calculate the element-wise square root of a tf.RaggedTensor.
 - Write a code to calculate the element-wise exponential of a tf.RaggedTensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

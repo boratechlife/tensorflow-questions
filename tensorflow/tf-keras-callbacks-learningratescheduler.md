@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks learningratescheduler.
 - Write a code to create a LearningRateScheduler callback that sets the learning rate to 0.01 for the first 10 epochs, then reduces it by a factor of 0.2 every 5 epochs.
 - Write a code to create a LearningRateScheduler callback that sets the learning rate to 0.01 for the first 5 epochs, then increases it by a factor of 1.2 every 10 epochs.
 - Write a code to create a LearningRateScheduler callback that sets the learning rate to 0.001 for the first 5 epochs, then reduces it by a factor of 0.2 every 5 epochs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

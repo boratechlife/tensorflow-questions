@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maxpoolgradwithargmax.
 - Write a code to perform max pooling with argmax and compute the gradient using tf.raw_ops.MaxPoolGradWithArgmax for a tensor with variable-size pooling regions.
 - What is the significance of the backprop_padding_algorithm parameter in tf.raw_ops.MaxPoolGradWithArgmax? Write a code snippet to demonstrate its impact.
 - How can you handle pooling regions with negative indices in tf.raw_ops.MaxPoolGradWithArgmax? Provide a code example to demonstrate the approach.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

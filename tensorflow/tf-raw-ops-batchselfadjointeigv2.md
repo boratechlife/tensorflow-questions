@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchselfadjointeigv2.
 - Write a code to compute the element-wise exponential of the negative of a batch of self-adjoint matrices using "BatchSelfAdjointEigV2" function.
 - Write a code to compute the element-wise inverse of the square root of a batch of self-adjoint matrices using "BatchSelfAdjointEigV2" function.
 - Write a code to compute the element-wise natural logarithm of the absolute value of a batch of self-adjoint matrices using "BatchSelfAdjointEigV2" function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

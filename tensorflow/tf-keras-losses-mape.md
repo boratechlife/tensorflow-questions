@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses mape.
 - Write a code to calculate the MAPE loss for a model's predictions on a dataset with non-linear relationships using tf.keras.losses.MAPE.
 - Write a code to calculate the MAPE loss for a model's predictions on a dataset with heteroscedasticity using tf.keras.losses.MAPE.
 - Write a code to calculate the MAPE loss for a model's predictions on a dataset with autocorrelation using tf.keras.losses.MAPE.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

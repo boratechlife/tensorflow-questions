@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can TensorFlow's variational autoencoders (VAEs) be applied to anomaly detection tasks?
 - What are some techniques for handling skewed data distributions in anomaly detection with TensorFlow?
 - Explain the concept of time series decomposition in TensorFlow-based anomaly detection.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

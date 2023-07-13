@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers rescaling.
 - How can you handle different scales for each feature and time step when using a Rescaling layer?
 - Write a code to create a Rescaling layer with a custom scaling function.
 - How do you define a custom scaling function in a Rescaling layer in TensorFlow Keras?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

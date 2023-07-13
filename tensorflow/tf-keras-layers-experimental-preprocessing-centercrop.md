@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing c
 - Write a code to center crop a batch of images with a square shape of size 256x256 pixels, rotate them randomly between -10 and 10 degrees, apply a random brightness adjustment, and display the results using tf.keras.layers.experimental.preprocessing.CenterCrop.
 - Write a code to center crop an image with a specific aspect ratio of 3:4, convert it to grayscale, resize it to 400x533 pixels, and save the result as a JPEG image using tf.keras.layers.experimental.preprocessing.CenterCrop.
 - Write a code to center crop a batch of images with a specific aspect ratio of 9:16, flip them vertically, apply a horizontal shear transformation, and feed them to a pre-trained object detection model using tf.keras.layers.experimental.preprocessing.CenterCrop.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

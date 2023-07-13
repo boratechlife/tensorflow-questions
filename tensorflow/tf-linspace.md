@@ -66,3 +66,17 @@ description: Practice questions for tf linspace.
 - Write a code to generate a TensorFlow linspace array from -10 to 10 with 500 elements.
 - Write a code to generate a TensorFlow linspace array from 1 to 100 with 500 elements.
 - Write a code to generate a TensorFlow linspace array from 0 to 360 with 1800 elements.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

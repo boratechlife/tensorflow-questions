@@ -66,3 +66,17 @@ description: Practice questions for tf math digamma.
 - Write a code to calculate the inverse digamma function for an array of values using NumPy.
 - Write a code to calculate the inverse digamma function for each element in a TensorFlow tensor.
 - Write a code to calculate the inverse digamma function for a given input value using the tf.math.polygamma function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

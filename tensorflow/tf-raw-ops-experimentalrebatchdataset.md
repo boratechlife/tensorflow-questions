@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalrebatchdataset.
 - How can you use tf.raw_ops.ExperimentalRebatchDataset to create a rebatched dataset with elements grouped based on their proximity or similarity to a centroid?
 - Write a code to rebatch a dataset with a specific batch size while ensuring a certain percentage of positive/negative class balance using tf.raw_ops.ExperimentalRebatchDataset.
 - How can you use tf.raw_ops.ExperimentalRebatchDataset to create a rebatched dataset with elements split into consecutive sub-sequences?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

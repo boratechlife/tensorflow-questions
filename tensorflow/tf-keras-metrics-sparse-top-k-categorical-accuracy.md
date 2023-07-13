@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics sparse top k categorical ac
 - How can you use sparse_top_k_categorical_accuracy for anomaly detection tasks?
 - Write a code to calculate the sparse top-n% categorical accuracy for a given model and dataset.
 - How can you use the sparse_top_k_categorical_accuracy metric in a generative model evaluation?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

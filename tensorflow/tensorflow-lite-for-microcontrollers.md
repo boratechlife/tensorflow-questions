@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you benchmark and compare the performance of different TensorFlow Lite for Microcontrollers models?
 - Explain the concept of model distillation and its applicability in TFLite Micro models.
 - Can TensorFlow Lite for Microcontrollers handle models with long short-term memory (LSTM) networks?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

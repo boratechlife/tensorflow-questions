@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor enable save as bf16.
 - Write a code to disable enable_save_as_bf16 for all TensorFlow graphs in the current session.
 - Write a code to convert all TensorFlow graphs in the current session to use bf16 data type using enable_save_as_bf16.
 - Write a code to convert all TensorFlow graphs in the current session to use bf16 data type without using enable_save_as_bf16.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

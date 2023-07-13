@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet rs resnetrs50.
 - Write a code to calculate the Grad-CAM heatmap using the ResNetRS50 model.
 - Write a code to visualize the Grad-CAM heatmap for a specific class using the ResNetRS50 model.
 - Write a code to implement an image classification pipeline using the ResNetRS50 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

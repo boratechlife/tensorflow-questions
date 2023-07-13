@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnety080.
 - Write a code to implement label smoothing regularization in the RegNetY080 model.
 - Write a code to implement a custom activation function in the RegNetY080 model.
 - Write a code to implement a custom callback for monitoring the training progress of the RegNetY080 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

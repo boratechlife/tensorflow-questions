@@ -66,3 +66,17 @@ description: Practice questions for tf keras datasets mnist load data.
 - Write a code to split the reduced training set from the MNIST dataset into training and validation sets.
 - Write a code to print the number of reduced training examples in the MNIST dataset.
 - Write a code to print the number of reduced test examples in the MNIST dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops audiospectrogram.
 - How can you calculate the constant-Q chromagram from the audio spectrogram using tf.raw_ops.AudioSpectrogram?
 - Write a code to compute the beat spectrogram from the audio spectrogram using tf.raw_ops.AudioSpectrogram.
 - How can you calculate the constant-Q tonnetz features from the audio spectrogram using tf.raw_ops.AudioSpectrogram?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

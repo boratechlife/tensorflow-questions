@@ -66,3 +66,17 @@ description: Practice questions for tf keras models model from yaml.
 - Write a code to load a Keras model from a YAML file and apply fine-tuning with a different model checkpointing filename using "model_from_yaml".
 - Write a code to load a Keras model from a YAML file and apply fine-tuning with a different model checkpointing monitor metric using "model_from_yaml".
 - Write a code to load a Keras model from a YAML file and apply fine-tuning with a different model checkpointing mode using "model_from_yaml".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnet regnety040.
 - Write a code to set the kernel initializer used in the convolutional layers of the RegNetY040 model.
 - Write a code to set the bias initializer used in the convolutional layers of the RegNetY040 model.
 - Write a code to set the kernel regularizer used in the convolutional layers of the RegNetY040 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

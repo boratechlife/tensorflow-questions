@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental dense to ragged batch.
 - How can you convert a dataset of dense tensors to a dataset of ragged tensors with varying column lengths and specified padding values, while keeping the original dense tensor shape using tf.data.experimental.dense_to_ragged_batch?
 - Write a code to convert a dataset of dense tensors to a dataset of ragged tensors with varying shapes and specified padding values, while keeping the original dense tensor shape using tf.data.experimental.dense_to_ragged_batch.
 - How can you convert a dataset of dense tensors to a dataset of ragged tensors with variable dimensions and padding, and also apply a custom function to each element, using tf.data.experimental.dense_to_ragged_batch?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

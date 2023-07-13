@@ -66,3 +66,17 @@ description: Practice questions for tf losses categoricalcrossentropy.
 - Write a code to calculate the categorical cross-entropy loss with class weights and apply regularization using tf.losses.CategoricalCrossentropy for a batch of predictions with L1 regularization.
 - Write a code to calculate the categorical cross-entropy loss with class weights and apply regularization using tf.losses.CategoricalCrossentropy for a single prediction with L2 regularization.
 - Write a code to calculate the categorical cross-entropy loss with class weights and apply regularization using tf.losses.CategoricalCrossentropy for a batch of predictions with L2 regularization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

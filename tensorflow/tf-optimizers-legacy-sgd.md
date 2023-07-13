@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers legacy sgd.
 - Write a code to set the learning rate schedule for SGD optimizer to adaptive decay based on batch-level metrics.
 - Write a code to set the learning rate schedule for SGD optimizer to cyclic learning rate with warm-up.
 - Write a code to set the learning rate schedule for SGD optimizer to decay based on training accuracy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

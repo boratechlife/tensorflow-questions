@@ -66,3 +66,17 @@ description: Practice questions for tf math log1p.
 - Write a code to compute the logarithm of 1 plus the element-wise element-wise maximum of two complex tensors using tf.math.log1p.
 - Write a code to find the logarithm of 1 plus the element-wise element-wise minimum of two complex tensors using tf.math.log1p.
 - Write a code to calculate the logarithm of 1 plus the element-wise element-wise absolute value of a complex tensor using tf.math.log1p.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf math bincount.
 - Write a code to find the last occurrence of a specific element in each column of a given 2D list using tf.math.bincount.
 - Write a code to count the number of occurrences of each element in a given tensor using tf.math.bincount.
 - Write a code to find the most frequent element in a given tensor using tf.math.bincount.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

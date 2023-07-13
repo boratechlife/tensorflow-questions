@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalsleepdataset.
 - Write a code to create an ExperimentalSleepDataset with a sleep duration of 1 second and apply a map function that converts the elements to lowercase.
 - Write a code to create an ExperimentalSleepDataset with a sleep duration of 500 milliseconds and compute the minimum element in the dataset.
 - Write a code to create an ExperimentalSleepDataset with a sleep duration of 1 second and shuffle the elements with a buffer size proportional to the dataset size.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

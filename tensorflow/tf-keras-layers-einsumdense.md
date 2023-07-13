@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers einsumdense.
 - Write a code to create an EinsumDense layer with 100 output units and input shape (None, 500, 500, 500, 500, 500, 500, 500).
 - Write a code to create an EinsumDense layer with 50 output units and input shape (None, 10, 10, 10, 10, 10, 10, 10, 10).
 - Write a code to create an EinsumDense layer with output dimensionality of 20 and input shape (None, 2000, 2000, 2000, 2000, 2000, 2000).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

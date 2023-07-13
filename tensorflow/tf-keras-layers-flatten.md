@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers flatten.
 - Write a code to flatten the output of a convolutional layer using Flatten.
 - Implement a model with a Flatten layer followed by a dense layer with softmax activation.
 - Flatten a tensor with shape (batch_size, 2, 2, 256) using Flatten.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf image grayscale to rgb.
 - How can you convert a grayscale image to RGB using NumPy and "tf.image.grayscale_to_rgb"?
 - Write a code to convert a grayscale image to RGB using NumPy and "tf.image.grayscale_to_rgb".
 - Can you apply "tf.image.grayscale_to_rgb" to a grayscale image with missing dimensions?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

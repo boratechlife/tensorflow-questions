@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are some strategies for handling the problem of face recognition in uncontrolled environments?
 - How can you implement a face recognition system with TensorFlow that supports online learning?
 - Explain the concept of face hallucination and its role in enhancing face recognition performance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

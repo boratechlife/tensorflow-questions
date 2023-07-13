@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy negative.
 - Write a code to negate all the elements in a given tensor and apply a custom function to the result, but only for elements that meet a specific condition.
 - Write a code to negate all the elements in a given tensor along a specific dimension and apply a custom function to the result, but only for elements that meet a specific condition.
 - Write a code to negate all the elements in a given tensor in-place and apply a custom function to the result, but only for elements that meet a specific condition.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

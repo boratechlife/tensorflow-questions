@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops filterbylastcomponentdataset.
 - Write a code to filter a dataset based on the last component using FilterByLastComponentDataset and keep elements that do not have a specific suffix length.
 - Write a code to filter a dataset using FilterByLastComponentDataset and keep elements that do not end with a specific character sequence.
 - Write a code to filter a dataset based on the last component using FilterByLastComponentDataset and keep elements that do not match a specific regular expression pattern suffix.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

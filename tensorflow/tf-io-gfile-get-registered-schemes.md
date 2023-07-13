@@ -66,3 +66,17 @@ description: Practice questions for tf io gfile get registered schemes.
 - Write a code to get the average length of the registered schemes using tf.io.gfile.get_registered_schemes.
 - Write a code to find the longest registered scheme using tf.io.gfile.get_registered_schemes.
 - Write a code to find the shortest registered scheme using tf.io.gfile.get_registered_schemes.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

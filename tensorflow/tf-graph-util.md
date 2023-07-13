@@ -66,3 +66,17 @@ description: Practice questions for tf graph util.
 - Write a code to convert a TensorFlow graph to an OpenVINO Intermediate Representation (IR) format with quantization using tf.graph_util.convert_variables_to_constants().
 - Write a code to optimize a TensorFlow graph by folding batch normalization and quantization operations into preceding convolution or fully connected operations while using dynamic ranges for quantization, applying post-training quantization, enabling weight sharing, enabling sparsity, enabling dynamic shape support, enabling hardware-specific optimizations, enabling model pruning, and enabling model quantization-aware training.
 - Write a code to calculate the number of pooling nodes in a TensorFlow graph using tf.graph_util.get_pooling_node_count().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

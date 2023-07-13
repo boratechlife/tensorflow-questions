@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy vdot.
 - Write a code to calculate the dot product of two arrays with the same shape and different ranges using tf.experimental.numpy.vdot.
 - Write a code to calculate the dot product of two arrays with the same shape and different frequencies using tf.experimental.numpy.vdot.
 - Write a code to calculate the dot product of two arrays with the same shape and missing data using tf.experimental.numpy.vdot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

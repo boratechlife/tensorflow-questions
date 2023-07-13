@@ -66,3 +66,17 @@ description: Practice questions for tf divide.
 - Write a code to divide a tensor by a scalar and calculate the power element-wise with another tensor using tf.divide.
 - Write a code to divide a tensor by a scalar and calculate the absolute difference element-wise with another tensor using tf.divide.
 - Write a code to divide a tensor by a scalar and calculate the element-wise maximum with another tensor using tf.divide.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

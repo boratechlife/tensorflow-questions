@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy eye.
 - Write a code to create a 4x4 identity matrix and calculate the sum of elements in each row using tf.experimental.numpy.eye.
 - Write a code to create a 5x5 identity matrix and calculate the product of elements in each column using tf.experimental.numpy.eye.
 - Write a code to create a 3x3 identity matrix and calculate the mean of elements in each row using tf.experimental.numpy.eye.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops drawboundingboxesv2.
 - How can you draw bounding boxes with random line styles, colors, corner radii, and label positions assigned to each box using tf.raw_ops.DrawBoundingBoxesV2?
 - Write a code to draw bounding boxes with different line styles, colors, thicknesses, corner radii, and label positions assigned to each box using tf.raw_ops.DrawBoundingBoxesV2.
 - How can you draw bounding boxes with completely randomized attributes (line style, color, thickness, corner radii, label position) assigned to each box using tf.raw_ops.DrawBoundingBoxesV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

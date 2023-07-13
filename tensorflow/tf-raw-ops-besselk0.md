@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops besselk0.
 - Write a code to calculate the BesselK0 value for a tensor and calculate its mean squared error with another tensor using TensorFlow.
 - Write a code to calculate the BesselK0 value for a tensor and calculate its cosine similarity with another tensor using TensorFlow.
 - Write a code to calculate the BesselK0 value for a tensor and calculate its rank using TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

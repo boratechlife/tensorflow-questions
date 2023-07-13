@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy logical not.
 - Write a code to apply logical NOT operation to each element of a 5D NumPy array.
 - Write a code to toggle the Boolean values in a given Boolean NumPy array and store the result in the same array using tf.experimental.numpy.logical_not.
 - Write a code to perform element-wise logical NOT operation on two Boolean NumPy arrays of different shapes and store the result in a new array using tf.experimental.numpy.logical_not.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

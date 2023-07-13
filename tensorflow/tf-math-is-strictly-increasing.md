@@ -66,3 +66,17 @@ description: Practice questions for tf math is strictly increasing.
 - Write a code to find if a given tensor of timestamps is strictly increasing row-wise using TensorFlow's tf.math.is_strictly_increasing.
 - Write a code to check if a given tensor of complex numbers is strictly increasing row-wise using TensorFlow's tf.math.is_strictly_increasing function.
 - Write a code to determine if a given list of sets is strictly increasing based on the maximum element using TensorFlow's tf.math.is_strictly_increasing.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

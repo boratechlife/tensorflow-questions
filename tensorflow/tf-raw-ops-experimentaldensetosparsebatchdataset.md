@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentaldensetosparsebatchdat
 - Write a code to convert a dense TensorFlow dataset into a sparse batch dataset with a threshold and specify the output shape using tf.raw_ops.ExperimentalDenseToSparseBatchDataset.
 - How can you use tf.raw_ops.ExperimentalDenseToSparseBatchDataset to convert a dense TensorFlow dataset into a sparse batch dataset with a threshold and specify the output shape?
 - Implement a code snippet to convert a TensorFlow dataset into a sparse batch dataset using tf.raw_ops.ExperimentalDenseToSparseBatchDataset with a threshold and specify the output shape.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy floor divide.
 - Write a code to perform floor division of a list and a scalar and store the result in a new variable using tf.experimental.numpy.floor_divide.
 - Write a code to divide two matrices element-wise and store the result in a new variable using tf.experimental.numpy.floor_divide.
 - Write a code to calculate the floor division of a scalar and a tensor and store the result in a new variable using tf.experimental.numpy.floor_divide.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

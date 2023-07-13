@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications densenet preprocess in
 - Write a code to preprocess an image using preprocess_input and then apply image pattern matching.
 - Write a code to preprocess an image using preprocess_input and then apply image inpainting.
 - Write a code to preprocess an image using preprocess_input and then apply image style transfer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

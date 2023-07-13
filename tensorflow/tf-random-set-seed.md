@@ -66,3 +66,17 @@ description: Practice questions for tf random set seed.
 - Write a code to set the random seed to 1357 and generate a random tensor with shape (33, 34, 35, 36).
 - Write a code to set the random seed to 1111 and generate a random tensor with shape (34, 35, 36, 37).
 - Write a code to set the random seed to 9876 and generate a random tensor with shape (35, 36, 37, 38).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

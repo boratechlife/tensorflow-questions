@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers deserialize.
 - Write a code to serialize and deserialize a Keras layer object with custom object dependencies and unknown classes using tf.keras.layers.serialize and tf.keras.layers.deserialize.
 - Write a code to serialize and deserialize multiple Keras layer objects with custom object dependencies and unknown classes using tf.keras.layers.serialize and tf.keras.layers.deserialize.
 - Write a code to load a model from a JSON file and deserialize its layer objects using tf.keras.layers.deserialize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf compat forward compatible.
 - Write a code to create a forward-compatible TensorFlow recurrent neural network.
 - Write a code to create a forward-compatible TensorFlow generative adversarial network (GAN).
 - Write a code to create a forward-compatible TensorFlow reinforcement learning agent.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

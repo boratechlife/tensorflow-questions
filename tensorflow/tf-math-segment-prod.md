@@ -66,3 +66,17 @@ description: Practice questions for tf math segment prod.
 - Write a code to calculate the segment-wise product of a tensor with respect to segment IDs provided as a tensor and a segment indicator tensor using tf.math.segment_prod and ignoring NaN values.
 - Write a code to calculate the segment-wise product of a tensor along a specific axis with respect to segment IDs provided as a list and a segment indicator tensor using tf.math.segment_prod and ignoring NaN values.
 - Write a code to calculate the segment-wise product of a tensor along a specific axis with respect to segment IDs provided as a tensor and a segment indicator tensor using tf.math.segment_prod and ignoring NaN values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

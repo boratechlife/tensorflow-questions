@@ -66,3 +66,17 @@ description: Practice questions for tf variable savesliceinfo.
 - Write a code to find the minimum memory usage among all SaveSliceInfo instances in a list.
 - Write a code to find the average memory usage per SaveSliceInfo instance in a list.
 - Write a code to find the SaveSliceInfo instance with the largest memory usage in a list.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

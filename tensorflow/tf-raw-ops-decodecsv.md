@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops decodecsv.
 - How can you handle different encoding formats (e.g., UTF-16) while decoding a CSV file with tf.raw_ops.DecodeCSV?
 - Write a code to decode a CSV file and calculate pairwise distances between records using tf.raw_ops.DecodeCSV.
 - How can you handle large CSV files that do not fit in memory while decoding with tf.raw_ops.DecodeCSV?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

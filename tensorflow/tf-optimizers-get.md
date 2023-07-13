@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers get.
 - Write a code to modify the variable aggregation value of an optimizer.
 - Write a code to retrieve the gate gradient value of an optimizer.
 - Write a code to modify the gate gradient value of an optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

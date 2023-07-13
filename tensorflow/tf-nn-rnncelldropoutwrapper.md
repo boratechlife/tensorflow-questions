@@ -66,3 +66,17 @@ description: Practice questions for tf nn rnncelldropoutwrapper.
 - Write a code to apply RNNCellDropoutWrapper to an existing GRU cell named "my_gru_cell" with a dropout probability of 0.5 and seed set to None.
 - Write a code to define an input dimension placeholder named "input_dim" with a shape of [].
 - Write a code to create an instance of RNNCellDropoutWrapper with a dropout probability of 0.2 and using input_size=256 and seed set to 753.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -115,3 +115,17 @@ description: Practice questions for tf keras initializers constant1.
 - Write a code to initialize a tensor of shape (3, 3, 3) with a constant value of -3.33 using "tf.keras.initializers.constant".
 - 
 - Write a code to create a 2D array of shape (20, 20) initialized with a constant value of 10.5 using "tf.keras.initializers.constant".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

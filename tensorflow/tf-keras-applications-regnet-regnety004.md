@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnet regnety004.
 - Write a code to apply a specific activation function to the outputs of a specific layer in the RegNetY004 model.
 - Write a code to apply batch normalization to the outputs of a specific layer in the RegNetY004 model.
 - Write a code to apply a specific loss function to the outputs of the RegNetY004 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

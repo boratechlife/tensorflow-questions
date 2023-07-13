@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses1 mape.
 - Write a code to use the MAPE loss to guide the generation of synthetic data in a generative adversarial network (GAN).
 - Write a code to calculate the MAPE loss for a batch of predictions and ground truth values using Apache Hadoop.
 - Write a code to implement a version of the MAPE loss that considers temporal dependencies in time series data.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

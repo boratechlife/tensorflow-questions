@@ -66,3 +66,17 @@ description: Practice questions for tf nn approx min k.
 - Write a code to calculate the approximate minimum 5 values in a tensor, along with their indices and count of occurrences using tf.nn.approx_min_k.
 - Write a code to find the smallest value in a tensor, along with its index and count of occurrences using tf.nn.approx_min_k.
 - Write a code to retrieve the approximate minimum k values in a tensor, along with their indices and count of occurrences using tf.nn.approx_min_k.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

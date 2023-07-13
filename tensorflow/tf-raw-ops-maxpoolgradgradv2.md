@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maxpoolgradgradv2.
 - Write a function that applies tf.raw_ops.MaxPoolGradGradV2 to a tensor and returns the gradients with a specified padding mode, dilation rate, padding value, rounding mode, and data format.
 - Create a code snippet that demonstrates the usage of tf.raw_ops.MaxPoolGradGradV2 with a specified rounding mode, padding algorithm, data format, window size, and stride.
 - Given an input tensor and its corresponding gradient, how can you utilize tf.raw_ops.MaxPoolGradGradV2 to compute the gradient of the max-pooling operation with a specified window size, stride, padding value, padding mode, dilation rate, padding algorithm, and data format?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

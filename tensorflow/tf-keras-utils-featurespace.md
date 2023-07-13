@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils featurespace.
 - Write a code to compute the median value of a specific feature in a feature space object.
 - Write a code to compute the variance of a specific feature in a feature space object.
 - Write a code to compute the standard deviation of a specific feature in a feature space object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

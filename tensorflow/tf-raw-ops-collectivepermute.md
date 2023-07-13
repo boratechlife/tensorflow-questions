@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectivepermute.
 - Implement a function that performs a collective permute operation on a tensor and computes the element-wise logarithm with another tensor.
 - Write a code to demonstrate the usage of tf.raw_ops.CollectivePermute to exchange overlapping regions between processes in a distributed TensorFlow setup.
 - How can you use tf.raw_ops.CollectivePermute to implement a custom communication pattern for parameter server architectures in distributed TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

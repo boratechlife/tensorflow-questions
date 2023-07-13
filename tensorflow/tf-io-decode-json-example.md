@@ -66,3 +66,17 @@ description: Practice questions for tf io decode json example.
 - Write a code to decode a JSON example and handle imbalanced mixed data using tf.io.decode_json_example.
 - Write a code to decode a JSON example and handle imbalanced missing data using tf.io.decode_json_example.
 - Write a code to decode a JSON example and handle imbalanced data using a combination of techniques using tf.io.decode_json_example.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conv2d.
 - Write a code to apply a 2D convolution using tf.raw_ops.Conv2D and calculate the gradients with respect to the input tensor using autodifferentiation.
 - Write a code to perform a 2D convolution using tf.raw_ops.Conv2D with a specified data format, a bias term, and a custom padding size for each dimension.
 - Write a code to apply a 2D convolution using tf.raw_ops.Conv2D with a given filter tensor initializer, calculate the gradients with respect to the filter tensor using autodifferentiation, and specify the output tensor data type.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

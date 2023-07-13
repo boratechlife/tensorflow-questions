@@ -66,3 +66,17 @@ description: Practice questions for tf nn batch normalization.
 - Write a code to apply batch normalization to a 2D convolutional layer in TensorFlow.
 - Write a code to apply batch normalization to a 3D convolutional layer in TensorFlow.
 - Write a code to apply batch normalization to a specific subset of filters in a convolutional layer in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

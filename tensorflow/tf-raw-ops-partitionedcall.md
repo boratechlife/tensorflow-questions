@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you specify the partition graph inputs and outputs using tensor types in "tf.raw_ops.PartitionedCall"?
 - Write a code to determine the number of partitions created by "tf.raw_ops.PartitionedCall".
 - How can you specify the shared name for a tensor output in "tf.raw_ops.PartitionedCall"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

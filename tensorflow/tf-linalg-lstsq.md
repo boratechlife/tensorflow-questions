@@ -66,3 +66,17 @@ description: Practice questions for tf linalg lstsq.
 - Write a code to calculate the Moore-Penrose pseudo-inverse of a matrix using tf.linalg.lstsq.
 - Write a code to calculate the least squares solution with a given tolerance using tf.linalg.lstsq.
 - Write a code to calculate the condition number of the least squares solution using tf.linalg.lstsq.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

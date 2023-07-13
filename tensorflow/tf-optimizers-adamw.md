@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers adamw.
 - Write a code to calculate the weighted categorical cross-entropy loss for a batch of training examples.
 - Write a code to calculate the weighted mean squared error loss for a batch of training examples.
 - Write a code to calculate the weighted mean absolute error loss for a batch of training examples.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

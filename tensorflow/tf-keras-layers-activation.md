@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers activation.
 - Write a code to apply the binary step activation function element-wise using tf.keras.layers.Activation.
 - Write a code to apply the softplus activation function element-wise with a specific beta parameter using tf.keras.layers.Activation.
 - Write a code to apply the softmax activation function element-wise along a specific axis using tf.keras.layers.Activation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

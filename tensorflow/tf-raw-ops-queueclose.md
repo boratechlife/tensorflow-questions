@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops queueclose.
 - Write a code to close a queue and transfer any remaining elements to another queue in a specific order before closing it using tf.raw_ops.QueueClose.
 - Write a code to close a TensorFlow queue and notify any monitoring systems or tools about the closure using tf.raw_ops.QueueClose.
 - Write a code to close a queue and log the closure event along with the number of elements processed before closing it using tf.raw_ops.QueueClose.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf eye.
 - Write a code to create a 4x4 identity matrix with a diagonal value of False using tf.eye.
 - Write a code to create a 5x5 identity matrix with a diagonal value of [1, 2, 3, 4, 5] using tf.eye.
 - Write a code to create a 5x5 identity matrix with a diagonal value of a variable diag_values using tf.eye, where diag_values = tf.constant([1, 2, 3, 4, 5]).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

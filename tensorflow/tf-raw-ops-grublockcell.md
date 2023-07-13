@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops grublockcell.
 - Write a code to implement a text-based recommendation system using GRU block cells.
 - Write a code to implement a spam detection system for SMS messages using GRU block cells.
 - Write a code to implement a named entity recognition model for social media posts using GRU block cells.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

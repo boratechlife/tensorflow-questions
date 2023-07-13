@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy sinh.
 - Write a code to calculate the hyperbolic sine of each element in a given TensorFlow quaternion string tensor.
 - Write a code to calculate the hyperbolic sine of each element in a given TensorFlow quaternion float tensor.
 - Write a code to calculate the hyperbolic sine of each element in a given TensorFlow quaternion integer tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

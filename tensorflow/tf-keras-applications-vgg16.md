@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications vgg16.
 - Write a code to implement a callback function for early stopping during training of the VGG16 model.
 - Write a code to implement a callback function for learning rate scheduling during training of the VGG16 model.
 - Write a code to implement a callback function for tensorboard logging during training of the VGG16 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers legacy ftrl.
 - Write a code to create a new instance of the Ftrl optimizer with a different l2 shrikage regularization strength.
 - Write a code to create a new instance of the Ftrl optimizer with a different l2 shrikage regularization power.
 - Write a code to create a new instance of the Ftrl optimizer with a different initial accumulator value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

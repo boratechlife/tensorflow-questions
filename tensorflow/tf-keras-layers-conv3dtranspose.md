@@ -115,3 +115,17 @@ description: Practice questions for tf keras layers conv3dtranspose.
 - Write a code to create a sequential model with a Conv3DTranspose layer with 32 filters, a kernel size of (3, 3, 3), 'relu' activation, padding set to 'same', followed by a GlobalAveragePooling3D layer.
 - 
 - Write a code to create a sequential model with a Conv3DTranspose layer with 64 filters, a kernel size of (4, 4, 4), 'sigmoid' activation, padding set to 'valid', followed by a GlobalAveragePooling3D layer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

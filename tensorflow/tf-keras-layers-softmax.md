@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers softmax.
 - Write a code to apply the Softmax activation function to the output of a graph convolutional network layer in a graph neural network.
 - Write a code to apply the Softmax activation function to the output of a transformer encoder layer in a transformer-based model.
 - Write a code to apply the Softmax activation function to the output of a transformer decoder layer in a transformer-based model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

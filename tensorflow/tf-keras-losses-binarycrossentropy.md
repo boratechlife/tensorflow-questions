@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses binarycrossentropy.
 - Write a code to calculate the binary cross-entropy loss with a specific weight for true positives.
 - Write a code to calculate the binary cross-entropy loss for a batch of samples with different weight values.
 - Write a code to calculate the binary cross-entropy loss with a specific label smoothing value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

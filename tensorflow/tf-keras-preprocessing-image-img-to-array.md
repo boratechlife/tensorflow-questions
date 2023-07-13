@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image img to array.
 - Write a code to convert an image file to a NumPy array and perform image filtering using img_to_array.
 - Write a code to convert an image file to a NumPy array and perform image compression using img_to_array.
 - Write a code to convert an image file to a NumPy array and perform image resizing using img_to_array.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

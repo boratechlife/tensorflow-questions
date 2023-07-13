@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops extractvolumepatches.
 - How can you use tf.raw_ops.ExtractVolumePatches to extract patches from a batched 3D tensor with dynamic patch shapes, strides, and padding sizes?
 - Write a code to extract patches from a batched 3D tensor with dynamic padding modes, data types, and layouts using tf.raw_ops.ExtractVolumePatches.
 - How can you use tf.raw_ops.ExtractVolumePatches to extract patches from a batched 3D tensor with dynamic patch shapes, strides, padding sizes, and data formats?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

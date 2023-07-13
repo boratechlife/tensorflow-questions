@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers convlstm2d.
 - Write a code to create a ConvLSTM2D layer and set the recurrent_constraint to a UnitNorm constraint.
 - Write a code to create a ConvLSTM2D layer and set the bias_constraint to a NonNeg constraint.
 - Write a code to create a ConvLSTM2D layer and set the trainable parameter to False.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

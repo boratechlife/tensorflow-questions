@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maxpoolgradv2.
 - How can you implement the gradient calculation for a max-pooling layer and update the previous layer's inputs using tf.raw_ops.MaxPoolGradV2?
 - Write a code to compute the reverse operation of a max-pooling layer and update the previous layer's inputs using tf.raw_ops.MaxPoolGradV2.
 - How can you use tf.raw_ops.MaxPoolGradV2 to compute the gradients of a max-pooling operation in TensorFlow and update the previous layer's inputs?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

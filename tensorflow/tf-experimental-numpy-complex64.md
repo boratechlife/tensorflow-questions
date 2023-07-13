@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy complex64.
 - Write a code to compute the element-wise power of a complex64 array to a specific exponent.
 - Write a code to compute the element-wise square of a complex64 array.
 - Write a code to compute the element-wise cube of a complex64 array.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

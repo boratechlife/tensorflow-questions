@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend experimental disable tf ran
 - Implement a function to stop TensorFlow from using the random generator by utilizing tf.keras.backend.experimental.disable_tf_random_generator.
 - Write a code to disable the TensorFlow random generator in Keras with tf.keras.backend.experimental.disable_tf_random_generator.
 - How do you deactivate the TensorFlow random generator using tf.keras.backend.experimental.disable_tf_random_generator in Python?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

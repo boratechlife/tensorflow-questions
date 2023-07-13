@@ -66,3 +66,17 @@ description: Practice questions for tf variablesynchronization.
 - Write a code to create a TensorFlow variable with synchronization enabled and a specific synchronization mode.
 - Write a code to create a TensorFlow variable with synchronization disabled and a specific synchronization mode.
 - Write a code to set a specific synchronization mode for a TensorFlow variable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

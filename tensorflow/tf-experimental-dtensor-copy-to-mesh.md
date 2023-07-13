@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor copy to mesh.
 - How can you copy a tensor to a mesh and specify the variable optimizer slot variables optimizer slot variables synchronization mode using "tf.experimental.dtensor.copy_to_mesh"?
 - Write a code to copy a tensor to a mesh and set the variable optimizer slot variables optimizer slot variables update mode using "tf.experimental.dtensor.copy_to_mesh".
 - How can you copy a tensor to a mesh and specify the variable optimizer slot variables optimizer slot variables update schedule using "tf.experimental.dtensor.copy_to_mesh"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

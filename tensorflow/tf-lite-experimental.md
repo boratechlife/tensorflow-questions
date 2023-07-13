@@ -66,3 +66,17 @@ description: Practice questions for tf lite experimental.
 - Write a code to check if a TensorFlow Lite model is valid using the tf.lite.experimental.is_valid.
 - Write a code to get the number of threads used for inference using the tf.lite.experimental.get_num_threads.
 - Write a code to set the number of threads to be used for inference on a specific TensorFlow Lite model using the tf.lite.experimental.set_num_threads.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

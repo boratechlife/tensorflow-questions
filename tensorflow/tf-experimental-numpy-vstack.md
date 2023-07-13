@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy vstack.
 - Write a code to vertically stack two folders of ZIP files using tf.experimental.numpy.vstack.
 - Write a code to vertically stack an array and a folder of mixed file types using tf.experimental.numpy.vstack.
 - Write a code to vertically stack two folders of mixed file types using tf.experimental.numpy.vstack.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

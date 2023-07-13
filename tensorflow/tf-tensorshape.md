@@ -66,3 +66,17 @@ description: Practice questions for tf tensorshape.
 - Write a code to sort the elements in a tf.Tensor in ascending order.
 - Write a code to reverse the elements in a tf.Tensor.
 - Write a code to apply a unary function to each element in a tf.Tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

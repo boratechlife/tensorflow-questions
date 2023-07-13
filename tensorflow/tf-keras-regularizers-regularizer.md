@@ -66,3 +66,17 @@ description: Practice questions for tf keras regularizers regularizer.
 - Write a code to create a regularized GRU layer with a specific recurrent regularizer.
 - Write a code to create a regularized dropout layer with a specific noise shape.
 - Write a code to create a regularized batch normalization layer with a specific center parameter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

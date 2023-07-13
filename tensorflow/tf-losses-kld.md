@@ -66,3 +66,17 @@ description: Practice questions for tf losses kld.
 - Write a code to calculate the Kullback-Leibler divergence loss using tf.losses.kld between two Multivariate Logistic distributions with diagonal covariance matrices.
 - Write a code to calculate the Kullback-Leibler divergence loss using tf.losses.kld between two Multivariate Laplace distributions with diagonal covariance matrices.
 - Write a code to calculate the Kullback-Leibler divergence loss using tf.losses.kld between two Multivariate Dirichlet distributions with diagonal covariance matrices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mutablehashtable.
 - Write a code to find the most common key length in a MutableHashTable.
 - Write a code to calculate the variance of all the values in a MutableHashTable.
 - Write a code to retrieve the key-value pairs with keys in random order from a MutableHashTable.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

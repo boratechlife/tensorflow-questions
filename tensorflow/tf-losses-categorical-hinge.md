@@ -66,3 +66,17 @@ description: Practice questions for tf losses categorical hinge.
 - Write a code to compute the categorical hinge loss for a chatbot problem.
 - Write a code to compute the categorical hinge loss for a recommendation system.
 - Write a code to compute the categorical hinge loss for a fraud detection problem.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

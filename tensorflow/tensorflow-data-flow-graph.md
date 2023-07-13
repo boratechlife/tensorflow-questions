@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you implement model ensembling in TensorFlow?
 - What is the purpose of the TensorFlow tf.function decorator?
 - How can you deploy a TensorFlow data flow graph on different platforms, such as CPUs or GPUs?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

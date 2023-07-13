@@ -66,3 +66,17 @@ description: Practice questions for tf random stateless categorical.
 - How can you generate a stateless categorical random number with a specific probability distribution for each category, control the output shape, normalize the probabilities, reshape the output, and use a fixed seed, all in TensorFlow?
 - Write a code to generate a stateless categorical random number and obtain the category labels as a tensor of integers, using a specific seed, probability distribution, and output shape.
 - How can you generate a stateless categorical random number with a specific probability distribution for each category, control the output shape, normalize the probabilities, reshape the output, use a fixed seed, and convert the category labels to strings, all in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

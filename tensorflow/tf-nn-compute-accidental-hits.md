@@ -66,3 +66,17 @@ description: Practice questions for tf nn compute accidental hits.
 - Write a code to compute the precision-recall curve at a given set of recall levels using tf.nn.compute_accidental_hits.
 - Write a code to calculate the area under the precision-recall curve at a given set of recall levels using tf.nn.compute_accidental_hits.
 - Write a code to evaluate the model performance using the precision-recall breakeven point at a given set of recall levels with tf.nn.compute_accidental_hits.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops extractimagepatches.
 - Write a code to extract image patches from a given image and perform image style transfer on each patch using a pre-trained model and tf.raw_ops.ExtractImagePatches.
 - Write a code to extract image patches from a given image and perform image inpainting on each patch using a pre-trained model and tf.raw_ops.ExtractImagePatches.
 - Write a code to extract image patches from a given image and perform image restoration on each patch using a pre-trained model and tf.raw_ops.ExtractImagePatches.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

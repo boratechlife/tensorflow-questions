@@ -66,3 +66,17 @@ description: Practice questions for tf math is finite.
 - Write a code to calculate the element-wise round of finite values in a tensor using tf.math.round and tf.math.is_finite.
 - Write a code to calculate the element-wise sign of finite values in a tensor using tf.math.sign and tf.math.is_finite.
 - Write a code to calculate the element-wise reciprocal of finite values in a tensor using tf.math.reciprocal and tf.math.is_finite.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

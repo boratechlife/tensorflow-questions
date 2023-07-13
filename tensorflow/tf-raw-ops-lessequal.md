@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lessequal.
 - Write a code to compare two tensors element-wise and return a tensor with boolean values indicating if any element is less than or equal to a specific threshold, and then calculate the percentage of True values using tf.raw_ops.LessEqual, and return the indices of the True values as a new tensor.
 - Write a code to perform an element-wise comparison between two tensors using tf.raw_ops.LessEqual and return a tensor with boolean values indicating if any element is less than or equal to a threshold value, and then compute the percentage of True values, and return the indices of the True values as a new tensor.
 - Write a code to find the indices of the elements in a tensor that are less than or equal to a specific value using tf.raw_ops.LessEqual, and then return the indices as a new tensor, along with the percentage of elements satisfying the condition.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

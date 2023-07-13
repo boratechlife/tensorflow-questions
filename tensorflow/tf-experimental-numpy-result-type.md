@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy result type.
 - Write a code to determine the result type when calculating the logarithmic derivative of the gamma function.
 - Write a code to find the result type of calculating the zeta function of a positive number.
 - Write a code to determine the result type when calculating the exponential integral of a real number.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

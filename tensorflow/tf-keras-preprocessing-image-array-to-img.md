@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing image array to img.
 - Write a code to convert an image array to an image object and apply a closing operation using tf.keras.preprocessing.image.array_to_img().
 - Write a code to convert an image array to an image object and apply an opening operation using tf.keras.preprocessing.image.array_to_img().
 - Write a code to convert an image array to an image object and apply a morphological gradient operation using tf.keras.preprocessing.image.array_to_img().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

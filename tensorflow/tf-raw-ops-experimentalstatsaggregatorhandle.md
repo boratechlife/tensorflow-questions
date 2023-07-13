@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalstatsaggregatorhandle
 - Write a code to compute the weighted covariance matrix from multiple ExperimentalStatsAggregatorHandle objects.
 - Write a code to compute the weighted Mahalanobis distance from an ExperimentalStatsAggregatorHandle object.
 - Write a code to compute the weighted cosine similarity between two ExperimentalStatsAggregatorHandle objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

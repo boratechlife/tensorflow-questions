@@ -115,3 +115,17 @@ description: Practice questions for tf io match filenames once.
 - Write a code to check if an HTML file exists in a directory using "tf.io.match_filenames_once".
 - 
 - Write a code to check if an audio file exists in a folder using "tf.io.match_filenames_once".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet152.
 - Write a code to load the ResNet152 model with pretrained weights trained on a specific dataset.
 - Write a code to calculate the average pooling output of a specific layer in the ResNet152 model.
 - Write a code to calculate the max pooling output of a specific layer in the ResNet152 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

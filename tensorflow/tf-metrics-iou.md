@@ -66,3 +66,17 @@ description: Practice questions for tf metrics iou.
 - Write a code to calculate the soft IoU metric for multi-class segmentation using tf.metrics.IoU.
 - Write a code to update the soft IoU metric during training for multi-class segmentation using tf.metrics.IoU.
 - Write a code to compute the mean soft IoU (Intersection over Union) for multi-class segmentation using tf.metrics.IoU.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

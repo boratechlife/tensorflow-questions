@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreesgetensemblestates.
 - How can you obtain the ensemble states of a boosted trees model using TensorFlow's raw_ops?
 - Create a function that utilizes "tf.raw_ops.BoostedTreesGetEnsembleStates" to extract the ensemble states of a boosted trees model.
 - Write a code snippet to extract the ensemble states of a boosted trees model using TensorFlow raw_ops.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

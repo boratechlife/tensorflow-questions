@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to calculate the inverse hyperbolic tangent of a tensor and apply a tanh function to the result.
 - Write a code to calculate the inverse hyperbolic tangent of a tensor and compute the cosine similarity with another tensor.
 - Write a code to calculate the inverse hyperbolic tangent of a tensor and apply a softmax function along a specific axis.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf estimator regressor parse example spec.
 - Write a code to set the reader interleave block length for a tf.estimator.regressor_parse_example_spec object.
 - Write a code to set the reader interleave cycle length for a tf.estimator.regressor_parse_example_spec object.
 - Write a code to set the reader interleave buffer size for a tf.estimator.regressor_parse_example_spec object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

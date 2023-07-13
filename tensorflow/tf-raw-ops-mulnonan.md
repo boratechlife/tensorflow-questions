@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mulnonan.
 - Write a code to perform element-wise multiplication of two tensors, handling NaN values using tf.raw_ops.MulNoNan.
 - Write a code to multiply two tensors element-wise and exclude NaN values, employing the tf.raw_ops.MulNoNan function.
 - Write a code to multiply two tensors element-wise while handling NaN values, leveraging the tf.raw_ops.MulNoNan operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

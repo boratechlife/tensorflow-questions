@@ -66,3 +66,17 @@ description: Practice questions for tf metrics sparsetopkcategoricalaccuracy.
 - Implement a function that initializes and returns a tf.metrics.SparseTopKCategoricalAccuracy object with k set to 10.
 - Write a code to calculate the top-3 categorical accuracy and update the state of a tf.metrics.SparseTopKCategoricalAccuracy object using a batch of predicted labels and true labels.
 - How can you calculate the top-k categorical accuracy for a specific class and a specific label using tf.metrics.SparseTopKCategoricalAccuracy?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops identityn.
 - Write a code to create an identity tensor and then calculate its element-wise arc tangent using tf.raw_ops.IdentityN.
 - Write a code to calculate the element-wise hyperbolic arc cosine of an identity tensor using tf.raw_ops.IdentityN.
 - Write a code to create an identity tensor and then calculate its element-wise hyperbolic arc sine using tf.raw_ops.IdentityN.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

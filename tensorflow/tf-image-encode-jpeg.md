@@ -66,3 +66,17 @@ description: Practice questions for tf image encode jpeg.
 - How can you specify the progressive scan AC approximation when encoding an image with tf.image.encode_jpeg?
 - Write a code to decode a JPEG image using tf.io.decode_jpeg, apply an image overlay, and then encode it again in JPEG format using tf.image.encode_jpeg.
 - How can you specify the progressive scan start component when encoding an image with tf.image.encode_jpeg?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

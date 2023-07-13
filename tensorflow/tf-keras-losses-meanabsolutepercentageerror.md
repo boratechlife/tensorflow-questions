@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses meanabsolutepercentageerror.
 - Write a code to compute the mean absolute percentage error loss between two tensors, replacing the prediction values with the maximum value in the tensor, using tf.keras.losses.MeanAbsolutePercentageError.
 - Write a code to create a custom function that calculates the mean absolute percentage error loss, considering instances with a target value of zero as outliers, using tf.keras.losses.MeanAbsolutePercentageError.
 - Write a code to calculate the mean absolute percentage error loss for a batch of predictions and targets using tf.keras.losses.MeanAbsolutePercentageError, and apply a per-instance weight tensor with a value of 0.1 for instances where the target is less than 2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

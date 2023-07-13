@@ -66,3 +66,17 @@ description: Practice questions for tf losses mse.
 - Write a code to calculate the MSE loss between two tensors and apply a custom loss function using tf.losses.mse.
 - Write a code to calculate the MSE loss between two tensors and apply a custom metric using tf.losses.mse.
 - Write a code to calculate the MSE loss between two tensors and apply a custom activation function using tf.losses.mse.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

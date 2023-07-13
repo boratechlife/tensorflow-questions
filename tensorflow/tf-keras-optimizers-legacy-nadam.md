@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers legacy nadam.
 - Write a code to get the momentum multiplier value of a Nadam optimizer.
 - Write a code to set the momentum multiplier value of a Nadam optimizer.
 - Write a code to get the nesterov value of a Nadam optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

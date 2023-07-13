@@ -66,3 +66,17 @@ description: Practice questions for tf metrics meansquaredlogarithmicerror.
 - Write a code to calculate the mean squared logarithmic error for a batch of predictions and targets and return the result as a TensorFlow.js model.
 - Write a code to update the tf.metrics.MeanSquaredLogarithmicError metric with a batch of predictions and targets and return the current value as a TensorFlow.js callback.
 - Write a code to calculate the mean squared logarithmic error for a batch of predictions and targets and return the result as a TensorFlow.js visualization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

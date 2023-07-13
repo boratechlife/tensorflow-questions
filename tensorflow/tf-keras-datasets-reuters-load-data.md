@@ -66,3 +66,17 @@ description: Practice questions for tf keras datasets reuters load data.
 - Write a code to preprocess the text in the Reuters dataset by removing URLs.
 - Write a code to preprocess the text in the Reuters dataset by removing short words.
 - Write a code to preprocess the text in the Reuters dataset by applying text normalization techniques.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf estimator checkpointsaverhook.
 - Write a code to create a CheckpointSaverHook object and specify the checkpoint saver keep every N minutes, delete older checkpoints, and save the latest checkpoint only.
 - Write a code to create a CheckpointSaverHook object and specify the checkpoint saver keep every N steps, delete older checkpoints, and save the latest checkpoint only.
 - Write a code to create a CheckpointSaverHook object and specify the checkpoint saver keep every N seconds, delete older checkpoints, and save the latest checkpoint only.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

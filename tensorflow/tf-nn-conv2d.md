@@ -66,3 +66,17 @@ description: Practice questions for tf nn conv2d.
 - Write a code to apply a 3x3 filter with a stride of 1 and padding of 1 using tf.nn.conv2d and image recognition.
 - Write a code to apply a 3x3 filter with a stride of 1 and padding of 1 using tf.nn.conv2d and face detection.
 - Write a code to apply a 3x3 filter with a stride of 1 and padding of 1 using tf.nn.conv2d and emotion recognition.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

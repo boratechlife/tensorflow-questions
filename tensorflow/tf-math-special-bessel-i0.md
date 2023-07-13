@@ -66,3 +66,17 @@ description: Practice questions for tf math special bessel i0.
 - Write a code to calculate the hyperbolic sine of tf.math.special.bessel_i0 for a given input.
 - Write a code to calculate the hyperbolic cosine of tf.math.special.bessel_i0 for a given input.
 - Write a code to calculate the hyperbolic tangent of tf.math.special.bessel_i0 for a given input.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

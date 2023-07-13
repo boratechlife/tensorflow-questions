@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnet efficient
 - Write a code to add a new dense layer on top of a specific layer in the EfficientNetB7 model.
 - Write a code to set the number of units in a specific dense layer of the EfficientNetB7 model.
 - Write a code to set the activation function of a specific dense layer in the EfficientNetB7 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf metrics meansquarederror.
 - Write a code to calculate the mean squared error for a batch of predictions and ground truth values, and return the mean percentage error across batches.
 - Write a code to update a tf.metrics.MeanSquaredError object with a batch of predictions and ground truth values, and return the mean percentage change in error.
 - Write a code to calculate the mean squared error between two tensors and return the coefficient of determination (R-squared) value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

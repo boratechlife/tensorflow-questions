@@ -66,3 +66,17 @@ description: Practice questions for tf keras constraints serialize.
 - Write a code to retrieve and deserialize a constraint from a Redis database using tf.keras.constraints.deserialize.
 - Write a code to serialize multiple constraints and store them in a Redis database using tf.keras.constraints.serialize.
 - Write a code to retrieve and deserialize multiple constraints from a Redis database using tf.keras.constraints.deserialize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

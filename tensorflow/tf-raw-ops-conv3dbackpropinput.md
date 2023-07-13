@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conv3dbackpropinput.
 - Write a code to perform a 3D convolution operation with input gradients using tf.raw_ops.Conv3DBackpropInput.
 - Write a code to compute the gradients of the input tensor for a 3D convolution using tf.raw_ops.Conv3DBackpropInput.
 - Write a code to implement a custom backward pass for a 3D convolution using tf.raw_ops.Conv3DBackpropInput.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

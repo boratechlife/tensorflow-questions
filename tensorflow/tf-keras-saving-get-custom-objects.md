@@ -66,3 +66,17 @@ description: Practice questions for tf keras saving get custom objects.
 - Write a code to define a custom layer with a custom activation function and use it in a model with multiple layers.
 - Write a code to save a model that uses multiple custom layers with custom activation functions and retrieve them using tf.keras.saving.get_custom_objects.
 - Write a code to define a custom layer with a custom loss function and use it in a model with multiple output layers.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

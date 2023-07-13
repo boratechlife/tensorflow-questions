@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops applyproximalgradientdescent.
 - How can you set the L2 threshold in tf.raw_ops.ApplyProximalGradientDescent?
 - Write a code to perform proximal gradient descent with a specified delta value.
 - How can you set the delta value in tf.raw_ops.ApplyProximalGradientDescent?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

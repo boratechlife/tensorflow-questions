@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loadtpuembeddingadagradmomentumpa
 - Write a code snippet to load embedding Adagrad momentum parameters and apply element-wise exponentiation to the loaded parameters tensor.
 - How can you specify the element-wise clipping threshold when loading embedding Adagrad momentum parameters?
 - Implement a script that loads TPU embedding Adagrad momentum parameters and performs element-wise division with another tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

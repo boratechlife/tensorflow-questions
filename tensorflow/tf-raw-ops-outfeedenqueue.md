@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops outfeedenqueue.
 - Write a code to enqueue a tensor and perform customized preprocessing on it using "tf.raw_ops.OutfeedEnqueue" and a custom preprocessing graph.
 - Write a code to enqueue tensors and perform customized preprocessing on them using "tf.raw_ops.OutfeedEnqueue" and custom preprocessing graphs.
 - Write a code to enqueue a tensor and perform customized post-processing on it using "tf.raw_ops.OutfeedEnqueue" and a custom post-processing graph.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy kron.
 - Write a code to calculate the column-wise median of a matrix resulting from the Kronecker product using tf.experimental.numpy.kron.
 - Write a code to calculate the row-wise median of a matrix resulting from the Kronecker product using tf.experimental.numpy.kron.
 - Write a code to calculate the column-wise maximum of a matrix resulting from the Kronecker product using tf.experimental.numpy.kron.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

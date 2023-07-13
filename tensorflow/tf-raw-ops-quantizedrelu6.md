@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedrelu6.
 - Write a code to perform quantized ReLU6 activation on a tensor and calculate the element-wise ceil (round up) of the resulting tensor.
 - Write a code to apply tf.raw_ops.QuantizedRelu6 to a tensor and calculate the element-wise floor (round down) of the resulting tensor.
 - Write a code to use tf.raw_ops.QuantizedRelu6 to activate a tensor and then apply element-wise clipping to the resulting tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

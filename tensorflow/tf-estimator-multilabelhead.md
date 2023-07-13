@@ -66,3 +66,17 @@ description: Practice questions for tf estimator multilabelhead.
 - Write a code to retrieve the dropout regularization configuration of a MultiLabelHead.
 - Write a code to retrieve the learning rate decay configuration of a MultiLabelHead.
 - Write a code to retrieve the optimizer configured in a MultiLabelHead.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

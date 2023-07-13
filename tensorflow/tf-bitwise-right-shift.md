@@ -115,3 +115,17 @@ description: Practice questions for tf bitwise right shift.
 - Write a code to right shift the binary representation of a tensor by a scalar value, implementing a logical right rotate using tf.bitwise.right_shift.
 - 
 - Write a code to right shift the bits of a tensor along a specific axis, performing a variable-width right shift using tf.bitwise.right_shift.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf math floor.
 - Compute the largest integer less than or equal to each element of a tensor and calculate their exponential using tf.math.exp and tf.math.floor.
 - Calculate the floor of the element-wise division of two tensors and calculate their mean using tf.math.divide and tf.math.floor.
 - Round down the elements of a tensor and calculate their sum along multiple axes using tf.math.reduce_sum and tf.math.floor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

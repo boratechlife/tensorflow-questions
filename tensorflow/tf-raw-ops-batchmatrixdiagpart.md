@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchmatrixdiagpart.
 - Write a code to calculate the inverse of a matrix formed by the diagonal elements from a batch of matrices using tf.raw_ops.BatchMatrixDiagPart.
 - Write a code to extract the diagonal elements from a batch of matrices and calculate their absolute square using tf.raw_ops.BatchMatrixDiagPart.
 - Write a code to calculate the rank of a matrix formed by the diagonal elements from a batch of matrices using tf.raw_ops.BatchMatrixDiagPart.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

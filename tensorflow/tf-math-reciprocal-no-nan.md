@@ -66,3 +66,17 @@ description: Practice questions for tf math reciprocal no nan.
 - Write a code to calculate the reciprocal of a tensor using tf.math.reciprocal_no_nan and handle division by zero errors.
 - Write a code to calculate the reciprocal of a matrix using tf.math.reciprocal_no_nan and handle division by zero errors.
 - Write a code to calculate the reciprocal of an array using tf.math.reciprocal_no_nan and handle division by zero errors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

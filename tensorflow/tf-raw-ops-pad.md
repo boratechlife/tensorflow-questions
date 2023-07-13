@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to pad a tensor with zeros for the left and right edges and a specific value for the upper, lower, left, right, front, and back boundaries using tf.raw_ops.Pad.
 - Write a code to pad a tensor with a specific value for the left and right edges and zeros for the upper, lower, left, right, front, and back boundaries using tf.raw_ops.Pad.
 - Write a code to pad a tensor with zeros for the upper, lower, left, right, front, and back boundaries and a specific value for the upper and lower edges using tf.raw_ops.Pad.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf nn pool.
 - Write a code to perform an average pooling operation with dilation rate 2 and padding 'VALID' on a 3D tensor using tf.nn.pool.
 - Write a code to perform a max pooling operation with dilation rate 2 and stride 2 on a 3D tensor using tf.nn.pool.
 - Write a code to perform a min pooling operation with dilation rate 3 and stride 3 on a 3D tensor using tf.nn.pool.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

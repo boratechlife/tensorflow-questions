@@ -66,3 +66,17 @@ description: Practice questions for tf io parse single example.
 - Write a code to parse a single example and handle time series features by applying anomaly detection techniques (e.g., autoencoders, one-class SVM) using tf.io.parse_single_example.
 - Write a code to parse a single example and handle time series features by applying recurrent neural networks (e.g., LSTM, GRU) using tf.io.parse_single_example.
 - Write a code to parse a single example and handle time series features by applying attention-based mechanisms (e.g., self-attention, transformer) using tf.io.parse_single_example.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

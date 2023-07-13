@@ -66,3 +66,17 @@ description: Practice questions for tf profiler experimental stop.
 - Write a code to stop the profiler and analyze the texture cache utilization of operations on the GPU.
 - Write a code to stop the profiler and analyze the warp divergence of operations on the GPU.
 - Write a code to stop the profiler and analyze the warp serialization of operations on the GPU.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

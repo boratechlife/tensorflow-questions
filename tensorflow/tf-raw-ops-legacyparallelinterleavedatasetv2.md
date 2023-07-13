@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops legacyparallelinterleavedatasetv2
 - Write a code to set the buffer_size, cycle_length, block_length, sloppy, buffer_output_elements, and num_parallel_calls parameters for the LegacyParallelInterleaveDatasetV2 operation.
 - Write a code to create a LegacyParallelInterleaveDatasetV2 with a mixture of generator, dataset, iterator, tensor, and sparse tensor input datasets.
 - Write a code to set all possible parameters (buffer_size, cycle_length, block_length, sloppy, buffer_output_elements, prefetch_input_elements, deterministic, num_parallel_calls, drop_final_batch) for the LegacyParallelInterleaveDatasetV2 operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

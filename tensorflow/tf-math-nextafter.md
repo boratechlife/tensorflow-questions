@@ -66,3 +66,17 @@ description: Practice questions for tf math nextafter.
 - Write a code to find the next smaller floating-point value before positive infinity in single precision, rounding towards negative infinity using tf.math.nextafter.
 - Write a code to find the next representable floating-point value after negative infinity in single precision, rounding towards negative infinity using tf.math.nextafter.
 - Write a code to find the next smaller floating-point value before negative infinity in single precision, rounding towards negative infinity using tf.math.nextafter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

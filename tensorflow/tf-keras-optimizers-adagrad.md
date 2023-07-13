@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers adagrad.
 - Write a code to create an Adagrad optimizer and set its hyperparameters based on a text configuration file.
 - Write a code to apply the Adagrad optimizer to update the weights of a model using a custom gradient clipping method.
 - Write a code to create an Adagrad optimizer and set its hyperparameters based on an XML configuration file.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

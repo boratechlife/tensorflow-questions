@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend experimental is tf random g
 - Write a code to set the TensorFlow random generator state to enabled and print the previous state.
 - Write a code to set the TensorFlow random generator state to disabled and print the previous state.
 - Write a code to enable the TensorFlow random generator and return a success flag.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

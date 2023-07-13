@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers attention.
 - Write a code to create an input tensor of shape (batch_size, sequence_length, input_dim) and pass it through the Attention layer with query_dim=64, key_dim=32, and value_dim=16.
 - Write a code to create an input tensor of shape (batch_size, sequence_length, input_dim) and pass it through multiple Attention layers in a sequential model.
 - Write a code to create an input tensor of shape (batch_size, sequence_length, input_dim) and pass it through multiple Attention layers in a parallel model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lmdbreader.
 - Write a code to retrieve the maximum number of named databases per write transaction in an LMDB environment using the LMDBReader class.
 - Write a code to retrieve the maximum key-value pairs per read transaction in an LMDB database using the LMDBReader class.
 - Write a code to retrieve the maximum key-value pairs per write transaction in an LMDB database using the LMDBReader class.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

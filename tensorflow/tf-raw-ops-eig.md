@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops eig.
 - Write a code to compute the cosine similarity matrix of a set of vectors using tf.raw_ops.Eig.
 - Write a code to calculate the Euclidean distance matrix between a set of vectors using tf.raw_ops.Eig.
 - Write a code to perform matrix addition using tf.raw_ops.Eig.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

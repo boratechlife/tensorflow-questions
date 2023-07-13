@@ -66,3 +66,17 @@ description: Practice questions for tf errors cancellederror.
 - Write a code to catch a tf.errors.CancelledError and perform a cleanup in a multi-threaded environment.
 - Write a code to handle a tf.errors.CancelledError and retry the operation with an incremental delay.
 - Write a code to catch a tf.errors.CancelledError and execute a custom recovery logic.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

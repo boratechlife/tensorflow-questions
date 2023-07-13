@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental multiworkermirror
 - Write a code to enable automatic dataset sharding with MultiWorkerMirroredStrategy.
 - Write a code to customize the behavior of dataset shuffling with MultiWorkerMirroredStrategy.
 - Write a code to specify the number of epochs for training with MultiWorkerMirroredStrategy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -115,3 +115,17 @@ description: Practice questions for tf ones like.
 - Write a code to create a tensor of ones with the same shape as a given tensor, but with a specific dtype and all elements replaced by a tensor containing a specific pattern, using "tf.ones_like".
 - 
 - Write a code to create a tensor of ones with the same shape as a given tensor, but with a specific dtype and all elements replaced by a tensor containing repeated values, using "tf.ones_like".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

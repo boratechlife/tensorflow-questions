@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops dynamicstitch.
 - Implement a code that demonstrates the usage of tf.raw_ops.DynamicStitch to merge tensors while adjusting the output shape based on a condition.
 - Write a code to dynamically stitch tensors while skipping empty tensors using tf.raw_ops.DynamicStitch.
 - How can you use tf.raw_ops.DynamicStitch to merge tensors based on a condition specified by an index tensor?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

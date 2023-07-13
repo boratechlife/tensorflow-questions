@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnetx320.
 - Write a code to set the initial learning rate for the RegNetX320 model's optimizer.
 - Write a code to set the loss function for training the RegNetX320 model.
 - Write a code to set the regularization strength for the RegNetX320 model's weights.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

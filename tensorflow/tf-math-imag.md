@@ -66,3 +66,17 @@ description: Practice questions for tf math imag.
 - Write a code to calculate the sum of the absolute values of the imaginary parts of complex numbers with positive imaginary parts in a list using "tf.math.imag".
 - Write a code to calculate the sum of the absolute values of the imaginary parts of complex numbers with negative imaginary parts in a list using "tf.math.imag".
 - Write a code to count the number of complex numbers with positive imaginary parts in a list using "tf.math.imag".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

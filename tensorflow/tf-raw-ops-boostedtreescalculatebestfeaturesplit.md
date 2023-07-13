@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreescalculatebestfeatures
 - Write a code to calculate the best feature split using tf.raw_ops.BoostedTreesCalculateBestFeatureSplit with a specific data sampling strategy.
 - Write a code to calculate the best feature split using tf.raw_ops.BoostedTreesCalculateBestFeatureSplit with a specific handling of categorical features.
 - Write a code to calculate the best feature split using tf.raw_ops.BoostedTreesCalculateBestFeatureSplit with a specific handling of missing data.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

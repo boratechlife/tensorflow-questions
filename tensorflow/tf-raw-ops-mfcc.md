@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mfcc.
 - How can you compute the MFCC features with a different preprocessing step, such as signal denoising, using tf.raw_ops.Mfcc?
 - Write a code to compute the MFCC features using a different method for calculating the energy coefficient with tf.raw_ops.Mfcc.
 - How can you extract the MFCC features using a different pitch estimation technique with tf.raw_ops.Mfcc?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

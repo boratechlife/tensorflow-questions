@@ -66,3 +66,17 @@ description: Practice questions for tf math reduce prod.
 - Write a code to calculate the product of the elements in a TensorFlow tensor excluding values in a specific row using tf.math.reduce_prod.
 - Write a code to find the product of all elements in a TensorFlow tensor except for the sum of a specific row using tf.math.reduce_prod.
 - Write a code to compute the product of the elements in a TensorFlow tensor greater than the sum of a specific range using tf.math.reduce_prod.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

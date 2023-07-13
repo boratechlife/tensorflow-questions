@@ -66,3 +66,17 @@ description: Practice questions for tf keras constraints constraint.
 - Write a code to apply the MinMaxNorm constraint to a layer's input.
 - Write a code to apply the RadialConstraint to a layer's input.
 - Write a code to create a custom constraint that enforces a specific pattern on inputs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

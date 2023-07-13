@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics hinge.
 - Write a code to update the metric state with predictions and labels from a TensorFlow record file using tf.keras.metrics.Hinge.
 - Write a code to compute the weighted average hinge loss for a multiclass problem using tf.keras.metrics.Hinge.
 - Write a code to calculate the batch-wise hinge loss for a multilabel classification problem using tf.keras.metrics.Hinge.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

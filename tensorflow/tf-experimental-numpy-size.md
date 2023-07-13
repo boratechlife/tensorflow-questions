@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy size.
 - Write a code to determine the total number of elements in a TensorFlow tensor with a mask using tf.experimental.numpy.size.
 - Write a code to find the size of a specific axis in a multi-dimensional TensorFlow tensor with a mask using tf.experimental.numpy.size.
 - Write a code to count the number of elements in a TensorFlow tensor along a specific dimension with a mask using tf.experimental.numpy.size.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

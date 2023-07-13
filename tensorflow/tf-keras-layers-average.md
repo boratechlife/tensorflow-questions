@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers average.
 - Implement a code to add an average pooling layer with a pool size of 2x2, padding, and a custom kernel initializer to an existing CNN model.
 - How can you set the bias initializer for an average pooling layer using tf.keras.layers.Average?
 - Write a code to add an average pooling layer with a pool size of 2x2 and a custom bias initializer to a model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

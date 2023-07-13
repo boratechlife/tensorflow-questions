@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers adafactor.
 - How can you set the factored covariance clipping flag for Adafactor optimizer?
 - Write a code to get the current gradient accumulation normalization flag of Adafactor optimizer.
 - How can you set the factored covariance momentum flag for Adafactor optimizer?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

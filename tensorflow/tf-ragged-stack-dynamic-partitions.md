@@ -66,3 +66,17 @@ description: Practice questions for tf ragged stack dynamic partitions.
 - Write a code to stack RaggedTensors with dynamic partitions and perform a data augmentation operation on the resulting tensor.
 - Write a code to stack RaggedTensors with dynamic partitions and apply a custom operation on each partition of the resulting tensor.
 - Write a code to stack RaggedTensors with dynamic partitions and apply a custom operation on each element of the resulting tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

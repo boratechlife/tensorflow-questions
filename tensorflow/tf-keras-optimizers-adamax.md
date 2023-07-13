@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers adamax.
 - Write a code to get the updates for a set of variables using an Adamax optimizer in Keras.
 - Write a code to get the gradients for a set of variables using an Adamax optimizer in TensorFlow.
 - Write a code to get the gradients for a set of variables using an Adamax optimizer in Keras.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

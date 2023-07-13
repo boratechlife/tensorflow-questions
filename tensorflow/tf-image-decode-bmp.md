@@ -66,3 +66,17 @@ description: Practice questions for tf image decode bmp.
 - Write a code to decode a BMP image and extract its red, green, and blue channels using tf.image.decode_bmp and indexing.
 - Write a code to decode a BMP image and extract its red, green, blue, and alpha channels using tf.image.decode_bmp and indexing.
 - Write a code to decode a BMP image and apply a custom image transformation using tf.image.decode_bmp and TensorFlow operations.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

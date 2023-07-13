@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers repeatvector.
 - Write a code to create a repeat vector layer and use it in a custom sequence classification function.
 - Write a code to create a repeat vector layer and use it in a custom sequence-to-sequence function.
 - Write a code to create a repeat vector layer and use it in a custom autoencoder function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

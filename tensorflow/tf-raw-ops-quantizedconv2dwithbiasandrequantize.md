@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedconv2dwithbiasandrequant
 - Write a code to perform a quantized 2D convolution operation with bias and requantize using the TensorFlow operation tf.raw_ops.QuantizedConv2DWithBiasAndRequantize.
 - How can you implement quantized convolution with bias and requantization using the TensorFlow function tf.raw_ops.QuantizedConv2DWithBiasAndRequantize in your code?
 - Write a code to apply the tf.raw_ops.QuantizedConv2DWithBiasAndRequantize function for performing quantized convolution with bias and requantization on a given input tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

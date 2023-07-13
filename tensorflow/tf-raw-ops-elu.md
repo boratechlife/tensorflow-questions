@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops elu.
 - Write a code to implement an autoencoder with ELU activations using tf.raw_ops.Elu.
 - Write a code to apply the ELU activation function to the input of a batch normalization layer using tf.raw_ops.Elu.
 - Write a code to compute the ELU activations for a tensor and then apply a max pooling operation followed by a fully connected layer using tf.raw_ops.Elu.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

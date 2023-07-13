@@ -66,3 +66,17 @@ description: Practice questions for tf image random jpeg quality.
 - Write a code to apply a random JPEG quality to multiple video clips using tf.image.random_jpeg_quality.
 - Write a code to generate a random JPEG quality value and apply it to a series of images in a folder using tf.image.random_jpeg_quality.
 - Write a code to apply a random JPEG quality to a series of images in a folder using tf.image.random_jpeg_quality.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

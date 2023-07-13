@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops enqueuetpuembeddingarbitrarytenso
 - Implement a code snippet to enqueue a batch of tensors with image data to TPUEmbedding.
 - What are the requirements for the embedding table when using tf.raw_ops.EnqueueTPUEmbeddingArbitraryTensorBatch?
 - Write a code to dynamically adjust the batch size based on the available memory when enqueuing tensors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

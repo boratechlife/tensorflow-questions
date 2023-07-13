@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops createsummarydbwriter.
 - How can you set the write_trace_file_max_buffer_size parameter for the SummaryDbWriter using tf.raw_ops.CreateSummaryDbWriter?
 - Write a code to create a SummaryDbWriter object and set the retry_on_already_exists parameter.
 - How can you specify the retry_on_unimplemented option when creating a SummaryDbWriter using tf.raw_ops.CreateSummaryDbWriter?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

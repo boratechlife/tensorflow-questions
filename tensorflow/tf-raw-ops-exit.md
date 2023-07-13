@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops exit.
 - Write a code to create an exit operation and set a timeout for the device filter of output tensors using tf.raw_ops.Exit.
 - Write a code to create an exit operation and specify the data type and shape of the exit status tensor using tf.raw_ops.Exit.
 - Write a code to create an exit operation and set a timeout for all its properties using tf.raw_ops.Exit.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops deleteiterator.
 - Create a TensorFlow iterator, concatenate it with another iterator, and delete it using tf.raw_ops.DeleteIterator.
 - Write a code to delete a TensorFlow iterator and log the deletion event using a custom logger and tf.raw_ops.DeleteIterator.
 - How can you delete a TensorFlow iterator and ensure that all memory allocations are deallocated using tf.raw_ops.DeleteIterator?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

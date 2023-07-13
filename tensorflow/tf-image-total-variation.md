@@ -66,3 +66,17 @@ description: Practice questions for tf image total variation.
 - Write a code to apply total variation regularization to an image and specify the axis along which the differences are computed.
 - Write a code to calculate the total variation of an image and print the minimum value in the result.
 - Write a code to compute the total variation of an image and take the absolute value of the result.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

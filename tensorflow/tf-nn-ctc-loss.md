@@ -66,3 +66,17 @@ description: Practice questions for tf nn ctc loss.
 - Write a code to handle label noise in the CTC loss calculation.
 - Write a code to use the CTC loss for anomaly detection in sequence data.
 - Write a code to combine the CTC loss with a reinforcement learning objective.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

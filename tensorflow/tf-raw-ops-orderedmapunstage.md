@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops orderedmapunstage.
 - How can you extract the values whose keys satisfy a custom condition from an ordered map using tf.raw_ops.OrderedMapUnstage?
 - Write a code to unstage an ordered map and retrieve the key-value pairs that satisfy a custom condition.
 - How can you extract the values whose keys and values satisfy a custom condition from an ordered map using tf.raw_ops.OrderedMapUnstage?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

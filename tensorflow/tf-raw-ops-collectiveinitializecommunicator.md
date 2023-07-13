@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectiveinitializecommunicator.
 - How can you use "tf.raw_ops.CollectiveInitializeCommunicator" to enable efficient communication and coordination in distributed TensorFlow training with support for multiple communication devices?
 - Write a code to initialize a TensorFlow communicator for collective communication, synchronization, and coordination, leveraging multiple communication devices using "tf.raw_ops.CollectiveInitializeCommunicator".
 - How can you leverage "tf.raw_ops.CollectiveInitializeCommunicator" to enable efficient parallel and distributed TensorFlow computations with optimized communication and computation overlap?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

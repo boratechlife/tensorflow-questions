@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy cross.
 - Write a code to compute the cross product of two 2D vectors and calculate the projection of one vector onto the line defined by the other two vectors using tf.experimental.numpy.cross.
 - Write a code to calculate the cross product of two arrays of 3D vectors and calculate the projection of each vector onto the corresponding plane defined by the other two vectors using tf.experimental.numpy.cross.
 - Write a code to find the cross product of two arrays of 2D vectors and calculate the projection of each vector onto the corresponding line defined by the other two vectors using tf.experimental.numpy.cross.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

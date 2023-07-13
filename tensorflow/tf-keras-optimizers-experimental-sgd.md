@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers experimental sgd.
 - Write a code to create an SGD optimizer with a learning rate schedule that sets the learning rate to 0.01 for the first 50 steps and then increases it by a factor of 2 every 10 steps.
 - Write a code to create an SGD optimizer with a learning rate schedule that sets the learning rate to 0.001 for the first 20 epochs and then increases it by a factor of 0.2 every 5 epochs.
 - Write a code to create an SGD optimizer with a learning rate schedule that sets the learning rate to 0.01 for the first 10 steps and then reduces it by a factor of 0.5 every 5 steps.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

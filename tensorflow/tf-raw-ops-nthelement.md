@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops nthelement.
 - Write a code to find the kth smallest prime number greater than 100 in a tensor using tf.raw_ops.NthElement.
 - Write a code to find the kth largest composite number less than 1000 in a tensor using tf.raw_ops.NthElement.
 - Write a code to find the kth smallest number with exactly 5 divisors in a tensor using tf.raw_ops.NthElement.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

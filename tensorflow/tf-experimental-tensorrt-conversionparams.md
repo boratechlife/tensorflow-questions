@@ -66,3 +66,17 @@ description: Practice questions for tf experimental tensorrt conversionparams.
 - Write a code to enable TF-TRT allow GPU fallback in strict mode in ConversionParams.
 - Write a code to enable TF-TRT disabled ops in strict mode in ConversionParams.
 - Write a code to enable TF-TRT plugin directory in strict mode in ConversionParams.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

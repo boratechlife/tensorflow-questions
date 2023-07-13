@@ -66,3 +66,17 @@ description: Practice questions for tf math floordiv.
 - Write a code to calculate the floored quotient of two dictionaries.
 - Write a code to find the floored quotient of a number and a dictionary of numpy arrays.
 - Write a code to perform floored division on a set of pandas Series and a scalar value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

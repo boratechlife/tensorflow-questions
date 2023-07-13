@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers convlstm3d.
 - Write a code to create a ConvLSTM3D layer and set a specific restore best weights parameter for early stopping.
 - Write a code to create a ConvLSTM3D layer and set a specific factor for reducing the learning rate.
 - Write a code to create a ConvLSTM3D layer and set a specific mode for reducing the learning rate.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

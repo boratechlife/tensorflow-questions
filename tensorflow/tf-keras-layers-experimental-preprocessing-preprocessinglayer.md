@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing p
 - Write a code to add a RandomBrightness layer with a specific brightness factor and dtype to a neural network model.
 - Write a code to add a RandomCrop layer with a specific crop size and dtype to a neural network model.
 - Write a code to add multiple PreprocessingLayer objects to a neural network model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops deserializemanysparse.
 - How can you deserialize multiple sparse tensors and compute their element-wise absolute maximum using tf.raw_ops.DeserializeManySparse?
 - Write a code to deserialize multiple sparse tensors and calculate their element-wise absolute minimum.
 - How can you deserialize multiple sparse tensors and compute their element-wise element-wise sum using tf.raw_ops.DeserializeManySparse?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

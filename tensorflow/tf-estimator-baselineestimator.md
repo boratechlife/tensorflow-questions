@@ -66,3 +66,17 @@ description: Practice questions for tf estimator baselineestimator.
 - Write a code to set the experimental_max_worker_delay_secs parameter for a BaselineEstimator instance.
 - Write a code to set the experimental_max_worker_delay_secs parameter for a BaselineEstimator instance.
 - Write a code to set the experimental_max_worker_delay_secs parameter for a BaselineEstimator instance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

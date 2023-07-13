@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnetrs50.
 - Write a code to set the pooling mode of a specific pooling layer in the ResNet50 model.
 - Write a code to set the average pooling size of a specific pooling layer in the ResNet50 model.
 - Write a code to set the maximum pooling size of a specific pooling layer in the ResNet50 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

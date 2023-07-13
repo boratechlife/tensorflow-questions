@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lu.
 - Write a code to perform LU decomposition with row and column interchanges using tf.raw_ops.Lu.
 - Write a code to solve a system of linear equations with a banded coefficient matrix using LU decomposition and tf.raw_ops.Lu.
 - Write a code to calculate the LU decomposition of a diagonal matrix using tf.raw_ops.Lu.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

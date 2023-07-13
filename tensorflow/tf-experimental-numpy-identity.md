@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy identity.
 - Write a code to create a 6x6 identity matrix, convert it to a tensor, calculate its eigenvalues using tf.linalg.eigvalsh, round the result to three decimal places using tf.round, and store it in a variable named "eigenvalues_rounded".
 - Write a code to create a square identity matrix of size n, convert it to a tensor, calculate its Frobenius norm using tf.linalg.norm, round the result to two decimal places using tf.round, and store it in a variable named "norm_value_rounded", where n is a user-provided input.
 - Write a code to create a 3x3 identity matrix, convert it to a tensor, calculate its rank using tf.linalg.matrix_rank, round the result to two decimal places using tf.round, and store it in a variable named "rank_value_rounded".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

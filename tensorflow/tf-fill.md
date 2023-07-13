@@ -66,3 +66,17 @@ description: Practice questions for tf fill.
 - Fill a tensor of shape (9, 10) with the value 63.
 - Generate a tensor of shape (20, 20) filled with the value 70.
 - Create a tensor of shape (10, 10) and fill it with the value 65.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

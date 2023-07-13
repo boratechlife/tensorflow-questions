@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers experimental.
 - Write a code to create a custom optimizer with a learning rate schedule using the cosine decay schedule.
 - Write a code to create a custom optimizer with a warmup steps value of 1000.
 - Write a code to create a custom optimizer with a clipnorm value of 1.0.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental tensorrt converter.
 - Write a code to set the calibration cache path for TensorRT conversion.
 - Write a code to enable or disable the use of refit in TensorRT conversion.
 - Write a code to enable or disable the use of refit fallback in TensorRT conversion.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

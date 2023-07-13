@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy var.
 - Write a code to calculate the variance of a numpy array with a specific where parameter using tf.experimental.numpy.var.
 - Write a code to calculate the variance of a numpy array using tf.experimental.numpy.var and specify the ddof parameter.
 - Write a code to calculate the variance of a numpy array with a specific dtype parameter using tf.experimental.numpy.var.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

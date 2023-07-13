@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to decode a WAV file and perform audio synthesis using text-to-speech (TTS) models with "tf.audio.decode_wav".
 - Write a code to decode a WAV file and analyze the audio frequency content using Fourier transforms with "tf.audio.decode_wav".
 - Write a code to decode a WAV file and perform audio beat tracking to detect the beats in the audio data using "tf.audio.decode_wav".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf feature column shared embeddings.
 - Write a code to create a shared embedding column with a different combiner function for different feature scaling techniques.
 - Write a code to create a shared embedding column with a specific combiner function for different feature encoding methods.
 - Write a code to create a shared embedding column with a different combiner function for different deep learning architectures.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

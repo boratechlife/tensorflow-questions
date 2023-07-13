@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers masking.
 - Write a code to apply a mask to a time series forecasting sequence with missing values using tf.keras.layers.Masking.
 - Write a code to mask all negative values in a time series forecasting sequence using tf.keras.layers.Masking.
 - Write a code to create a masked input layer for a recommender system using tf.keras.layers.Masking.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

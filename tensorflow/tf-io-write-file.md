@@ -115,3 +115,17 @@ description: Practice questions for tf io write file.
 - Write a code to save a tensor to a file and handle disk full errors using tf.io.write_file.
 - 
 - Write a code to write a tensor to a file and handle file read errors using tf.io.write_file.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

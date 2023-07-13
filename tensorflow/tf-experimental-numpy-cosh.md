@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy cosh.
 - Write a code to calculate the hyperbolic cosine of a TensorFlow tensor x and find the exponential value of each result.
 - Write a code to calculate the hyperbolic cosine of a given number and convert the result to a string.
 - Write a code to calculate the hyperbolic cosine of each element in a NumPy array and convert each result to a string.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

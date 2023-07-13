@@ -66,3 +66,17 @@ description: Practice questions for tf random normal initializer.
 - Write a code to create a TensorFlow tensor with a random normal distribution, specifying the shape, mean, standard deviation, seed value, dtype, name, trainable flag, synchronization flag, partitioner, validate shape, use_resource, experimental_sharing_policy, aggregation_device, colocate_with, op_device, distribute, eager, validate_args, seed, and seed2 using tf.random_normal_initializer.
 - Write a code to initialize a TensorFlow variable with a random normal distribution, specifying the mean, standard deviation, seed value, dtype, shape, name, trainable flag, synchronization flag, partitioner, validate shape, use_resource, experimental_sharing_policy, aggregation_device, colocate_with, op_device, distribute, eager, validate_args, seed, and seed2 using tf.random_normal_initializer.
 - Write a code to create a TensorFlow tensor with a random normal distribution, specifying the shape, mean, standard deviation, seed value, dtype, name, trainable flag, synchronization flag, partitioner, validate shape, use_resource, experimental_sharing_policy, aggregation_device, colocate_with, op_device, distribute, eager, validate_args, seed, seed2, and validate_tensors using tf.random_normal_initializer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

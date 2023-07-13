@@ -66,3 +66,17 @@ description: Practice questions for tf math atanh.
 - Write a code to calculate the inverse hyperbolic tangent of each element in a given tensor and calculate the square root of the results.
 - Write a code to calculate the element-wise inverse hyperbolic tangent of two tensors and calculate the square root of the results.
 - Write a code to calculate the inverse hyperbolic tangent of a given value and check if the result is a prime number.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

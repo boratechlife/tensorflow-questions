@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers convolution1dtranspose.
 - Write a code to add a Convolution1DTranspose layer with a stride of 2 and padding set to 'same' to a sequential model.
 - Write a code to create a Convolution1DTranspose layer with a dilation rate of 7.
 - Write a code to set the bias regularizer to an L1 regularization with a factor of 0.001 in a Convolution1DTranspose layer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers lambda.
 - Write a code to create a lambda layer that applies a 2D transpose convolution operation to the input tensor.
 - Write a code to create a lambda layer that applies a 3D transpose convolution operation to the input tensor.
 - Write a code to create a lambda layer that applies a custom layer operation to the input tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

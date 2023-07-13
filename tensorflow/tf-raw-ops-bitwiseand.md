@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops bitwiseand.
 - Write a code to compute the bitwise AND of all elements in a TensorFlow tensor using tf.reduce_prod.
 - Write a code to find the bitwise AND of two integers using the numpy.logical_and.reduce function.
 - Write a code to calculate the bitwise AND of all elements in a list using the reduce method of the operator module.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics sensitivityatspecificity.
 - Write a code to calculate the sensitivity at a specific specificity value for a model trained using attention mechanisms.
 - Write a code to calculate the sensitivity at a specific specificity value for a model trained using graph neural networks.
 - Write a code to calculate the sensitivity at a specific specificity value for a model trained using reinforcement learning in a continuous action space.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

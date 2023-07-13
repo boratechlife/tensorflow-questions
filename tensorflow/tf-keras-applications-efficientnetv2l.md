@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnetv2l.
 - Write a code to get the activation function used by the EfficientNetV2L model.
 - Write a code to set the include top option for the EfficientNetV2L model.
 - Write a code to get the include top option used by the EfficientNetV2L model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

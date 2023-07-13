@@ -66,3 +66,17 @@ description: Practice questions for tf dynamic partition.
 - Write a code to dynamically partition a tensor into two parts based on the number of consonants in string tensors using "tf.dynamic_partition".
 - Write a code to dynamically partition a tensor into three parts based on the number of uppercase letters in string tensors using "tf.dynamic_partition".
 - Write a code to dynamically partition a tensor into four parts based on the number of lowercase letters in string tensors using "tf.dynamic_partition".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

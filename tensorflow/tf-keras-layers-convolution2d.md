@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers convolution2d.
 - Write a code to add a 2D convolutional layer with 128 filters, a kernel size of (3, 3), 'relu' activation, and set the kernel initializer, bias initializer, activity initializer, and use a custom padding function to an existing model.
 - Write a code to create a 2D convolutional layer with 32 filters, a kernel size of (3, 3), 'relu' activation, and set the kernel constraint, bias constraint, activity constraint, and use a custom activation function.
 - Write a code to add a 2D convolutional layer with 64 filters, a kernel size of (3, 3), 'relu' activation, and set the kernel constraint, bias constraint, activity constraint, and use a custom activation function to an existing model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

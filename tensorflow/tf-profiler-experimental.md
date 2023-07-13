@@ -66,3 +66,17 @@ description: Practice questions for tf profiler experimental.
 - Write a code to profile the data transfer between the host and device during the execution of a TensorFlow model with different input sizes using tf.profiler.experimental.
 - Write a code to profile the kernel time of operations executed on the GPU during the execution of a TensorFlow model with different input sizes using tf.profiler.experimental.
 - Write a code to profile the device placement of operations in a TensorFlow model with different input sizes using tf.profiler.experimental.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

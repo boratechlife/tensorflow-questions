@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dlpack to dlpack.
 - Write a code to convert a TensorFlow tensor to a DLPack tensor and transmit it over a network.
 - Write a code to receive a DLPack tensor over a network and convert it to a TensorFlow tensor.
 - Write a code to convert a TensorFlow tensor to a DLPack tensor and use it as an input to a machine learning model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

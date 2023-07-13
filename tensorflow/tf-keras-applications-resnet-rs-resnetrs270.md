@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet rs resnetrs270.
 - Write a code to apply class weights during training of the ResNetRS270 model.
 - Write a code to implement early stopping based on validation loss during training of the ResNetRS270 model.
 - Write a code to implement model checkpointing based on validation accuracy during training of the ResNetRS270 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

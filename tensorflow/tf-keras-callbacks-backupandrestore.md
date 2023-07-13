@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks backupandrestore.
 - Write a code to configure the BackupAndRestore callback to save the model in a remote server using Nextcloud.
 - Write a code to configure the BackupAndRestore callback to save the model in a remote server using Yandex.Disk.
 - Write a code to configure the BackupAndRestore callback to save the model in a remote server using FTPES.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

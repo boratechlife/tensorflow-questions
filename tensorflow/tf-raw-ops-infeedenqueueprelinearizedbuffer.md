@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops infeedenqueueprelinearizedbuffer.
 - How can I handle the case when the enqueue operation exceeds a specified timeout duration?
 - Write a code to specify the buffer size for enqueuing prelinearized buffers with tf.raw_ops.InfeedEnqueuePrelinearizedBuffer.
 - How can I ensure that the enqueue operation does not block indefinitely and times out if the queue is full?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

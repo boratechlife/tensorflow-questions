@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to apply a map function to each element in a ParallelMapDataset and return the element as a tuple with its absolute value.
 - Write a code to create a ParallelMapDataset with a map function that appends a prefix and a suffix to each element.
 - Write a code to apply a map function to each element in a ParallelMapDataset and return the element as a tuple with its prefix and suffix.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

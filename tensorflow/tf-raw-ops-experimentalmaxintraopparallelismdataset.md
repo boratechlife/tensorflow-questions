@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalmaxintraopparallelism
 - Write a code to create a TensorFlow dataset with element-wise bitwise OR operations between two datasets using ExperimentalMaxIntraOpParallelismDataset.
 - Write a code to create a TensorFlow dataset with element-wise bitwise XOR operations between two datasets using ExperimentalMaxIntraOpParallelismDataset.
 - Write a code to create a TensorFlow dataset with element-wise bitwise NOT operations on a dataset using ExperimentalMaxIntraOpParallelismDataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

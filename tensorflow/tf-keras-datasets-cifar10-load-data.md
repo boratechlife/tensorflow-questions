@@ -66,3 +66,17 @@ description: Practice questions for tf keras datasets cifar10 load data.
 - How can you use ensembling to improve the performance of a CNN on CIFAR-10?
 - Write a code to implement dropout during inference in a CNN for CIFAR-10.
 - How can you implement model averaging for predictions in an ensemble of CNNs on CIFAR-10?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

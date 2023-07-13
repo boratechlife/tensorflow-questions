@@ -66,3 +66,17 @@ description: Practice questions for tf image resize with crop or pad.
 - How can you resize and pad multiple images to the same size, while randomly selecting the padding area using tf.image.resize_with_crop_or_pad?
 - Write a code to resize and pad a batch of images to a specific size, while randomly selecting the padding area using tf.image.resize_with_crop_or_pad.
 - How can you resize and pad a batch of images to the same size, while randomly selecting the padding area using tf.image.resize_with_crop_or_pad?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

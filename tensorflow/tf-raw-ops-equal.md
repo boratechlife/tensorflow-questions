@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops equal.
 - Implement a function to check if two tensors have the same dimensions and different values within a tolerance using "tf.raw_ops.Equal."
 - Write a code to compare two tensors and return the indices where they are not equal, excluding certain dimensions, using "tf.raw_ops.Equal."
 - How can you use "tf.raw_ops.Equal" to check if two tensors are not equal, considering the relative, absolute, and zero tolerances for floating-point comparisons?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf random fold in.
 - How can you generate a random tensor and calculate its maximum value using tf.random.fold_in?
 - Write a code to generate a random tensor and calculate its minimum value using tf.random.fold_in.
 - How can you generate a random tensor and calculate its minimum value using tf.random.fold_in?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

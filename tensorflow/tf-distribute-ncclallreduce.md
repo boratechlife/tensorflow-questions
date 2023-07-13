@@ -66,3 +66,17 @@ description: Practice questions for tf distribute ncclallreduce.
 - Write a code to perform an "NcclAllReduce" operation on a TensorFlow tensor with a specific reduction algorithm and a custom device filter, and control the GPU memory allocation.
 - Write a code to perform an "NcclAllReduce" operation on a TensorFlow variable with a specific reduction algorithm and a custom device filter, and control the GPU memory allocation.
 - Write a code to perform an "NcclAllReduce" operation on a TensorFlow tensor and apply a custom operation on the result with a specific reduction algorithm, a custom device filter, and control the GPU memory allocation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

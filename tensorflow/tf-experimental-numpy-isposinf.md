@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy isposinf.
 - Write a code to determine if any value in a dictionary is positive infinity using tf.experimental.numpy.isposinf.
 - Write a code to remove all positive infinity values from a dictionary using tf.experimental.numpy.isposinf.
 - Write a code to check if a given string contains any positive infinity values using tf.experimental.numpy.isposinf.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

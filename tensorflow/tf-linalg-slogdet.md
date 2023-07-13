@@ -66,3 +66,17 @@ description: Practice questions for tf linalg slogdet.
 - Write a code to compute the determinant of a sparse positive-definite triangular matrix using tf.linalg.slogdet.
 - Write a code to determine the sign and the logarithm of the determinant for a batch of square matrices using tf.linalg.slogdet.
 - Write a code to calculate the determinant of a batch of symmetric positive-definite block diagonal matrices using tf.linalg.slogdet.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

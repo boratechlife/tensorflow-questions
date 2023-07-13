@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers schedules.
 - Write a code to create a learning rate schedule that increases with a square root function.
 - Write a code to create a learning rate schedule that increases with a logarithmic function.
 - Write a code to create a learning rate schedule that increases with an inverse square root function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

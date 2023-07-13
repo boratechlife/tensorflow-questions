@@ -66,3 +66,17 @@ description: Practice questions for tf py function.
 - Write a code to apply a custom padding function to a TensorFlow dataset using tf.py_function.
 - Write a code to apply a custom text decoding function to a TensorFlow dataset using tf.py_function.
 - Write a code to create a TensorFlow tf.py_function that performs a bitwise shift operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

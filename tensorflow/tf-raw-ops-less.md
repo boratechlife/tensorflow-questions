@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops less.
 - Write a code to check if a tensor is strictly decreasing up to a given index using tf.raw_ops.Less?
 - Write a code to check if a tensor is sorted up to a given index using tf.raw_ops.Less?
 - Write a code to check if a tensor is reverse-sorted up to a given index using tf.raw_ops.Less?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

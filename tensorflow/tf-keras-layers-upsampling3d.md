@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers upsampling3d.
 - Write a code to upsample a 3D input tensor using tf.keras.layers.UpSampling3D and specify the interpolation method as bilinear and set the output shape to be one-third the size of the input shape along the depth dimension and half the size along the height and width dimensions.
 - Write a code to upsample a 3D input tensor using tf.keras.layers.UpSampling3D and set the interpolation method to nearest-neighbor and set the output shape to be half the size of the input shape along all dimensions.
 - Write a code to upsample a 3D input tensor using tf.keras.layers.UpSampling3D and specify the interpolation method as trilinear and set the output shape to be double the size of the input shape along all dimensions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

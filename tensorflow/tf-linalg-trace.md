@@ -66,3 +66,17 @@ description: Practice questions for tf linalg trace.
 - Write a code to compute the trace of the matrix adjugate using tf.linalg.trace.
 - Write a code to calculate the trace of the matrix negation using tf.linalg.trace.
 - Write a code to find the trace of the matrix absolute using tf.linalg.trace.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

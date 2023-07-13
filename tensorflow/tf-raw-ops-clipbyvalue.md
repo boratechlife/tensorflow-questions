@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops clipbyvalue.
 - Write a code to clip a tensor named "tensor" using the ClipByValue operation, with a minimum value of -0.5 and a maximum value of 0.5.
 - Write a code to clip a tensor named "input_data" using the ClipByValue operation, with a minimum value of 0 and a maximum value of 255.
 - Write a code to clip a tensor named "x" using the ClipByValue operation, with a minimum value of -1 and a maximum value of 1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

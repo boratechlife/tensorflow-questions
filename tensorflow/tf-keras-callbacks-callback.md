@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks callback.
 - Write a code to create a callback that logs the training and validation top-k sparse categorical accuracy at the end of each batch.
 - Write a code to create a callback that saves the model's embeddings for a specific epoch during training.
 - Write a code to create a callback that logs the training and validation top-k sparse categorical accuracy at the end of each epoch.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

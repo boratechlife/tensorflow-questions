@@ -66,3 +66,17 @@ description: Practice questions for tf queue priorityqueue.
 - Write a code to find the range of values with a specific priority in a PriorityQueue.
 - Write a code to find the standard deviation of elements with a specific priority in a PriorityQueue.
 - Write a code to find the variance of elements with a specific priority in a PriorityQueue.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

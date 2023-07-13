@@ -66,3 +66,17 @@ description: Practice questions for tf estimator globalstepwaiterhook.
 - Write a code to create an instance of GlobalStepWaiterHook with a wait time of 40 minutes and 30 seconds.
 - Write a code to create an instance of GlobalStepWaiterHook with a wait time of 14 hours and 30 minutes.
 - Write a code to create an instance of GlobalStepWaiterHook with a wait time of 8 minutes and 25 seconds.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

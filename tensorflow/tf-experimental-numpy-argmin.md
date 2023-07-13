@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy argmin.
 - Write a code to find the index of the smallest element in a nested dictionary using tf.experimental.numpy.argmin.
 - Write a code to find the index of the smallest element along a specific axis in a nested dictionary using tf.experimental.numpy.argmin.
 - Write a code to find the index of the smallest element in a pandas DataFrame using tf.experimental.numpy.argmin.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

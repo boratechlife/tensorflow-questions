@@ -66,3 +66,17 @@ description: Practice questions for tf nn max pool3d.
 - Write a code to apply 3D max pooling with a pool size of 2x2x2, stride of 2, padding of "SAME," data format "NHWC," dilation rate of 1, name "max_pool," custom padding values, ceil mode, data type "float32," use_cudnn_on_gpu, and data format "NDHWC" to a given tensor.
 - Write a code to perform 3D max pooling with a pool size of 3x3x3, stride of 2, padding of "VALID," data format "NCHW," dilation rate of 1, name "max_pool," custom padding values, ceil mode, data type "float32," use_cudnn_on_gpu, and data format "NDHWC" on a given input tensor.
 - Write a code to apply 3D max pooling with a pool size of 2x2x2, stride of 1, padding of "SAME," data format "NCHW," dilation rate of 1, name "max_pool," custom padding values, ceil mode, data type "float32," use_cudnn_on_gpu, and data format "NDHWC" to a given tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

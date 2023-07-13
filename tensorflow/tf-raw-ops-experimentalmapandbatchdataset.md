@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops experimentalmapandbatchdataset.
 - Write a code to apply parallel interleave to an ExperimentalMapAndBatchDataset.
 - Write a code to create an ExperimentalMapAndBatchDataset with a deterministic shuffle option.
 - Write a code to make the shuffling operation deterministic in an ExperimentalMapAndBatchDataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

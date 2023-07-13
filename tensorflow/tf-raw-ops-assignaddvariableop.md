@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops assignaddvariableop.
 - Write a code to compute the L1 regularization of a variable using tf.raw_ops.AssignAddVariableOp.
 - Write a code to compute the L2 regularization of a variable using tf.raw_ops.AssignAddVariableOp.
 - Write a code to save a variable to a file using tf.raw_ops.AssignAddVariableOp.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

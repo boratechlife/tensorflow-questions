@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert integer.
 - Write a code to assert that a pandas DataFrame column contains only integer values and no duplicates.
 - Write a code to assert that a TensorFlow tensor is a rank-N integer tensor with a shape compatible with a given tensor.
 - Write a code to assert that a NumPy array is a non-positive definite matrix with integer elements.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

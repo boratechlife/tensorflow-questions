@@ -66,3 +66,17 @@ description: Practice questions for tf estimator export servinginputreceiver.
 - Write a code to create a ServingInputReceiver object that handles fixed-length input features.
 - Write a code to create a ServingInputReceiver object that handles multi-modal input features.
 - Write a code to create a ServingInputReceiver object that handles multi-task input features.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

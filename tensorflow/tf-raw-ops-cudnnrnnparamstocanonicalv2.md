@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cudnnrnnparamstocanonicalv2.
 - Write a code to set the direction hidden bias mode for CudnnRNNParamsToCanonicalV2.
 - How can you configure the recurrent activation beta value for CudnnRNNParamsToCanonicalV2?
 - Write a code to set the direction output bias mode for CudnnRNNParamsToCanonicalV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

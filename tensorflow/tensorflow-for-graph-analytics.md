@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Explain the concept of graph autoencoders and their usage in TensorFlow.
 - What are some techniques for handling scalability in TensorFlow-based graph analytics?
 - How does TensorFlow enable the analysis of knowledge graphs for question answering systems?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

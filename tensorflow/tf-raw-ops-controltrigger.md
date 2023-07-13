@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops controltrigger.
 - Write a code to use tf.raw_ops.ControlTrigger() to implement a mechanism for distributed TensorFlow operations.
 - Write a code to trigger a control dependency in TensorFlow based on the result of a set operation using tf.raw_ops.ControlTrigger().
 - Write a code to use tf.raw_ops.ControlTrigger() to implement a mechanism for error handling in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

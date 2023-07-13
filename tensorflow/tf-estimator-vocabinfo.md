@@ -66,3 +66,17 @@ description: Practice questions for tf estimator vocabinfo.
 - Write a code to set the out-of-vocabulary token representation for a VocabInfo object.
 - Write a code to check if a token is covered by the vocabulary using a VocabInfo object.
 - Write a code to set the vocabulary coverage threshold for a VocabInfo object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

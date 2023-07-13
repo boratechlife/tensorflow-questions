@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications vgg19 decode predictio
 - Implement a function to convert the decoded predictions obtained from the VGG19 model into a pandas DataFrame using the decode_predictions function.
 - Write a code to preprocess an image, get the predictions using the VGG19 model, decode them using decode_predictions, and convert the predictions into a pandas DataFrame.
 - How to save the decoded predictions obtained from the VGG19 model into a CSV file using decode_predictions?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

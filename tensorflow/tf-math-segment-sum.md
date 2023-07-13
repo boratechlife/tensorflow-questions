@@ -66,3 +66,17 @@ description: Practice questions for tf math segment sum.
 - Write a code to compute the segment sum of a tensor with segment indices provided as a tensor of tensors of tensors of integers.
 - Write a code to calculate the segment sum of a tensor with segment indices provided as a tensor of tensors of tensors of floats.
 - Write a code to perform a segment sum operation on a tensor with segment indices provided as a tensor of tensors of tensors of complex numbers.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

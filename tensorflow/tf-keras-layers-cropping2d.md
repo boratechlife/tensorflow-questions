@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers cropping2d.
 - Write a code to create a model with a Cropping2D layer and use a custom callback during training.
 - Write a code to create a model with a Cropping2D layer and set a specific random seed.
 - Write a code to create a model with a Cropping2D layer and apply spatial dropout.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

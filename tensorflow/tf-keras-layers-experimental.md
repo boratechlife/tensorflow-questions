@@ -115,3 +115,17 @@ description: Practice questions for tf keras layers experimental.
 - Write a code to create a quantized mixed precision activation layer using tf.keras.layers.experimental.QuantPrecisionActivation.
 - 
 - Write a code to create a quantized mixed precision batch normalization layer using tf.keras.layers.experimental.QuantPrecisionBatchNormalization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

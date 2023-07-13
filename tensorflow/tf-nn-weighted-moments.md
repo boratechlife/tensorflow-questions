@@ -66,3 +66,17 @@ description: Practice questions for tf nn weighted moments.
 - Write a code to compute the weighted mode of a tensor using a custom weight vector with tf.nn.weighted_moments.
 - Write a code to calculate the weighted quantiles of a tensor using a custom weight vector with tf.nn.weighted_moments.
 - Write a code to find the weighted sum of squares of a tensor using a custom weight vector with tf.nn.weighted_moments.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

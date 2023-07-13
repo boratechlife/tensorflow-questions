@@ -66,3 +66,17 @@ description: Practice questions for tf lookup statichashtable.
 - Write a code to create a tf.lookup.StaticHashTable with a custom initializer function, hash function, key dtype, value dtype, and default value.
 - Write a code to create a tf.lookup.StaticHashTable with a custom initializer function, hash function, key dtype, value dtype, default value, and resize factor.
 - Write a code to create a tf.lookup.StaticHashTable with a custom initializer function, hash function, key dtype, value dtype, default value, resize factor, and key equal function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

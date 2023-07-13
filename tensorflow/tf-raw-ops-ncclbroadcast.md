@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops ncclbroadcast.
 - How can you integrate checkpointing and recovery mechanisms with tf.raw_ops.NcclBroadcast for fault tolerance?
 - Write a code to perform a broadcast operation using tf.raw_ops.NcclBroadcast and utilize multiple network interfaces.
 - How can you distribute the broadcast operation across multiple machines using tf.raw_ops.NcclBroadcast?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

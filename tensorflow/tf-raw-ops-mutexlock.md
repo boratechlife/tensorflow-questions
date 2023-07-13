@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mutexlock.
 - Write a code to release a named MutexLock after performing a critical section of code only if a condition is met in TensorFlow.
 - Write a code to acquire a MutexLock and wait until a condition is met or a specified timeout occurs in TensorFlow.
 - Write a code to acquire a named MutexLock and wait until a condition is met or a specified timeout occurs in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

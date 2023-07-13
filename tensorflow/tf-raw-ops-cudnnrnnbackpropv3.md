@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cudnnrnnbackpropv3.
 - How can you use tf.raw_ops.CudnnRNNBackpropV3 to train a CudnnRNN model on a sentiment analysis task?
 - Create a code snippet that demonstrates the usage of tf.raw_ops.CudnnRNNBackpropV3 in a character-level language model.
 - Write a code to update the regularization strength during training using tf.raw_ops.CudnnRNNBackpropV3 in a CudnnRNN model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

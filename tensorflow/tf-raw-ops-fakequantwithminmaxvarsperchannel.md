@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fakequantwithminmaxvarsperchannel
 - How can you apply FakeQuantWithMinMaxVarsPerChannel to a tensor with separate minimum and maximum values for each channel?
 - Write a code to implement a custom gradient function for FakeQuantWithMinMaxVarsPerChannel.
 - How can you apply FakeQuantWithMinMaxVarsPerChannel to a tensor with separate clipping ranges for each channel?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics msle.
 - Write a code to calculate the mean squared logarithmic error for a dataset with heteroscedasticity using tf.keras.metrics.MSLE.
 - Write a code to calculate the mean squared logarithmic error for a dataset with overfitting using tf.keras.metrics.MSLE.
 - Write a code to calculate the mean squared logarithmic error for a dataset with underfitting using tf.keras.metrics.MSLE.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

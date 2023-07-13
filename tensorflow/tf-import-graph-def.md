@@ -66,3 +66,17 @@ description: Practice questions for tf import graph def.
 - Write a code to import a graph definition from a TensorFlow Agents model using "tf.import_graph_def".
 - Write a code to import a graph definition from a TensorFlow Recommenders model using "tf.import_graph_def".
 - Write a code to import a graph definition from a TensorFlow Model Garden model using "tf.import_graph_def".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

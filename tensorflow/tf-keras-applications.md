@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications.
 - Write a code to perform image classification using a pre-trained model loaded with tf.keras.applications.
 - Write a code to apply image segmentation using a pre-trained model loaded with tf.keras.applications.
 - Write a code to perform object detection using a pre-trained model loaded with tf.keras.applications.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

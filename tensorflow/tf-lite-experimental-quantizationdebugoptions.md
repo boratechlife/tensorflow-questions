@@ -66,3 +66,17 @@ description: Practice questions for tf lite experimental quantizationdebugoption
 - Write a code to disable quantization debugging for a specific op in QuantizationDebugOptions.
 - Write a code to check if quantization debugging for a specific op is enabled in QuantizationDebugOptions.
 - Write a code to reset all the options in QuantizationDebugOptions to their default values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

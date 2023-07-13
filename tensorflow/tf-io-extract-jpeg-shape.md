@@ -66,3 +66,17 @@ description: Practice questions for tf io extract jpeg shape.
 - How do you handle images with embedded thumbnails using tf.io.extract_jpeg_shape?
 - Write a code to calculate the color depth of a JPEG image using tf.io.extract_jpeg_shape.
 - How can you extract the date and time the JPEG image was taken using tf.io.extract_jpeg_shape?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental table from dataset.
 - Write a code to calculate the weighted mean of a specific column in a TensorFlow dataset created with "tf.data.experimental.table_from_dataset".
 - Write a code to calculate the weighted sum of a specific column in a TensorFlow dataset created with "tf.data.experimental.table_from_dataset".
 - Write a code to perform cross-validation on a TensorFlow dataset created with "tf.data.experimental.table_from_dataset".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

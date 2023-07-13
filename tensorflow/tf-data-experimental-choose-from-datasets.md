@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental choose from datasets.
 - Write a code to create a dataset that selects a dataset based on the value of an element in the current batch and future dataset using tf.data.experimental.choose_from_datasets.
 - Write a code to create a dataset that chooses from datasets with different resizing techniques and weights using tf.data.experimental.choose_from_datasets.
 - Write a code to create a dataset that selects a dataset based on the value of an attribute in the current batch and future dataset using tf.data.experimental.choose_from_datasets.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

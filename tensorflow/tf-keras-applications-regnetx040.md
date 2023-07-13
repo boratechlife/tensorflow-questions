@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnetx040.
 - Write a code to implement early stopping based on the training accuracy of the RegNetX040 model.
 - Write a code to implement a custom metric for evaluating the performance of the RegNetX040 model.
 - Write a code to implement transfer learning by freezing only a subset of layers in the RegNetX040 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

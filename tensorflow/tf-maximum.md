@@ -66,3 +66,17 @@ description: Practice questions for tf maximum.
 - Write a code to find the maximum value in each column of a 2D tensor and its position along with the corresponding indices using tf.maximum.
 - Write a code to calculate the maximum value between two TensorFlow variables and their corresponding positions along with the indices using tf.maximum.
 - Write a code to replace all non-zero values in a tensor with a constant value and return the resulting tensor using tf.maximum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

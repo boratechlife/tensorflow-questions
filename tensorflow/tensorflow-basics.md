@@ -52,3 +52,17 @@ thumbnailSource: "stef"
 - Describe the process of implementing a generative adversarial network (GAN) in TensorFlow.
 - What are the challenges and techniques involved in training GANs in TensorFlow?
 - How can you use TensorFlow for time series
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

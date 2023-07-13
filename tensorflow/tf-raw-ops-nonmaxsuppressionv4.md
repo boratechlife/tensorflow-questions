@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops nonmaxsuppressionv4.
 - How can you utilize tf.raw_ops.NonMaxSuppressionV4 to perform non-maximum suppression and return both the selected bounding boxes and their corresponding class labels, with a minimum confidence score per class and a minimum IOU value?
 - Implement a code to use tf.raw_ops.NonMaxSuppressionV4 to perform non-maximum suppression and return the selected bounding boxes for each class separately, with a minimum confidence score per class and a minimum IOU value.
 - Write a code to apply tf.raw_ops.NonMaxSuppressionV4 to a set of bounding boxes and specify a threshold for the minimum confidence score per class, with a minimum IOU value and a maximum number of selected bounding boxes.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops bytesproducedstatsdataset.
 - Write a code to calculate the rolling correlation between bytes produced values in a BytesProducedStatsDataset and another dataset.
 - Write a code to calculate the rolling cross-entropy loss between bytes produced values in a BytesProducedStatsDataset and a target dataset.
 - Write a code to calculate the rolling mean squared error between bytes produced values in a BytesProducedStatsDataset and a target dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

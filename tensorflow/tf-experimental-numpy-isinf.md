@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy isinf.
 - Write a code to check if any column in a 2D tensor contains infinite values using tf.experimental.numpy.isinf.
 - Write a code to check if any element in a 3D tensor is infinite using tf.experimental.numpy.isinf.
 - Write a code to check if all rows in a 2D tensor have at least one infinite value using tf.experimental.numpy.isinf.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

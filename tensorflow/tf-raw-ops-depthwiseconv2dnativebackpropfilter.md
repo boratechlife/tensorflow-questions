@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops depthwiseconv2dnativebackpropfilt
 - How can you use the TensorFlow function tf.raw_ops.DepthwiseConv2dNativeBackpropFilter with custom strides and padding to calculate the gradient of a depthwise convolution filter?
 - Write a code to perform backpropagation on a depthwise convolution filter with custom strides and padding using tf.raw_ops.DepthwiseConv2dNativeBackpropFilter in TensorFlow.
 - How do you compute the gradient of a depthwise convolution filter with custom strides and padding using the operation tf.raw_ops.DepthwiseConv2dNativeBackpropFilter in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

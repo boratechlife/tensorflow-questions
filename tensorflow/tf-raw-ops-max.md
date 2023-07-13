@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops max.
 - Write a code to find the maximum value in a TensorFlow variational autoencoder model using tf.raw_ops.Max.
 - Write a code to find the maximum value in a TensorFlow deep belief network model using tf.raw_ops.Max.
 - Write a code to find the maximum value in a TensorFlow transformer model using tf.raw_ops.Max.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

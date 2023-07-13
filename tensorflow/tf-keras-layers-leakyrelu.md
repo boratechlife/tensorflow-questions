@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers leakyrelu.
 - Write a code to create a LeakyReLU activation layer and set the negative slope based on the mean squared error of the input tensor.
 - Write a code to apply LeakyReLU activation to a tensor x and set the negative slope based on the mutual information of the tensor.
 - Write a code to create a LeakyReLU activation layer and set the negative slope based on a custom function applied to the input tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

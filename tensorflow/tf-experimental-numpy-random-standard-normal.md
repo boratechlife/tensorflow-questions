@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy random standard normal
 - Write a code to generate a 1D array of size 50 with random numbers and calculate the element-wise product with a scalar value of 2 using tf.experimental.numpy.random.standard_normal.
 - Write a code to generate a 2D array of shape (5, 5) with random numbers and calculate the element-wise division by a scalar value of 10 using tf.experimental.numpy.random.standard_normal.
 - Write a code to generate a 1D array of size 100 with random numbers and calculate the element-wise power to 3 using tf.experimental.numpy.random.standard_normal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

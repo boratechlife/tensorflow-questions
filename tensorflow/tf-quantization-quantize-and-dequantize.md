@@ -66,3 +66,17 @@ description: Practice questions for tf quantization quantize and dequantize.
 - Write a code to quantize a tensor and specify the behavior for handling non-positive, non-negative, zero, non-negative, positive, and non-zero values using tf.quantization.quantize_and_dequantize.
 - Write a code to quantize a tensor and specify the behavior for handling negative zero, positive, non-negative, non-positive, zero, and non-zero values using tf.quantization.quantize_and_dequantize.
 - Write a code to quantize a tensor and specify the behavior for handling negative, non-negative, zero, non-positive, positive, non-zero, special, NaN, overflow, and underflow values using tf.quantization.quantize_and_dequantize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

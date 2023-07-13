@@ -66,3 +66,17 @@ description: Practice questions for tf nn lrn.
 - Write a code to apply tf.nn.lrn normalization to a tensor with class labels.
 - Write a code to apply tf.nn.lrn normalization to a tensor with skewed distributions.
 - Write a code to apply tf.nn.lrn normalization to a tensor with different normalization techniques and compare their performance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

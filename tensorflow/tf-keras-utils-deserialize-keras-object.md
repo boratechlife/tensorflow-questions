@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils deserialize keras object.
 - How can you handle deserializing a Keras object from a TensorFlow checkpoint using "deserialize_keras_object"?
 - Write a code to deserialize a Keras object from a TensorFlow checkpoint using "deserialize_keras_object".
 - How do you handle deserializing a Keras object from a TensorFlow Lite model file using "deserialize_keras_object"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

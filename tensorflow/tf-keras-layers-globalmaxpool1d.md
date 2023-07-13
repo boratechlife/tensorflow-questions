@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers globalmaxpool1d.
 - Write a code to create a GlobalMaxPool1D layer and set its bias constraint.
 - Write a code to create a GlobalMaxPool1D layer and set its implementation mode.
 - Write a code to create a GlobalMaxPool1D layer and set its data format.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

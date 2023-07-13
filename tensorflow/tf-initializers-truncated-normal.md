@@ -66,3 +66,17 @@ description: Practice questions for tf initializers truncated normal.
 - Write a code to initialize a tensor of shape (3, 3, 3, 3) using tf.initializers.truncated_normal with a mean of 0 and a standard deviation of 0.5.
 - Write a code to initialize a variable using tf.initializers.truncated_normal with a mean of -1 and a standard deviation of 0.5.
 - Write a code to initialize a weight matrix of shape (4, 4) using tf.initializers.truncated_normal with a mean of 0 and a standard deviation of 0.1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

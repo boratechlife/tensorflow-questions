@@ -67,3 +67,17 @@ description: Practice questions for tf raw ops extractglimpse.
 - How can you specify the normalized coordinates, scale, aspect ratios, padding offsets, output size, and aspect ratios of the glimpse using tf.raw_ops.ExtractGlimpse?
 - Write a code to extract a glimpse from an image using tf.raw_ops.ExtractGlimpse and convert it to a grayscale image.
 - How can you resize the extracted glimpse using tf.raw_ops.ExtractGlimpse to a specific output size?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops ctcloss.
 - Write a code to compute the CTCLoss and include a discourse-level language model.
 - Write a code to use tf.raw_ops.CTCLoss with a capsule neural network (CapsNet) architecture.
 - Write a code to calculate the CTCLoss and perform spectral normalization using tf.raw_ops.CTCLoss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

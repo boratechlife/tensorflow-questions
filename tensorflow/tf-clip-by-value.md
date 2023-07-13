@@ -66,3 +66,17 @@ description: Practice questions for tf clip by value.
 - Write a code to clip the values of a tensor between a minimum and maximum value, replacing values below a specified threshold with the minimum value and values above the threshold with the maximum value using tf.clip_by_value.
 - Write a code to clip the values of a tensor between 0 and the maximum value in the tensor, replacing values below a specified threshold with 0 and values above the threshold with the maximum value using tf.clip_by_value.
 - Write a code to clip the values of a tensor between the minimum value in the tensor and 1, replacing values below a specified threshold with the minimum value and values above the threshold with 1 using tf.clip_by_value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

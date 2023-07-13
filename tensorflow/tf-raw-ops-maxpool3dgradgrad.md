@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maxpool3dgradgrad.
 - Write a code to apply the MaxPool3DGradGrad operation to a batch of tensors with a specified padding and stride in TensorFlow.
 - Write a code to compute the gradients of the output with respect to the input for multiple tensors using the MaxPool3DGradGrad operation in TensorFlow.
 - Write a code to calculate the Jacobian matrix for a tensor using the MaxPool3DGradGrad operation in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

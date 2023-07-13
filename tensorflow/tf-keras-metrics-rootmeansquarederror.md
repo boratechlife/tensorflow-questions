@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics rootmeansquarederror.
 - Evaluate the root mean squared error metric for an image super-resolution model using tf.keras.metrics.RootMeanSquaredError.
 - Calculate the root mean squared error between two motion capture sequences using tf.keras.metrics.RootMeanSquaredError.
 - Compute the root mean squared error for a pose estimation model using tf.keras.metrics.RootMeanSquaredError.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

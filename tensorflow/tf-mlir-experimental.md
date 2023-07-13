@@ -66,3 +66,17 @@ description: Practice questions for tf mlir experimental.
 - Write a code to get the rank of an MLIR memref descriptor using tf.mlir.experimental.get_memref_rank().
 - Write a code to get the shape of an MLIR memref descriptor using tf.mlir.experimental.get_memref_shape().
 - Write a code to get the data pointer of an MLIR memref descriptor using tf.mlir.experimental.get_memref_data_ptr().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

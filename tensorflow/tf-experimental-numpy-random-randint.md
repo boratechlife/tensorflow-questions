@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy random randint.
 - Generate a 1D array of length 30 with random integers between -10 and 10 (inclusive) and check if any element is greater than or equal to 8.
 - Generate a 1D array of length 50 with random integers between 1 and 100 (inclusive) and calculate the cumulative sum.
 - Generate a 1D array of length 100 with random integers between 0 and 1 (inclusive) and calculate the percentage of ones.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

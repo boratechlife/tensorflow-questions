@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental shuffle and repeat.
 - Write a code to shuffle and repeat a TensorFlow dataset with a buffer size of 100 and repeat for a specified number of steps using a specific random seed, a reshuffle buffer size of 150, and a seed value of 987.
 - Write a code to shuffle and repeat a TensorFlow dataset with a buffer size of 100 and repeat for a fixed number of epochs with a seed value of 321, a reshuffle buffer size of 200, and a random seed for shuffling.
 - Write a code to shuffle and repeat a TensorFlow dataset and set the reshuffle buffer size to a fraction of the dataset size using a random seed, a buffer size of 4000, and a seed value of 654.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

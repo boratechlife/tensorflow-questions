@@ -66,3 +66,17 @@ description: Practice questions for tf feature column categorical column with ha
 - Write a code to create a categorical column with hash buckets and set the dtype to int and specify the default value for missing categories with a delimiter, enable hashed bucket output, specify the hash bucket size, specify the number of hash buckets, enable hash buckets to use a fingerprint instead of hash values, specify the key for fingerprint computation, enable the fingerprint to use the fast hash function, specify the number of parallel calls during fingerprint computation, specify the seed for the random number generator used during fingerprint computation, and specify the number of bits in the fingerprint.
 - Write a code to create a categorical column with hash buckets and set the dtype to float and specify the default value for missing categories with a delimiter, enable hashed bucket output, specify the hash bucket size, specify the number of hash buckets, enable hash buckets to use a fingerprint instead of hash values, specify the key for fingerprint computation, enable the fingerprint to use the fast hash function, specify the number of parallel calls during fingerprint computation, specify the seed for the random number generator used during fingerprint computation, and specify the number of bits in the fingerprint.
 - Write a code to create a categorical column with hash buckets and set the dtype to string and specify the default value for missing categories with a delimiter, enable hashed bucket output, specify the hash bucket size, specify the number of hash buckets, enable hash buckets to use a fingerprint instead of hash values, specify the key for fingerprint computation, enable the fingerprint to use the fast hash function, specify the number of parallel calls during fingerprint computation, specify the seed for the random number generator used during fingerprint computation, specify the number of bits in the fingerprint, and enable the fingerprint to use the stable hash function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

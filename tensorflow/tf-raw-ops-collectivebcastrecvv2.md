@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectivebcastrecvv2.
 - How can I use the tf.raw_ops.CollectiveBcastRecvV2 operation to receive a tensor and immediately calculate its element-wise power using a custom exponent?
 - Write a code to receive a broadcasted tensor using tf.raw_ops.CollectiveBcastRecvV2 and calculate its element-wise softmax.
 - How can I use the shape_unknown_shape parameter in tf.raw_ops.CollectiveBcastRecvV2 to receive a tensor with an unknown shape from the broadcast operation?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

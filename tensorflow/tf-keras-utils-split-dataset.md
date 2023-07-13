@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils split dataset.
 - Write a code to split a dataset into training, validation, and testing sets while ensuring that samples from the same groups are in the same set using "tf.keras.utils.split_dataset".
 - Write a code to split a dataset into training and testing sets by considering a specific column as a target variable using "tf.keras.utils.split_dataset".
 - Write a code to split a dataset into training, validation, and testing sets by considering specific columns as input and target variables using "tf.keras.utils.split_dataset".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

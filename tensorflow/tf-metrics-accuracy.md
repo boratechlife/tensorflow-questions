@@ -66,3 +66,17 @@ description: Practice questions for tf metrics accuracy.
 - Write a code to calculate the accuracy of a model's predictions for a text-to-speech task.
 - Write a code to update the accuracy metric for a model that performs image generation.
 - Write a code to calculate the accuracy of a model's predictions for a style transfer task.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

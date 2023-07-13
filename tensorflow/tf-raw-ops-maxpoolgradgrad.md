@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maxpoolgradgrad.
 - Write a code to compute the second-order gradient of a max-pooling operation with respect to multiple custom loss functions using tf.raw_ops.MaxPoolGradGrad.
 - How can you use tf.raw_ops.MaxPoolGradGrad to calculate the gradient of a max-pooling operation with respect to multiple regularization terms?
 - Implement a function that takes the pooling indices, output gradients, and multiple regularization terms, and computes the gradients of the regularization terms using tf.raw_ops.MaxPoolGradGrad.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

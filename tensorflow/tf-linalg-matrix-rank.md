@@ -66,3 +66,17 @@ description: Practice questions for tf linalg matrix rank.
 - Write a code to compute the rank of a matrix using tf.linalg.matrix_rank and handle the case when the matrix is singular, not full rank, not invertible, or empty.
 - Write a code to determine the rank of a matrix stored in a NumPy array and handle the case when the matrix is singular, not full rank, not invertible, or empty using tf.linalg.matrix_rank.
 - Write a code to find the rank of a matrix represented as a TensorFlow placeholder and handle the case when the matrix is singular, not full rank, not invertible, or empty using tf.linalg.matrix_rank.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

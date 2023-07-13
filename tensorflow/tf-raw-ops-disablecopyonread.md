@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops disablecopyonread.
 - How can you disable the copy-on-read mechanism for a specific TensorFlow constant tensor and all its consumers using tf.raw_ops.DisableCopyOnRead?
 - Create a code snippet to disable copy-on-read behavior for a TensorFlow operation and all its inputs.
 - Write a code to disable copy-on-read for all tensors in a TensorFlow session using tf.raw_ops.DisableCopyOnRead.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

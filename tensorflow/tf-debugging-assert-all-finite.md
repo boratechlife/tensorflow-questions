@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert all finite.
 - Write a code to assert that all elements in a TensorFlow tensor are NaN using tf.debugging.assert_all_finite.
 - Write a code to assert that all elements in a NumPy array are NaN using tf.debugging.assert_all_finite.
 - Write a code to assert that a given list has only NaN values using tf.debugging.assert_all_finite.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

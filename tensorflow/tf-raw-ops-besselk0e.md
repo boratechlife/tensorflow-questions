@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops besselk0e.
 - Write a code to compute the square of tf.raw_ops.BesselK0e using the power operator.
 - Write a code to calculate the cube of tf.raw_ops.BesselK0e using multiplication.
 - Write a code to determine if a given tf.raw_ops.BesselK0e value is zero.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

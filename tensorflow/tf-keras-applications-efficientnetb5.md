@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnetb5.
 - Write a code to set the patience parameter for early stopping during training of the EfficientNetB5 model.
 - Write a code to set the monitor metric for early stopping during training of the EfficientNetB5 model.
 - Write a code to set the mode (min or max) for early stopping during training of the EfficientNetB5 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

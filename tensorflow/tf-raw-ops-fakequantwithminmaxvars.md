@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fakequantwithminmaxvars.
 - How can you specify the bitwidth parameter for FakeQuantWithMinMaxVars operation in TensorFlow?
 - Write a code to calculate the effective bitwidth of FakeQuantWithMinMaxVars operation in TensorFlow.
 - How can you specify the update_bounds_every_n parameter for FakeQuantWithMinMaxVars operation in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

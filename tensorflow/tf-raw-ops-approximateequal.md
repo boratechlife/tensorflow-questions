@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops approximateequal.
 - Write a code to check if two tensors have approximately equal maximum values using tf.raw_ops.ApproximateEqual.
 - Write a code to compare two dictionaries of tensors for approximate equality within a certain precision using tf.raw_ops.ApproximateEqual.
 - Write a code to perform an approximate equality check between two sparse tensors with a specified density using tf.raw_ops.ApproximateEqual.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

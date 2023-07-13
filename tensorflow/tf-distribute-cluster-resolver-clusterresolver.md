@@ -66,3 +66,17 @@ description: Practice questions for tf distribute cluster resolver clusterresolv
 - Write a code to resolve the task environment variable from a ClusterResolver object.
 - Write a code to update the task environment variable in a ClusterResolver object.
 - Write a code to check if a ClusterResolver object has a specific task address.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

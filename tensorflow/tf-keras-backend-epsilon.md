@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend epsilon.
 - Write a code to find the index of the first occurrence of a given element in a list of numbers, considering tf.keras.backend.epsilon.
 - Write a code to reverse a given list of numbers, considering tf.keras.backend.epsilon.
 - Write a code to concatenate two given lists of numbers, considering tf.keras.backend.epsilon.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

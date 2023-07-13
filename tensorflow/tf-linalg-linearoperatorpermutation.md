@@ -66,3 +66,17 @@ description: Practice questions for tf linalg linearoperatorpermutation.
 - Write a code to calculate the determinant of a batch of permutation operators and apply a thresholding operation using tf.linalg.LinearOperatorPermutation.
 - Write a code to calculate the singular values of a batch of permutation operators and apply a scaling operation using tf.linalg.LinearOperatorPermutation.
 - Write a code to calculate the Frobenius norm of a batch of permutation operators and normalize the norms using tf.linalg.LinearOperatorPermutation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

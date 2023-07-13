@@ -66,3 +66,17 @@ description: Practice questions for tf errors unimplementederror.
 - Write a code to handle the tf.errors.UnimplementedError by automatically scheduling the operation for later execution.
 - Write a code to handle the tf.errors.UnimplementedError by gracefully terminating the application with an appropriate exit code.
 - Write a code to handle the tf.errors.UnimplementedError by displaying a helpful message with links to relevant documentation and resources..;
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

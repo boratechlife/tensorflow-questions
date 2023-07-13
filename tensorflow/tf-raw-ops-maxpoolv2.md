@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maxpoolv2.
 - How can you specify a custom pooling padding and stride while performing max pooling using tf.raw_ops.MaxPoolV2?
 - Write a code to perform max pooling on a tensor with a filter size of 2x2 and stride of 1, with padding set to "VALID" using tf.raw_ops.MaxPoolV2.
 - How would you perform max pooling on a tensor with a dynamic pooling stride using tf.raw_ops.MaxPoolV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

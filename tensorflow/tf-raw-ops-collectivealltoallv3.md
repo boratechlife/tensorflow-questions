@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectivealltoallv3.
 - How can you use tf.raw_ops.CollectiveAllToAllV3 to perform an all-to-all dynamic data-dependent scatter-gather operation in TensorFlow?
 - Write a code to implement a custom overlapping all-to-all operation using tf.raw_ops.CollectiveAllToAllV3.
 - How can you use tf.raw_ops.CollectiveAllToAllV3 to perform an all-to-all collective operation in TensorFlow with custom data mapping?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are the potential applications of GANs in the field of healthcare and medical imaging?
 - Explain the concept of style transfer GANs (ST-GANs) and how they enable artistic image synthesis.
 - How can you implement a GAN model with generative teaching networks (GTNs) in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

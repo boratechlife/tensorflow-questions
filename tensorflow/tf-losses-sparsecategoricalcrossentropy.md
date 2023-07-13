@@ -66,3 +66,17 @@ description: Practice questions for tf losses sparsecategoricalcrossentropy.
 - Write a code to calculate the sparse categorical cross-entropy loss for a set of predicted logits and corresponding labels, with L1 and L2 regularization, class imbalance correction, temperature scaling, label smoothing, custom class weights, label filtering, and sample weighting.
 - Write a code to compute the sparse categorical cross-entropy loss for a set of predicted probabilities and corresponding integer labels, with L2 regularization, class imbalance correction, temperature scaling, label smoothing, custom class weights, label filtering, sample weighting, and uncertainty weighting.
 - Write a code to calculate the sparse categorical cross-entropy loss for a given set of predictions and labels, with L1 and L2 regularization, class imbalance correction, temperature scaling, label smoothing, custom class weights, label filtering, sample weighting, and uncertainty weighting.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

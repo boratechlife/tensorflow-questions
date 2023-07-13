@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectivereducescatterv2.
 - How can you handle data skew or load imbalance issues during the reduce scatter operation with tf.raw_ops.CollectiveReduceScatterV2?
 - Write a code to perform a reduce scatter operation with custom synchronization barriers or checkpoints using tf.raw_ops.CollectiveReduceScatterV2.
 - How can you perform a reduce scatter operation with overlapping computation and communication using tf.raw_ops.CollectiveReduceScatterV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops decodecompressed.
 - Write a code to decode a compressed video file and calculate statistics using tf.raw_ops.DecodeCompressed.
 - Write a code to decode a compressed text file and calculate statistics using tf.raw_ops.DecodeCompressed.
 - Write a code to decode a compressed tensor and perform anomaly detection using tf.raw_ops.DecodeCompressed.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

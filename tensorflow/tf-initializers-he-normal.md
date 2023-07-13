@@ -66,3 +66,17 @@ description: Practice questions for tf initializers he normal.
 - Write a code to initialize a tensor of shape (3, 3, 3) using tf.initializers.he_normal with default parameters.
 - Write a code to initialize a tensor with shape (4, 4) using tf.initializers.he_normal and a scale value of 2.0.
 - Write a code to initialize a variable named "weights" using tf.initializers.he_normal and a gain value of 1.5.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

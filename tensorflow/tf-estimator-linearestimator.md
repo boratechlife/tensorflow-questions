@@ -66,3 +66,17 @@ description: Practice questions for tf estimator linearestimator.
 - Write a code to set the input_layer_partitioner parameter in a LinearEstimator.
 - Write a code to set the gradient_clip_norm parameter in a LinearEstimator.
 - Write a code to set the enable_centered_bias parameter in a LinearEstimator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

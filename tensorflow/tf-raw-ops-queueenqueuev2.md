@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops queueenqueuev2.
 - How can you specify a priority queue while enqueueing tensors with a timeout using tf.raw_ops.QueueEnqueueV2?
 - Write a code to enqueue a tensor and return the resulting queue handle after enqueueing with a timeout using tf.raw_ops.QueueEnqueueV2.
 - How can you enqueue a tensor and ensure it is non-blocking with a timeout using tf.raw_ops.QueueEnqueueV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops datasettograph.
 - Implement a code snippet to convert a TensorFlow Dataset object to a computation graph and then perform matrix factorization and ranking on the resulting graph.
 - Write a code to convert a TensorFlow Dataset into a graph using tf.raw_ops.DatasetToGraph and then perform graph-based natural language processing on the resulting graph.
 - How can you use tf.raw_ops.DatasetToGraph to convert a TensorFlow Dataset to a graph and then apply graph neural networks on the resulting graph for text classification?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

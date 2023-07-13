@@ -115,3 +115,17 @@ description: Practice questions for tf math less.
 - Write a code to compare two tensors element-wise and return a boolean tensor indicating if the first tensor is strictly not less than the second using "tf.math.less".
 - 
 - Write a code to compare a tensor with a scalar and return a boolean tensor indicating if each element in the tensor is not less than the scalar using "tf.math.less".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

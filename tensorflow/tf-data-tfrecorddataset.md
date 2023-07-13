@@ -66,3 +66,17 @@ description: Practice questions for tf data tfrecorddataset.
 - Write a code to calculate the Pearson correlation coefficient between two numerical features in a TFRecordDataset.
 - Write a code to split a TFRecordDataset into training, validation, and test sets.
 - Write a code to create a TFRecordDataset from a TensorFlow Dataset object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

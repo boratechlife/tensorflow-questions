@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops if.
 - How can you use "tf.raw_ops.If" to implement a conditional batch normalization layer in TensorFlow?
 - Write a code to conditionally compute the element-wise reciprocal of a TensorFlow tensor using "tf.raw_ops.If".
 - How can you use "tf.raw_ops.If" to implement a conditional maximum pooling layer in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

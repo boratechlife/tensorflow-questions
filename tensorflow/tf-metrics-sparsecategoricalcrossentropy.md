@@ -66,3 +66,17 @@ description: Practice questions for tf metrics sparsecategoricalcrossentropy.
 - Write a code to calculate the sparse categorical crossentropy loss for a batch of samples and apply a custom early stopping criterion.
 - Write a code to calculate the sparse categorical crossentropy loss for a batch of samples and apply a custom learning rate schedule.
 - Write a code to calculate the sparse categorical crossentropy loss for a batch of samples and apply a custom model architecture.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf metrics falsepositives.
 - Write a code to calculate the mean recall at a given threshold using tf.metrics.FalsePositives.
 - Write a code to calculate the mean F1 score at a given threshold using tf.metrics.FalsePositives.
 - Write a code to calculate the mean area under the precision-recall curve using tf.metrics.FalsePositives.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

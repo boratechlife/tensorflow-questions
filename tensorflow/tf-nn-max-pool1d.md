@@ -66,3 +66,17 @@ description: Practice questions for tf nn max pool1d.
 - Write a code to apply max pooling on a given 1D tensor with a pool size of 2 and padding set to "VALID" using tf.nn.max_pool1d.
 - Write a code to perform max pooling on a 1D tensor with a pool size of 2, stride of 1, and padding set to "SAME" using tf.nn.max_pool1d.
 - Write a code to apply max pooling on a given 1D tensor using tf.nn.max_pool1d and return the pooled output.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

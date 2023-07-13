@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchmatrixinverse.
 - Write a code to handle cases where the input tensor has a mismatched sine matrix shape when using tf.raw_ops.BatchMatrixInverse.
 - Write a code to calculate the hyperbolic cosine of the inverse matrices obtained from tf.raw_ops.BatchMatrixInverse.
 - Write a code to handle cases where the input tensor has a mismatched hyperbolic cosine matrix shape when using tf.raw_ops.BatchMatrixInverse.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

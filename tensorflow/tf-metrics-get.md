@@ -115,3 +115,17 @@ description: Practice questions for tf metrics get.
 - Write a code to retrieve the mean per class accuracy metric using "tf.metrics.get".
 - 
 - Write a code to retrieve the cohen_kappa metric using "tf.metrics.get".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

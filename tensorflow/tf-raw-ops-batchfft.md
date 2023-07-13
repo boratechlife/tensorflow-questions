@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchfft.
 - Write a code to perform signal coding using tf.raw_ops.BatchFFT.
 - Write a code to calculate the signal complexity of a batch of signals using tf.raw_ops.BatchFFT.
 - Write a code to perform signal modulation using tf.raw_ops.BatchFFT.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

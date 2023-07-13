@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fractionalavgpoolgrad.
 - Write a code to implement the backward pass for fractional average pooling using TensorFlow's FractionalAvgPoolGrad function.
 - Write a code to compute the gradients for fractional average pooling given the input and output tensors using the FractionalAvgPoolGrad operation in TensorFlow.
 - Write a code to perform fractional average pooling backward pass and compute the corresponding gradients using TensorFlow's FractionalAvgPoolGrad function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

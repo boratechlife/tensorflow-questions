@@ -66,3 +66,17 @@ description: Practice questions for tf linalg tridiagonal solve.
 - Write a code to solve a tridiagonal linear system using the CGS method.
 - Write a code to solve a tridiagonal linear system using the BiCG method.
 - Write a code to solve a tridiagonal linear system using the TFQMR method.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -115,3 +115,17 @@ description: Practice questions for tf image adjust saturation.
 - Write a code to adjust the saturation of an image using a conditional statement and a TensorFlow operation as the saturation factor using "tf.image.adjust_saturation".
 - 
 - Write a code to adjust the saturation of an image using a predefined lookup table and a dynamically calculated factor using "tf.image.adjust_saturation".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

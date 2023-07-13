@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maxpoolgrad.
 - Write a code to compute the backward gradients for a max pooling operation with a specified padding value, strides, data format, and padding mode using tf.raw_ops.MaxPoolGrad.
 - Write a code to implement the max pooling gradient calculation for a batch of images with a specified pooling window size, padding, strides, and data format using tf.raw_ops.MaxPoolGrad.
 - Write a code to calculate the gradients of a max pooling operation with a specified pooling window shape, padding, strides, data format, and data type using tf.raw_ops.MaxPoolGrad.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

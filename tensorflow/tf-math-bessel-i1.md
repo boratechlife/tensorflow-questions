@@ -66,3 +66,17 @@ description: Practice questions for tf math bessel i1.
 - Write a code to calculate the logarithm (base 2) of tf.math.bessel_i1 for a given input.
 - Write a code to calculate the logarithm (base e) of tf.math.bessel_i1 for a given input.
 - Write a code to calculate the natural logarithm (base e) of the absolute value of tf.math.bessel_i1 for a given input.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

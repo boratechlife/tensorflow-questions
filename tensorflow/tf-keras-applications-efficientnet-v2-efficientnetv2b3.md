@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnet v2 effici
 - Write a code to remove a specific layer from the EfficientNetV2B3 model.
 - Write a code to get the index of a specific layer in the EfficientNetV2B3 model.
 - Write a code to get the configuration of the EfficientNetV2B3 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

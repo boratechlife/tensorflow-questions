@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fact.
 - Write a code to calculate the factorial using the divide-and-conquer approach with tf.raw_ops.Fact.
 - Write a code to calculate the factorial using the binary splitting algorithm with tf.raw_ops.Fact.
 - Write a code to calculate the factorial using the modulo-based factorial algorithm with tf.raw_ops.Fact.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

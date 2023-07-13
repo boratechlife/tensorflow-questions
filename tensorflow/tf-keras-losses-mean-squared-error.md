@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses mean squared error.
 - Write a code to calculate the mean squared error loss for a tensor with shape (batch_size, num_classes) and targets with shape (batch_size, num_classes) using tf.keras.losses.mean_squared_error and apply element-wise scaling to the predictions (e.g., multiply each prediction by a factor of 2).
 - Write a code to calculate the mean squared error loss for a tensor with shape (batch_size, num_classes) and targets with shape (batch_size, num_classes) using tf.keras.losses.mean_squared_error and use a custom loss weight for each class.
 - Write a code to calculate the mean squared error loss for a tensor with shape (batch_size, num_classes) and targets with shape (batch_size, num_classes) using tf.keras.losses.mean_squared_error and apply a penalty term for predictions that are too close to zero or one (e.g., use a hinge loss-like approach).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

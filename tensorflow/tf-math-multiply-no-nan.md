@@ -66,3 +66,17 @@ description: Practice questions for tf math multiply no nan.
 - Write a code to multiply two matrices and replace inf values with a default value using tf.math.multiply_no_nan.
 - Write a code to multiply an array and a matrix and replace inf values with a default value using tf.math.multiply_no_nan.
 - Write a code to multiply two multidimensional arrays and replace inf values with a default value using tf.math.multiply_no_nan.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

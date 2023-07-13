@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops const.
 - Create a constant tensor with a single value of 0.99 using tf.raw_ops.Const.
 - How can you define a constant tensor with the value "Deep Learning" using tf.raw_ops.Const?
 - Write a code to create a TensorFlow constant tensor of shape (3, 2) with random values from a normal distribution with mean 0 and standard deviation 1.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

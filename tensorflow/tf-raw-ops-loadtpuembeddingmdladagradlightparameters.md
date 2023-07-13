@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loadtpuembeddingmdladagradlightpa
 - What is the significance of the colocate_with_ops parameter in the tf.raw_ops.LoadTPUEmbeddingMDLAdagradLightParameters operation?
 - Implement a code snippet to load TPUEmbeddingMDLAdagradLightParameters and perform quantization on the loaded parameters.
 - Write a code to load TPUEmbeddingMDLAdagradLightParameters and calculate the Frobenius norm of the loaded parameters.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

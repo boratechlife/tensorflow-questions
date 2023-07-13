@@ -66,3 +66,17 @@ description: Practice questions for tf metrics categoricalaccuracy.
 - Write a code to calculate the categorical accuracy with uncertainty estimation using tf.metrics.CategoricalAccuracy.
 - Write a code to calculate the categorical accuracy with label embeddings using tf.metrics.CategoricalAccuracy.
 - Write a code to calculate the categorical accuracy with dynamic thresholds using tf.metrics.CategoricalAccuracy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

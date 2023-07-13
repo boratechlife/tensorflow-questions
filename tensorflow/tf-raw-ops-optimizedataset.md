@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops optimizedataset.
 - What are the implications of using tf.raw_ops.OptimizeDataset on privacy or data security?
 - How can you apply tf.raw_ops.OptimizeDataset to handle temporal dependencies in sequential data?
 - Can you provide a code snippet that demonstrates how to use tf.raw_ops.OptimizeDataset for text classification tasks?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

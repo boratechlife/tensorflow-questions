@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cachedatasetv2.
 - Write a code to calculate the element-wise minimum of two CacheDatasetV2 objects.
 - Write a code to calculate the element-wise cumulative sum of a CacheDatasetV2 object.
 - Write a code to calculate the element-wise cumulative product of a CacheDatasetV2 object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

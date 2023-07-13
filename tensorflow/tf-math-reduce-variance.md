@@ -66,3 +66,17 @@ description: Practice questions for tf math reduce variance.
 - Write a code to calculate the variance of a tensor and calculate the variance of each column using tf.math.reduce_variance.
 - Write a code to calculate the variance of a tensor and compute the correlation between two tensors using tf.math.reduce_variance.
 - Write a code to calculate the variance of a tensor and compute the covariance between two tensors using tf.math.reduce_variance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

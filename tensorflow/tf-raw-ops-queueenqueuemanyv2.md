@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops queueenqueuemanyv2.
 - Write a code to enqueue a batch of tensors with different data types using tf.raw_ops.QueueEnqueueManyV2.
 - How can you enqueue elements in a round-robin fashion to multiple queues using tf.raw_ops.QueueEnqueueManyV2?
 - Can you enqueue tensors with values from a normal distribution using tf.raw_ops.QueueEnqueueManyV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

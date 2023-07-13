@@ -66,3 +66,17 @@ description: Practice questions for tf nn space to depth.
 - Write a code to convert the spatial dimensions of a tensor using tf.nn.space_to_depth and then perform a subsequent element-wise sigmoid activation.
 - Write a code to apply tf.nn.space_to_depth to a tensor and calculate the ReLU activation for the resulting tensor.
 - Write a code to convert the spatial dimensions of a tensor using tf.nn.space_to_depth and then perform a subsequent element-wise tanh activation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

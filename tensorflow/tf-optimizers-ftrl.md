@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers ftrl.
 - Write a code to compute the gradients using the Ftrl optimizer with custom parameters.
 - Write a code to update the weights of a model using the Ftrl optimizer with custom parameters.
 - Write a code to get the current parameters of the Ftrl optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

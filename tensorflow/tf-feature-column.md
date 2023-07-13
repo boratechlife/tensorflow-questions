@@ -66,3 +66,17 @@ description: Practice questions for tf feature column.
 - Write a code to create an input function for training a model using tf.feature_column and tf.data.Dataset.
 - Write a code to train a linear model using feature columns and an input function.
 - Write a code to train a deep learning model using feature columns and an input function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

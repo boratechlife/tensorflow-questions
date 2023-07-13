@@ -66,3 +66,17 @@ description: Practice questions for tf math reduce max.
 - Write a code to find the maximum value in a tensor and calculate its element-wise maximum with another tensor using tf.math.reduce_max.
 - Write a code to find the maximum value in a tensor and calculate its element-wise cumulative sum using tf.math.reduce_max.
 - Write a code to find the maximum value in a tensor and calculate its element-wise cumulative product using tf.math.reduce_max.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

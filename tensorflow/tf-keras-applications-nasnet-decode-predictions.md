@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications nasnet decode predicti
 - Write a code to plot the precision-recall curve for the predictions from a saved model.
 - Write a code to compare the performance of multiple saved models using evaluation metrics.
 - Write a code to perform hyperparameter tuning for the NASNet model using grid search.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

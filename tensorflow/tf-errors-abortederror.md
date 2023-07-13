@@ -66,3 +66,17 @@ description: Practice questions for tf errors abortederror.
 - Write a code to handle a "tf.errors.AbortedError" by reinitializing TensorFlow variables and restarting the computation.
 - Write a code to handle a "tf.errors.AbortedError" by logging the error details and taking a core dump for debugging.
 - Write a code to handle a "tf.errors.AbortedError" by notifying a support team and requesting assistance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

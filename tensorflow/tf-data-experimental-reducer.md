@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental reducer.
 - Write a code to create a reducer that calculates the reciprocal rank at k of a ranking dataset.
 - Write a code to implement a reducer that calculates the mean average precision at k of a ranking dataset.
 - Write a code to create a reducer that calculates the normalized discounted cumulative gain at k of a ranking dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

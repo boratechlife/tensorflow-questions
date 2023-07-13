@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to disable autograph control flow optimization in TensorFlow.
 - Write a code to check if autograph control flow optimization is enabled in TensorFlow.
 - Write a code to enable autograph specialization in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

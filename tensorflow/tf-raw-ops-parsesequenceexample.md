@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you handle sparse feature sequences when parsing a sequence example with tf.raw_ops.ParseSequenceExample?
 - Write a code to parse a sequence example and handle feature sequence types using tf.raw_ops.ParseSequenceExample.
 - How can you handle feature sequence representations when parsing a sequence example with tf.raw_ops.ParseSequenceExample?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

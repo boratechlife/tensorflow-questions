@@ -61,3 +61,17 @@ thumbnailSource: "stef"
 - Write a code to concatenate tensors from multiple sources with different shapes and sizes and select elements using tf.raw_ops.ParallelDynamicStitch in TensorFlow.
 - Write a code to combine tensors with different dimensions from multiple sources with a conditional mask and select elements using tf.raw_ops.ParallelDynamicStitch.
 - Write a code to merge tensors with varying ranks from different sources based on a boolean mask and select elements using tf.raw_ops.ParallelDynamicStitch operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

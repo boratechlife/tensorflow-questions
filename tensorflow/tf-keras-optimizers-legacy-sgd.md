@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers legacy sgd.
 - Write a code to apply the gradients to a model's trainable variables using the SGD optimizer with a decayed learning rate.
 - Write a code to apply the gradients to a model's trainable variables using the SGD optimizer with a learning rate schedule.
 - Write a code to apply the gradients to a model's trainable variables using the SGD optimizer with a learning rate decay and momentum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf queue fifoqueue.
 - Write a code to remove elements from a FIFOQueue based on a specific condition.
 - Write a code to find the range of elements in a FIFOQueue (the difference between the maximum and minimum element).
 - Write a code to shuffle the elements of a FIFOQueue randomly.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

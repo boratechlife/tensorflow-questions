@@ -66,3 +66,17 @@ description: Practice questions for tf linalg tensordot.
 - Write a code to calculate the tensor dot product of tensors with axes specified as a mix of positive integers, negative integers, zero, strings, out-of-bounds values, and non-existent axes using tf.linalg.tensordot.
 - Write a code to calculate the tensor dot product of tensors with axes specified using a combination of slicing and indexing using tf.linalg.tensordot.
 - Write a code to calculate the tensor dot product of tensors with axes specified using a combination of advanced indexing and slicing using tf.linalg.tensordot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

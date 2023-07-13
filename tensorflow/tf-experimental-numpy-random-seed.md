@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy random seed.
 - Write a code to generate a random time within a specified range using TensorFlow's NumPy random generator.
 - Write a code to generate a random datetime within a specified range using TensorFlow's NumPy random generator.
 - Write a code to generate a random GUID (Globally Unique Identifier) using TensorFlow's NumPy random generator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

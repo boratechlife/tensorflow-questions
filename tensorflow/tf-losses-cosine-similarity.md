@@ -66,3 +66,17 @@ description: Practice questions for tf losses cosine similarity.
 - Write a code to calculate the cosine similarity between two tensors and handle model fairness using tf.losses.cosine_similarity.
 - Write a code to calculate the cosine similarity between two tensors and handle model robustness using tf.losses.cosine_similarity.
 - Write a code to calculate the cosine similarity between two tensors and handle model scalability using tf.losses.cosine_similarity.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

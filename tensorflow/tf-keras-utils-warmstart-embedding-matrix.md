@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils warmstart embedding matrix.
 - Write a code to train a RoBERTa model using a warm-started embedding matrix.
 - Write a code to train a ALBERT model using a warm-started embedding matrix.
 - Write a code to train a T5 model using a warm-started embedding matrix.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

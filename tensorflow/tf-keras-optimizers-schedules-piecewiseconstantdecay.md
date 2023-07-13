@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers schedules piecewiseconst
 - Write a code to calculate the learning rate at a specific iteration using the piecewise constant decay schedule and a warm-up period.
 - Write a code to update the decay rates of the piecewise constant decay schedule.
 - Write a code to obtain the current learning rate from an optimizer that uses the piecewise constant decay schedule at a specific time step.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

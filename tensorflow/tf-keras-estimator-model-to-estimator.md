@@ -66,3 +66,17 @@ description: Practice questions for tf keras estimator model to estimator.
 - Write a code to convert a Keras model to an Estimator and enable or disable saving checkpoints every N hours.
 - Write a code to convert a Keras model to an Estimator and specify the export format.
 - Write a code to convert a Keras model to an Estimator and enable or disable using TPUs for training.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

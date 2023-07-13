@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental get memory growth.
 - Write a code to set memory growth to a specific value on multiple GPU devices specified by a list of indices.
 - Write a code to enable memory growth on GPU devices with even indices.
 - Write a code to disable memory growth on GPU devices with even indices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf estimator experimental stop if no decreas
 - Write a code to set the export_strategies parameter of StopIfNoDecreaseHook.
 - Write a code to set the export_best_model parameter of StopIfNoDecreaseHook.
 - Write a code to set the best_model_exporter parameter of StopIfNoDecreaseHook.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

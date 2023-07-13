@@ -66,3 +66,17 @@ description: Practice questions for tf nn isotonic regression.
 - Write a code to apply isotonic regression on a dataset with ordinal features.
 - Write a code to apply isotonic regression with different random seed values.
 - Write a code to apply isotonic regression on a dataset with heteroscedasticity.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

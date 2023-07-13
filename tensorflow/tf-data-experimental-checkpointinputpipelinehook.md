@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental checkpointinputpipeline
 - Write a code to set the ignore_live_checkpoint parameter for a CheckpointInputPipelineHook.
 - Write a code to set the max_wait_secs_per_checkpoint parameter for a CheckpointInputPipelineHook.
 - Write a code to set the restore_listener_fn parameter for a CheckpointInputPipelineHook.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

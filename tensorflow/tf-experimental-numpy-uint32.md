@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy uint32.
 - Write a code to find the indices of non-zero elements in a tf.experimental.numpy.uint32 array a.
 - Write a code to calculate the element-wise absolute difference between two tf.experimental.numpy.uint32 arrays, a and b.
 - Write a code to calculate the element-wise absolute maximum between two tf.experimental.numpy.uint32 arrays, a and b.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

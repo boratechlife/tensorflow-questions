@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy nanmean.
 - Write a code to calculate the nanmean of a 1D array with NaN values, masked values, a specific dtype, and ignoring NaN values using tf.experimental.numpy.nanmean.
 - Write a code to calculate the nanmean of a 4D array with missing values, NaN values, and a specific dtype along multiple axes using tf.experimental.numpy.nanmean.
 - Write a code to calculate the nanmean of a 2D array with masked values, NaN values, a specific dtype, and ignoring NaN values using tf.experimental.numpy.nanmean.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

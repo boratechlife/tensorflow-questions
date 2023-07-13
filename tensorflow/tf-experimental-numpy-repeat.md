@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy repeat.
 - Create a function that takes a specific section of a TensorFlow tensor and repeats it n times.
 - Create a function that takes a TensorFlow variable and repeats each element n times.
 - Create a function that takes a 2D TensorFlow variable and repeats each row n times.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

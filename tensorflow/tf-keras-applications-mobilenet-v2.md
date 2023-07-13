@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications mobilenet v2.
 - Write a code to set the optimizer for training the MobileNetV2 model.
 - Write a code to set the weight initialization method for the MobileNetV2 model.
 - Write a code to set the dropout rate for the MobileNetV2 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

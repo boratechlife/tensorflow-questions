@@ -66,3 +66,17 @@ description: Practice questions for tf math expm1.
 - Write a code to calculate the exponential minus one for each element in a given TensorFlow RaggedTensor tensor and print the results.
 - Write a code to calculate the exponential minus one for each element in a given TensorFlow SparseTensorValue tensor and print the results.
 - Write a code to calculate the exponential minus one for each element in a given TensorFlow RaggedTensorValue tensor and print the results.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers avgpool2d.
 - Write a code to create a custom CNN model and add a 2D average pooling layer with a pool size of (3, 3), stride (2, 2), and padding set to 'valid' using functional API.
 - Write a code to retrieve the output shape of a 2D average pooling layer with a pool size of (2, 2) added to a sequential model using functional API.
 - Write a code to retrieve the output shape of a 2D average pooling layer with a pool size of (3, 3) and stride (2, 2) added to a sequential model using functional API.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

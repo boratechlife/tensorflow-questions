@@ -66,3 +66,17 @@ description: Practice questions for tf metrics mape.
 - Write a code to calculate the MAPE for a model's predictions and ground truth performance.
 - Write a code to calculate the MAPE for a model's predictions and performance outcomes.
 - Write a code to calculate the MAPE for a model's predictions and evaluation outcomes.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

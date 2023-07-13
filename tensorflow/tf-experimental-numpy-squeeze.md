@@ -115,3 +115,17 @@ description: Practice questions for tf experimental numpy squeeze.
 - Write a code to remove all single-dimensional entries from a given array with shape (1, 2) using tf.experimental.numpy.squeeze.
 - 
 - Write a code to squeeze a 3D array along the third axis using tf.experimental.numpy.squeeze.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

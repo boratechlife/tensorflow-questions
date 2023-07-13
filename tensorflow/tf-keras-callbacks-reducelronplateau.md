@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks reducelronplateau.
 - Implement a code to specify a different cooldown period for each metric individually.
 - Write a code to specify a different cooldown period for each metric when using the ReduceLROnPlateau callback.
 - How can you specify a different cooldown period for each metric when using the ReduceLROnPlateau callback?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

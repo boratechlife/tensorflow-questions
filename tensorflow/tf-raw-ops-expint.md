@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops expint.
 - Write a code to find the median exponential integral value for a list of inputs using the tf.raw_ops.Expint function.
 - Write a code to calculate the exponential integral value for a given input using the tf.raw_ops.Expint function with a specified precision.
 - Write a code to calculate the exponential integral value for a list of inputs using the tf.raw_ops.Expint function with a specified precision.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf quantization.
 - Write a code to evaluate the performance of a quantized TensorFlow model on a cloud-based server.
 - Write a code to optimize the energy efficiency of a quantized TensorFlow model on a resource-constrained device.
 - Write a code to apply quantization to the gradients during the fine-tuning of a TensorFlow model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

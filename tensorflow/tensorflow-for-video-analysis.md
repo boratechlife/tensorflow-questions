@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are the challenges of working with multi-view video data in TensorFlow, and how can they be addressed?
 - Explain the concept of 3D pose estimation in videos and its implementation using TensorFlow.
 - How can you evaluate the accuracy of a 3D pose estimation model using TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

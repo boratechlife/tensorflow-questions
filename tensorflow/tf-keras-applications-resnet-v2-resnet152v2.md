@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet v2 resnet152v2.
 - Write a code to get the gradient of a specific layer's output with respect to the input for a given input.
 - Write a code to set the class weights for training the ResNet152V2 model.
 - Write a code to use transfer learning with the ResNet152V2 model on a new task.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

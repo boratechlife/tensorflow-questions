@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fusedresizeandpadconv2d.
 - How can you specify the data layout for the input tensor in FusedResizeAndPadConv2D?
 - Implement a code to resize and pad an input tensor using FusedResizeAndPadConv2D and then apply a 3x3 transposed depthwise convolution.
 - Write a code to resize and pad an image using FusedResizeAndPadConv2D and then apply a 3x3 average pooling operation with padding.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

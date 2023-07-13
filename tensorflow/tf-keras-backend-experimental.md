@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend experimental.
 - Write a code to calculate the F1 score of a classification model using the experimental module.
 - Write a code to save a tensor to a file using the experimental module.
 - Write a code to load a tensor from a file using the experimental module.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

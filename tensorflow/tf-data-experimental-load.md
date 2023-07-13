@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental load.
 - Write a code to load a dataset with reducing a dataset with bucketed batched mapping logic using "tf.data.experimental.load".
 - Write a code to load a dataset with reducing a dataset with sharded mapping logic using "tf.data.experimental.load".
 - Write a code to load a dataset with reducing a dataset with skipped mapping logic using "tf.data.experimental.load".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

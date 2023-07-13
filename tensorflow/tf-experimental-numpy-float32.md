@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy float32.
 - Write a code to calculate the element-wise base 2 logarithm of a tf.experimental.numpy.float32 array.
 - Write a code to calculate the element-wise arctangent of a tf.experimental.numpy.float32 array.
 - Write a code to calculate the element-wise arctangent of two tf.experimental.numpy.float32 arrays using the arctan2 function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

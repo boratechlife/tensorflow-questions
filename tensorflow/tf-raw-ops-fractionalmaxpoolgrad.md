@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fractionalmaxpoolgrad.
 - Write a code to use tf.raw_ops.FractionalMaxPoolGrad to compute the gradients of a fractional max pooling layer accurately.
 - Write a code to perform fractional max pooling and calculate the gradients using tf.raw_ops.FractionalMaxPoolGrad.
 - Write a code to backpropagate gradients through a fractional max pooling operation using tf.raw_ops.FractionalMaxPoolGrad.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

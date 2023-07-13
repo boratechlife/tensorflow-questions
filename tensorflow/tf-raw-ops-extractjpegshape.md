@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops extractjpegshape.
 - Implement a script to extract the shape of a JPEG image and perform image compression using tf.raw_ops.ExtractJpegShape.
 - Write a code to determine the file size of a batch of JPEG images in gigabytes using tf.raw_ops.ExtractJpegShape.
 - How can you calculate the average file size of a dataset of JPEG images using tf.raw_ops.ExtractJpegShape?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

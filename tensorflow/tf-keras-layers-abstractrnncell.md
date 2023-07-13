@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers abstractrnncell.
 - Write a code to create a custom RNN cell with a specific metrics flag.
 - Write a code to create a custom RNN cell with a specific inputs flag.
 - Write a code to create a custom RNN cell with a specific outputs flag.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

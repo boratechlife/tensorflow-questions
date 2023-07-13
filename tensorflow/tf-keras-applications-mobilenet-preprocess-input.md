@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications mobilenet preprocess i
 - Write a code to apply the MobileNet preprocessing to a batch of images and apply a specific image augmentation technique.
 - Write a code to apply the MobileNet preprocessing to an image and apply multiple image augmentation techniques.
 - Write a code to apply the MobileNet preprocessing to a batch of images and apply multiple image augmentation techniques.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

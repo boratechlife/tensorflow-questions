@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy multiply.
 - Write a code to multiply the elements of two arrays and calculate the trace of the resulting matrix using tf.experimental.numpy.multiply.
 - Write a code to multiply the elements of two arrays and find the inverse of the resulting matrix using tf.experimental.numpy.multiply.
 - Write a code to multiply the elements of two arrays and calculate the rank of the resulting matrix using tf.experimental.numpy.multiply.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

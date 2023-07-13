@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers randomwidth.
 - Write a code to create a random width layer and apply global average pooling to it using tf.keras.layers.GlobalAveragePooling1D.
 - Write a code to create a random width layer and apply 1D convolution to it using tf.keras.layers.Conv1D.
 - Write a code to create a random width layer and apply 1D pooling to it using tf.keras.layers.MaxPooling1D.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

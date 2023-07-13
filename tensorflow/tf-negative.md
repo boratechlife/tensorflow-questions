@@ -66,3 +66,17 @@ description: Practice questions for tf negative.
 - Write a code to negate the elements of a TensorFlow tensor and calculate their element-wise powers using tf.negative.
 - Write a code to negate the elements of a TensorFlow tensor and calculate their element-wise modulo values using tf.negative.
 - Write a code to negate the elements of a TensorFlow tensor and calculate their element-wise bitwise XOR values using tf.negative.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

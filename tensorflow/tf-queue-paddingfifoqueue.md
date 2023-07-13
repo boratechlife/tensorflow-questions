@@ -66,3 +66,17 @@ description: Practice questions for tf queue paddingfifoqueue.
 - Write a code to create a PaddingFIFOQueue with a specified capacity, shape, and timeout.
 - Write a code to enqueue a tensor with a specific shape and timeout into a PaddingFIFOQueue.
 - Write a code to dequeue an element with a specific shape and timeout from a PaddingFIFOQueue.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

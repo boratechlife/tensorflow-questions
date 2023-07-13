@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops privatethreadpooldataset.
 - How can you implement a variational autoencoder (VAE) using a PrivateThreadPoolDataset?
 - Write a code to perform graph embedding using a PrivateThreadPoolDataset.
 - How can you implement a reinforcement learning algorithm using a PrivateThreadPoolDataset?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cudnnrnnbackprop.
 - How can you optimize the backpropagation step in a GRU using tf.raw_ops.CudnnRNNBackprop?
 - Write a code to compute the gradients of a GRU model with respect to its parameters using tf.raw_ops.CudnnRNNBackprop.
 - How can you efficiently compute the gradients of a GRU model using tf.raw_ops.CudnnRNNBackprop in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

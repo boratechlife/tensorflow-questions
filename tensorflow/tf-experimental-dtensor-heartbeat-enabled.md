@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor heartbeat enabled.
 - Write a code to toggle the heartbeat feature and log the updated status with a timestamp in TensorFlow's dtensor module.
 - Write a code to set the heartbeat interval and log the updated interval with a timestamp in TensorFlow's dtensor module.
 - Write a code to set the heartbeat timeout and log the updated timeout with a timestamp in TensorFlow's dtensor module.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

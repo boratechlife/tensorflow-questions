@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy full.
 - Write a code to create a NumPy array of shape (4, 4) filled with values from a specific iterable in a row-wise pattern using tf.experimental.numpy.full.
 - Write a code to create a NumPy array of shape (2, 2) filled with random values drawn from a normal distribution with a specific mean and standard deviation in a row-wise pattern using tf.experimental.numpy.full.
 - Write a code to create a NumPy array of shape (3, 3) filled with random values drawn from a uniform distribution within a specific range in a row-wise pattern using tf.experimental.numpy.full.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

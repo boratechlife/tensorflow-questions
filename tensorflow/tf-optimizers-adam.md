@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers adam.
 - Write a code to create a callback function that logs the gradients of the Adam optimizer at a specified interval.
 - Write a code to create a callback function that saves the state of the Adam optimizer at a specified interval.
 - Write a code to create a callback function that applies gradient clipping to the gradients of the Adam optimizer at a specified interval.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

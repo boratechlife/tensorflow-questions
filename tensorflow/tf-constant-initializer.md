@@ -66,3 +66,17 @@ description: Practice questions for tf constant initializer.
 - Write a code to initialize a constant tensor using tf.constant_initializer with a shape of (3, 3) and a value of [[1, 2, 3], [4, 5, 6], [7, 8, 9]].
 - Write a code to initialize a constant tensor using tf.constant_initializer with a shape of (2, 2) and a value of [[1, 2], [3, 4]].
 - Write a code to initialize a constant tensor using tf.constant_initializer with a shape of (3, 3, 3) and a value of [[[1, 2, 3], [4, 5, 6], [7, 8, 9]], [[10, 11, 12], [13, 14, 15], [16, 17, 18]], [[19, 20, 21], [22, 23, 24], [25, 26, 27]]].
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

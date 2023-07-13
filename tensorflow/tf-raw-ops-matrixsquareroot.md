@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops matrixsquareroot.
 - Write a code to compute the matrix left shift using tf.raw_ops.MatrixSquareRoot.
 - Write a code to calculate the matrix right shift using TensorFlow's tf.raw_ops.MatrixSquareRoot.
 - Write a code to compute the matrix element-wise maximum using tf.raw_ops.MatrixSquareRoot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

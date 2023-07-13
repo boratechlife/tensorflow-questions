@@ -66,3 +66,17 @@ description: Practice questions for tf random shuffle.
 - Write a code to shuffle the elements of a list of tensors using tf.random.shuffle.
 - Write a code to shuffle the elements of a list of arrays using tf.random.shuffle.
 - Write a code to shuffle the elements of a list of datasets using tf.random.shuffle.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

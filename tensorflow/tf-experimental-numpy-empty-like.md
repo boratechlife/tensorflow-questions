@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy empty like.
 - Write a code to create an empty array with the same shape and data type as a given input array, but with a different endianness, size, stride, layout, memory order, byte order, endianness, layout, memory order, byte order, endianness, layout, memory order, layout, byte order, endianness, layout, memory order, layout, memory order, layout, memory order, layout, and memory order using tf.experimental.numpy.empty_like.
 - Write a code to create an empty array with the same shape and data type as a given input array, but with a different memory layout, order, byte order, endianness, size, stride, layout, memory order, byte order, endianness, layout, memory order, layout, byte order, endianness, layout, memory order, layout, memory order, layout, memory order, layout, and memory order using tf.experimental.numpy.empty_like.
 - Write a code to create an empty array with the same shape and data type as a given input array, but with a different layout, byte order, memory order, size, stride, layout, endianness, layout, memory order, byte order, endianness, layout, memory order, layout, byte order, endianness, layout, memory order, layout, memory order, layout, memory order, layout, and memory order using tf.experimental.numpy.empty_like.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

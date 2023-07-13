@@ -66,3 +66,17 @@ description: Practice questions for tf nn fractional avg pool.
 - How can you perform fractional average pooling on a tensor with TensorFlow and specify a data format (channels first or channels last)?
 - Write a code to perform fractional average pooling on a tensor with TensorFlow and specify a pool size and stride for each dimension.
 - How can you apply fractional average pooling on a batch of images with TensorFlow and handle different dilation rates for each image?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

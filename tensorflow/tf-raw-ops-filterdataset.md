@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops filterdataset.
 - Implement a code to filter a dataset and retain elements that contain specific values in multiple columns using tf.raw_ops.FilterDataset.
 - Write a code to filter a dataset and keep elements that satisfy a certain condition in a sequence using tf.raw_ops.FilterDataset.
 - How can you use tf.raw_ops.FilterDataset to create a dataset that excludes elements based on their audio duration?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

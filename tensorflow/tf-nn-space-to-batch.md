@@ -66,3 +66,17 @@ description: Practice questions for tf nn space to batch.
 - How can you handle non-uniform block sizes, asymmetric padding, and non-uniform padding value using "tf.nn.space_to_batch"?
 - Write a code to perform inverse transformation (batch-to-space) using "tf.nn.space_to_batch" and "tf.nn.batch_to_space" functions on a 3D tensor with padding.
 - How can you specify the padding type, value, block sizes, and asymmetric padding when using "tf.nn.space_to_batch" function?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

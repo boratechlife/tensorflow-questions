@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers hashing.
 - Write a code to create a Hashing layer and set the supports mixed precision inference flag.
 - Write a code to create a Hashing layer and set the supports extended Python list flag.
 - Write a code to create a Hashing layer and set the supports performance optimization flag.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

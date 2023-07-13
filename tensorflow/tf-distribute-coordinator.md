@@ -66,3 +66,17 @@ description: Practice questions for tf distribute coordinator.
 - Write a code to create a tf.train.Coordinator and use it to coordinate the execution of multiple TensorFlow computations.
 - Write a code to create a tf.train.Coordinator and use it to coordinate the execution of multiple TensorFlow models.
 - Write a code to create a tf.train.Coordinator and use it to coordinate the execution of multiple TensorFlow training loops.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

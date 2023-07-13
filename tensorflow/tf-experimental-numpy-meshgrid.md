@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy meshgrid.
 - Write a code to create a meshgrid using tf.experimental.numpy.meshgrid for two 1D arrays, a 2D array, and a 3D array.
 - Write a code to create a meshgrid using tf.experimental.numpy.meshgrid for a scalar value and three 1D arrays.
 - Write a code to create a meshgrid using tf.experimental.numpy.meshgrid for two 1D arrays, a scalar value, and a 3D array.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

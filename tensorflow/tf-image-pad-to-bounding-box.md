@@ -66,3 +66,17 @@ description: Practice questions for tf image pad to bounding box.
 - How can you pad an image with a specific target height and width while cropping and keeping the image centered horizontally using tf.image.pad_to_bounding_box?
 - Write a code to pad an image to a specific bounding box size while cropping and preserving the top-right region of the image.
 - How can you pad an image to a specific bounding box size while cropping and preserving the bottom-left region of the image using tf.image.pad_to_bounding_box?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

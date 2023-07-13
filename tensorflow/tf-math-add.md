@@ -66,3 +66,17 @@ description: Practice questions for tf math add.
 - Write a code to add two tensors and reduce the result along all axes using "tf.math.add" with keepdims=False.
 - Write a code to add two tensors of different shapes and reduce the result along all axes using "tf.math.add" with keepdims=True.
 - Write a code to add two tensors of different shapes and reduce the result along all axes using "tf.math.add" with keepdims=False.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

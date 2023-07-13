@@ -66,3 +66,17 @@ description: Practice questions for tf estimator experimental linearsdca.
 - Write a code to set the maximum number of class ids for a LinearSDCA estimator.
 - Write a code to set the maximum number of non-zero coefficients for a LinearSDCA estimator.
 - Write a code to set the use exclusive class ids flag for a LinearSDCA estimator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

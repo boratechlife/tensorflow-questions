@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers activityregularization.
 - Write a code to create a neural network model with an ActivityRegularization layer and use it for transfer learning on a new task.
 - Write a code to create a neural network model with an ActivityRegularization layer and apply L1 regularization to the model's weights.
 - Write a code to create a neural network model with an ActivityRegularization layer and visualize the model's architecture using a graph.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

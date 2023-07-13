@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy logical or.
 - Write a code to perform a logical OR operation on two arrays and return the result as a masked array with a specified mask and fill value, along a subset of axes, and ignore a subset of axes, and keepdims=False, and out parameter provided, with a specified dtype, and a specified order, a specified casting rule, and a specified subok parameter.
 - Write a code to perform a logical OR operation on two arrays and return the result as a masked array with a specified mask and fill value, along a subset of axes, and ignore a subset of axes, and keepdims=False, and out parameter provided, with a specified dtype, and a specified order, a specified casting rule, a specified subok parameter, and a specified signature.
 - Write a code to perform a logical OR operation on two arrays and return the result as a masked array with a specified mask and fill value, along a subset of axes, and ignore a subset of axes, and keepdims=False, and out parameter provided, with a specified dtype, and a specified order, a specified casting rule, a specified subok parameter, a specified signature, and a specified extobj parameter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

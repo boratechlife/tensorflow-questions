@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedownandshrinkrange.
 - Implement a TensorFlow operation that quantizes a tensor down and shrinks its range using tf.raw_ops.QuantizeDownAndShrinkRange, while specifying the range of each quantization level.
 - How can you specify the name for the gradient function of tf.raw_ops.QuantizeDownAndShrinkRange? Provide a code example.
 - Write a code snippet to demonstrate how to quantize a tensor down and shrink its range, and assign a custom name to the gradient function using tf.raw_ops.QuantizeDownAndShrinkRange.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

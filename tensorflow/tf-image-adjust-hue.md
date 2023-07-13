@@ -66,3 +66,17 @@ description: Practice questions for tf image adjust hue.
 - Write a code to adjust the hue of an image using a lookup table based on a self-organizing map.
 - Write a code to adjust the hue of an image using a lookup table based on a principal component analysis.
 - Write a code to adjust the hue of an image using a lookup table based on a singular value decomposition.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

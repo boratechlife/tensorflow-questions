@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops encodejpeg.
 - How can you extract the EXIF metadata from a JPEG image using tf.raw_ops.DecodeJpeg?
 - Write a code to decode and display a JPEG image using tf.raw_ops.DecodeJpeg.
 - How can you adjust the brightness and contrast of a decoded JPEG image using tf.raw_ops.DecodeJpeg?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

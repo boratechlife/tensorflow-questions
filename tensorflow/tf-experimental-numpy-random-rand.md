@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy random rand.
 - Write a code to generate a random tensor of shape (2, 3, 4) between -1 and 1 using tf.experimental.numpy.random.rand and check if all elements are negative.
 - Write a code to generate a random scalar between 0 and 1 using tf.experimental.numpy.random.rand and calculate its logarithm to the base 10.
 - Write a code to generate a random vector of size 5 between 0 and 1 using tf.experimental.numpy.random.rand and calculate the exponential value of each element.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

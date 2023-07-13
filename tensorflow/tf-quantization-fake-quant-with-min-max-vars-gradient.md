@@ -66,3 +66,17 @@ description: Practice questions for tf quantization fake quant with min max vars
 - Write a code to calculate the gradients of the adaptive bit-width quantization in "tf.quantization.fake_quant_with_min_max_vars_gradient".
 - Write a code to apply "tf.quantization.fake_quant_with_min_max_vars_gradient" operation to a tensor with logarithmic quantization ranges.
 - Write a code to calculate the gradients of the logarithmic quantization ranges in "tf.quantization.fake_quant_with_min_max_vars_gradient".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

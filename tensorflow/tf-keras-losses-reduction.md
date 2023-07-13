@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses reduction.
 - Write a code to apply a reduction type of none with label smoothing to a loss tensor using a tf.keras.losses.Reduction object.
 - Write a code to apply a reduction type of sum_over_batch_size with label smoothing to a loss tensor using a tf.keras.losses.Reduction object.
 - Write a code to apply a reduction type of sum_over_batch_and_time with label smoothing to a loss tensor using a tf.keras.losses.Reduction object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

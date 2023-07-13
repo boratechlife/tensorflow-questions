@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental rpc client.
 - Write a code to create a remote summary writer reference using tf.distribute.experimental.rpc.RPCSummaryWriterReference.
 - Write a code to write a summary to a remote summary writer using tf.distribute.experimental.rpc.RPCSummaryWriterReference.write_summary.
 - Write a code to close a remote summary writer using tf.distribute.experimental.rpc.RPCSummaryWriterReference.close.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

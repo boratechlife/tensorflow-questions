@@ -66,3 +66,17 @@ description: Practice questions for tf indexedslices.
 - Write a code to calculate the element-wise greater than or equal to comparison between two tf.IndexedSlices objects.
 - Write a code to calculate the element-wise less than or equal to comparison between two tf.IndexedSlices objects.
 - Write a code to print the values and indices of a tf.IndexedSlices object
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

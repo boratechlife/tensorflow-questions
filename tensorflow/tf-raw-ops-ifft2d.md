@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops ifft2d.
 - Write a code to calculate the inverse fast Fourier transform of a batch of 2D tensors with a specified output shape, zero-padding, a given shape, a given axis, and a given rank using tf.raw_ops.IFFT2D.
 - Write a code to perform an inverse Fourier transform on a real-valued tensor with zero-padding, a given shape, a specified output shape, a given axis, and a given rank using tf.raw_ops.IFFT2D.
 - Write a code to apply tf.raw_ops.IFFT2D on a batch of 2D tensors with a given shape, zero-padding, a specified output shape, a given shape, a given axis, and a given rank.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

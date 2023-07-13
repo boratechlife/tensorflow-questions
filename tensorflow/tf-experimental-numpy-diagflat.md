@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy diagflat.
 - Write a code to create a diagonal matrix from a given 2D array by taking the elements along a specific hyperplane.
 - Write a code to create a diagonal matrix by taking the diagonal elements from a range of numbers.
 - Write a code to create a diagonal matrix with a specific diagonal pattern using a single range object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

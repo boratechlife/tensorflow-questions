@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loopcond.
 - Write a code to define a TensorFlow graph that uses tf.raw_ops.LoopCond to create a loop with a condition based on the rank of a tensor.
 - Write a code to implement a loop in TensorFlow that computes the maximum value in a sequence of tensors using tf.raw_ops.LoopCond.
 - Write a code to create a TensorFlow loop using tf.raw_ops.LoopCond and iterate over a time series dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

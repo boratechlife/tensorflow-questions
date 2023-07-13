@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreesmakestatssummary.
 - How can you set the mean parameters for BoostedTreesMakeStatsSummary?
 - Write a code to compute summary statistics for a feature column with mean normalization using BoostedTreesMakeStatsSummary.
 - How can you specify the number of missing value buckets to use for BoostedTreesMakeStatsSummary?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

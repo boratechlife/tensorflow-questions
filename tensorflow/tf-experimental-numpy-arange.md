@@ -115,3 +115,17 @@ description: Practice questions for tf experimental numpy arange.
 - Write a code to create an array with step size 0.001 from 0 to 0.01 using tf.experimental.numpy.arange.
 - 
 - Write a code to generate an array with step size -0.001 from 0.01 to 0 using tf.experimental.numpy.arange.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

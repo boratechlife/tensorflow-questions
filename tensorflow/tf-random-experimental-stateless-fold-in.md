@@ -66,3 +66,17 @@ description: Practice questions for tf random experimental stateless fold in.
 - Write a code to generate a random boolean tensor of a given shape using tf.random.experimental.stateless_fold_in.
 - Write a code to generate a random password with a mix of alphanumeric and special characters using tf.random.experimental.stateless_fold_in.
 - Write a code to generate a random sentence with a mix of words and punctuation using tf.random.experimental.stateless_fold_in.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

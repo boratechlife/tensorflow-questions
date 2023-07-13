@@ -66,3 +66,17 @@ description: Practice questions for tf debugging is numeric tensor.
 - Write a code to calculate the element-wise floor division between two tensors and then verify if the result is a numeric tensor.
 - Write a code to define a tensor and check if it is a numeric tensor using the "tf.debugging.is_numeric_tensor" function.
 - Write a code to calculate the element-wise natural logarithm of a tensor and then check if it is a numeric tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

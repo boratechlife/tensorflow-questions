@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreescreatequantilestreamr
 - How can you set the quantile_sketch_max_bytes_for_training for the quantile stream resource?
 - Write a code to create a quantile stream resource with a specified quantile_sketch_max_bytes_for_training.
 - How can you set the quantile_sketch_epsilon_for_training for the quantile stream resource?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf rank.
 - Write a code to check if any tensor in a list has a rank lower than the average rank of the list.
 - Write a code to find the rank of a tensor with the smallest number of elements.
 - Write a code to calculate the average rank of tensors with the same data type in a list.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

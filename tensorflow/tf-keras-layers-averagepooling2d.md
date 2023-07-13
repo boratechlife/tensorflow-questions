@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers averagepooling2d.
 - Write a code to create a model with an AveragePooling2D layer and a depth reduction block.
 - Write a code to create a model with an AveragePooling2D layer and a squeeze-and-excitation block.
 - Write a code to create a model with an AveragePooling2D layer and a hypercolumn block.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

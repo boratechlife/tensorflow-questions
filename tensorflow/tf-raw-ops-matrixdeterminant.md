@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops matrixdeterminant.
 - Write a code to calculate the determinant of a matrix and find the indices of the minimum element in each row using the "tf.raw_ops.MatrixDeterminant" function.
 - Write a code to calculate the determinant of a matrix and find the indices of the minimum element in each column using the "tf.raw_ops.MatrixDeterminant" function.
 - Write a code to calculate the determinant of a matrix and perform element-wise addition with another matrix using the "tf.raw_ops.MatrixDeterminant" function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

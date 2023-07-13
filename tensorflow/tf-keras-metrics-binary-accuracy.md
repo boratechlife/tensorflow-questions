@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics binary accuracy.
 - Write a code to calculate the binary accuracy metric for a named entity linking problem.
 - Write a code to calculate the binary accuracy metric for a paraphrase detection problem.
 - Write a code to calculate the binary accuracy metric for a text classification with hierarchical structure problem.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

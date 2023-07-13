@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fill.
 - Write a code to fill a tensor of shape (3, 4) with the sequence of numbers from 1 to 12 using the tf.raw_ops.Fill operation.
 - Write a code to create a tensor of shape (2, 3) filled with a value of 50 using the tf.raw_ops.Fill operation.
 - Write a code to fill a tensor of shape (4, 4) with random values from a normal distribution using the tf.raw_ops.Fill operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

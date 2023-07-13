@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers experimental rmsprop.
 - Write a code to get the name of a model compiled with a RMSprop optimizer.
 - Write a code to set the name of a model compiled with a RMSprop optimizer to "RMSpropModel".
 - Write a code to apply the RMSprop optimizer to update the model's weights.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

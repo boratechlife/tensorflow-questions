@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops finalizedataset.
 - How can you use tf.raw_ops.FinalizeDataset to handle end-of-dataset conditions and perform model evaluation?
 - Write a code to add a timeout function using tf.raw_ops.FinalizeDataset when the dataset ends.
 - How can you use tf.raw_ops.FinalizeDataset to handle different end-of-dataset actions for different dataset components?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

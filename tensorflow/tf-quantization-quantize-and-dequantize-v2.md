@@ -66,3 +66,17 @@ description: Practice questions for tf quantization quantize and dequantize v2.
 - Write a code to quantize and dequantize a tensor with a custom quantization-aware training function and scales using "tf.quantization.quantize_and_dequantize_v2".
 - Write a code to quantize and dequantize a tensor with a custom quantization-aware training function and zero-point adjustment using "tf.quantization.quantize_and_dequantize_v2".
 - Write a code to quantize and dequantize a tensor with a custom quantization-aware training function and per-axis ranges using "tf.quantization.quantize_and_dequantize_v2".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

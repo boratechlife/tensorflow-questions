@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics.
 - Write a code to calculate the binary true negative metric using tf.keras.metrics.BinaryTrueNegatives.
 - Write a code to calculate the binary false positive metric using tf.keras.metrics.BinaryFalsePositives.
 - Write a code to calculate the binary false negative metric using tf.keras.metrics.BinaryFalseNegatives.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

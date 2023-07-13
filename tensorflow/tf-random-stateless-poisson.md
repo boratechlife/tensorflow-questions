@@ -66,3 +66,17 @@ description: Practice questions for tf random stateless poisson.
 - Write a code to generate a 3D tensor of shape (5, 5, 5) filled with Poisson-distributed random numbers using tf.random.stateless_poisson.
 - Write a code to generate 5000 Poisson-distributed random numbers with a rate parameter of 1.5 using tf.random.stateless_poisson.
 - Write a code to generate a Poisson-distributed random number with a rate parameter of 9.6 using tf.random.stateless_poisson.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

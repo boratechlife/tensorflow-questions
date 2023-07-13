@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy empty.
 - Write a code to create an empty array with shape (2, 2) and fill it with values based on a custom row-wise filtering.
 - Write a code to create an empty array with shape (3, 3) and fill it with values based on a custom column-wise filtering.
 - Write a code to create an empty array with shape (2, 2) and fill it with values based on a custom matrix filtering.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf less.
 - Write a code to compare two TensorFlow tensors, a and b, and return a tensor where each element is True if the corresponding elements in a are strictly greater than or equal to 5, using tf.less.
 - Write a code to create a TensorFlow tensor x and return a new tensor result where each element is True if the corresponding element in x is strictly greater than or equal to a scalar value threshold, using tf.less.
 - Write a code to check if each element of a TensorFlow tensor x is strictly greater than or equal to a scalar value threshold using tf.less.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

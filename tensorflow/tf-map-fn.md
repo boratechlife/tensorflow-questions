@@ -66,3 +66,17 @@ description: Practice questions for tf map fn.
 - Write a code to calculate the element-wise cosine similarity between two 2D TensorFlow tensors using tf.map_fn.
 - Write a code to compute the element-wise Euclidean distance between two 2D TensorFlow tensors using tf.map_fn.
 - Write a code to calculate the element-wise Manhattan distance between two 2D TensorFlow tensors using tf.map_fn.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

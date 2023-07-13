@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor local devices.
 - Write a code to print the names and memory limits of all local devices with compute capability less than a specific value or memory usage exceeding a specific threshold.
 - Write a code to check if any local device has compute capability less than a specific value or memory usage exceeding a specific threshold.
 - Write a code to get the number of local devices with compute capability less than a specific value or memory usage exceeding a specific threshold.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

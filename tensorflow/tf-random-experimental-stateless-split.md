@@ -66,3 +66,17 @@ description: Practice questions for tf random experimental stateless split.
 - Write a code to split a list into two parts of equal length using "tf.random.experimental.stateless_split."
 - Write a code to split a dictionary into two parts randomly using "tf.random.experimental.stateless_split."
 - Write a code to split a string into two parts of equal length using "tf.random.experimental.stateless_split."
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

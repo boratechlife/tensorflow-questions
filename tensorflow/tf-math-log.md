@@ -66,3 +66,17 @@ description: Practice questions for tf math log.
 - Write a code to calculate the logarithm base 2 of a tensor and then calculate the element-wise difference between consecutive elements along a specific axis using tf.diff and tf.math.log.
 - Write a code to calculate the natural logarithm of a tensor and then calculate the element-wise absolute difference between consecutive elements along a specific axis using tf.diff and tf.math.log.
 - Write a code to calculate the logarithm base 10 of a tensor and then calculate the element-wise absolute difference between consecutive elements along a specific axis using tf.diff and tf.math.log.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

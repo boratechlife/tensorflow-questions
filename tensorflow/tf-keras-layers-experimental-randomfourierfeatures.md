@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental randomfourierfe
 - Write a code to set the bias initializer of a RandomFourierFeatures layer to None.
 - Write a code to create a RandomFourierFeatures layer with a specific activation function.
 - Write a code to set the kernel initializer of a RandomFourierFeatures layer to None.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

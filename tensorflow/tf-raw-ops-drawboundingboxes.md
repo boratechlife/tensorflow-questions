@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops drawboundingboxes.
 - Can you provide an example of how to draw bounding boxes around objects in an image using TensorFlow's tf.raw_ops.DrawBoundingBoxes operation and apply a grayscale filter to the entire image?
 - Implement a code snippet to draw bounding boxes around objects in an image using TensorFlow's tf.raw_ops.DrawBoundingBoxes operation and calculate the aspect ratio range of the boxes.
 - Write a code to draw bounding boxes around objects in an image using the tf.raw_ops.DrawBoundingBoxes operation, and calculate the mean aspect ratio of the boxes.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy fix.
 - Write a code to fix the values in a NumPy array and replace them with the nearest value from a specified list using tf.experimental.numpy.fix().
 - Write a code to fix the values in a NumPy array and replace them with the nearest value from a specified dictionary using tf.experimental.numpy.fix().
 - Write a code to fix the values in a NumPy array and replace them with the nearest value from a custom mapping function using tf.experimental.numpy.fix().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

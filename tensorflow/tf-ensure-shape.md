@@ -66,3 +66,17 @@ description: Practice questions for tf ensure shape.
 - Write a code to ensure that a tensor x has a shape (10,) if a condition cond1 is satisfied, a shape (20,) if cond2 is satisfied, a shape compatible with multiple tensors y1, y2, and y3 if cond3 is satisfied, a shape (30,) if cond4 is satisfied, a shape compatible with another tensor z if cond5 is satisfied, a shape (40,) if cond6 is satisfied, and a shape compatible with another tensor w otherwise.
 - Write a code to ensure that a tensor x has a shape (None, 10) if a condition cond1 is satisfied, a shape (None, 20) if cond2 is satisfied, a shape (None, 30) if cond3 is satisfied, a shape (None, 40) if cond4 is satisfied, a shape (None, 50) if cond5 is satisfied, a shape (None, 60) if cond6 is satisfied, a shape (None, 70) if cond7 is satisfied, and a shape (None, 80) otherwise.
 - Write a code to ensure that a tensor x has a shape (10,) if a condition cond1 is satisfied, a shape (20,) if cond2 is satisfied, a shape compatible with multiple tensors y1, y2, and y3 if cond3 is satisfied, a shape (30,) if cond4 is satisfied, a shape compatible with another tensor z if cond5 is satisfied, a shape (40,) if cond6 is satisfied, a shape compatible with another tensor w if cond7 is satisfied, and a shape (50,) otherwise.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

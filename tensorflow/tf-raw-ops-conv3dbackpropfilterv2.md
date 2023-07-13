@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops conv3dbackpropfilterv2.
 - How can you apply gradient noise to the gradients of the convolutional filter computed by tf.raw_ops.Conv3DBackpropFilterV2?
 - Write a code to perform a 3D backward filter convolution operation with spatial pyramid pooling using tf.raw_ops.Conv3DBackpropFilterV2.
 - How can you use tf.raw_ops.Conv3DBackpropFilterV2 to compute the gradients of a convolutional filter with a specific loss function weighting scheme?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

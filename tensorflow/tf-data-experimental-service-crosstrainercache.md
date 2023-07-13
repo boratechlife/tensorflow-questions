@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental service crosstrainercac
 - Write a code to retrieve the cache file extension associated with CrossTrainerCache.
 - Write a code to enable cache sharding for CrossTrainerCache.
 - Write a code to disable cache sharding for CrossTrainerCache.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

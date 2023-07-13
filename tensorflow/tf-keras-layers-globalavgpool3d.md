@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers globalavgpool3d.
 - Write a code to apply GlobalAvgPool3D and then a recurrent layer with specific units and activation function.
 - Write a code to apply GlobalAvgPool3D and then a convolutional layer with specific filters and activation function.
 - Write a code to apply GlobalAvgPool3D and then a max pooling layer with specific pool size and activation function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

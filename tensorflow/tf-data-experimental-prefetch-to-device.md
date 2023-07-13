@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental prefetch to device.
 - Write a code to create a TensorFlow dataset from a NumPy array and apply prefetch_to_device with a specified device.
 - Write a code to prefetch data to a custom set of devices in a distributed inference scenario using tf.data.experimental.prefetch_to_device for a TensorFlow dataset.
 - Write a code to create a TensorFlow dataset from a Pandas DataFrame and apply prefetch_to_device with a specified device.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

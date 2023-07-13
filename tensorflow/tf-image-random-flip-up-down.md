@@ -66,3 +66,17 @@ description: Practice questions for tf image random flip up down.
 - Write a code to apply random flips to a grayscale image and perform a custom operation using tf.image.random_flip_up_down.
 - Write a code to flip images in a directory vertically and crop them using tf.image.random_flip_up_down.
 - Write a code to flip an image vertically and apply a custom filter using tf.image.random_flip_up_down.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fusedbatchnormgradv2.
 - Write a code to compute the gradients of FusedBatchNormV2 for a specified range of channels using FusedBatchNormGradV2.
 - Write a code to implement the gradient computation for FusedBatchNormV2 with custom normalization parameters using FusedBatchNormGradV2.
 - Write a code to calculate the gradients of FusedBatchNormV2 with respect to multiple scale parameters, offsets, and inputs on a GPU using FusedBatchNormGradV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

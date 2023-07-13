@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor check layout.
 - Write a code to apply custom functions to each element of multiple dtensors and check if the resulting layouts are valid using tf.experimental.dtensor.check_layout.
 - Write a code to compute the absolute value of multiple dtensors and validate their layouts using tf.experimental.dtensor.check_layout.
 - Write a code to perform element-wise exponentiation on multiple dtensors and ensure the resulting layouts are valid using tf.experimental.dtensor.check_layout.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

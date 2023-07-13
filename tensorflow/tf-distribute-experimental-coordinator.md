@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental coordinator.
 - Write a code to create a ExperimentalDistributionStrategy object for a TensorFlow coordinator.
 - Write a code to create a DistributionStrategy object for a TensorFlow coordinator.
 - Write a code to create a ServerStrategy object for a TensorFlow coordinator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

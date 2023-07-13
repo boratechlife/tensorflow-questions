@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses mse.
 - Write a code to calculate the mean squared error loss for a multi-class classification problem, given a set of predicted probabilities and true labels, and then compute the variance of the losses.
 - Write a code to compute the mean squared error loss for a sequence prediction task, given a set of predicted sequences and corresponding target sequences, and then compute the variance of the losses.
 - Write a code to apply the mean squared error loss function to a set of predictions and ground truth values, and then compute the standard deviation of the losses.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

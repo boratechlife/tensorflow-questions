@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers experimental adam.
 - Write a code to perform multiple steps of the Adam optimization algorithm on a model's weights.
 - Write a code to initialize the variables of an Adam optimizer.
 - Write a code to reset the state of an Adam optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

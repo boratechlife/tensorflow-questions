@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mod.
 - Write a code to apply modulo operation on two tensors and update both tensors with the result using tf.raw_ops.Mod.
 - Write a code to calculate the modulo of each element in a tensor with a tensor of different shape and return the result as a new tensor using tf.raw_ops.Mod.
 - Write a code to perform element-wise modulo operation on two tensors and update the second tensor with the result using tf.raw_ops.Mod.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

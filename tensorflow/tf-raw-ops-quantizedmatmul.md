@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedmatmul.
 - Implement a function that takes two quantized matrices as inputs and returns their matrix product while adjusting the output zero-point by a custom offset using the "QuantizedMatMul" operation in TensorFlow.
 - Write a code snippet to multiply two quantized matrices using the "QuantizedMatMul" operation and specify the output range, scale, and zero-point using custom values.
 - How would you perform quantized matrix multiplication using the "QuantizedMatMul" operation in TensorFlow and specify the output range, scale, and zero-point using custom values?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

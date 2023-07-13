@@ -66,3 +66,17 @@ description: Practice questions for tf nn sparse softmax cross entropy with logi
 - How can you apply a label transformation technique before computing the sparse softmax cross-entropy loss?
 - Write a code to calculate the sparse softmax cross-entropy loss and include a sparsity regularization term.
 - How can you use tf.nn.sparse_softmax_cross_entropy_with_logits for transfer learning tasks?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

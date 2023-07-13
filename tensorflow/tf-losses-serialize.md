@@ -66,3 +66,17 @@ description: Practice questions for tf losses serialize.
 - Write a code to deserialize a serialized TensorFlow loss function received over a network in HDF5 format using tf.losses.deserialize().
 - Write a code to serialize a TensorFlow loss function and send it over a network using Pickle format and tf.losses.serialize().
 - Write a code to deserialize a serialized TensorFlow loss function received over a network in Pickle format using tf.losses.deserialize().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

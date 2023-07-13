@@ -66,3 +66,17 @@ description: Practice questions for tf io read file.
 - Write a code to read a file and perform network analysis using tf.io.read_file.
 - Write a code to read a file and perform sentiment analysis on customer feedback using tf.io.read_file.
 - Write a code to read a file and perform text classification using tf.io.read_file.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

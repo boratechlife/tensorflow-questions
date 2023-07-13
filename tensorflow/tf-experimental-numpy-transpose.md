@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy transpose.
 - Write a code to transpose a multi-dimensional TensorFlow tensor, specifying the axes order and swapping only specific dimensions using tf.experimental.numpy.transpose.
 - Write a code to transpose a 2D NumPy array, without specifying the axes order and swapping only specific rows and columns using tf.experimental.numpy.transpose.
 - Write a code to transpose a 3D NumPy array, without specifying the axes order and swapping only specific axes using tf.experimental.numpy.transpose.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

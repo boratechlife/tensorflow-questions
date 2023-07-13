@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops empty.
 - Write a code to create an empty tensor and calculate the element-wise softmax using tf.raw_ops.Empty.
 - Write a code to create an empty tensor and calculate the element-wise absolute difference with another tensor using tf.raw_ops.Empty.
 - Write a code to create an empty tensor and calculate the element-wise absolute sum with another tensor using tf.raw_ops.Empty.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

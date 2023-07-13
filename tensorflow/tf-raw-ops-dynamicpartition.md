@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops dynamicpartition.
 - Write a code to dynamically partition a tensor into multiple sub-tensors and handle the case when the input tensor contains NaN or Inf values.
 - Write a code to dynamically partition a tensor into two sub-tensors and handle the case when the input tensor and partition tensor contain NaN or Inf values.
 - Write a code to dynamically partition a tensor into multiple sub-tensors and handle the case when the input tensor and partition tensor contain NaN or Inf values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

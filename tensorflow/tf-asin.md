@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to calculate the arcsine of a tensor and calculate the element-wise element-wise equal comparison of the result with another tensor using tf.asin.
 - Write a code to calculate the arcsine of a tensor and calculate the element-wise element-wise not equal comparison of the result with another tensor using tf.asin.
 - Write a code to calculate the arcsine of a tensor and calculate the element-wise logical and operation of the result with another tensor using tf.asin.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

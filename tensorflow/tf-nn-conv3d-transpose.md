@@ -66,3 +66,17 @@ description: Practice questions for tf nn conv3d transpose.
 - Write a code to create a 3D transposed convolutional neural network with bilinear upsampling using tf.nn.conv3d_transpose.
 - Write a code to apply 3D transposed convolution with asymmetric dilation rates using tf.nn.conv3d_transpose.
 - Write a code to create a 3D transposed convolutional neural network with pixel-shuffle upsampling using tf.nn.conv3d_transpose.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

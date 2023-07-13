@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops add.
 - How can you add two tensors and calculate the element-wise cosine similarity using tf.raw_ops.Add?
 - Write a code to add a tensor and apply element-wise hyperbolic tangent using tf.raw_ops.Add.
 - How would you add two tensors and calculate the element-wise dot product using tf.raw_ops.Add?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

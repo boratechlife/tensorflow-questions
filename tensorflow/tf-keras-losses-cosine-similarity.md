@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses cosine similarity.
 - Write a code to calculate the pairwise cosine similarity between two batches of tensors with different sizes using tf.keras.losses.cosine_similarity.
 - Write a code to compute the cosine similarity between two document feature vectors using tf.keras.losses.cosine_similarity.
 - Write a code to calculate the cosine similarity loss between two sets of audio embeddings using tf.keras.losses.cosine_similarity.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

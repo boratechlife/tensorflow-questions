@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnetv2s.
 - Write a code to set the weight decay for the optimizer used in the EfficientNetV2S model.
 - Write a code to set the number of classes for the EfficientNetV2S model.
 - Write a code to set the activation function for the output layer of the EfficientNetV2S model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

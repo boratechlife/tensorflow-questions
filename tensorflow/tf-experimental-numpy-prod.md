@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy prod.
 - Write a code to calculate the product of elements in a NumPy array, considering only elements at specific intervals.
 - Write a code to calculate the product of elements in a NumPy array, excluding elements at specific intervals.
 - Write a code to calculate the product of elements in a NumPy array, using a specific initialization value for the product accumulator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

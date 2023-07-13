@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics sparsecategoricalaccuracy.
 - Write a code to calculate the sparse categorical accuracy for a batch of logits and true labels, excluding certain classes and considering a specific threshold.
 - Write a code to calculate the sparse categorical accuracy for a set of logits and true labels, excluding certain classes and considering a specific threshold.
 - Write a code to update the SparseCategoricalAccuracy metric with a batch of predictions and true labels, excluding certain classes and using a specific threshold.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

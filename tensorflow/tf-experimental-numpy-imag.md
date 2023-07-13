@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy imag.
 - Write a code to calculate the imaginary part of the sine of a complex number using tf.experimental.numpy.imag.
 - Write a code to calculate the imaginary part of the cosine of a complex number using tf.experimental.numpy.imag.
 - Write a code to calculate the imaginary part of the tangent of a complex number using tf.experimental.numpy.imag.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

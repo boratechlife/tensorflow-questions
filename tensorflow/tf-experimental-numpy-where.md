@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy where.
 - Write a code to randomly shuffle the elements of a NumPy array using tf.experimental.numpy.where.
 - Write a code to reverse the order of the elements in a NumPy array using tf.experimental.numpy.where.
 - Write a code to concatenate two NumPy arrays along a specified axis using tf.experimental.numpy.where.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

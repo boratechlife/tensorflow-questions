@@ -66,3 +66,17 @@ description: Practice questions for tf math log sigmoid.
 - Write a code to calculate the log sigmoid of a tensor and compute its cross-entropy loss using TensorFlow's tf.math.log_sigmoid function.
 - Write a code to calculate the log sigmoid of a tensor and compute its mean squared error loss using TensorFlow's tf.math.log_sigmoid function.
 - Write a code to calculate the log sigmoid of a tensor and compute its binary classification accuracy using TensorFlow's tf.math.log_sigmoid function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf case.
 - Write a code to implement a custom metric evaluation based on the input data type using tf.case.
 - Write a code to perform different activation functions based on the input tensor size using tf.case.
 - Write a code to apply different gradient clipping strategies based on the gradient norm using tf.case.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

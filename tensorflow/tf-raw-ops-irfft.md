@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops irfft.
 - Write a code to apply the IRFFT operation on a batch of complex-valued input tensors and perform a specific time-domain operation on each resulting signal using tf.raw_ops.IRFFT.
 - Write a code to calculate the IRFFT of a complex-valued input tensor and obtain the phase spectrum using tf.raw_ops.IRFFT.
 - Write a code to perform an IRFFT on a batch of complex-valued input tensors and compute the phase spectrum for each resulting signal using tf.raw_ops.IRFFT.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

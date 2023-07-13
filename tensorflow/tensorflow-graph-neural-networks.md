@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can GNNs be used for graph-level sentiment analysis?
 - Explain the concept of graph-based community detection using GNNs.
 - What are some open research challenges and future directions in the field of Graph Neural Networks?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

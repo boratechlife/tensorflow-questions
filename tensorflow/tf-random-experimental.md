@@ -66,3 +66,17 @@ description: Practice questions for tf random experimental.
 - Write a code to generate a random tensor with a uniform distribution, given a shape and a lower bound and upper bound using "tf.random.experimental".
 - Write a code to generate a random tensor with a Poisson distribution, given a shape and a lambda parameter using "tf.random.experimental".
 - Write a code to generate a random tensor with a Bernoulli distribution, given a shape and a probability of success using "tf.random.experimental".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

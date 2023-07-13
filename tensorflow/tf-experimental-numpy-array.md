@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy array.
 - Write a code to calculate the element-wise bitwise left shift of a TensorFlow array created using tf.experimental.numpy.array.
 - Write a code to calculate the element-wise bitwise right shift of a TensorFlow array created using tf.experimental.numpy.array.
 - Write a code to check if two TensorFlow arrays created using tf.experimental.numpy.array are equal element-wise.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

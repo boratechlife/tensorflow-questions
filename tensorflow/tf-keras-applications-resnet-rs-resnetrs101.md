@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet rs resnetrs101.
 - Write a code to set the padding mode for all the layers in the ResNetRS101 model.
 - Write a code to set the stride size for all the layers in the ResNetRS101 model.
 - Write a code to set the kernel size for all the layers in the ResNetRS101 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

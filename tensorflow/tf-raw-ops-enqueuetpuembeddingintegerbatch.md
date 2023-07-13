@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops enqueuetpuembeddingintegerbatch.
 - Write a code to set the pipeline_execution_with_32bit_accumulation parameter in tf.raw_ops.EnqueueTPUEmbeddingIntegerBatch.
 - Write a code to create a tensor for the pipeline_execution_with_32bit_accumulation_steps parameter in tf.raw_ops.EnqueueTPUEmbeddingIntegerBatch.
 - Write a code to specify the pipeline_execution_with_num_replicas option in tf.raw_ops.EnqueueTPUEmbeddingIntegerBatch.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops nonmaxsuppressionwithoverlaps.
 - Write a code to compute the maximum number of output selections for non-maximum suppression with overlaps on a set of bounding boxes and return the maximum number, the suppressed boxes, and their indices using the tf.raw_ops.NonMaxSuppressionWithOverlaps function.
 - Write a code to determine the number of suppressed bounding boxes after applying non-maximum suppression with overlaps to a set of bounding boxes and return the number of suppressed boxes, the selected boxes, and their indices using the tf.raw_ops.NonMaxSuppressionWithOverlaps operation.
 - Write a code to filter out redundant bounding boxes from a list by applying non-maximum suppression with overlaps and return the selected boxes, their indices, the suppressed boxes, and their indices using the tf.raw_ops.NonMaxSuppressionWithOverlaps function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

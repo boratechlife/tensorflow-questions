@@ -66,3 +66,17 @@ description: Practice questions for tf errors failedpreconditionerror.
 - Write a code to handle a "FailedPreconditionError" exception and display a progress bar until the error is resolved.
 - Write a code to handle a "FailedPreconditionError" exception and rollback the changes made in a distributed system.
 - Write a code to handle a "FailedPreconditionError" exception and retry the operation after a service restart.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

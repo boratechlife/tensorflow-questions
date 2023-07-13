@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops learnedunigramcandidatesampler.
 - How can you use tf.raw_ops.LearnedUnigramCandidateSampler to perform biased sampling in a reinforcement learning agent?
 - Write a code to specify the unique_name parameter for tf.raw_ops.LearnedUnigramCandidateSampler.
 - How can you use tf.raw_ops.LearnedUnigramCandidateSampler to sample candidates for a knowledge graph completion model?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend experimental enable tf rand
 - Write a code to generate a random mask for dropout with a specific optimizer using the TensorFlow random generator.
 - Write a code to generate a random mask for dropout with a specific metric using the TensorFlow random generator.
 - Write a code to generate a random mask for dropout with a specific activation function using the TensorFlow random generator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

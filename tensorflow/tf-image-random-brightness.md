@@ -66,3 +66,17 @@ description: Practice questions for tf image random brightness.
 - Write a code to apply random brightness adjustment to an image using "tf.image.random_brightness" and apply an affine transform to the image.
 - Write a code to apply random brightness adjustment to an image using "tf.image.random_brightness" and perform histogram matching with a reference image.
 - Write a code to apply random brightness adjustment to an image using "tf.image.random_brightness" and perform histogram specification with a target histogram.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

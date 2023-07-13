@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops dilation2dbackpropfilter.
 - Write a code to compute the cosine similarity between the filter updates and the gradients in tf.raw_ops.Dilation2DBackpropFilter.
 - Write a code to set the filter dilation rates for the forward pass of tf.raw_ops.Dilation2DBackpropFilter.
 - Write a code to set the padding algorithm for the backward pass of tf.raw_ops.Dilation2DBackpropFilter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

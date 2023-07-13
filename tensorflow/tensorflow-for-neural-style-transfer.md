@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can you optimize the style transfer process to reduce the computational overhead?
 - Explain the concept of instance normalization and its use in neural style transfer.
 - What are the future directions and research challenges in the field of neural style transfer?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

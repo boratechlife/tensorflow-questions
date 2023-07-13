@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing timeseries dataset fr
 - How can you handle missing timestamps in the input data using timeseries_dataset_from_array?
 - Write a code to create a time series dataset with a fixed target size and variable-length sequences using timeseries_dataset_from_array.
 - How can you handle irregularly spaced time series data using timeseries_dataset_from_array?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

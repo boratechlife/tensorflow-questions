@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers randomrotation.
 - Write a code to create a convolutional neural network (CNN) model in TensorFlow with multiple random rotation layers and other data augmentations for an image segmentation task.
 - Write a code to apply random rotation augmentation to a dataset of images, masks, keypoints, and labels using tf.keras.layers.RandomRotation and other data augmentation techniques.
 - Write a code to perform random rotations on a set of images stored in a directory, visualize the augmented images, calculate their mean and standard deviation, and save them in a new directory using tf.keras.layers.RandomRotation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

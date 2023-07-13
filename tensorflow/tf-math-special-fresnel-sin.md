@@ -66,3 +66,17 @@ description: Practice questions for tf math special fresnel sin.
 - Write a code to calculate the fresnel_sin value for a list of inputs and sort them in ascending order.
 - Write a code to calculate the fresnel_sin value for a range of inputs and sort them in descending order.
 - Write a code to calculate the fresnel_sin value for an input and display the result in engineering notation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

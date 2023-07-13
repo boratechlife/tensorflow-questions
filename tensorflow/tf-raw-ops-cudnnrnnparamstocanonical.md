@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops cudnnrnnparamstocanonical.
 - Write a code to calculate the memory footprint of CudnnRNNParamsToCanonical for a given RNN model.
 - How can you adjust the precision (e.g., float16, float32) when using CudnnRNNParamsToCanonical?
 - What are some potential performance bottlenecks when applying CudnnRNNParamsToCanonical to large RNN models?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

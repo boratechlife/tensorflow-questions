@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental threadingoptions.
 - Write a code to set the experimental_threading.private_threadpool_autotune_ratio option in ThreadingOptions.
 - Write a code to get the current value of the experimental_threading.private_threadpool_autotune_ratio option in ThreadingOptions.
 - Write a code to set the experimental_threading.private_threadpool_autotune_max_threads option in ThreadingOptions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

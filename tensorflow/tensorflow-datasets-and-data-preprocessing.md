@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What is the role of the tf.data.experimental.TFRecordWriter in TensorFlow Datasets?
 - How can you apply custom transformations or preprocessing functions to a TensorFlow dataset?
 - Explain the process of splitting a TensorFlow dataset into multiple subsets for cross-validation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

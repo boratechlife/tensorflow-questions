@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops csvdataset.
 - Write a code to read a CSV file using tf.raw_ops.CSVDataset and calculate the autocorrelation of a column.
 - Write a code to read a CSV file using tf.raw_ops.CSVDataset and perform a rolling window calculation on a column.
 - Write a code to read a CSV file using tf.raw_ops.CSVDataset and perform a cumulative aggregation on a column.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

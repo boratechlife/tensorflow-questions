@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers randomuniform.
 - Write a code to initialize a random uniform tensor with shape (2, 2) and a maximum value of 1.0.
 - Write a code to initialize a random uniform tensor with shape (5,) and a seed value of 100.
 - Write a code to initialize a random uniform tensor with shape (10, 10) and a seed value of 999.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

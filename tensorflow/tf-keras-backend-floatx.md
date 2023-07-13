@@ -66,3 +66,17 @@ description: Practice questions for tf keras backend floatx.
 - Write a code to concatenate two tensors along a specific axis using the Keras backend.
 - Write a code to split a tensor into multiple sub-tensors along a specific axis using the Keras backend.
 - Write a code to reshape a tensor to a specific shape using the Keras backend.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

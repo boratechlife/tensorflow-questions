@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops bincount.
 - Write a code to calculate the bincount of a tensor and handle missing values with a default value using tf.raw_ops.Bincount.
 - Write a code to calculate the bincount of a tensor and handle missing values with a default value and custom accumulator function using tf.raw_ops.Bincount.
 - Write a code to calculate the bincount of a tensor and handle missing values with a default value, custom accumulator function, and specified output dtype using tf.raw_ops.Bincount.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

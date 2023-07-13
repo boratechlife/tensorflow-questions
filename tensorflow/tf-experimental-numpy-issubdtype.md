@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy issubdtype.
 - Write a code to determine if a numpy array has a data type that is a subdtype of void.
 - Write a code to check if a given data type is a subdtype of datetime64 using issubdtype.
 - Write a code to determine if a numpy array has a data type that is a subdtype of timedelta64.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

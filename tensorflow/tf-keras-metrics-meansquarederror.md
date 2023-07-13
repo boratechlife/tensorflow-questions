@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics meansquarederror.
 - Write a code to calculate the mean squared error for a batch of samples with predicted values and true values using MeanSquaredError metric.
 - Write a code to calculate the mean squared error for a batch of samples with predicted values and true values, ignoring zero targets, using MeanSquaredError metric.
 - Write a code to calculate the mean squared error for a batch of samples with predicted values and true values, ignoring samples where both targets and predictions are zero, using MeanSquaredError metric.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

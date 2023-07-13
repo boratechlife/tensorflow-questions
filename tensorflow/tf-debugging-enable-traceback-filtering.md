@@ -66,3 +66,17 @@ description: Practice questions for tf debugging enable traceback filtering.
 - Write a code to disable traceback filtering for specific memory addresses in TensorFlow.
 - Write a code to enable traceback filtering for specific GPU device IDs in TensorFlow.
 - Write a code to disable traceback filtering for specific GPU device IDs in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

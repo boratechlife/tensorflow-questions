@@ -66,3 +66,17 @@ description: Practice questions for tf dtypes cast.
 - Write a code to cast a tensor to complex64 using tf.dtypes.cast.
 - Write a code to cast a tensor to complex128 using tf.dtypes.cast.
 - Write a code to cast a tensor to bool using tf.dtypes.cast.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

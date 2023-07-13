@@ -66,3 +66,17 @@ description: Practice questions for tf math negative.
 - Write a code to negate the elements of a TensorFlow tensor only if a specific flag variable is set using tf.math.negative.
 - Write a code to negate the elements of a TensorFlow tensor only if the tensor dimensions meet certain criteria using tf.math.negative.
 - Write a code to negate the elements of a TensorFlow tensor only if a certain number of neighboring elements satisfy a condition using tf.math.negative.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

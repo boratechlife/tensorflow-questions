@@ -66,3 +66,17 @@ description: Practice questions for tf losses mae.
 - Write a code to calculate the MAE loss for a convolutional neural network (CNN) using tf.losses.mae.
 - Write a code to calculate the MAE loss for an autoencoder model using tf.losses.mae.
 - Write a code to calculate the MAE loss and apply weight normalization using tf.losses.mae.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

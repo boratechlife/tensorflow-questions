@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers experimental adagrad.
 - Write a code to set the gradient_multipliers variable for the Adagrad optimizer.
 - Write a code to set the initial_accumulator_value variable for the Adagrad optimizer.
 - Write a code to set the momentum_variance_variable variable for the Adagrad optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

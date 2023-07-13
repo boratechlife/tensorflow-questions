@@ -115,3 +115,17 @@ description: Practice questions for tf linalg experimental.
 - Write a code to compute the LU decomposition of a batch of matrices using tf.linalg.experimental.lu_batched.
 - 
 - Write a code to compute the Cholesky decomposition of a batch of matrices using tf.linalg.experimental.cholesky_batched.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

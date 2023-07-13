@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops modeldataset.
 - Write a code to perform k-fold cross-validation on a ModelDataset.
 - Write a code to perform hyperparameter tuning on a model using a ModelDataset.
 - Write a code to visualize the data in a ModelDataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

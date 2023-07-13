@@ -66,3 +66,17 @@ description: Practice questions for tf nn safe embedding lookup sparse.
 - Write a code to handle a sparse tensor with inconsistent embedding dimensions in a batch when using tf.nn.safe_embedding_lookup_sparse.
 - Write a code to handle a sparse tensor with out-of-range indices in a batch when using tf.nn.safe_embedding_lookup_sparse.
 - Write a code to handle a sparse tensor with negative indices in a batch when using tf.nn.safe_embedding_lookup_sparse.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

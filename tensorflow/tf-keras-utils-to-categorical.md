@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils to categorical.
 - Write a code to convert a Pandas Series of numerical labels to one-hot encoded sparse categorical with a specific number of classes using tf.keras.utils.to_categorical.
 - Write a code to handle unknown classes while converting numerical labels to categorical using tf.keras.utils.to_categorical.
 - Write a code to handle unknown classes while converting numerical labels to one-hot encoded categorical using tf.keras.utils.to_categorical.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

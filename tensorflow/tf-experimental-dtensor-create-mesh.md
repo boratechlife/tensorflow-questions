@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor create mesh.
 - Write a code to perform tensor slicing on a tensor defined on a 2D mesh grid using tf.experimental.dtensor.create_mesh.
 - Write a code to calculate the mean along a specific axis of a tensor defined on a 2D mesh grid using tf.experimental.dtensor.create_mesh.
 - Write a code to calculate the variance along a specific axis of a tensor defined on a 2D mesh grid using tf.experimental.dtensor.create_mesh.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

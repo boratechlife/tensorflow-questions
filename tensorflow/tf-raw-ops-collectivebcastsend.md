@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectivebcastsend.
 - Write a code to broadcast a tensor to all workers except a specific subset of workers and a specific worker using tf.raw_ops.CollectiveBcastSend.
 - How can you set the send buffer watermark for the broadcast operation using tf.raw_ops.CollectiveBcastSend?
 - Write a code to perform a broadcast operation with tf.raw_ops.CollectiveBcastSend and handle the case when the receive buffer is full.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics categoricalhinge.
 - Write a code to calculate the Kullback-Leibler divergence loss between two sets of CategoricalHinge metric values.
 - Write a code to calculate the weighted cross-entropy loss between two sets of CategoricalHinge metric values.
 - Write a code to calculate the Huber loss between two sets of CategoricalHinge metric values with a specified delta value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

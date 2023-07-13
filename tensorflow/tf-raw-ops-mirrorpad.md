@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops mirrorpad.
 - How can you apply mirror padding to a tensor with negative padding amounts on each dimension using tf.raw_ops.MirrorPad?
 - Create a function that performs mirror padding on a tensor symmetrically using tf.raw_ops.MirrorPad.
 - Write a code to mirror pad a 3D tensor with different padding values for each dimension using tf.raw_ops.MirrorPad.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

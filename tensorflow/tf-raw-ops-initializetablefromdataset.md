@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops initializetablefromdataset.
 - Write a code to initialize a table from a dataset and set a maximum number of concurrent table updates using InitializeTableFromDataset.
 - How can you enable an exclusive mode for table initialization from a dataset using InitializeTableFromDataset?
 - Write a code to initialize a table from a dataset and specify a padding value for the values using InitializeTableFromDataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

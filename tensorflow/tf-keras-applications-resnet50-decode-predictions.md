@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnet50 decode predic
 - Write a code to display a bar chart of the top N predictions and their probabilities.
 - Write a code to display a pie chart of the distribution of class labels.
 - Write a code to calculate the precision and recall of the predictions for a specific class label.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

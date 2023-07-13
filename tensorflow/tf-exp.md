@@ -66,3 +66,17 @@ description: Practice questions for tf exp.
 - Write a code to compute the exponential of each element in a TensorFlow tensor and calculate the element-wise logical OR between the resulting tensor and a given tensor using tf.exp and tf.math.logical_or().
 - Write a code to compute the exponential of each element in a TensorFlow tensor and calculate the element-wise logical NOT of the resulting tensor using tf.exp and tf.math.logical_not().
 - Write a code to compute the exponential of each element in a TensorFlow tensor and calculate the element-wise bitwise XOR between the resulting tensor and a given tensor using tf.exp and tf.math.bitwise_xor().
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dispatch for api.
 - Write a code to get the list of all dispatching rules registered for a dispatching API using tf.experimental.get_registered_rules.
 - Write a code to get the list of all argument types registered for a dispatching API using tf.experimental.get_registered_types.
 - Write a code to get the list of all argument shapes registered for a dispatching API using tf.experimental.get_registered_shapes.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

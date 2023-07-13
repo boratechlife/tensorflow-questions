@@ -66,3 +66,17 @@ description: Practice questions for tf nn collapse repeated.
 - Write a code to collapse repeated elements in a TensorFlow tensor along the rows and replace them with a random element within each group.
 - Write a code to collapse repeated elements in a TensorFlow tensor and replace them with the cumulative sigmoid values within each group.
 - Write a code to collapse consecutive repeated elements in a TensorFlow tensor and calculate the cumulative tanh values within each group.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

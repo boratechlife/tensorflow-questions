@@ -66,3 +66,17 @@ description: Practice questions for tf random stateless truncated normal.
 - Write a code to generate a tensor of shape (3, 3, 3) with random numbers between -1 and 1 using tf.random.stateless_truncated_normal with a given seed value, a shape of (3, 3, 3), a mean of 0, and a standard deviation of 1.
 - Write a code to generate a random number using tf.random.stateless_truncated_normal with a given seed value, a shape of (), a mean of 0, a standard deviation of 1, and dtype of tf.float32.
 - Write a code to generate a 1D array of 5 random numbers between 0 and 10 using tf.random.stateless_truncated_normal with a given seed value, a shape of (5,), a mean of 0, a standard deviation of 1, and dtype of tf.float32.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

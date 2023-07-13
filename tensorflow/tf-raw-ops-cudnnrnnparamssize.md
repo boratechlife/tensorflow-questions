@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops cudnnrnnparamssize.
 - How can you use the "CudnnRNNParamsSize" function to determine the combined size of the CuDNN RNN parameters for multiple RNN cells with different configurations stored in separate lists, and return the results as a list of tuples?
 - 
 - Implement a code snippet to calculate the combined size of the CuDNN RNN parameters for multiple RNN cell types, input sizes, and hidden sizes stored in separate lists, and return the results as a list of tuples.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing d
 - Write a code to define a Discretization layer and set the strategy to "custom" with a custom early stopping criterion.
 - Write a code to define a Discretization layer and set the strategy to "custom" with a custom model checkpointing mechanism.
 - Write a code to define a Discretization layer and set the strategy to "custom" with a custom model deployment approach.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

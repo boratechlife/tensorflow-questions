@@ -66,3 +66,17 @@ description: Practice questions for tf math divide no nan.
 - Implement a function that divides a tensor array element-wise by a scalar array using tf.math.divide_no_nan.
 - Write a code to divide a matrix array element-wise by another matrix array using tf.math.divide_no_nan.
 - How can you divide a matrix array element-wise by a tensor array using tf.math.divide_no_nan?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

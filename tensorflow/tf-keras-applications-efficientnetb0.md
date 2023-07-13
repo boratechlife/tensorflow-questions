@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications efficientnetb0.
 - Write a code to remove a specific layer from the EfficientNetB0 model.
 - Write a code to replace a specific layer in the EfficientNetB0 model with a new layer.
 - Write a code to clear the session and release the memory occupied by the EfficientNetB0 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

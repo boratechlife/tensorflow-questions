@@ -66,3 +66,17 @@ description: Practice questions for tf metrics top k categorical accuracy.
 - Write a code to calculate the top-10 categorical accuracy for a given set of predictions and labels, with a specified k value, using tf.metrics.top_k_categorical_accuracy.
 - Write a code to calculate the top-1 categorical accuracy for a TensorFlow model, with a specified k value, using tf.metrics.top_k_categorical_accuracy.
 - Write a code to calculate the top-3 categorical accuracy for a TensorFlow model, with a specified k value, using tf.metrics.top_k_categorical_accuracy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf config threading set intra op parallelism
 - Write a code to set the number of intra-op parallelism threads to a value determined by the TensorFlow profiling results.
 - Write a code to set the number of intra-op parallelism threads to a specific value based on the TensorFlow model's synchronization requirements.
 - Write a code to set the number of intra-op parallelism threads to a value that improves TensorFlow's performance on systems with heterogeneous CPU architectures.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

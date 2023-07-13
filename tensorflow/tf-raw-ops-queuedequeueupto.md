@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops queuedequeueupto.
 - How can you specify the number of elements to dequeue based on a condition using tf.raw_ops.QueueDequeueUpTo?
 - Write a code to dequeue up to 3 elements from a TensorFlow queue and compute their element-wise logarithm using tf.raw_ops.QueueDequeueUpTo.
 - How can you handle cases where the dequeued elements need to be duplicated or replicated using tf.raw_ops.QueueDequeueUpTo?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

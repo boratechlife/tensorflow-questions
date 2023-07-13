@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental get synchronous execu
 - Write a code to set get_synchronous_execution to True and print the updated value and a confirmation message.
 - Write a code to set get_synchronous_execution to False and print the updated value and a confirmation message.
 - Write a code to enable synchronous execution and print the updated value and a confirmation message.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops avgpool.
 - Write a code to apply average pooling on a 3D tensor using "tf.raw_ops.AvgPool" with a kernel size of 2x2x2, padding, stride, dilations, ceil mode, count include pad, and a specific data format.
 - Write a code to perform average pooling on a given input tensor using "tf.raw_ops.AvgPool" and calculate the output shape with a specified padding, stride, data format, dilations, ceil mode, count include pad, and explicit paddings.
 - Write a code to apply average pooling to a 2D input tensor using "tf.raw_ops.AvgPool" with a kernel size of 2x2, padding, dilations, ceil mode, count include pad, and explicit paddings, and print the resulting tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

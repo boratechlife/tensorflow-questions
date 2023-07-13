@@ -66,3 +66,17 @@ description: Practice questions for tf debugging set log device placement.
 - Write a code to set the verbosity level of device placement logging for all TensorFlow operations.
 - Write a code to print the current verbosity level of device placement logging for all TensorFlow operations.
 - Write a code to set the logging device placement for all TensorFlow operations to only show placements on a specific device.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

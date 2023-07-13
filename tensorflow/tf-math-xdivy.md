@@ -115,3 +115,17 @@ description: Practice questions for tf math xdivy.
 - Write a code to divide two tensors element-wise and return the division result as a floating-point number using "tf.math.xdivy".
 - 
 - Write a code to divide a tensor by a scalar and handle division by zero using "tf.math.xdivy".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fft3d.
 - Write a code to apply a 3D morphological filter to an image using "tf.raw_ops.FFT3D" in TensorFlow.
 - Write a code to calculate the 3D coherence phase difference between two signals using "tf.raw_ops.FFT3D" in TensorFlow.
 - Write a code to apply a 3D non-local means filter to an image using "tf.raw_ops.FFT3D" in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

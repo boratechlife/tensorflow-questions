@@ -66,3 +66,17 @@ description: Practice questions for tf keras activations softsign.
 - Write a code to apply the "softsign" activation function to a tensor using TensorFlow's mathematical operations and clip the output values.
 - Write a code to create a Keras model with "softsign" activation and use cross-validation during training.
 - Write a code to apply the "softsign" activation function to a specific layer of a Keras model and initialize its weights using a custom scheme.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

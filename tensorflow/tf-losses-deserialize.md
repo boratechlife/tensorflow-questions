@@ -115,3 +115,17 @@ description: Practice questions for tf losses deserialize.
 - Write a code to deserialize multiple loss functions and apply them with different weights using tf.losses.deserialize.
 - 
 - Write a code to deserialize multiple loss functions and apply them with different settings in a training loop using tf.losses.deserialize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

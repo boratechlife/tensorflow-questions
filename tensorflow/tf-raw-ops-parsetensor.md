@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to parse a tensor of floats using tf.raw_ops.ParseTensor and count the number of values less than a given threshold.
 - Write a code to parse a tensor of strings using tf.raw_ops.ParseTensor and find the indices of all strings ending with a specific suffix.
 - Write a code to parse a tensor of booleans using tf.raw_ops.ParseTensor and check if any value is True.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

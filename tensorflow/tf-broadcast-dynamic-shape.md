@@ -66,3 +66,17 @@ description: Practice questions for tf broadcast dynamic shape.
 - Write a code to find the maximum shape among multiple dynamic shapes and static shapes using tf.broadcast_dynamic_shape.
 - Write a code to find the minimum shape among multiple dynamic shapes and static shapes using tf.broadcast_dynamic_shape.
 - Write a code to check if multiple dynamic shapes and static shapes can be broadcasted to multiple common shapes using tf.broadcast_dynamic_shape.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

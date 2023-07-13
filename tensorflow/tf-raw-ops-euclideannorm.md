@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops euclideannorm.
 - How can you use "tf.raw_ops.EuclideanNorm" to compute the pairwise Euclidean distance between two sets of tensors?
 - Write a code to calculate the Euclidean norm of a tensor and perform element-wise exponentiation with a scalar using "tf.raw_ops.EuclideanNorm".
 - How can you calculate the Euclidean norm of a tensor and perform element-wise logarithm using "tf.raw_ops.EuclideanNorm"?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

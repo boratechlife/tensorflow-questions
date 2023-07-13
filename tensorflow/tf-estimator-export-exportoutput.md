@@ -66,3 +66,17 @@ description: Practice questions for tf estimator export exportoutput.
 - Write a code to check if an instance of ExportOutput has specified asset files and serving signature.
 - Write a code to remove the asset files and serving signature from an instance of ExportOutput.
 - Write a code to create an instance of ExportOutput with a specified asset files, serving signature, and serving defaults.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

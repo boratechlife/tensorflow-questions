@@ -66,3 +66,17 @@ description: Practice questions for tf image adjust jpeg quality.
 - Write a code to adjust the JPEG quality of an image and perform image captioning on the adjusted image.
 - Write a code to adjust the JPEG quality of an image and perform image generation using a generative adversarial network (GAN).
 - Write a code to adjust the JPEG quality of an image and perform image segmentation using a U-Net architecture.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

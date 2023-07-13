@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor initialize multi cli
 - Write a code to calculate the Jensen-Shannon divergence matrix of weights across all clients in tf.experimental.dtensor.
 - Write a code to calculate the Kullback-Leibler (KL) divergence matrix of weights across all clients in tf.experimental.dtensor.
 - Write a code to calculate the Wasserstein distance matrix of weights across all clients in tf.experimental.dtensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

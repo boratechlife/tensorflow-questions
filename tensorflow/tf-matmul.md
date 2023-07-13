@@ -66,3 +66,17 @@ description: Practice questions for tf matmul.
 - Write a code to multiply a tensor by a Kronecker product using tf.matmul.
 - Write a code to multiply a batch of matrices by Kronecker products using tf.matmul.
 - Write a code to multiply a batch of tensors by Kronecker products using tf.matmul.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

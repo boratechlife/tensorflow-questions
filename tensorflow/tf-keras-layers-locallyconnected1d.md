@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers locallyconnected1d.
 - Write a code to add a LocallyConnected1D layer to an existing model and set the filters parameter to 32.
 - Write a code to create a LocallyConnected1D layer and set the padding parameter to 'same'.
 - Write a code to add a LocallyConnected1D layer to an existing model and set the padding parameter to 'valid'.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

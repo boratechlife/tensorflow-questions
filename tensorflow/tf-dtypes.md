@@ -66,3 +66,17 @@ description: Practice questions for tf dtypes.
 - Write a code to check if a tensor has a data type suitable for half-precision computations.
 - Write a code to convert a tensor to a custom data type.
 - Write a code to create a tensor with a specific data type and values initialized from another tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

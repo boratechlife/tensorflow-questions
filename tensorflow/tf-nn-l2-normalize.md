@@ -66,3 +66,17 @@ description: Practice questions for tf nn l2 normalize.
 - How can you normalize a tensor along the first dimension using tf.nn.l2_normalize?
 - Write a code to normalize a tensor and specify the epsilon value in tf.nn.l2_normalize.
 - How can you apply tf.nn.l2_normalize to normalize a tensor with a specified order of the norm?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

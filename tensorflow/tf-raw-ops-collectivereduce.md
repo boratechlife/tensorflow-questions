@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectivereduce.
 - Implement a code snippet to perform a bitwise exponentiation operation on a TensorFlow tensor using tf.raw_ops.CollectiveReduce.
 - How can you use tf.raw_ops.CollectiveReduce to compute the element-wise logarithm of a TensorFlow tensor?
 - Write a code to perform a collective reduction operation on a TensorFlow tensor to calculate the logical implication of its elements.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

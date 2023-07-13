@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics kl divergence.
 - Write a code to calculate the KL divergence between two probability distributions given as TensorFlow RaggedTensors with different row splits and unknown dimensions using tf.keras.metrics.kl_divergence.
 - Write a code to calculate the KL divergence between two probability distributions represented as TensorFlow Tensors with different batch sizes and unknown dimensions using tf.keras.metrics.kl_divergence.
 - Write a code to calculate the KL divergence between two probability distributions given as TensorFlow SparseTensors with different batch sizes and unknown dimensions using tf.keras.metrics.kl_divergence.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

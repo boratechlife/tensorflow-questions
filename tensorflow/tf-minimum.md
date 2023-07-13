@@ -66,3 +66,17 @@ description: Practice questions for tf minimum.
 - Write a code to find the minimum values in multiple tensors and return their indices and values using tf.minimum.
 - Write a code to find the minimum values in multiple tensors and return a boolean mask where the minimum values are True using tf.minimum.
 - Write a code to find the minimum values in multiple tensors and return a tensor where the minimum values are replaced with a given value using tf.minimum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

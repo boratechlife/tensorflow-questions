@@ -66,3 +66,17 @@ description: Practice questions for tf logical or.
 - Write a code to create a boolean tensor with the same shape as a given tensor and set values based on a condition using tf.logical_or.
 - Write a code to perform a logical OR operation between a boolean tensor and a constant value using tf.logical_or.
 - Write a code to check if any element in a tensor is equal to a specific value using tf.logical_or.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

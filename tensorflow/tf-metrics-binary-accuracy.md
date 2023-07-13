@@ -66,3 +66,17 @@ description: Practice questions for tf metrics binary accuracy.
 - Write a code to calculate the running binary accuracy for a sequence of predictions and labels, considering a dynamic threshold value, using "tf.metrics.binary_accuracy".
 - Write a code to initialize the binary accuracy metric with a dynamic threshold value using "tf.metrics.binary_accuracy".
 - Write a code to reset the binary accuracy metric to its initial state, considering a dynamic threshold value, using "tf.metrics.binary_accuracy".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

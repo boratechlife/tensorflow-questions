@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental set virtual device co
 - How can you specify a specific order for GPU devices in TensorFlow using tf.config.experimental.set_virtual_device_configuration?
 - Write a code to configure the virtual device configuration to disable memory growth for virtual devices using tf.config.experimental.set_virtual_device_configuration.
 - How can you disable memory growth for virtual devices in TensorFlow using tf.config.experimental.set_virtual_device_configuration?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

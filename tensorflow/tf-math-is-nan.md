@@ -66,3 +66,17 @@ description: Practice questions for tf math is nan.
 - Write a code to replace NaN elements in a tensor with the minimum value along a specific axis.
 - Write a code to replace NaN elements in a tensor with the maximum value along a specific axis.
 - Write a code to calculate the sum of non-NaN values along a specific axis in a tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

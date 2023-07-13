@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing r
 - How can you apply random cropping with preprocessing layers to images stored in multiple directories, perform data augmentation, train a model, evaluate its performance, make predictions, visualize the results, and fine-tune the model using TensorFlow's data pipeline?
 - Write a code to apply random cropping with preprocessing layers to images stored in multiple directories, perform data augmentation, train a model, evaluate its performance, make predictions, visualize the results, fine-tune the model, and save the final trained model using TensorFlow's data pipeline.
 - How can you apply random cropping with preprocessing layers to images stored in multiple directories, perform data augmentation, train a model, evaluate its performance, make predictions, visualize the results, fine-tune the model, and deploy it in a production environment using TensorFlow's data pipeline?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

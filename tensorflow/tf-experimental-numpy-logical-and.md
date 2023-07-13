@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy logical and.
 - Write a code to perform element-wise logical AND between a boolean array and a range of values using tf.experimental.numpy.logical_and.
 - Write a code to create a boolean array by applying a condition on an existing array using tf.experimental.numpy.logical_and.
 - Write a code to check if the elements of an array are odd using tf.experimental.numpy.logical_and.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

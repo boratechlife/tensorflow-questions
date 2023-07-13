@@ -66,3 +66,17 @@ description: Practice questions for tf losses huber.
 - Write a code to calculate the Huber loss and add it to a TensorFlow model's loss function using tf.reduce_max.
 - Write a code to calculate the Huber loss for a batch of predictions and targets and apply different delta values based on the median absolute difference.
 - Write a code to calculate the Huber loss between two tensors and adjust the delta value based on the range of the absolute difference between predictions and targets.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

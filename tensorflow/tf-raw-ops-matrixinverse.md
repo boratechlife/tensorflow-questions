@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops matrixinverse.
 - How can you calculate the matrix inverse using the Hadamard product with tf.raw_ops.MatrixInverse?
 - Write a code to calculate the matrix inverse using the Cayley transform with tf.raw_ops.MatrixInverse.
 - How can you calculate the matrix inverse using the Jacobi method with tf.raw_ops.MatrixInverse?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

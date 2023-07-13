@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers schedules polynomialdecay.
 - Write a code to create a learning rate schedule with a power of 4 and a decay rate of 0.001 using PolynomialDecay.
 - Write a code to create a learning rate schedule with a power of 3 and a decay rate of 0.01 using PolynomialDecay.
 - Write a code to create a learning rate schedule with a power of 0.1 and a decay rate of 0.001 using PolynomialDecay.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

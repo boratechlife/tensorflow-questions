@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to check if a given dtype is a TensorFlow qint8 type.
 - Write a code to check if a given dtype is a TensorFlow quint8 type.
 - Write a code to check if a given dtype is a TensorFlow qint16 type.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

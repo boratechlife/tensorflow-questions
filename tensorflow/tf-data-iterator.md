@@ -66,3 +66,17 @@ description: Practice questions for tf data iterator.
 - Write a code to create a TensorFlow dataset and compute the element-wise power of the dataset using tf.data.Dataset.map.
 - Write a code to create a TensorFlow dataset and calculate the element-wise logarithm base 10 of the dataset using tf.data.Dataset.map.
 - Write a code to create a TensorFlow dataset and calculate the element-wise floor division with a scalar value using tf.data.Dataset.map.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

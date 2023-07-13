@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy power.
 - Write a code to calculate the power of each element in a tensor raised to the corresponding element in a matrix and store the results in a new tensor using tf.experimental.numpy.power.
 - Write a code to calculate the square of each element in a tensor and return the results as a NumPy array using tf.experimental.numpy.power.
 - Write a code to calculate the power of each element in a tensor raised to a specified exponent and return the results as a NumPy array using tf.experimental.numpy.power.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

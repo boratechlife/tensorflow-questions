@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops abs.
 - Write a code to compute the element-wise absolute arcsine between two tensors using tf.raw_ops.Abs.
 - Write a code to compute the element-wise absolute arccosine between two tensors using tf.raw_ops.Abs.
 - Write a code to compute the element-wise absolute arctangent between two tensors using tf.raw_ops.Abs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

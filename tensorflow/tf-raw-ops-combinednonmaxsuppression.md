@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops combinednonmaxsuppression.
 - How can you adjust the center_point_box parameter in Combined Non-Max Suppression?
 - Write a code to apply Combined Non-Max Suppression to a set of bounding boxes and scores, filtering out boxes based on their confidence values.
 - How can you use Combined Non-Max Suppression to handle small object detection in an image?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

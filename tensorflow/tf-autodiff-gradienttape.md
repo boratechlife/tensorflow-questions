@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to compute the gradient of a function and perform Nesterov accelerated gradient optimization using tf.autodiff.GradientTape.
 - Write a code to compute the gradient of a function and perform momentum-based stochastic gradient descent using tf.autodiff.GradientTape.
 - Write a code to compute the gradient of a function and perform coordinate descent optimization using tf.autodiff.GradientTape.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

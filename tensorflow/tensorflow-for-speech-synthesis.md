@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - What are the challenges and future directions of research in TensorFlow-based speech synthesis?
 - Can you discuss the potential privacy concerns related to speech synthesis technology?
 - How can you deploy a TensorFlow-based speech synthesis model in a production environment?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

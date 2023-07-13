@@ -66,3 +66,17 @@ description: Practice questions for tf random stateless normal.
 - Write a code to generate random numbers from a normal distribution with mean 0 and standard deviation 1, and calculate their correlation matrix using tf.random.stateless_normal.
 - Write a code to generate random numbers from a normal distribution with mean 0 and standard deviation 1, and perform a principal component analysis (PCA) using tf.random.stateless_normal.
 - Write a code to generate random numbers from a normal distribution with mean 0 and standard deviation 1, and perform a linear regression using tf.random.stateless_normal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

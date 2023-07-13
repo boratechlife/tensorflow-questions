@@ -66,3 +66,17 @@ description: Practice questions for tf nest is nested.
 - Write a code to check if a tuple of tuples is nested using tf.nest.is_nested.
 - Write a code to verify if a tuple of strings is nested using tf.nest.is_nested.
 - Write a code to determine if a tuple of NumPy arrays is nested using tf.nest.is_nested.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

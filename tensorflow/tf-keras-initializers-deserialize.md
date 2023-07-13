@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers deserialize.
 - How can you deserialize an initializer object and use it to initialize a specific layer in a pre-trained model with a custom output regularization function using tf.keras.initializers.deserialize?
 - Write a code to deserialize an initializer object and use it to initialize a specific layer in a pre-trained model with a custom loss weighting function using tf.keras.initializers.deserialize.
 - How can you deserialize an initializer object and use it to initialize a specific layer in a pre-trained model with a custom layer-wise learning rate function using tf.keras.initializers.deserialize?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

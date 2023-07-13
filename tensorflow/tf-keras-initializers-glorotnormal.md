@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers glorotnormal.
 - Write a code to initialize a recurrent layer with Glorot normal initialization using tf.keras.initializers.GlorotNormal.
 - Write a code to initialize a convolutional layer with Glorot normal initialization in TensorFlow.
 - Write a code to initialize a fully connected layer with Glorot normal initialization in Keras.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

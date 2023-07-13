@@ -66,3 +66,17 @@ description: Practice questions for tf metrics binaryaccuracy.
 - Write a code to calculate binary accuracy using tf.metrics.BinaryAccuracy and handle early stopping during training.
 - Write a code to calculate binary accuracy using tf.metrics.BinaryAccuracy and handle model checkpoints.
 - Write a code to calculate binary accuracy using tf.metrics.BinaryAccuracy and handle model ensembles.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

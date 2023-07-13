@@ -66,3 +66,17 @@ description: Practice questions for tf queue randomshufflequeue.
 - Write a code to find the kth largest element in a RandomShuffleQueue.
 - Write a code to remove all elements from a RandomShuffleQueue that satisfy a given condition.
 - Write a code to iterate over the elements of a RandomShuffleQueue and perform an operation on each element.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

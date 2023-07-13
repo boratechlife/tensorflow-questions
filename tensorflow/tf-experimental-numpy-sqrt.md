@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy sqrt.
 - Write a code to calculate the square root of each element in a given TensorFlow tensor and handle the case of NaN inputs by returning NaN as the result, rounding the results to the nearest integer using tf.experimental.numpy.sqrt.
 - Write a code to calculate the square root of each element in a given TensorFlow tensor and handle the case of NaN inputs by returning NaN as the result, rounding the results to the nearest integer, and storing the results in a new tensor using tf.experimental.numpy.sqrt.
 - Write a code to calculate the square root of each element in a given TensorFlow tensor and handle the case of NaN inputs by returning NaN as the result, rounding the results to the nearest integer, and returning the results as a NumPy array using tf.experimental.numpy.sqrt.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

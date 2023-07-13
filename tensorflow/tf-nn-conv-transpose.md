@@ -66,3 +66,17 @@ description: Practice questions for tf nn conv transpose.
 - Write a code to perform a 3D transposed convolution with dropout using tf.nn.conv_transpose.
 - Write a code to apply a transposed convolution with batch normalization using tf.nn.conv_transpose.
 - Write a code to perform a 2D transposed convolution with batch normalization using tf.nn.conv_transpose.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

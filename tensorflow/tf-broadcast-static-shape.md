@@ -66,3 +66,17 @@ description: Practice questions for tf broadcast static shape.
 - Write a code to calculate the resulting shape after broadcasting a tensor with one of them having different dimensions in different axes to a target shape using tf.broadcast_static_shape.
 - Write a code to determine if a tensor with one of them having different dimensions in different axes can be broadcasted to a target shape using tf.broadcast_static_shape.
 - Write a code to find the broadcast shape of two shapes with one of them being a higher-dimensional tensor using tf.broadcast_static_shape.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

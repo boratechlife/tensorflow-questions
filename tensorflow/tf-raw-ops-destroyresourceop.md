@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops destroyresourceop.
 - Write a code to destroy a resource and trigger a log event using tf.raw_ops.DestroyResourceOp.
 - Write a code to destroy a resource and update a result variable using tf.raw_ops.DestroyResourceOp.
 - Write a code to destroy a resource and perform a finalization step using tf.raw_ops.DestroyResourceOp.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf quantization fake quant with min max vars
 - How can you specify the quantization mode as "ROUND_HALF_AWAY_FROM_ZERO" in tf.quantization.fake_quant_with_min_max_vars?
 - Write a code to specify the quantization mode as "ROUND_HALF_TO_EVEN" in tf.quantization.fake_quant_with_min_max_vars.
 - How can you specify the quantization mode as "ROUND_HALF_DOWN" in tf.quantization.fake_quant_with_min_max_vars?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

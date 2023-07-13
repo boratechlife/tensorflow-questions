@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy polyval.
 - Write a code to evaluate a polynomial using tf.experimental.numpy.polyval with coefficients provided as a dense tensor and a ragged input point.
 - Write a code to calculate the value of a polynomial using tf.experimental.numpy.polyval with coefficients provided as a constant tensor and a ragged input point.
 - Write a code to evaluate a polynomial using tf.experimental.numpy.polyval with coefficients provided as a variable tensor and a ragged input point.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

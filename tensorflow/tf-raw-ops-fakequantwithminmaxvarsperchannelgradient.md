@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fakequantwithminmaxvarsperchannel
 - Write a code to update the min/max variables using a custom optimization algorithm with tf.raw_ops.FakeQuantWithMinMaxVarsPerChannelGradient and a specified regularization term.
 - Write a code to calculate the gradients of tf.raw_ops.FakeQuantWithMinMaxVarsPerChannelGradient with respect to the input and fake quantization parameters, considering only a specific channel.
 - Write a code to implement a custom regularization function using tf.raw_ops.FakeQuantWithMinMaxVarsPerChannelGradient and a specified scaling factor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

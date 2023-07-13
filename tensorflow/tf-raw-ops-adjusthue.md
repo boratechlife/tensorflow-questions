@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops adjusthue.
 - Write a code to adjust the hue of an image and perform image synthesis using the tf.raw_ops.AdjustHue operation.
 - Write a code to adjust the hue of an image and perform image matting using the tf.raw_ops.AdjustHue operation.
 - Write a code to adjust the hue of an image and perform image warping using the tf.raw_ops.AdjustHue operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

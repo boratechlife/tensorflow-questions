@@ -115,3 +115,17 @@ description: Practice questions for tf keras backend is keras tensor.
 - Write a code to validate if a specific tensor is a Keras tensor or a range iterator object using is_keras_tensor.
 - 
 - Write a code to determine if a given tensor is a Keras tensor or a zip iterator object using is_keras_tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

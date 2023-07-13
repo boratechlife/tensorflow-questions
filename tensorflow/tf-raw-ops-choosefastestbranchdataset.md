@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops choosefastestbranchdataset.
 - Write a code to create a ChooseFastestBranchDataset and apply a transformation to each element with state.
 - Write a code to create a ChooseFastestBranchDataset and reduce the elements using a binary function and initial state.
 - Write a code to create a ChooseFastestBranchDataset and apply a group by transformation to the elements.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops deserializesparse.
 - How can you deserialize a sparse tensor and apply a batch normalization to its values using tf.raw_ops.DeserializeSparse?
 - Write a code to deserialize a sparse tensor and apply a layer normalization to its values using tf.raw_ops.DeserializeSparse.
 - How can you deserialize a sparse tensor and apply a group normalization to its values using tf.raw_ops.DeserializeSparse?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

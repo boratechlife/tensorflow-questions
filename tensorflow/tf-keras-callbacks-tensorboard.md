@@ -66,3 +66,17 @@ description: Practice questions for tf keras callbacks tensorboard.
 - Write a code to set the profile top_k option for TensorBoard.
 - Write a code to set the profile output option for TensorBoard.
 - Write a code to set the profile step option for TensorBoard.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

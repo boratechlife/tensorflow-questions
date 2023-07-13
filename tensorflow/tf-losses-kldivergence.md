@@ -115,3 +115,17 @@ description: Practice questions for tf losses kldivergence.
 - Write a code to compute the KL divergence loss between two tensors, where one tensor represents a mixture of continuous and discrete distributions and the other represents a mixture of categorical and continuous distributions.
 - 
 - Write a code to calculate the KL divergence loss between two probability distributions and add a regularization term based on the entropy of the target distribution, weighted by a tensor-valued function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras preprocessing sequence pad sequence
 - Write a code to pad sequences in a list using pad_sequences with a specified maximum length, padding pre and truncating post, and dtype int.
 - Write a code to pad sequences in a list using pad_sequences with a specified maximum length, padding post and truncating pre, and dtype float.
 - Write a code to pad sequences in a list using pad_sequences with a specified maximum length, padding pre and truncating pre, and dtype float.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

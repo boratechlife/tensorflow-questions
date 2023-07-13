@@ -66,3 +66,17 @@ description: Practice questions for tf losses meanabsoluteerror.
 - Write a code to use tf.losses.MeanAbsoluteError in a TensorFlow Lite model.
 - Write a code to calculate the mean absolute error loss for a TensorFlow Keras model using element-wise subtraction and mean reduction.
 - Write a code to compute the gradient of the mean absolute error loss with respect to the model's parameters using tf.GradientTape and apply L2 regularization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

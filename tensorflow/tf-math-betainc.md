@@ -66,3 +66,17 @@ description: Practice questions for tf math betainc.
 - Write a code to calculate the complement of the regularized incomplete beta function with a range of alpha, beta, and x values using "tf.math.betainc".
 - Write a code to calculate the inverse of the lower regularized incomplete beta function with specific alpha, beta, and p values using "tf.math.betainc".
 - Write a code to calculate the inverse of the lower regularized incomplete beta function with a range of alpha, beta, and p values using "tf.math.betainc".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

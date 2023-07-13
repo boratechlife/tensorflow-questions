@@ -66,3 +66,17 @@ description: Practice questions for tf initializers henormal.
 - Write a code to initialize a tensor using tf.initializers.HeNormal and calculate its element-wise scaled exponential linear unit (SELU).
 - Write a code to initialize a tensor using tf.initializers.HeNormal and calculate its element-wise softmax cross-entropy.
 - Write a code to initialize a tensor using tf.initializers.HeNormal and calculate its element-wise squared hinge loss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

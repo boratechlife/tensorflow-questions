@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy roll.
 - Write a code to roll the elements of a 3D array randomly in a zigzag pattern along the third axis, wrapping around.
 - Write a code to roll the elements of a 1D array randomly in a zigzag pattern within a given range, wrapping around.
 - Write a code to roll the elements of a 2D array randomly in a zigzag pattern within a given range along the first axis, wrapping around.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

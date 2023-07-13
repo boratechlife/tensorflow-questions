@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops applyproximaladagrad.
 - Write a code to apply ApplyProximalAdagrad updates to a subset of variables using a specific decay factor.
 - Write a code to apply ApplyProximalAdagrad updates to a subset of variables using a specific l1 regularization strength.
 - Write a code to apply ApplyProximalAdagrad updates to a subset of variables using a specific l2 regularization strength.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

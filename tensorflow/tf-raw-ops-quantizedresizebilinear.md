@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops quantizedresizebilinear.
 - Write a code to resize a batch of images with the align corners parameter using tf.raw_ops.QuantizedResizeBilinear.
 - Implement a function to resize a batch of images using tf.raw_ops.QuantizedResizeBilinear, specifying the align corners parameter and applying anti-aliasing.
 - How can you resize an image and specify the half pixel centers using tf.raw_ops.QuantizedResizeBilinear?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

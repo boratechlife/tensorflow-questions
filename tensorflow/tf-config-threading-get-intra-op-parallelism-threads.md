@@ -66,3 +66,17 @@ description: Practice questions for tf config threading get intra op parallelism
 - Write a code to mask two TensorFlow tensors with a certain mask.
 - Write a code to reduce two TensorFlow tensors with a certain reduction operation.
 - Write a code to aggregate two TensorFlow tensors with a certain aggregation operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

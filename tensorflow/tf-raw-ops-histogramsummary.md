@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops histogramsummary.
 - How can you log the histogram summary for a tensor and exclude specific tensor values?
 - Write a code to create a histogram summary and log it with a specific transparency.
 - How can you log the histogram summary for a tensor and exclude specific tensor shapes?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

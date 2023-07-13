@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers experimental rmsprop.
 - Write a code to set the number of accumulated gradients in the RMSprop optimizer.
 - Write a code to apply momentum accumulation to the RMSprop optimizer.
 - Write a code to disable momentum accumulation for the RMSprop optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils plot model.
 - Write a code to include the layer activation types (e.g., ReLU, sigmoid) in the model architecture plot.
 - Write a code to customize the appearance of the layer activation types in the model architecture plot.
 - Write a code to include the layer output names in the model architecture plot.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops nonmaxsuppression.
 - Write a code to suppress irrelevant bounding boxes based on their overlap and score, up to a maximum number of output boxes, with a minimum score threshold, a specified IoU threshold, a soft NMS sigma value, a specified device context, a specified name, and a post-processing score threshold using tf.raw_ops.NonMaxSuppression.
 - Write a code to perform non-maximum suppression on a list of bounding boxes with a specified maximum number of output boxes, a minimum score threshold, a specified IoU threshold, a soft NMS sigma value, a specified device context, a specified name, a post-processing score threshold, and a post-processing iou threshold using tf.raw_ops.NonMaxSuppression.
 - Write a code to apply non-maximum suppression to a set of bounding boxes with a maximum number of output boxes, a minimum score threshold, a specified IoU threshold, a soft NMS sigma value, a specified device context, a specified name, a post-processing score threshold, and a post-processing iou threshold using tf.raw_ops.NonMaxSuppression.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

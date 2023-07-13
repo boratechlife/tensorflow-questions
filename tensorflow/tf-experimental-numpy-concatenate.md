@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy concatenate.
 - Write a code to concatenate two NumPy arrays along the third axis, preserving all dimensions, using tf.experimental.numpy.concatenate.
 - Write a code to concatenate two NumPy arrays along a specified axis, preserving all dimensions, using tf.experimental.numpy.concatenate.
 - Write a code to concatenate two NumPy arrays along the second axis, treating them as 1D arrays, using tf.experimental.numpy.concatenate.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

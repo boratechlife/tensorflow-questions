@@ -66,3 +66,17 @@ description: Practice questions for tf nn leaky relu.
 - Write a code to create a deep convolutional neural network with "tf.nn.leaky_relu" activation function and batch normalization.
 - Write a code to apply "tf.nn.leaky_relu" activation function to a tensor and adjust the negative slope dynamically based on input data and a predefined schedule with exponential decay.
 - Write a code to initialize the weights of a convolutional variational autoencoder using "tf.nn.leaky_relu" and He initialization.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

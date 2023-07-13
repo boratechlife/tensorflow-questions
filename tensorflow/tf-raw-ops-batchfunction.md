@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchfunction.
 - Write a code to create a BatchFunction that operates on a dynamic batch size.
 - Write a code to create a BatchFunction with a custom device placement.
 - Write a code to create a BatchFunction that allows for dynamic device placement.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

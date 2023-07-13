@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops min.
 - Write a code to find the minimum element along a specific axis of a TensorFlow tensor and return the kth minimum element using tf.raw_ops.Min.
 - Write a code to compute the minimum value of a TensorFlow tensor and return the kth minimum element along with its index using tf.raw_ops.Min.
 - Write a code to find the minimum element along a specific axis of a TensorFlow tensor and return the kth minimum element along with its index using tf.raw_ops.Min.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf image decode and crop jpeg.
 - How can you convert the cropped image to a tensor with float values after decoding and cropping using tf.image.decode_and_crop_jpeg?
 - Write a code to decode and crop a grayscale JPEG image with a fixed aspect ratio and a specific crop size, and then apply a custom function to it using tf.image.decode_and_crop_jpeg.
 - How can you apply a custom preprocessing function to the cropped image after decoding and cropping using tf.image.decode_and_crop_jpeg?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf math unsorted segment max.
 - Write a code to compute the maximum value within each segment of a tensor using tf.math.unsorted_segment_max.
 - Write a code to determine the largest element within each segment of a tensor using tf.math.unsorted_segment_max.
 - Write a code to find the maximum value for each segment in a tensor using tf.math.unsorted_segment_max.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf math logical and.
 - Write a code to find the minimum value in a tensor after performing logical AND with a scalar, broadcasting the shapes if necessary.
 - Write a code to create a boolean tensor by performing logical AND between two boolean tensors, broadcasting the shapes if necessary, and store the result in a new tensor using a loop.
 - Write a code to compute the sum of a boolean tensor after performing logical AND with a boolean tensor, broadcasting the shapes if necessary, and store the result in a new tensor using a loop.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

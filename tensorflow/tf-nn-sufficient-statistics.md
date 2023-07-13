@@ -66,3 +66,17 @@ description: Practice questions for tf nn sufficient statistics.
 - Write a code to compute the count, variance, and shift of a batch of tensors along a specific axis and keepdims using tf.nn.sufficient_statistics.
 - Write a code to calculate the count, variance, and shift of a tensor along a specific axis, sample weights, and shift using tf.nn.sufficient_statistics.
 - Write a code to compute the count, variance, and shift of a batch of tensors along a specific axis, sample weights, and shift using tf.nn.sufficient_statistics.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

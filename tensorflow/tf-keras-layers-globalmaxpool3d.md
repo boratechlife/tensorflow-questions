@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers globalmaxpool3d.
 - Write a code to create a model with GlobalMaxPool3D and learning rate schedules.
 - Write a code to add a GlobalMaxPool3D layer with a specified momentum parameter.
 - Write a code to apply GlobalMaxPool3D to a 3D tensor with a different momentum setting.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

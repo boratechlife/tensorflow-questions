@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy stack.
 - Write a code to stack NumPy arrays of different shapes and dimensions along multiple axes and specify the positions using user input with tf.experimental.numpy.stack.
 - Write a code to stack NumPy arrays of different shapes and dimensions along multiple axes and specify the positions using a combination of negative values and variables with tf.experimental.numpy.stack.
 - Write a code to stack a single NumPy array multiple times along a specified axis using tf.experimental.numpy.stack.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

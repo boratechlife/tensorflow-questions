@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops atan.
 - Write a code to calculate the arctangent of a tensor and calculate its element-wise cumulative product using the "tf.raw_ops.Atan" function.
 - Write a code to calculate the arctangent of a tensor and find the top-k values using the "tf.raw_ops.Atan" function.
 - Write a code to calculate the arctangent of a tensor and sort its values in ascending order using the "tf.raw_ops.Atan" function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

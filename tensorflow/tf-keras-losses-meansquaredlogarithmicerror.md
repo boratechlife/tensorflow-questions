@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses meansquaredlogarithmicerror.
 - Write a code to calculate the MeanSquaredLogarithmicError loss between two TensorFlow constant variable symbolic constant placeholder constant symbolic constant placeholder tensors.
 - Write a code to calculate the MeanSquaredLogarithmicError loss between two TensorFlow constant variable symbolic constant placeholder constant symbolic constant placeholder constant tensors.
 - Write a code to calculate the MeanSquaredLogarithmicError loss between two TensorFlow constant variable symbolic constant placeholder constant symbolic constant placeholder constant symbolic tensors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

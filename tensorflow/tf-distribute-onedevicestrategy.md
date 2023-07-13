@@ -66,3 +66,17 @@ description: Practice questions for tf distribute onedevicestrategy.
 - Write a code to apply tf.distribute.OneDeviceStrategy to a TensorFlow Keras optimizer.
 - Write a code to apply tf.distribute.OneDeviceStrategy to a TensorFlow Keras variable.
 - Write a code to apply tf.distribute.OneDeviceStrategy to a TensorFlow Keras loss function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications convnext preprocess in
 - Write a code to preprocess an image using preprocess_input and perform image super-resolution using a pre-trained ConvNet.
 - Write a code to preprocess a batch of images using preprocess_input and perform image super-resolution using a pre-trained ConvNet.
 - Write a code to preprocess an image using preprocess_input and perform image inpainting using a pre-trained ConvNet.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

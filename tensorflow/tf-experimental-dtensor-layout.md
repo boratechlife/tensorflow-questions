@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor layout.
 - Write a code to find the indices of the maximum value along a specific dimension in a Layout object.
 - Write a code to find the indices of the minimum value along a specific dimension in a Layout object.
 - Write a code to apply a reduction operation along a specific dimension in a Layout object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

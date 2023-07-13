@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops dilation2d.
 - How can you apply a rank-based dilation operation to an image tensor using tf.raw_ops.Dilation2D?
 - Write a code to perform a grayscale dilation operation with a variable kernel size for each dimension using tf.raw_ops.Dilation2D.
 - How can you apply a dilation operation to a specific region of interest in an image tensor using tf.raw_ops.Dilation2D while preserving the rest of the image?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

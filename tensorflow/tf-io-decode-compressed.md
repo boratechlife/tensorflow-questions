@@ -66,3 +66,17 @@ description: Practice questions for tf io decode compressed.
 - Write a code to decode a compressed string and perform model deployment using tf.io.decode_compressed.
 - Write a code to decode a compressed file and perform time complexity analysis using tf.io.decode_compressed.
 - Write a code to decode a compressed string and perform memory usage analysis using tf.io.decode_compressed.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

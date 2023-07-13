@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops boostedtreesupdateensemble.
 - How can you set the maximum number of gradients in tf.raw_ops.BoostedTreesUpdateEnsemble?
 - Write a code to update the ensemble with dense labeled examples and weights using tf.raw_ops.BoostedTreesUpdateEnsemble.
 - How can you set the maximum number of hessians in tf.raw_ops.BoostedTreesUpdateEnsemble?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

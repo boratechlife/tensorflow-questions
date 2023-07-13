@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy bitwise or.
 - Write a code to perform a bitwise OR operation between two binary arrays and check if the result is equal to a given decimal value using "tf.experimental.numpy.bitwise_or".
 - Write a code to perform a bitwise OR operation between an integer and a binary array and display the result in octal format using "tf.experimental.numpy.bitwise_or".
 - Write a code to apply a bitwise OR operation to each element in a binary array with a constant value and check if the result is equal to a given binary array using "tf.experimental.numpy.bitwise_or".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

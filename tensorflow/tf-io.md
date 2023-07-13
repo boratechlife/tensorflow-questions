@@ -66,3 +66,17 @@ description: Practice questions for tf io.
 - Write a code to read a serialized TensorFlow sparse tensor value from a string using tf.io.
 - Write a code to encode a TensorFlow sparse tensor value as a string using tf.io.
 - Write a code to read a serialized TensorFlow tensor list from a string using tf.io.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

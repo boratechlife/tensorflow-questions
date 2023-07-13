@@ -66,3 +66,17 @@ description: Practice questions for tf initializers identityy.
 - Write a code to initialize a variable with the identity matrix of size 5x5 using tf.initializers.identity and then reshape it into a 25-element vector.
 - Write a code to initialize a variable with the identity matrix of size 3x3 using tf.initializers.identity and then convert it to a numpy array.
 - Write a code to initialize a variable with the identity matrix of size 4x4 using tf.initializers.identity and then convert it to a list.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

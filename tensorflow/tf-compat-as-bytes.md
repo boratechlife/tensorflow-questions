@@ -66,3 +66,17 @@ description: Practice questions for tf compat as bytes.
 - Write a code to convert a TensorFlow tensor operation name to bytes using tf.compat.as_bytes.
 - Write a code to convert a TensorFlow tensor device to bytes using tf.compat.as_bytes.
 - Write a code to convert a TensorFlow tensor data type to bytes using tf.compat.as_bytes.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

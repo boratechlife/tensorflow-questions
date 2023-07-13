@@ -66,3 +66,17 @@ description: Practice questions for tf identity n.
 - Write a code to use tf.identity_n to create a new tensor that is an identity copy of a given tensor, preserving its shape, dtype, name, device placement, attribute, control flow context, resource container, synchronization context, while changing its tensor representation.
 - Write a code to apply tf.identity_n to a list of tensors and return a list of resulting tensors with the same dtypes, names, shapes, device placements, attributes, control flow contexts, resource containers, synchronization contexts, and tensor representations.
 - Write a code to create a TensorFlow graph that uses tf.identity_n to create a new tensor with the same shape, dtype, name, device placement, attribute, control flow context, resource container, synchronization context, and tensor representation as a given tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

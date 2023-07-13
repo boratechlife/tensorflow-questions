@@ -66,3 +66,17 @@ description: Practice questions for tf lite experimental load delegate.
 - How can you load a TensorFlow Lite model with the XNNPACK delegate and set the XNNPACK backend thread affinity?
 - Write a code to load a TensorFlow Lite model with the Hexagon DSP delegate and set the maximum number of delegate kernel threads.
 - How can you load a TensorFlow Lite model with the NNAPI delegate and specify the NNAPI execution preference?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

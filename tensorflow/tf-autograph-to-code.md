@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to define a TensorFlow autograph function with tensor splitting and convert it to Python code using tf.autograph.to_code.
 - Write a code to convert a TensorFlow autograph function with tensor splitting to Python code using tf.autograph.to_code.
 - Write a code to define a TensorFlow autograph function with tensor broadcasting and reshape and convert it to Python code using tf.autograph.to_code.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

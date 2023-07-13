@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications regnetx016.
 - Write a code to set the stem width for the stem of the RegNetX016 model.
 - Write a code to set the initial downsample for the downsampling layers of the RegNetX016 model.
 - Write a code to set the activation function for the stem of the RegNetX016 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

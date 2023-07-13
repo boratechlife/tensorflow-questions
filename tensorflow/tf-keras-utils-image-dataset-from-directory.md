@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils image dataset from directory.
 - Write a code to apply random brightness augmentation to the images using image_dataset_from_directory.
 - Write a code to apply random contrast augmentation to the images using image_dataset_from_directory.
 - Write a code to apply random zoom augmentation to the images using image_dataset_from_directory.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

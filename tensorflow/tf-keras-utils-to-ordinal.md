@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils to ordinal.
 - Write a code to convert a dictionary of numbers to their ordinal representations using tf.keras.utils.to_ordinal and handle an exception if any of the inputs are negative.
 - Write a code to convert a tuple of numbers to their ordinal representations using tf.keras.utils.to_ordinal and handle an exception if any of the inputs are negative.
 - Write a code to convert a string of numbers to their ordinal representations using tf.keras.utils.to_ordinal and handle an exception if any of the inputs are negative.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

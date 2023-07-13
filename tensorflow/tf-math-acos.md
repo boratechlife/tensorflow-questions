@@ -66,3 +66,17 @@ description: Practice questions for tf math acos.
 - Write a code to calculate the arccosine of a tensor and calculate the element-wise multiplication with a scalar using tf.math.acos.
 - Write a code to calculate the arccosine of a tensor and calculate the element-wise division with a scalar using tf.math.acos.
 - Write a code to calculate the arccosine of a tensor and calculate the element-wise exponentiation with a scalar using tf.math.acos.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

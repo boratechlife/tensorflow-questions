@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops batchfft3d.
 - Write a code to compute the batch 3D FFT of a tensor and then compute its frequency domain convolution.
 - Write a code to compute the batch 3D FFT of a tensor and then compute its frequency domain deconvolution.
 - Write a code to compute the batch 3D FFT of a tensor and then compute its frequency domain cross-correlation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

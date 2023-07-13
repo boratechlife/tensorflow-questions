@@ -66,3 +66,17 @@ description: Practice questions for tf math bessel i0e.
 - Write a code to calculate the exponential of the sum of tf.math.bessel_i0e values for a given list of inputs.
 - Write a code to calculate the cumulative sum of tf.math.bessel_i0e values and divide each element by its index for a given list of inputs.
 - Write a code to calculate the logarithm of the product of tf.math.bessel_i0e values for a given list of inputs and a specified base.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental sample from datasets.
 - How can you sample examples from multiple datasets and apply a window transformation using sample_from_datasets?
 - Write a code to sample examples from a dataset and compute the variance using sample_from_datasets.
 - How can you sample examples from multiple datasets and compute the variance using sample_from_datasets?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

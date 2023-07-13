@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops applyftrl.
 - Write a code to get the current L1 regularization strength of the FTRL optimizer.
 - Write a code to get the current L2 regularization strength of the FTRL optimizer.
 - Write a code to get the current learning rate power of the FTRL optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

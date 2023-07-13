@@ -66,3 +66,17 @@ description: Practice questions for tf math reduce euclidean norm.
 - Write a code to find the minimum Euclidean norm among a list of sparse tensors using tf.math.reduce_euclidean_norm.
 - Write a code to compute the average Euclidean norm of a sparse matrix using tf.math.reduce_euclidean_norm.
 - Write a code to calculate the L2 norm of a sparse vector using tf.math.reduce_euclidean_norm.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

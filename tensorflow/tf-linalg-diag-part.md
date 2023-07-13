@@ -66,3 +66,17 @@ description: Practice questions for tf linalg diag part.
 - Write a code to check if any diagonal element from a sparse matrix is negative using "tf.linalg.diag_part".
 - Write a code to check if all diagonal elements from a sparse matrix are zero using "tf.linalg.diag_part".
 - Write a code to check if any diagonal element from a sparse matrix is non-zero using "tf.linalg.diag_part".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

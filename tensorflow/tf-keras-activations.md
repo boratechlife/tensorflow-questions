@@ -66,3 +66,17 @@ description: Practice questions for tf keras activations.
 - Write a code to apply the approx_tanh activation function using tf.keras.activations on a given tensor.
 - Write a code to apply the hard_mish activation function using tf.keras.activations on a given tensor.
 - Write a code to apply the binary activation function using tf.keras.activations on a given tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

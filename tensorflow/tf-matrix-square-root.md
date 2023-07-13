@@ -66,3 +66,17 @@ description: Practice questions for tf matrix square root.
 - Write a code to calculate the element-wise square root of a matrix and calculate the element-wise cosine similarity between the resulting matrix and another matrix.
 - Write a code to calculate the element-wise square root of a matrix and calculate the element-wise hyperbolic tangent of the resulting matrix.
 - Write a code to calculate the element-wise square root of a matrix and calculate the element-wise reciprocal of the resulting matrix.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

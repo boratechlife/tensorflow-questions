@@ -66,3 +66,17 @@ description: Practice questions for tf experimental unregister dispatch for.
 - Write a code to unregister multiple dispatch functions for all TensorFlow operations and a specific target backend.
 - Write a code to unregister a dispatch function based on the input signature for all TensorFlow operations and a specific target backend.
 - Write a code to unregister a dispatch function based on the output signature for all TensorFlow operations and a specific target backend.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

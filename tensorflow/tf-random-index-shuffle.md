@@ -66,3 +66,17 @@ description: Practice questions for tf random index shuffle.
 - Write a code to shuffle a NumPy array and compute the covariance matrix using tf.random_index_shuffle.
 - Write a code to shuffle a Pandas DataFrame and group the data based on a specific column using tf.random_index_shuffle.
 - Write a code to shuffle a TensorFlow dataset and perform data augmentation using tf.random_index_shuffle.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

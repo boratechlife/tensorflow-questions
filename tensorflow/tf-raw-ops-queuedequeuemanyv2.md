@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops queuedequeuemanyv2.
 - Write a code to dequeue and normalize multiple batches of data and compute their variance using tf.raw_ops.QueueDequeueManyV2.
 - Write a code to dequeue a fixed number of sequences and apply a transformer model on them with attention masks using tf.raw_ops.QueueDequeueManyV2.
 - Write a code to dequeue multiple elements and compute their minimum using tf.raw_ops.QueueDequeueManyV2.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

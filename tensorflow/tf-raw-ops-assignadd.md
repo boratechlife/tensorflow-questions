@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops assignadd.
 - Write a code to increment a tensor by a variable matrix with different shapes using AssignAdd.
 - Write a code to update a tensor by adding a variable matrix element-wise with different shapes using AssignAdd.
 - Write a code to increment a tensor by a variable tensor with different shapes using AssignAdd.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

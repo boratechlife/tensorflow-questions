@@ -66,3 +66,17 @@ description: Practice questions for tf keras activations swish.
 - Write a code to apply the swish activation function to a TensorFlow placeholder using TensorFlow 2.x, distribution strategy, and mixed precision.
 - Write a code to create a Keras model with a swish activation function for variational autoencoders.
 - Write a code to apply the swish activation function to a TensorFlow variable using TensorFlow 2.x, distribution strategy, and mixed precision.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

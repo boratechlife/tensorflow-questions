@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils text dataset from directory.
 - How can you enable shuffling only for the training data while loading the text data using text_dataset_from_directory?
 - Write a code to load text data from a directory and specify the validation split as a fixed number of samples using text_dataset_from_directory.
 - How can you load text data from a directory and specify the label mode as 'sparse' using text_dataset_from_directory.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

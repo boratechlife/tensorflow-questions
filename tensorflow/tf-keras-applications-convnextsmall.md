@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications convnextsmall.
 - Write a code to set the momentum of batch normalization in a specific layer of the ConvNeXtSmall model to 0.99.
 - Write a code to set the epsilon value of batch normalization in a specific layer of the ConvNeXtSmall model to 1e-5.
 - Write a code to set the epsilon value of batch normalization in a specific layer of the ConvNeXtSmall model to 1e-3.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics msle1.
 - Write a code to evaluate the MSLE metric for a multi-class classification model with additional evaluation metrics.
 - Write a code to calculate the MSLE metric for a model's predicted logits and true logits with class weights and sample weights.
 - Write a code to compute the MSLE metric for a binary classification problem with class weights and additional evaluation metrics.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

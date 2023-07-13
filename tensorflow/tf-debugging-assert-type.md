@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert type.
 - Write a code to assert that a given tensor has an int32 or uint32 data type.
 - Write a code to assert that a given tensor has a string or variant data type.
 - Write a code to assert that a given tensor has a bool or resource data type.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

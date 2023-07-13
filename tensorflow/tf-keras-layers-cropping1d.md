@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers cropping1d.
 - Write a code to create a Cropping1D layer with a cropping width of 0 and apply it to a tensor x.
 - Write a code to create a Cropping1D layer with a cropping width of -1 and apply it to a tensor x.
 - Write a code to create a Cropping1D layer with a cropping width of -10 and apply it to a tensor x.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

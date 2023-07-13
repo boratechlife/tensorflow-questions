@@ -66,3 +66,17 @@ description: Practice questions for tf nn ctc unique labels.
 - Write a code to find the nearest unique label to a given value in a sequence using tf.nn.ctc_unique_labels.
 - Write a code to find the farthest unique label from a given value in a sequence using tf.nn.ctc_unique_labels.
 - Write a code to calculate the cumulative difference of unique labels in a sequence using tf.nn.ctc_unique_labels.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

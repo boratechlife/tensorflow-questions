@@ -115,3 +115,17 @@ description: Practice questions for tf distribute cluster resolver.
 - Write a code to create a tf.distribute.cluster_resolver object with a specific task type and task index and task id.
 - 
 - Write a code to create a tf.distribute.cluster_resolver object with a specific task index and master address and job name.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

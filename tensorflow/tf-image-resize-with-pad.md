@@ -66,3 +66,17 @@ description: Practice questions for tf image resize with pad.
 - Write a code to resize an image using tf.image.resize_with_pad and specify the padding mode as "ZERO" with different constant values and padding sizes for each channel.
 - Write a code to resize an image using tf.image.resize_with_pad and specify the padding mode as "CONSTANT" with different constant values and padding sizes for each channel separately for the height and width dimensions.
 - Write a code to resize an image using tf.image.resize_with_pad and specify the padding mode as "REFLECT" with different constant values and padding sizes for each channel separately for the height and width dimensions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

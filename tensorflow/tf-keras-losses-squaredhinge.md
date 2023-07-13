@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses squaredhinge.
 - Write a code to apply the squared hinge loss to a time series forecasting problem.
 - Write a code to calculate the squared hinge loss for a batch of predictions and targets with L2 regularization and a margin of 0.3.
 - Write a code to create a model with a squared hinge loss and data augmentation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

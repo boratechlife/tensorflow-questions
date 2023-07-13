@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental save.
 - Write a code to save a TensorFlow dataset using "tf.data.experimental.save" and include the dataset augmentation methods in the saved file.
 - Write a code to save a TensorFlow dataset using "tf.data.experimental.save" and specify the serialization format for augmentation methods.
 - Write a code to save a TensorFlow dataset using "tf.data.experimental.save" and specify the serialization options for augmentation methods.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

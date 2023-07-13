@@ -66,3 +66,17 @@ description: Practice questions for tf linalg inv.
 - Write a code to calculate the inverse of a matrix and handle the case when the matrix is sparse, symmetric, diagonally dominant, positive definite, ill-conditioned, has missing values, contains complex values, is too large to fit in memory, is not numerically stable, is not invertible, is not square, is not positive definite, is not diagonally dominant, is not ill-conditioned, is not sparse, is not symmetric, is not positive semi-definite, is not positive definite, is not diagonally dominant, and is not ill-conditioned using tf.linalg.inv.
 - Write a code to calculate the inverse of a matrix and handle the case when the matrix is sparse, symmetric, diagonally dominant, positive definite, ill-conditioned, has missing values, contains complex values, is too large to fit in memory, is not numerically stable, is not invertible, is not square, is not positive definite, is not diagonally dominant, is not ill-conditioned, is not sparse, is not symmetric, is not positive semi-definite, is not positive definite, is not diagonally dominant, is not ill-conditioned, and is not sparse using tf.linalg.inv.
 - Write a code to calculate the inverse of a matrix and handle the case when the matrix is sparse, symmetric, diagonally dominant, positive definite, ill-conditioned, has missing values, contains complex values, is too large to fit in memory, is not numerically stable, is not invertible, is not square, is not positive definite, is not diagonally dominant, is not ill-conditioned, is not sparse, is not symmetric, is not positive semi-definite, is not positive definite, is not diagonally dominant, is not ill-conditioned, is not sparse, and is not symmetric using tf.linalg.inv.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

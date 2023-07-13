@@ -67,3 +67,17 @@ description: Practice questions for tf keras applications convnext convnextsmall
 - Write a code to implement early stopping based on the change in validation loss during training of the ConvNeXtSmall model.
 - Write a code to perform model quantization on the ConvNeXtSmall model for deployment on resource-constrained devices.
 - Write a code to implement a custom layer in the ConvNeXtSmall model architecture.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

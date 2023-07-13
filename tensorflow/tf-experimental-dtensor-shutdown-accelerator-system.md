@@ -66,3 +66,17 @@ description: Practice questions for tf experimental dtensor shutdown accelerator
 - Write a code to calculate the element-wise logarithm of a dtensor object.
 - Write a code to calculate the element-wise square root of a dtensor object.
 - Write a code to calculate the element-wise sign of a dtensor object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

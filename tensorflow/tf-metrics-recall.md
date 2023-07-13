@@ -66,3 +66,17 @@ description: Practice questions for tf metrics recall.
 - Compute the recall score for a machine translation task using tf.metrics.Recall.
 - Calculate the recall score for a named entity recognition (NER) problem using transformers and tf.metrics.Recall.
 - Compute the recall score for a graph classification task using tf.metrics.Recall.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

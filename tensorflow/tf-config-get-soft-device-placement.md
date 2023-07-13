@@ -66,3 +66,17 @@ description: Practice questions for tf config get soft device placement.
 - Write a code to change the soft device placement policy to "experimental" in TensorFlow.
 - Write a code to set the soft device placement policy to "local" in TensorFlow.
 - Write a code to configure TensorFlow to use the soft device placement policy by default.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

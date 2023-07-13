@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops fingerprint.
 - Write a code to calculate the fingerprint of multiple tensors and store the results in a list of tuples using tf.raw_ops.Fingerprint.
 - Write a code to check if a tensor's fingerprint matches a given fingerprint and print the result using tf.raw_ops.Fingerprint.
 - Write a code to calculate the fingerprint of a tensor and display it in hexadecimal format using tf.raw_ops.Fingerprint.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

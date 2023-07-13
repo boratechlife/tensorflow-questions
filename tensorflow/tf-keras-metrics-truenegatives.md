@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics truenegatives.
 - Write a code to calculate the true negatives for a transfer learning with frozen layers scenario using TrueNegatives.
 - Write a code to calculate the true negatives for a one-class classification with kernel density estimation problem using TrueNegatives.
 - Write a code to calculate the true negatives for a semi-supervised learning with self-training problem using TrueNegatives.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

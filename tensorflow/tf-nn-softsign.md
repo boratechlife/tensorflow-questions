@@ -66,3 +66,17 @@ description: Practice questions for tf nn softsign.
 - Write a code to apply the tf.nn.softsign activation function to a tensor and calculate the sigmoid cross-entropy loss with given labels.
 - Write a code to create a feed-forward neural network (FNN) layer with tf.nn.softsign as the activation function and apply L1 and L2 regularization.
 - Write a code to apply the tf.nn.softsign activation function to a tensor and calculate the mean squared error loss with given labels.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

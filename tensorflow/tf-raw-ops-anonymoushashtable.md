@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops anonymoushashtable.
 - Write a code to sort the keys in an AnonymousHashTable in descending order.
 - Write a code to sort the values in an AnonymousHashTable in ascending order.
 - Write a code to sort the values in an AnonymousHashTable in descending order.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

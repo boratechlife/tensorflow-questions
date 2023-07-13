@@ -66,3 +66,17 @@ description: Practice questions for tf losses poisson.
 - Write a code to calculate the Poisson loss for a batch of data points and apply a sample-wise weight mask using tf.losses.poisson.
 - Write a code to calculate the Poisson loss for a tensor with predicted and target values and apply a label smoothing weight mask using tf.losses.poisson.
 - Write a code to calculate the Poisson loss for a batch of data points and apply a gamma weight mask using tf.losses.poisson.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

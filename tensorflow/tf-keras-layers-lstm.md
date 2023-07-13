@@ -115,3 +115,17 @@ description: Practice questions for tf keras layers lstm.
 - Write a code to add a bidirectional LSTM layer with 64 units, return the final hidden state output only, and use a dropout rate of 0.3 to a sequential model.
 - 
 - Write a code to add a bidirectional LSTM layer with 32 units, return the final hidden state output only, and use a kernel regularizer with l2 weight of 0.01 to a sequential model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

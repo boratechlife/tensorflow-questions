@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Explain the concept of SHAP interaction values and their use in interpreting TensorFlow models.
 - What are some techniques for interpreting TensorFlow models trained on audio data?
 - How can you combine multiple interpretability techniques to gain a comprehensive understanding of TensorFlow models?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

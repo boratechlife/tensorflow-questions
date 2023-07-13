@@ -66,3 +66,17 @@ description: Practice questions for tf custom gradient.
 - Write a code to define a TensorFlow operation with a custom gradient that computes the gradient of the inputs and applies a custom channel-wise update.
 - Write a code to define a TensorFlow operation with a custom gradient that computes the gradient of the inputs and applies a custom layer-wise update.
 - Write a code to define a TensorFlow operation with a custom gradient that computes the gradient of the inputs and applies a custom network-wise update.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

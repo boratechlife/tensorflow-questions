@@ -66,3 +66,17 @@ description: Practice questions for tf ragged row splits to segment ids.
 - Use "tf.ragged.row_splits_to_segment_ids" in TensorFlow to transform a list of row splits to segment IDs.
 - Write a code snippet in TensorFlow to convert row splits to segment IDs using the "tf.ragged.row_splits_to_segment_ids" function.
 - Implement a function in TensorFlow that utilizes "tf.ragged.row_splits_to_segment_ids" to convert row splits into segment IDs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

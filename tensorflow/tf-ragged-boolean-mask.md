@@ -66,3 +66,17 @@ description: Practice questions for tf ragged boolean mask.
 - Write a code to filter a ragged tensor using a boolean mask and return a new ragged tensor with different number of rows and elements in each row.
 - Write a code to count the number of non-zero elements in a ragged tensor using boolean masking and return the average.
 - Write a code to create a boolean mask for a ragged tensor based on the element-wise differences exceeding a threshold and return the indices.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

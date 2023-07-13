@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers experimental preprocessing r
 - How to apply RandomZoom layer with a target height and width of (200, 200)?
 - Write a code to create a RandomZoom layer and apply it to an image with a zoom range of (0.8, 1.2) and a fill mode of 'constant'.
 - How to set the zoom range to (0.5, 1.5) and fill mode to 'nearest' for RandomZoom layer?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

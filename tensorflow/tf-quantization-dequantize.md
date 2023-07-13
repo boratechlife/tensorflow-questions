@@ -66,3 +66,17 @@ description: Practice questions for tf quantization dequantize.
 - How can you specify the quantization parameters for each channel during dequantization using tf.quantization.dequantize?
 - Write a code to dequantize a tensor and specify the axis for the scale and zero-point arguments using tf.quantization.dequantize.
 - How can you specify the data type for the scale and zero-point tensors in tf.quantization.dequantize?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf config experimental set synchronous execu
 - Write a code to set the automatic sharding algorithm for synchronous execution.
 - Write a code to configure error handling with synchronous execution in TensorFlow.
 - Write a code to enable error logging while using synchronous execution in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

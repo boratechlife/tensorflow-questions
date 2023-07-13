@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers truncated normal.
 - How can you initialize a bias tensor with a specific seed, mean, standard deviation, dtype, shape, and name using the "truncated_normal" initializer?
 - Write a code to create a recurrent layer with weights initialized using the "truncated_normal" initializer and specify the seed, mean, standard deviation, and dtype.
 - How can you initialize a variable with a specific seed, mean, standard deviation, dtype, shape, and name using the "truncated_normal" initializer?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras dtensor experimental optimizers ada
 - Write a code to update the weights of the Adam optimizer using gradients.
 - Write a code to update the weights of the Adam optimizer using a loss function.
 - Write a code to get the current weights of the Adam optimizer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

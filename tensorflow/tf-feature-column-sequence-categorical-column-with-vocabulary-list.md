@@ -66,3 +66,17 @@ description: Practice questions for tf feature column sequence categorical colum
 - Write a code to preprocess a sequence of categorical features using sequence_categorical_column_with_vocabulary_list and apply categorical sequence_categorical_column.
 - Write a code to preprocess a sequence of categorical features using sequence_categorical_column_with_vocabulary_list and apply categorical sequence_numeric_column.
 - Write a code to preprocess a sequence of categorical features using sequence_categorical_column_with_vocabulary_list and apply categorical sequence_embedding_column.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

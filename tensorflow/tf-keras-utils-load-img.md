@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils load img.
 - Write a code to load an image and apply a specific color correction technique (e.g., color balancing, color cast removal) using tf.keras.utils.load_img.
 - Write a code to load an image and apply a specific image restoration technique (e.g., deblurring, denoising) using tf.keras.utils.load_img.
 - Write a code to load an image and apply a specific geometric transformation (e.g., scaling, shearing) using tf.keras.utils.load_img.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

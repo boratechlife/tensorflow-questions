@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops ncclreduce.
 - Implement a code to perform an element-wise minimum reduction using tf.raw_ops.NcclReduce on a tensor.
 - Write a code to perform a logical OR reduction using tf.raw_ops.NcclReduce on a tensor.
 - How can you use tf.raw_ops.NcclReduce to calculate the element-wise hyperbolic tangent of a tensor?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

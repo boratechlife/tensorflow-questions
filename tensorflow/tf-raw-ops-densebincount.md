@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops densebincount.
 - How can you apply tf.raw_ops.DenseBincount to a tensor and calculate the empirical cumulative distribution function (CDF) of elements grouped by indices?
 - Write a code to calculate the dense bincount of a tensor and return the indices and counts as a treemap.
 - How can you use tf.raw_ops.DenseBincount to compute the interquartile range (IQR) of elements in a tensor grouped by indices?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

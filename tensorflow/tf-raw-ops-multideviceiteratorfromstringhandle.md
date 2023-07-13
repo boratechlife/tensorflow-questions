@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops multideviceiteratorfromstringhand
 - How can you set the distributed ordinal option of a MultiDeviceIterator using the MultiDeviceIteratorFromStringHandle function?
 - Write a code to get the distributed ordinal option of a MultiDeviceIterator using the MultiDeviceIteratorFromStringHandle function.
 - How can you set the enable_dynamic_routing option of a MultiDeviceIterator using the MultiDeviceIteratorFromStringHandle function?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

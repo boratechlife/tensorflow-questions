@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can TensorFlow be utilized for text generation in a specific style or domain in NLP?
 - Explain the concept of context embeddings in NLP and how they can be created using TensorFlow.
 - What are some future trends and advancements expected in the field of TensorFlow for NLP?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

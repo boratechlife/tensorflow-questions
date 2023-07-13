@@ -66,3 +66,17 @@ description: Practice questions for tf nn zero fraction.
 - Write a code to find the zero fraction of a tensor after element-wise recurrent neural network (RNN) operation using tf.nn.zero_fraction.
 - Write a code to determine the zero fraction of a tensor after element-wise long short-term memory (LSTM) operation using tf.nn.zero_fraction.
 - Write a code to compute the zero fraction of a tensor after element-wise gated recurrent unit (GRU) operation using tf.nn.zero_fraction.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

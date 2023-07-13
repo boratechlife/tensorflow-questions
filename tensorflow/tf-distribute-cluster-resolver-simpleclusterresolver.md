@@ -115,3 +115,17 @@ description: Practice questions for tf distribute cluster resolver simplecluster
 - Write a code to resolve the cluster and get the current task's accelerator device type using a SimpleClusterResolver.
 - 
 - Write a code to resolve the cluster and get the current task's accelerator device ID using a SimpleClusterResolver.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

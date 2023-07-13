@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops acos.
 - Write a code to calculate the inverse cosine of a tensor and calculate the element-wise floor using tf.raw_ops.Acos.
 - Write a code to calculate the inverse cosine of a tensor and calculate the element-wise ceiling using tf.raw_ops.Acos.
 - Write a code to calculate the inverse cosine of a tensor and calculate the element-wise round using tf.raw_ops.Acos.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

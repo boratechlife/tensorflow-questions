@@ -66,3 +66,17 @@ description: Practice questions for tf linalg diag.
 - Write a code to compute the matrix vector product of a given matrix and vector using tf.linalg.diag.
 - Write a code to compute the matrix row-wise maximum of a given matrix using tf.linalg.diag.
 - Write a code to compute the matrix column-wise maximum of a given matrix using tf.linalg.diag.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

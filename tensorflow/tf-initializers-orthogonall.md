@@ -66,3 +66,17 @@ description: Practice questions for tf initializers orthogonall.
 - Write a code to initialize a tensor with orthogonal values and a specific shape using tf.initializers.orthogonal.
 - Write a code to initialize a tensor with orthogonal values and a specific partition_info using tf.initializers.orthogonal.
 - Write a code to initialize a tensor with orthogonal values and a specific name using tf.initializers.orthogonal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops identityreaderv2.
 - Write a code to calculate the mean squared error between two tf.raw_ops.IdentityReaderV2 objects.
 - Write a code to calculate the root mean squared error between two tf.raw_ops.IdentityReaderV2 objects.
 - Write a code to calculate the Pearson correlation coefficient between two tf.raw_ops.IdentityReaderV2 objects.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

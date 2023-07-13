@@ -66,3 +66,17 @@ description: Practice questions for tf losses binarycrossentropy.
 - Write a code to calculate the binary cross-entropy loss with reduction type SUM_BY_NONZERO_WEIGHTS and then compute the sum using tf.reduce_sum.
 - Write a code to calculate the binary cross-entropy loss with reduction type REDUCE_MEAN and then compute the sum using tf.reduce_sum.
 - Write a code to calculate the binary cross-entropy loss with reduction type REDUCE_MAX and then compute the sum using tf.reduce_sum.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

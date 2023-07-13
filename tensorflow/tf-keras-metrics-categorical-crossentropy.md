@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics categorical crossentropy.
 - Write a code to compute the categorical cross-entropy loss for a model with temporal convolutions.
 - Write a code to calculate the categorical cross-entropy loss for a model with mixture density networks.
 - Write a code to compute the categorical cross-entropy loss for a model with gradient reversal layers.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

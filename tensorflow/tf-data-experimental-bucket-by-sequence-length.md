@@ -66,3 +66,17 @@ description: Practice questions for tf data experimental bucket by sequence leng
 - Write a code to handle class imbalance within each bucket using tf.data.experimental.bucket_by_sequence_length.
 - Write a code to handle missing timestamps in time series data using tf.data.experimental.bucket_by_sequence_length.
 - Write a code to handle sequences with irregular patterns using tf.data.experimental.bucket_by_sequence_length.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

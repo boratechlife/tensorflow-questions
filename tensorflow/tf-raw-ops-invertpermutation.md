@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops invertpermutation.
 - How can you use the tf.raw_ops.InvertPermutation function to implement a tensor flatten operation?
 - Write a code to invert a permutation and apply it to a tensor, performing a logical AND operation, using tf.raw_ops.InvertPermutation.
 - How can you use tf.raw_ops.InvertPermutation to implement a tensor transpose operation?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

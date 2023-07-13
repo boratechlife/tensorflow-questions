@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops multinomial.
 - Write a code to generate a violin plot of samples drawn from a multinomial distribution using tf.raw_ops.Multinomial.
 - Write a code to calculate the weighted mean of samples drawn from a multinomial distribution using tf.raw_ops.Multinomial.
 - Write a code to calculate the harmonic mean of samples drawn from a multinomial distribution using tf.raw_ops.Multinomial.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

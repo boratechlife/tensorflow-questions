@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops orderedmapincompletesize.
 - Write a code to calculate the intersection of two OrderedMapIncompleteSize objects.
 - Write a code to check if two OrderedMapIncompleteSize objects are equal.
 - Write a code to check if two OrderedMapIncompleteSize objects are disjoint.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

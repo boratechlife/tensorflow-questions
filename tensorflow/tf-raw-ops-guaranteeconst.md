@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops guaranteeconst.
 - Write a code to convert a non-constant tensor into a constant tensor, but only if it meets a specific condition based on its number of elements.
 - Write a code to guarantee that a tensor is a constant tensor, but only if it satisfies a custom validation function that takes the tensor's rank as input.
 - Write a code to convert a tensor into a constant tensor, but only if it has a specific dtype and shape, and its values are all within a specific tolerance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

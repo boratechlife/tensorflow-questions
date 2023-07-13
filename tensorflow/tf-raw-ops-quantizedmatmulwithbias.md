@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops quantizedmatmulwithbias.
 - Can you give an example of how to perform quantized matrix multiplication with bias using "tf.raw_ops.QuantizedMatMulWithBias" in TensorFlow?
 - 
 - Write a code snippet to multiply two quantized matrices with bias using "tf.raw_ops.QuantizedMatMulWithBias" operation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

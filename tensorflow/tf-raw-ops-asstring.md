@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops asstring.
 - Write a code to convert a tensor with a shape [5, 10, 15, 20, 25, 30, 35, 40, 45, 50] to a string tensor using tf.raw_ops.AsString.
 - Write a code to convert a tensor with a shape [10, 20, 30, 40, 50, 60, 70, 80, 90, 100] to a string tensor using tf.raw_ops.AsString.
 - Write a code to convert a tensor with a shape [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000] to a string tensor using tf.raw_ops.AsString.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

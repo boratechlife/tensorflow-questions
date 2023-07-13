@@ -66,3 +66,17 @@ description: Practice questions for tf nn max pool with argmax.
 - Write a code to calculate the gradients using max pooling with argmax and local response normalization and backpropagate them through the network.
 - Write a code to apply max pooling with argmax on a tensor and perform batch normalization on the pooled values.
 - Write a code to calculate the gradients using max pooling with argmax and batch normalization and backpropagate them through the network.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers lstmcell.
 - Write a code to create an LSTMCell with a specified unit forget bias as 1.5, unit dropout as 0.3, recurrent dropout as 0.2, and cell clipping value as 8.0.
 - Write a code to create an LSTMCell with a specified recurrent projection size as 512, use bias flag as True, and kernel regularizer as l1(0.001).
 - Write a code to create an LSTMCell with a specified recurrent regularizer as l2(0.001), bias regularizer as l1_l2(l1=0.001, l2=0.001), and activity regularizer as l2(0.001).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf image rgb to yuv.
 - Write a code to convert an RGB image to YUV and calculate the median absolute deviation of the V channel.
 - Write a code to convert an RGB image to YUV and calculate the sum of squared differences between the Y and V channels.
 - Write a code to convert an RGB image to YUV and calculate the gradient orientation of the U channel.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

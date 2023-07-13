@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy take along axis.
 - How can you extract elements from a 3D array using a combination of negative indices and indices along a specific axis?
 - Write a code to retrieve elements from a 4D array using a combination of negative indices and indices along the last axis.
 - How can you take elements from a higher-dimensional array using a combination of negative indices and indices?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

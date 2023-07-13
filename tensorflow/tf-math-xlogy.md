@@ -66,3 +66,17 @@ description: Practice questions for tf math xlogy.
 - Write a code to calculate the logarithm of tensor elements and compute their element-wise less than or equal to comparison using tf.math.xlogy.
 - Write a code to calculate the logarithm of tensor elements and compute their element-wise equal to comparison using tf.math.xlogy.
 - Write a code to calculate the logarithm of tensor elements and compute their element-wise not equal to comparison using tf.math.xlogy.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to parse an example using "tf.raw_ops.ParseExample" and calculate the entropy of the extracted features.
 - Write a code to parse an example using "tf.raw_ops.ParseExample" and calculate the mutual information between the extracted features.
 - Write a code to parse an example using "tf.raw_ops.ParseExample" and perform feature synthesis on the extracted features.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

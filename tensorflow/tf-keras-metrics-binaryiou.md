@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics binaryiou.
 - Write a code to calculate the BinaryIoU metric for a predicted mask and ground truth mask with ensemble predictions.
 - Write a code to calculate the BinaryIoU metric for a predicted mask and ground truth mask using different machine learning models.
 - Write a code to calculate the BinaryIoU metric for a predicted mask and ground truth mask in a multi-class scenario.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

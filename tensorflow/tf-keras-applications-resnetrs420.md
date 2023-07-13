@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications resnetrs420.
 - Write a code to calculate the minimum activation of a specific layer in the ResNet50 model.
 - Write a code to calculate the standard deviation of the activations in a specific layer of the ResNet50 model.
 - Write a code to calculate the mean and standard deviation of the gradients of the ResNet50 model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

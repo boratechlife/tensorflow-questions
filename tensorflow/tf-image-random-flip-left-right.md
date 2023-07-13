@@ -66,3 +66,17 @@ description: Practice questions for tf image random flip left right.
 - How can you apply random flipping to an image while adjusting the probability dynamically based on a certain condition on a pixel level using TensorFlow?
 - Write a code to randomly flip the RGB channels of multiple images in a batch with a specific seed value using tf.image.random_flip_left_right.
 - How can you apply random flipping to an image with a probability that decreases over time using TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

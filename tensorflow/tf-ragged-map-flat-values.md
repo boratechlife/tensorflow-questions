@@ -66,3 +66,17 @@ description: Practice questions for tf ragged map flat values.
 - How can you calculate the modulo of each value in a tf.RaggedTensor with a constant using tf.ragged.map_flat_values?
 - Write a code to compute the element-wise power of a tf.RaggedTensor to a given exponent using tf.ragged.map_flat_values.
 - How can you raise each value of a tf.RaggedTensor to a specific power using tf.ragged.map_flat_values?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

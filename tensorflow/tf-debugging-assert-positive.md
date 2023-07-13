@@ -66,3 +66,17 @@ description: Practice questions for tf debugging assert positive.
 - Write a code to assert that a specific element in a TensorFlow tensor is positive and has a specific audio bitrate using tf.debugging.assert_positive.
 - Write a code to assert that all elements in a TensorFlow tensor are positive and have a specific video resolution using tf.debugging.assert_positive.
 - Write a code to assert that a specific element in a TensorFlow tensor is positive and has a specific video resolution using tf.debugging.assert_positive.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

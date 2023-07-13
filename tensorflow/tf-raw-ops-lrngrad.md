@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops lrngrad.
 - Write a code to calculate the Kronecker product of tf.raw_ops.LRNGrad.
 - Write a code to use tf.raw_ops.LRNGrad to compute the gradients of a tensor convolution operation.
 - Write a code to calculate the LU decomposition of tf.raw_ops.LRNGrad.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

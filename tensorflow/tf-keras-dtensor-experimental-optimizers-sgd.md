@@ -66,3 +66,17 @@ description: Practice questions for tf keras dtensor experimental optimizers sgd
 - Write a code to set the learning rate schedule for the SGD optimizer to be 1cycle learning rate with maximum decay.
 - Write a code to set the learning rate schedule for the SGD optimizer to be triangular learning rate with maximum step size.
 - Write a code to set the learning rate schedule for the SGD optimizer to be exponential range test with maximum iterations.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

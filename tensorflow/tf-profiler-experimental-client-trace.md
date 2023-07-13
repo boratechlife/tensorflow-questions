@@ -66,3 +66,17 @@ description: Practice questions for tf profiler experimental client trace.
 - Write a code to trace both the execution time and memory usage of a TensorFlow model and save the results to a CSV file using tf.profiler.experimental.client.trace.
 - Write a code to trace the execution time of a specific TensorFlow operation and save the results to a CSV file using tf.profiler.experimental.client.trace.
 - Write a code to trace the memory usage of a specific TensorFlow operation and save the results to a CSV file using tf.profiler.experimental.client.trace.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

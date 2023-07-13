@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental partitioners part
 - Write a code to convert a non-partitioned variable to a partitioned variable in TensorFlow.
 - Write a code to convert a non-partitioned variable to a mirrored variable in TensorFlow.
 - Write a code to convert a mirrored variable to a non-partitioned variable in TensorFlow.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

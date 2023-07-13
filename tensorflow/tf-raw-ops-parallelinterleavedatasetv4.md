@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to create a TensorFlow dataset using tf.raw_ops.ParallelInterleaveDatasetV4 and apply a transformation function that computes the cumulative sum of the elements.
 - Write a code to create a TensorFlow dataset using tf.raw_ops.ParallelInterleaveDatasetV4 and set the num_parallel_calls to be proportional to the cycle_length.
 - Write a code to create a TensorFlow dataset using tf.raw_ops.ParallelInterleaveDatasetV4 and set the prefetch_input_elements to be proportional to the cycle_length.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

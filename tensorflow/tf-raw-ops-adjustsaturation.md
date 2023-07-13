@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops adjustsaturation.
 - How can you adjust the saturation of an image using tf.raw_ops.AdjustSaturation and apply the adjustment only to a specific region of interest defined by an object detection model?
 - Write a code to adjust the saturation of an image using tf.raw_ops.AdjustSaturation and apply the adjustment only to a specific color range defined by a semantic segmentation model.
 - How can you adjust the saturation of an image using tf.raw_ops.AdjustSaturation and apply a different adjustment factor to each image in a dataset using TensorFlow's federated learning framework?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

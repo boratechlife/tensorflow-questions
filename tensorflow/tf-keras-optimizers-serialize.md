@@ -66,3 +66,17 @@ description: Practice questions for tf keras optimizers serialize.
 - Write a code to load a serialized optimizer from a JSON file and assign it to a variable using tf.keras.optimizers.deserialize.
 - Write a code to serialize a tf.keras.optimizers.Adamax optimizer and return the serialized form.
 - Write a code to deserialize a serialized optimizer and assign it to a variable using tf.keras.optimizers.deserialize.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

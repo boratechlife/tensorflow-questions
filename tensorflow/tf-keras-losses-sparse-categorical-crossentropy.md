@@ -66,3 +66,17 @@ description: Practice questions for tf keras losses sparse categorical crossentr
 - Write a code to compute the sparse categorical cross-entropy loss and apply transfer learning using a pre-trained model.
 - Write a code to compute the sparse categorical cross-entropy loss and implement a custom activation function using TensorFlow's backend.
 - Write a code to compute the sparse categorical cross-entropy loss and handle class imbalance using class weights and focal loss.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

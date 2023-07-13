@@ -66,3 +66,17 @@ description: Practice questions for tf random normal.
 - Write a code to generate a random tensor of shape (5,) with mean 2 and standard deviation 0.3 using tf.random.normal.
 - Write a code to generate a random tensor of shape (1, 10) with mean 10 and standard deviation 0.01 using tf.random.normal.
 - Write a code to generate a random tensor of shape (2, 2, 2, 2) with mean 1 and standard deviation 0.5 using tf.random.normal.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

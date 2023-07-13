@@ -66,3 +66,17 @@ description: Practice questions for tf math special.
 - Write a code to calculate the elliptic function of the first kind with a given modulus and argument using "tf.math.special".
 - Write a code to compute the elliptic function of the second kind with a given modulus and argument using "tf.math.special".
 - Write a code to calculate the Jacobian elliptic function of a given modulus and argument using "tf.math.special".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf initializers glorotnormal.
 - Write a code to initialize a tensor with shape (None, 512, 512, 1024) using GlorotNormal initializer.
 - Write a code to initialize a tensor with shape (None, 4) using GlorotNormal initializer.
 - Write a code to initialize a tensor with shape (None, 4, 4) using GlorotNormal initializer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

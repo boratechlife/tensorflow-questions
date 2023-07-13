@@ -66,3 +66,17 @@ description: Practice questions for tf quantization fake quant with min max vars
 - Write a code to calculate the quantization error variance for a tensor after applying "tf.quantization.fake_quant_with_min_max_vars_per_channel".
 - Write a code to calculate the quantization error standard deviation for a tensor after applying "tf.quantization.fake_quant_with_min_max_vars_per_channel".
 - Write a code to calculate the quantization error entropy for a tensor after applying "tf.quantization.fake_quant_with_min_max_vars_per_channel".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

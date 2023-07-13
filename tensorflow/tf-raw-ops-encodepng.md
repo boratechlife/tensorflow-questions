@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops encodepng.
 - How can you concatenate multiple image tensors vertically, encode the result as a PNG, and save it using tf.raw_ops.EncodePng?
 - Create a code snippet to convert an image tensor from floating-point values to 8-bit integer values, encode it as a PNG, and save it using tf.raw_ops.EncodePng.
 - Write a function to convert an image tensor from 8-bit integer values to floating-point values, encode it as a PNG, and save it using tf.raw_ops.EncodePng.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

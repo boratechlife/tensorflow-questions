@@ -66,3 +66,17 @@ description: Practice questions for tf distribute experimental rpc.
 - Write a code to implement automatic service discovery and registration in an RPC system using tf.distribute.experimental.rpc.
 - Write a code to implement RPC caching and memoization for performance optimization using tf.distribute.experimental.rpc.
 - Write a code to implement dynamic code generation and versioning in an RPC system using tf.distribute.experimental.rpc.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications imagenet utils decode 
 - Implement a function that takes an image and returns the class labels and probabilities as separate lists using decode_predictions.
 - Write a code to decode predictions from a pre-trained model and visualize the top K predictions.
 - How can you visualize the top K predictions using decode_predictions?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

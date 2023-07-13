@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy asarray.
 - Write a code to convert a NumPy array to a list of tuples using tf.experimental.numpy.asarray.
 - Write a code to convert a list of tuples to a NumPy array using tf.experimental.numpy.asarray.
 - Write a code to convert a list of NumPy arrays to a dictionary of NumPy arrays using tf.experimental.numpy.asarray.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

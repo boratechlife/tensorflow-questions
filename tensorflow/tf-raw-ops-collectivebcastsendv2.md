@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops collectivebcastsendv2.
 - Can you explain the behavior of tf.raw_ops.CollectiveBcastSendV2 when the tensor being broadcasted is too large to fit in memory?
 - Write a code to perform a collective broadcast send operation on a given tensor to a subset of processes using tf.raw_ops.CollectiveBcastSendV2.
 - How can you handle scenarios where the root process becomes unreachable or fails during the execution of tf.raw_ops.CollectiveBcastSendV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

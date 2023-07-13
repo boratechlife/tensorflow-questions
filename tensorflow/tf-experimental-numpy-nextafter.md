@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy nextafter.
 - Write a code to compute the nextafter value for a list of numbers and display the results in a scatter plot using tf.experimental.numpy.nextafter.
 - Write a code to calculate the nextafter value for a given number using tf.experimental.numpy.nextafter and handle any potential precision errors.
 - Write a code to find the nextafter value for a range of numbers and store the results in a new list using tf.experimental.numpy.nextafter.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

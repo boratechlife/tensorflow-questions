@@ -66,3 +66,17 @@ description: Practice questions for tf initializers random uniform.
 - Write a code to initialize a variable named "bias" with random values between -1 and 1 using tf.initializers.random_uniform.
 - Write a code to initialize a tensor of shape (5,) with random values between -10 and 10 using tf.initializers.random_uniform.
 - Write a code to initialize a tensor of shape (2, 3, 4) with random values between 0 and 100 using tf.initializers.random_uniform.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

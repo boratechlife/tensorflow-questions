@@ -66,3 +66,17 @@ description: Practice questions for tf linalg eigvalsh.
 - Write a code to calculate the eigenvalues of a matrix with negative imaginary eigenvalues using "tf.linalg.eigvalsh".
 - Write a code to find the eigenvalues of a matrix with positive imaginary eigenvalues using "tf.linalg.eigvalsh".
 - Write a code to compute the eigenvalues of a matrix with non-zero real and imaginary parts of eigenvalues using "tf.linalg.eigvalsh".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

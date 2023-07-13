@@ -66,3 +66,17 @@ description: Practice questions for tf math erfinv.
 - Write a code to calculate the erfinv of a tensor using TensorFlow's tensor eigen decomposition.
 - Write a code to find the erfinv of a tensor using TensorFlow's tensor singular value decomposition.
 - Write a code to compute the erfinv of a tensor using TensorFlow's tensor inverse.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

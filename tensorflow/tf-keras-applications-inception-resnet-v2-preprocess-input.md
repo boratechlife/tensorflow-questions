@@ -66,3 +66,17 @@ description: Practice questions for tf keras applications inception resnet v2 pr
 - Write a code to preprocess an image using preprocess_input and apply an erosion operation.
 - Write a code to preprocess an image using preprocess_input and apply a dilation operation.
 - Write a code to preprocess an image using preprocess_input and apply a perspective transformation.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

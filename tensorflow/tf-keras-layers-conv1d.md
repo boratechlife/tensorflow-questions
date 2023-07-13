@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers conv1d.
 - Write a code to add a Conv1D layer with a filter size of 128 to an existing model after a Activation('elu') layer.
 - Write a code to create a Conv1D layer with a filter size of 64 and kernel size of 5.
 - Write a code to create a Conv1D layer with a filter size of 32 and padding 'valid'.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

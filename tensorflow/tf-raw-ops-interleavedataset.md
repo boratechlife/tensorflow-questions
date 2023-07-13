@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops interleavedataset.
 - How can you interleave datasets while applying a data augmentation function on each dataset using tf.raw_ops.InterleaveDataset?
 - Write a code to interleave datasets with different outliers using tf.raw_ops.InterleaveDataset.
 - How can you interleave datasets while applying a feature scaling function on each dataset using tf.raw_ops.InterleaveDataset?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

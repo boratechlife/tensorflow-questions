@@ -66,3 +66,17 @@ description: Practice questions for tf feature column sequence categorical colum
 - Write a code to create a sequence_categorical_column_with_identity with a specified number of buckets, dtype, num_oov_buckets, delimiter, default value, key, categorical_column_with_identity, categorical_column_with_vocabulary_list, categorical_column_with_hash_bucket, categorical_column_with_vocabulary_file, categorical_column_with_vocabulary_file_key, categorical_column_with_identity_feature, categorical_column_with_vocabulary_list_feature, and categorical_column_with_hash_bucket_feature.
 - Write a code to create a sequence_categorical_column_with_identity with a specified number of buckets, dtype, num_oov_buckets, delimiter, default value, key, categorical_column_with_identity, categorical_column_with_vocabulary_list, categorical_column_with_hash_bucket, categorical_column_with_vocabulary_file, categorical_column_with_vocabulary_file_key, categorical_column_with_identity_feature, categorical_column_with_vocabulary_list_feature, categorical_column_with_hash_bucket_feature, and categorical_column_with_vocabulary_file_key_feature.
 - Write a code to create a sequence_categorical_column_with_identity with a specified number of buckets, dtype, num_oov_buckets, delimiter, default value, key, categorical_column_with_identity, categorical_column_with_vocabulary_list, categorical_column_with_hash_bucket, categorical_column_with_vocabulary_file, categorical_column_with_vocabulary_file_key, categorical_column_with_identity_feature, categorical_column_with_vocabulary_list_feature, categorical_column_with_hash_bucket_feature, categorical_column_with_vocabulary_file_key_feature, and categorical_column_with_identity_and_hash_bucket_feature.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

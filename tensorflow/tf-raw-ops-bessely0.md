@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops bessely0.
 - Write a code to compute the Bessel function of the second kind of order zero for an array of values using "tf.raw_ops.BesselY0" and plot the output using Matplotlib.
 - Write a code to calculate the Bessel function of the second kind of order zero for a scalar input using TensorFlow's "tf.raw_ops.BesselY0" operation and visualize the result using Matplotlib.
 - Write a code to compute the Bessel function of the second kind of order zero for an array of values and return the result using TensorFlow's "tf.raw_ops.BesselY0" function, and plot the output using Matplotlib.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops orderedmapunstagenokey.
 - Write a code to concatenate two OrderedMapUnstageNoKey objects.
 - Write a code to reverse the order of key-value pairs in an OrderedMapUnstageNoKey object.
 - Write a code to remove duplicate values from an OrderedMapUnstageNoKey object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

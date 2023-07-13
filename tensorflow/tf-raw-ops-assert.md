@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops assert.
 - Write a code to assert that a tensor is element-wise less than or equal to another tensor.
 - Write a code to assert that a tensor satisfies a certain condition.
 - Write a code to assert that a tensor meets a specific criterion.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf random get global generator.
 - Write a code to generate a random tensor of shape (3, 3) with values drawn from a gamma distribution using tf.random.get_global_generator, and then calculate the mean value of the tensor.
 - Write a code to generate a random tensor of shape (4, 4) with values drawn from a log-normal distribution using tf.random.get_global_generator, and then calculate the standard deviation of the tensor.
 - Write a code to generate a random tensor of shape (2, 2) with values drawn from a Poisson distribution using tf.random.get_global_generator, and then calculate the variance of the tensor.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

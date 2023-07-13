@@ -66,3 +66,17 @@ description: Practice questions for tf losses binaryfocalcrossentropy.
 - Write a code to define a binary focal cross-entropy loss function with a gamma value of 1.0 and alpha value of [0.4, 0.6].
 - Write a code to calculate the binary focal cross-entropy loss for a single prediction and label with a custom gamma value.
 - Write a code to compute the binary focal cross-entropy loss using the logits, probabilities, and labels of a model's output.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

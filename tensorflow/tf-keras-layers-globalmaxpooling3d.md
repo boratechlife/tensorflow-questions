@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers globalmaxpooling3d.
 - Write a code to apply GlobalMaxPooling3D layer with a specified bias regularizer in a model.
 - Write a code to apply GlobalMaxPooling3D layer with a specified activity regularizer in a model.
 - Write a code to apply GlobalMaxPooling3D layer with a specified name in a model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

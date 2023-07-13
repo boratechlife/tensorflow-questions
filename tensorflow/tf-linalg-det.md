@@ -66,3 +66,17 @@ description: Practice questions for tf linalg det.
 - Write a code to calculate the determinant of a matrix and handle the case when the matrix is a scalar using "tf.linalg.det".
 - Write a code to calculate the determinant of a matrix and handle the case when the matrix is a vector using "tf.linalg.det".
 - Write a code to calculate the determinant of a matrix and handle the case when the matrix is a non-numeric type using "tf.linalg.det".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

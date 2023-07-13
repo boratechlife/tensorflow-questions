@@ -66,3 +66,17 @@ description: Practice questions for tf keras constraints min max norm.
 - Write a code to apply min_max_norm constraint on the gradients, weights, biases, kernel, and activation tensors of a specific layer with a custom constraint using Lambda.
 - Write a code to apply min_max_norm constraint on the gradients, weights, biases, kernel, and activation tensors of a specific layer with a custom constraint using subclassing.
 - Write a code to apply min_max_norm constraint on the gradients, weights, biases, kernel, and activation tensors of a specific layer with a custom constraint using a wrapper function.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

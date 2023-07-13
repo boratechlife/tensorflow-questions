@@ -66,3 +66,17 @@ description: Practice questions for tf experimental numpy bitwise and.
 - Write a code to perform a bitwise AND operation on two arrays of binary numbers represented as strings using tf.experimental.numpy.bitwise_and.
 - Write a code to calculate the bitwise AND of two integers using tf.experimental.numpy.bitwise_and and check if the result is a power of 2.
 - Write a code to find the bitwise AND of two binary numbers using tf.experimental.numpy.bitwise_and and check if the result is equal to any of the input numbers.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf losses msle.
 - Write a code to apply the mean squared logarithmic error loss to a self-supervised learning model using tf.losses.msle.
 - Write a code to calculate the mean squared logarithmic error between two probability distributions with limited precision using tf.losses.msle.
 - Write a code to use tf.losses.msle as the loss function in a TensorFlow model with gradient clipping.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

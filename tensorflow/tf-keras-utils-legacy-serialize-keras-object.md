@@ -66,3 +66,17 @@ description: Practice questions for tf keras utils legacy serialize keras object
 - Write a code to deserialize a serialized custom Keras object received over a network using tf.keras.utils.legacy.serialize_keras_object.
 - Write a code to serialize multiple Keras objects and send them over a network using tf.keras.utils.legacy.serialize_keras_object.
 - Write a code to deserialize multiple serialized Keras objects received over a network using tf.keras.utils.legacy.serialize_keras_object.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

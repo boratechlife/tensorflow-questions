@@ -66,3 +66,17 @@ description: Practice questions for tf image combined non max suppression.
 - How can you convert the selected bounding box indices to their corresponding bounding box areas using tf.image.combined_non_max_suppression?
 - Write a code to perform combined non-maximum suppression and get the selected bounding box areas for each bounding box.
 - How can you adjust the maximum number of output boxes based on the total number of selected bounding boxes using tf.image.combined_non_max_suppression?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

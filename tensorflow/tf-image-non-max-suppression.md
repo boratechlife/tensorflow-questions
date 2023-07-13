@@ -66,3 +66,17 @@ description: Practice questions for tf image non max suppression.
 - Write a code to perform non-maximum suppression on a set of bounding boxes and return the indices of the selected boxes with their associated class labels, probabilities, bounding box annotations, confidence score thresholds, IOU thresholds, different suppression strategies, custom anchor boxes, class-specific minimum confidence scores, and maximum number of selected boxes per class.
 - Write a code to apply non-maximum suppression on a set of bounding boxes and obtain the filtered bounding boxes along with their scores, class labels, probabilities, bounding box annotations, confidence score thresholds, IOU thresholds, different suppression strategies, custom anchor boxes, class-specific minimum confidence scores, maximum number of selected boxes per class, and minimum area requirements.
 - Write a code to perform non-maximum suppression on a set of bounding boxes and visualize the results with class-specific colors, bounding box annotations, confidence score thresholds, IOU thresholds, different suppression strategies, custom anchor boxes, class-specific minimum confidence scores, maximum number of selected boxes per class, and minimum area requirements.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

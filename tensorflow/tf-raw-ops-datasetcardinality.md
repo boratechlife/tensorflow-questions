@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops datasetcardinality.
 - Write a code to count the number of distinct categories in a categorical dataset using tf.raw_ops.DatasetCardinality.
 - Write a code to find the maximum number of windows that can be formed from a TensorFlow dataset using tf.raw_ops.DatasetCardinality.
 - Write a code to determine the cardinality of a TensorFlow dataset after applying a transformation that aggregates elements using tf.raw_ops.DatasetCardinality.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

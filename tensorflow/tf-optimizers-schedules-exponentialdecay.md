@@ -66,3 +66,17 @@ description: Practice questions for tf optimizers schedules exponentialdecay.
 - Write a code to print the learning rate schedule for the first 10 steps using an ExponentialDecay schedule with a learning rate of 0.001, a decay rate of 0.98, and a decay step of 2000, and plot the learning rate over 500 steps.
 - Write a code to calculate the learning rate at step 100 and step 200 using an ExponentialDecay schedule with a learning rate of 0.1, a decay rate of 0.9, and a decay step of 1000, and plot the learning rate over 500 steps.
 - Write a code to calculate the learning rate at step 500 and step 1000 using an ExponentialDecay schedule with a learning rate of 0.01, a decay rate of 0.95, and a decay step of 500, and plot the learning rate over 1000 steps.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

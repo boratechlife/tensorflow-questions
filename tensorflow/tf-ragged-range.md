@@ -66,3 +66,17 @@ description: Practice questions for tf ragged range.
 - Write a code to generate a ragged tensor with four rows, where each row contains the range of values from 0 to 3, multiplied by 2, squared, cubed, and then multiplied by 2.
 - Write a code to generate a ragged tensor with three rows, where each row contains the range of values from 2 to 8, incremented by 1, multiplied by 2, squared, and then cubed.
 - Write a code to generate a ragged tensor with two rows, where the first row contains the range of values from 3 to 6, incremented by 1, squared, cubed, squared, multiplied by 2, and the second row contains the range of values from 1 to 4, multiplied by 2, squared, cubed, and squared.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

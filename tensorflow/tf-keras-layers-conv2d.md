@@ -66,3 +66,17 @@ description: Practice questions for tf keras layers conv2d.
 - Write a code to add a Conv2D layer with 128 filters, a kernel size of (3, 3), and a padding of 'same' to a model, and set its data format to 'channels_last'.
 - Write a code to create a Conv2D layer and set its dilation rate as an integer.
 - Write a code to add a Conv2D layer with 32 filters, a kernel size of (3, 3), and a padding of 'valid' to a model, and set its dilation rate as an integer.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

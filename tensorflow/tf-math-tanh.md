@@ -66,3 +66,17 @@ description: Practice questions for tf math tanh.
 - Write a code to calculate the element-wise maximum along a specific axis of a tensor after applying the tf.math.tanh function.
 - Write a code to calculate the element-wise minimum along a specific axis of a tensor after applying the tf.math.tanh function.
 - Write a code to calculate the element-wise sorting of the hyperbolic tangent of a given tensor using tf.math.tanh.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

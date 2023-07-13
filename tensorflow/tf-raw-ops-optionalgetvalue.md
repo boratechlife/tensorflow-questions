@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops optionalgetvalue.
 - How can you handle the case when the Optional object is empty and provide a fallback operation that depends on the execution context using tf.raw_ops.OptionalGetValue?
 - Write a code to extract the value from a TensorFlow Optional object and apply a custom transformation on it using tf.raw_ops.OptionalGetValue.
 - How can you handle the case when the Optional object is empty and provide a fallback operation that involves fetching the value from a different source using tf.raw_ops.OptionalGetValue?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

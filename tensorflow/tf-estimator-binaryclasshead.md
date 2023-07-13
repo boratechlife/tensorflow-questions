@@ -66,3 +66,17 @@ description: Practice questions for tf estimator binaryclasshead.
 - Write a code to train a binary classification model using tf.estimator.Estimator and a specific tf.estimator.BinaryClassHead.
 - Write a code to evaluate a binary classification model using tf.estimator.Estimator and a specific tf.estimator.BinaryClassHead.
 - Write a code to make predictions with a binary classification model using tf.estimator.Estimator and a specific tf.estimator.BinaryClassHead.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

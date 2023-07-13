@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loadtpuembeddingftrlparameters.
 - How can you handle cases where the loaded TPU embedding FTRL parameters have different levels of precision or quantization?
 - Write a code to split the loaded TPU embedding FTRL parameters into training and validation sets.
 - How can you handle cases where the loaded TPU embedding FTRL parameters are stored in a non-standard or custom format?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

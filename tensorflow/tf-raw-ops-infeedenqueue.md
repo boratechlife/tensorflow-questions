@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops infeedenqueue.
 - How can you ensure that the enqueued tensors are dequeued in a FIFO fashion using tf.raw_ops.InfeedEnqueue?
 - Write a code to enqueue a tensor and retrieve the number of elements dequeued using tf.raw_ops.InfeedEnqueue.
 - How can you specify the container and shared name for the enqueued tensor as strings using tf.raw_ops.InfeedEnqueue?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops destroytemporaryvariable.
 - Write a code to create a temporary variable, assign a value to it, and destroy it using tf.raw_ops.DestroyTemporaryVariable within a TensorFlow tf.data.Dataset.prefetch pipeline.
 - Write a code to create a temporary variable and destroy it using tf.raw_ops.DestroyTemporaryVariable within a TensorFlow tf.debugging.assert_greater_equal context.
 - Write a code to create a temporary variable, assign a value to it, and destroy it using tf.raw_ops.DestroyTemporaryVariable within a TensorFlow tf.data.Dataset.batch pipeline.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

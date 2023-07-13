@@ -66,3 +66,17 @@ description: Practice questions for tf debugging enable check numerics.
 - Write a code to disable check numerics for all TensorFlow operations in a session run options and print a warning message if an error occurs.
 - Write a code to enable check numerics for a specific TensorFlow operation using a context manager and print a warning message if an error occurs.
 - Write a code to disable check numerics for a specific TensorFlow operation using a context manager and print a warning message if an error occurs.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

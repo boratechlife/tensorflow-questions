@@ -66,3 +66,17 @@ description: Practice questions for tf math igamma.
 - Write a code to calculate the regularized upper incomplete gamma function with multiple values using tf.math.igamma and a specific name.
 - Write a code to calculate the lower incomplete gamma function using tf.math.igamma and additional parameters.
 - Write a code to calculate the upper incomplete gamma function using tf.math.igamma and additional parameters.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

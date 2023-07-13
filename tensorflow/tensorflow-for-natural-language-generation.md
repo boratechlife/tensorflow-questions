@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Describe the process of sentiment analysis and sentiment-aware text generation using TensorFlow for NLG.
 - What are some methods to handle noise and ensure the robustness of text generation using TensorFlow?
 - How can you generate text that conforms to specific grammatical rules or structures using TensorFlow for NLG?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

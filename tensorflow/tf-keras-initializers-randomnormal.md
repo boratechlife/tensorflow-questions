@@ -66,3 +66,17 @@ description: Practice questions for tf keras initializers randomnormal.
 - Write a code to initialize a tensor with random normal values and set the mean and standard deviation to -5 and 1, respectively.
 - Write a code to initialize a tensor with random normal values and set the mean and standard deviation to 0 and 0.5, respectively.
 - Write a code to initialize a tensor with random normal values and set the mean and standard deviation to 1 and 2, respectively.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras experimental sidecarevaluator.
 - Write a code to set the evaluation start delay weeks for SidecarEvaluator.
 - Write a code to configure the SidecarEvaluator to use a specific number of instances per replica.
 - Write a code to set the evaluation timeout months for SidecarEvaluator.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

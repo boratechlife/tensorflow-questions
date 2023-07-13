@@ -66,3 +66,17 @@ description: Practice questions for tf image random hue.
 - How can you apply random hue adjustment to an image and control the trade-off between hue and brightness changes using tf.image.random_hue?
 - Write a code to apply random hue adjustment to an image and evaluate its effect on image quality metrics like SSIM and PSNR using tf.image.random_hue.
 - How can you apply random hue adjustment to an image and generate a color distribution heatmap to visualize the changes using tf.image.random_hue?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

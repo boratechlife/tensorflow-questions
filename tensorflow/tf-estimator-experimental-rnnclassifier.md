@@ -66,3 +66,17 @@ description: Practice questions for tf estimator experimental rnnclassifier.
 - Write a code to get the logits of a trained tf.estimator.experimental.RNNClassifier.
 - Write a code to get the weights of a trained tf.estimator.experimental.RNNClassifier.
 - Write a code to get the biases of a trained tf.estimator.experimental.RNNClassifier.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf keras constraints minmaxnorm.
 - Write a code to apply MinMaxNorm constraint to a specific axis, axis indices, rate, clip value, minimum value, maximum value, center value, scale value, epsilon, num_samples, and seed of a layer in a Keras model.
 - Write a code to create a MinMaxNorm constraint with a given rate, axis, axis indices, clip value, minimum value, maximum value, center value, scale value, epsilon, num_samples, seed, and adjustment.
 - Write a code to apply MinMaxNorm constraint to a specific axis, axis indices, rate, clip value, minimum value, maximum value, center value, scale value, epsilon, num_samples, seed, and adjustment of a layer in a Keras model.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf math cumprod.
 - Write a code to calculate the cumulative product of a tensor and calculate the element-wise power of the resulting tensor using tf.math.cumprod.
 - Write a code to calculate the cumulative product of a tensor and calculate the element-wise absolute difference with another tensor using tf.math.cumprod.
 - Write a code to calculate the cumulative product of a tensor and calculate the element-wise mean of the resulting tensor along a specific axis using tf.math.cumprod.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

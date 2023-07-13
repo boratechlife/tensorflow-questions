@@ -66,3 +66,17 @@ description: Practice questions for tf keras experimental.
 - Write a code to implement a collaborative filtering model using tf.keras.experimental.
 - Write a code to implement a time series forecasting model using tf.keras.experimental.
 - Write a code to implement a sequence generation model using tf.keras.experimental.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

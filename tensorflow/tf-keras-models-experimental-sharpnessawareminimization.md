@@ -66,3 +66,17 @@ description: Practice questions for tf keras models experimental sharpnessawarem
 - How do you handle imbalanced datasets in a SharpnessAwareMinimization model?
 - Write a code to plot the training and validation loss curves of a SharpnessAwareMinimization model.
 - How do you fine-tune a pre-trained SharpnessAwareMinimization model on a new dataset?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

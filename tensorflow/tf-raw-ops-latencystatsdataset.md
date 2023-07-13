@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops latencystatsdataset.
 - Write a code to calculate the lagged cross-correlation between two LatencyStatsDatasets.
 - Write a code to calculate the lagged cross-covariance between two LatencyStatsDatasets.
 - Write a code to generate a random LatencyStatsDataset with a given number of latency values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

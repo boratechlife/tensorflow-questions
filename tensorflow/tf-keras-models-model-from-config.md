@@ -66,3 +66,17 @@ description: Practice questions for tf keras models model from config.
 - Write a code to load a Keras model's architecture from a JSON file and change the model's weights using model_from_config.
 - Write a code to load a Keras model's architecture from a YAML file and change the model's weights using model_from_config.
 - Write a code to load a Keras model's architecture from a HDF5 file and change the model's weights using model_from_config.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

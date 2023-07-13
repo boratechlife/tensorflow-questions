@@ -115,3 +115,17 @@ description: Practice questions for tf keras metrics kldivergence.
 - Write a code to calculate the Kullback-Leibler divergence between two probability distributions and apply a non-linear activation function to the result using tf.keras.metrics.KLDivergence.
 - 
 - Write a code to calculate the Kullback-Leibler divergence between two probability distributions and compute the element-wise maximum of the inputs using tf.keras.metrics.KLDivergence.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

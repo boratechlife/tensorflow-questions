@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - How can TensorFlow be used for building models that can understand and respond to voice commands in natural language?
 - Describe the process of building a text generation model using GPT (Generative Pre-trained Transformer) in TensorFlow.
 - What are the techniques involved in building models for machine translation using sequence-to-sequence models in TensorFlow?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

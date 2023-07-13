@@ -66,3 +66,17 @@ description: Practice questions for tf keras datasets cifar100.
 - Write a code to implement a variational autoencoder (VAE) model for CIFAR-100 dataset compression and reconstruction.
 - Write a code to train a VAE model on the CIFAR-100 dataset for a specified number of epochs.
 - Write a code to evaluate the trained VAE model on the CIFAR-100 dataset.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

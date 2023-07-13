@@ -66,3 +66,17 @@ description: Practice questions for tf foldr.
 - Write a code to calculate the average of each column in a matrix using tf.foldr.
 - Write a code to calculate the sum of each row in a matrix using tf.foldr.
 - Write a code to find the eigenvalues of a square matrix using tf.foldr.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops elugrad.
 - Write a code to apply the ELU activation function to a batch of tensors and compute the gradient using tf.raw_ops.EluGrad with a specific alpha value and threshold for multiple axes and a specific output shape and a specific numeric type.
 - Write a code to compute the gradient of the ELU activation function for a specific tensor using tf.raw_ops.EluGrad and apply it to a batch of tensors for multiple axes and a specific output shape and a specific numeric type.
 - Write a code to compute the gradient of the ELU activation function for a batch of tensors using tf.raw_ops.EluGrad with a specific alpha value and threshold for multiple axes and a specific output shape and a specific numeric type.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

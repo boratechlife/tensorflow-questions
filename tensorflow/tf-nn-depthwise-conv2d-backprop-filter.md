@@ -66,3 +66,17 @@ description: Practice questions for tf nn depthwise conv2d backprop filter.
 - Write a code to compute the gradient of the depthwise convolution filter with a specific padding size, output padding size, and stride value using TensorFlow.
 - Write a code to perform depthwise convolution filter backpropagation with a specific dilation rate, stride value, and padding type.
 - Write a code to calculate the filter gradients for depthwise convolution using TensorFlow's tf.GradientTape and tf.keras.regularizers functions.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

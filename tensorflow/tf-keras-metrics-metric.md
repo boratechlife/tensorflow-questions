@@ -66,3 +66,17 @@ description: Practice questions for tf keras metrics metric.
 - Write a code to compute the F1 score metric using tf.keras.metrics.F1Score.
 - Write a code to compute the average precision metric using tf.keras.metrics.AUC(curve="PR").
 - Write a code to compute the average recall metric using tf.keras.metrics.AUC(curve="PR", recall_thresholds=True).
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

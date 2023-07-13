@@ -115,3 +115,17 @@ description: Practice questions for tf raw ops decodeandcropjpeg.
 - Write a code to apply a morphological skeletonization to a cropped JPEG image using tf.raw_ops.DecodeAndCropJpeg.
 - 
 - How can you perform image restoration on a cropped JPEG image using tf.raw_ops.DecodeAndCropJpeg?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

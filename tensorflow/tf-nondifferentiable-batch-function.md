@@ -66,3 +66,17 @@ description: Practice questions for tf nondifferentiable batch function.
 - Write a code to define a nondifferentiable batch function that computes the element-wise less than comparison of two tensors.
 - Write a code to apply a predefined nondifferentiable batch function to a TensorFlow constant, a variable, a placeholder, and a tensor.
 - Write a code to define a nondifferentiable batch function that computes the element-wise logical AND of two tensors.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

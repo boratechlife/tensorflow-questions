@@ -66,3 +66,17 @@ description: Practice questions for tf io gfile mkdir.
 - Write a code to create a directory and set it as the temp directory for storing temporary files using "tf.io.gfile.mkdir".
 - Write a code to create a directory and set it as the download directory for storing downloaded files using "tf.io.gfile.mkdir".
 - Write a code to create a directory and set it as the upload directory for storing uploaded files using "tf.io.gfile.mkdir".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

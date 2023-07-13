@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops imageprojectivetransformv2.
 - Implement a code to calculate the mean intensity of an image tensor using tf.raw_ops.ImageProjectiveTransformV2.
 - Write a code to apply a bilateral filter to an image tensor using tf.raw_ops.ImageProjectiveTransformV2.
 - How can you perform a perspective warping on an image tensor using tf.raw_ops.ImageProjectiveTransformV2?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops oneslike.
 - Write a code to create a TensorFlow operation that applies "tf.raw_ops.OnesLike" on a tensor variable and returns a tensor of ones with the same shape and dtype as the variable.
 - Write a code to create a TensorFlow operation that takes a tensor as input and returns a tensor of ones with the same shape as the input tensor, using "tf.raw_ops.OnesLike".
 - Write a code to create a TensorFlow operation that generates a tensor of ones with the same shape as a constant tensor, using "tf.raw_ops.OnesLike".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

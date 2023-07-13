@@ -66,3 +66,17 @@ description: Practice questions for tf debugging get log device placement.
 - Write a code to disable device placement logging in TensorFlow for a specific session and graph and write to a custom log file and console.
 - Write a code to get the device placement for a specific TensorFlow operation in a specific session and graph and write to a custom log file and console.
 - Write a code to check if a specific TensorFlow operation is being placed on a specific device in a specific session and graph and write to a custom log file and console.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

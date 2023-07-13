@@ -66,3 +66,17 @@ description: Practice questions for tf io fixedlenfeature.
 - Write a code to create a FixedLenFeature with a custom shape for a string list value.
 - Write a code to create a FixedLenFeature with a custom shape for a boolean list value.
 - Write a code to create a FixedLenFeature with a custom shape for a byte string list value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

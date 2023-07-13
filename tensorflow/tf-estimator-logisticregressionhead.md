@@ -66,3 +66,17 @@ description: Practice questions for tf estimator logisticregressionhead.
 - Write a code to set the enable_default_weighted_logits parameter for a logistic regression head.
 - Write a code to create a logistic regression head with a specific config parameter.
 - Write a code to configure the weight_optimizer parameter for a logistic regression head.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

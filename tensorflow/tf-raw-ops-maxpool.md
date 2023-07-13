@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops maxpool.
 - Write a code to apply a max pooling operation with a custom pooling dimensions to a given input tensor using "tf.raw_ops.MaxPool".
 - Write a code to perform a max pooling operation on a tensor with dynamic pooling types using "tf.raw_ops.MaxPool".
 - Write a code to apply a max pooling operation with a custom data alignment to a given input tensor using "tf.raw_ops.MaxPool".
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

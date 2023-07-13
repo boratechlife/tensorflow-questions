@@ -60,3 +60,17 @@ thumbnailSource: "stef"
 - Write a code to calculate the polygamma function of order 1 for a range of inputs using tf.raw_ops.Polygamma.
 - Write a code to compute the derivative of the polygamma function of order 4 for a list of inputs using tf.raw_ops.Polygamma.
 - Write a code to calculate the polygamma function of order 2 for a given input using tf.raw_ops.Polygamma.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

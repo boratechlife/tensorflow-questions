@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops loadtpuembeddingmomentumparameter
 - How do you handle the case when the loaded TPUEmbedding momentum parameters have a different momentum type compared to the current model?
 - Write a code to load TPUEmbedding momentum parameters while using a custom optimizer with specific optimization settings.
 - Can you explain the purpose of the use_resource argument in tf.raw_ops.LoadTPUEmbeddingMomentumParameters?
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

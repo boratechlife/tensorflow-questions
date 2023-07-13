@@ -66,3 +66,17 @@ description: Practice questions for tf linalg linearoperatorfullmatrix.
 - Write a code to compute the matrix element-wise greater than comparison with another matrix of the same shape.
 - Write a code to compute the matrix element-wise element-wise negation of a LinearOperatorFullMatrix instance.
 - Write a code to compute the matrix element-wise rounding to the nearest integer value of a LinearOperatorFullMatrix instance.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

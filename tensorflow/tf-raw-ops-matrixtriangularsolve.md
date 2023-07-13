@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops matrixtriangularsolve.
 - Can you demonstrate how to use tf.raw_ops.MatrixTriangularSolve for solving an upper triangular matrix equation with multiple right-hand sides, transposed matrices, and a diagonal matrix? Please provide a code snippet.
 - Implement a code that solves a lower triangular matrix equation with batch dimensions, transposed matrices, and a diagonal matrix using tf.raw_ops.MatrixTriangularSolve.
 - How can you solve an upper triangular matrix equation with batch dimensions, transposed matrices, and a diagonal matrix using tf.raw_ops.MatrixTriangularSolve? Provide a code example.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

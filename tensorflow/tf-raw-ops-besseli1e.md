@@ -66,3 +66,17 @@ description: Practice questions for tf raw ops besseli1e.
 - Write a code to calculate the factorial of tf.raw_ops.BesselI1e using recursion.
 - Write a code to calculate the sum of the digits of tf.raw_ops.BesselI1e for a given input value.
 - Write a code to calculate the average deviation of tf.raw_ops.BesselI1e for a list of input values.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>

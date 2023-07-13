@@ -66,3 +66,17 @@ description: Practice questions for tf compat dimension value.
 - Write a code to calculate the entropy of dimension values in a tensor using tf.compat.dimension_value.
 - Write a code to calculate the autocorrelation of dimension values in a tensor using tf.compat.dimension_value.
 - Write a code to calculate the cross-correlation of dimension values in two tensors using tf.compat.dimension_value.
+<script>
+
+const recaptchaScript = document.createElement('script');
+recaptchaScript.setAttribute('src', 'https://storage.ko-fi.com/cdn/scripts/overlay-widget.js');
+document.head.appendChild(recaptchaScript);
+
+kofiWidgetOverlay.draw('boratechlife', {
+  'type': 'floating-chat',
+  'floating-chat.donateButton.text': 'TIP ME',
+  'floating-chat.donateButton.background-color': '#5cb85c',
+  'floating-chat.donateButton.text-color': '#fff'
+});
+
+</script>
